@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 1er août 2001
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20010801)
+- Date de consolidation : 3 août 2001
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20010803)
 
 
 # Partie législative
@@ -11461,14 +11461,14 @@ Ce dossier comprend notamment :
 3. La copie de tout document émanant d'un magistrat relatif à l'exercice des activités judiciaires de l'intéressé ;
 4. Les notations annuelles établies en application des dispositions ci-après.
 
-Le dossier est communiqué à la chambre d'accusation lorsque celle-ci se trouve saisie dans les conditions fixées à l'article 225.
+Le dossier est communiqué à la chambre de l'instruction lorsque celle-ci se trouve saisie dans les conditions fixées à l'article 225.
 
 
 ###### Article R15-33-15
 
 Le procureur de la République près le tribunal de grande instance de Paris, après avoir recueilli, le cas échéant, les observations des juges d'instruction et des présidents des chambres correctionnelles, établit une proposition de notation qu'il transmet chaque année au procureur général près la cour d'appel de Paris.
 
-Celui-ci établit la notation après avoir recueilli, le cas échéant, les observations des présidents de la chambre d'accusation de Paris et des autres procureurs généraux concernés.
+Celui-ci établit la notation après avoir recueilli, le cas échéant, les observations des présidents de la chambre de l'instruction de Paris et des autres procureurs généraux concernés.
 
 
 ###### Article R15-33-16
@@ -11804,7 +11804,7 @@ Lorsqu'il ne procède pas lui-même ou ne fait pas procéder par un officier de 
 
 ##### Article R15-35
 
-La personne physique ou morale, selon qu'elle désire être habilitée à procéder à des enquêtes de personnalité dans le ressort du tribunal de grande instance ou dans celui de la cour d'appel, en fait la demande au moyen des juges d'instruction ou au président de la chambre d'accusation.
+La personne physique ou morale, selon qu'elle désire être habilitée à procéder à des enquêtes de personnalité dans le ressort du tribunal de grande instance ou dans celui de la cour d'appel, en fait la demande au moyen des juges d'instruction ou au président de la chambre de l'instruction.
 
 
 
@@ -11831,7 +11831,7 @@ La demande présentée par une association comporte notamment :
 
 ##### Article R15-36
 
-Après avoir procédé à toute les diligences qu'il juge utiles, le doyen des juges d'instruction ou le président de la chambre d'accusation communique la demande au président du tribunal ou au premier président.
+Après avoir procédé à toute les diligences qu'il juge utiles, le doyen des juges d'instruction ou le président de la chambre de l'instruction communique la demande au président du tribunal ou au premier président.
 
 
 ##### Article R15-37
@@ -11845,7 +11845,7 @@ La commission restreinte de l'assemblée générale des magistrats du siège et 
 
 ##### Article R15-38
 
-En cas d'urgence, une habilitation provisoire, valable jusqu'à la décision de la prochaine assemblée générale ou commission restreinte, peut être prise par le doyen des juges d'instruction, sur proposition ou après avis conforme du procureur de la République, ou par le président de la chambre d'accusation, sur proposition ou après avis conforme du procureur général.
+En cas d'urgence, une habilitation provisoire, valable jusqu'à la décision de la prochaine assemblée générale ou commission restreinte, peut être prise par le doyen des juges d'instruction, sur proposition ou après avis conforme du procureur de la République, ou par le président de la chambre de l'instruction, sur proposition ou après avis conforme du procureur général.
 
 
 ##### Article R15-39
@@ -11859,7 +11859,7 @@ L'habilitation peut être retirée selon la procédure prévue par les articles 
 
 Le procureur de la République ou le procureur général peut, aux fins de retrait d'habilitation, saisir, selon le cas, l'assemblée générale des magistrats du siège et du parquet du tribunal, celle de la cour d'appel ou la commission restreinte compétente.
 
-En cas d'urgence, le doyen des juges d'instruction, sur proposition ou avis conforme du procureur de la République, ou le président de la chambre d'accusation, sur proposition ou avis conforme du procureur général, peut retirer provisoirement l'habilitation jusqu'à la décision de la prochaine assemblée générale ou commission restreinte.
+En cas d'urgence, le doyen des juges d'instruction, sur proposition ou avis conforme du procureur de la République, ou le président de la chambre de l'instruction, sur proposition ou avis conforme du procureur général, peut retirer provisoirement l'habilitation jusqu'à la décision de la prochaine assemblée générale ou commission restreinte.
 
 
 ##### Section 2 : De la consignation de partie civile
@@ -12031,22 +12031,22 @@ La Caisse des dépôts et consignations distribue sans délai, aux ayants droit,
 Toute contestation relative à l'application du présent article est jugée sur requête, en chambre du conseil, comme incident de l'exécution du jugement ou de l'arrêt.
 
 
-###### Sous-section 3 : De l'indemnisation à raison d'une détention provisoire
+###### Sous-section 3 : De la réparation à raison d'une détention provisoire
 
-####### Paragraphe 1er : De l'indemnisation demandée devant le premier président de la cour d'appel
+####### Paragraphe 1er : De la réparation demandée devant le premier président de la cour d'appel
 
 ####### Article R26
 
 Le premier président de la cour d'appel dans le ressort de laquelle a été prononcée la décision de non-lieu, de relaxe ou d'acquittement est saisi par une requête signée du demandeur ou d'un des mandataires mentionnés au premier alinéa de l'article R. 27 et remise contre récépissé ou adressée par lettre recommandée avec demande d'avis de réception au greffe de la cour d'appel.
 
-La requête contient l'exposé des faits, le montant de l'indemnité demandée et toutes indications utiles, notamment en ce qui concerne :
+La requête contient l'exposé des faits, le montant de la réparation demandée et toutes indications utiles, notamment en ce qui concerne :
 1. La date et la nature de la décision qui a ordonné la détention provisoire ainsi que l'établissement pénitentiaire où cette détention a été subie ;
 2. La juridiction qui a prononcé la décision de non-lieu, de relaxe ou d'acquittement ainsi que la date de cette décision ;
 3. L'adresse où doivent être faites les notifications au demandeur.
 
 La requête est accompagnée de toutes pièces justificatives, notamment de la copie de la décision de non-lieu, de relaxe ou d'acquittement.
 
-Le délai de six mois prévu à l'article 149-2 ne court à compter de la décision de non-lieu, de relaxe ou d'acquittement devenue définitive que si, lors de la notification de cette décision, la personne a été avisée de son droit de demander une indemnisation ainsi que des dispositions de l'article 149-1.
+Le délai de six mois prévu à l'article 149-2 ne court à compter de la décision de non-lieu, de relaxe ou d'acquittement devenue définitive que si, lors de la notification de cette décision, la personne a été avisée de son droit de demander une réparation ainsi que des dispositions de l'article 149-1, 149-2 et 149-3 (premier alinéa).
 
 
 ####### Article R27
@@ -12128,9 +12128,11 @@ Les parties peuvent alors répliquer, le demandeur ou son avocat ayant la parole
 
 La décision du premier président de la cour d'appel est rendue en audience publique.
 
-Cette décision est notifiée au demandeur et à l'agent judiciaire du Trésor soit par remise d'une copie contre récépissé, soit par lettre recommandée avec demande d'avis de réception. La notification indique que la décision peut faire l'objet d'un recours devant la Commission nationale d'indemnisation des détentions provisoires dans un délai de dix jours.
+Cette décision est notifiée au demandeur et à l'agent judiciaire du Trésor soit par remise d'une copie contre récépissé, soit par lettre recommandée avec demande d'avis de réception. La notification indique que la décision peut faire l'objet d'un recours devant la Commission nationale de réparation des détentions dans un délai de dix jours.
 
 Une copie de la décision est remise au procureur général.
+
+Une copie de la décision est en outre adressée, au ministère de la justice, à la commission de suivi de la détention provisoire.
 
 
 ####### Article R39
@@ -12140,12 +12142,12 @@ Le premier président de la cour d'appel peut à tout moment de la procédure ac
 
 ####### Article R40
 
-Les décisions du premier président de la cour d'appel accordant une indemnité sont assorties de plein droit de l'exécution provisoire.
+Les décisions du premier président de la cour d'appel accordant une réparation sont assorties de plein droit de l'exécution provisoire.
 
 
 ####### Article R40-1
 
-Par dérogation aux dispositions de l'article R. 233, le paiement au demandeur de l'indemnité ou de la provision est effectué par les comptables directs du Trésor.
+Par dérogation aux dispositions de l'article R. 233, le paiement au demandeur de la réparation ou de la provision est effectué par les comptables directs du Trésor.
 
 
 ####### Article R40-2
@@ -12160,13 +12162,13 @@ La décision du premier président comporte exécution forcée pour le paiement 
 Lorsque le recours prévu au premier alinéa de l'article 149-3 n'est pas exercé, le dossier de la procédure pénale est renvoyé, avec une copie de la décision, à la juridiction qui a rendu la décision de non-lieu, de relaxe ou d'acquittement.
 
 
-####### Paragraphe 2 : Du recours devant la Commission nationale d'indemnisation des détentions provisoires
+####### Paragraphe 2 : Du recours devant la Commission nationale de réparation des détentions
 
 ######## A : De l'exercice du recours
 
 ######## Article R40-4
 
-Les décisions du premier président de la cour d'appel peuvent faire l'objet d'un recours devant la Commission nationale d'indemnisation des détentions provisoires de la part :
+Les décisions du premier président de la cour d'appel peuvent faire l'objet d'un recours devant la Commission nationale de réparation des détentions de la part :
 1. Du demandeur ;
 2. De l'agent judiciaire du Trésor ;
 3. Du procureur général près la cour d'appel.
@@ -12185,7 +12187,7 @@ Les dispositions du second alinéa de l'article R. 27 sont applicables.
 
 ######## Article R40-6
 
-Le dossier de la procédure d'indemnisation, assorti de la déclaration de recours et du dossier de la procédure pénale, est transmis sans délai par le greffe de la cour d'appel au secrétariat de la commission nationale.
+Le dossier de la procédure de réparation, assorti de la déclaration de recours et du dossier de la procédure pénale, est transmis sans délai par le greffe de la cour d'appel au secrétariat de la commission nationale.
 
 Les fonctions de secrétaire et de greffier de la commission sont remplies par un greffier de la Cour de cassation.
 
@@ -12195,7 +12197,7 @@ Les fonctions de secrétaire et de greffier de la commission sont remplies par u
 Si cela n'a pas déjà été demandé lors de la procédure devant le premier président de la cour d'appel, le demandeur et l'agent judiciaire du Trésor peuvent se faire délivrer sans frais copie des pièces de la procédure pénale. Seuls leurs avocats peuvent prendre communication du dossier au secrétariat de la commission.
 
 
-######## B : De la procédure suivie devant la Commission nationale d'indemnisation des détentions provisoires
+######## B : De la procédure suivie devant la Commission nationale de réparation des détentions
 
 ######### a : Des communications et notifications applicables lorsque l'auteur du recours est le demandeur ou l'agent judiciaire du Trésor.
 
@@ -12288,10 +12290,12 @@ Cette décision est notifiée au demandeur et à l'agent judiciaire du Trésor s
 
 Une copie de la décision est remise au procureur général près la Cour de cassation.
 
+Une copie de la décision est en outre adressée, au ministère de la justice, à la commission de suivi de la détention provisoire.
+
 
 ######### Article R40-20
 
-Si la commission accorde une provision ou une indemnité d'un montant supérieur à celui fixé par la décision du premier président de la cour d'appel, son paiement au demandeur est, par dérogation aux dispositions de l'article R. 233, effectué par le comptable direct du Trésor de Paris.
+Si la commission accorde une provision ou une réparation d'un montant supérieur à celui fixé par la décision du premier président de la cour d'appel, son paiement au demandeur est, par dérogation aux dispositions de l'article R. 233, effectué par le comptable direct du Trésor de Paris.
 
 
 ######### Article R40-21
@@ -12972,7 +12976,7 @@ Lorsque, dans le ressort de la cour d'appel, il n'est pas possible de désigner 
 
 ##### Article R53-7
 
-La désignation d'un administrateur ad hoc en application des dispositions de l'article 706-50 est notifiée aux représentants légaux du mineur et peut être contestée par ces derniers par la voie de l'appel dans un délai de dix jours à compter de la notification. Cet appel n'est pas suspensif. Il est porté devant la chambre d'accusation ou la chambre des appels correctionnels.
+La désignation d'un administrateur ad hoc en application des dispositions de l'article 706-50 est notifiée aux représentants légaux du mineur et peut être contestée par ces derniers par la voie de l'appel dans un délai de dix jours à compter de la notification. Cet appel n'est pas suspensif. Il est porté devant la chambre de l'instruction ou la chambre des appels correctionnels.
 
 
 ##### Article R53-8
@@ -13782,7 +13786,7 @@ Lorsque le montant prévu de ses frais et honoraires dépasse 3 000 F, l'expert 
 
 Sauf urgence, cette estimation est communiquée au ministère public qui présente ses observations dans le délai de cinq jours, après avoir fait procéder si nécessaire à des vérifications de toute nature sur les éléments de l'estimation présentée par l'expert.
 
-S'il n'est pas tenu compte de ses observations, le ministère public peut saisir, par l'intermédiaire du procureur général, le président de la chambre d'accusation, qui statue dans les huit jours par une décision qui ne peut faire l'objet de recours.
+S'il n'est pas tenu compte de ses observations, le ministère public peut saisir, par l'intermédiaire du procureur général, le président de la chambre de l'instruction, qui statue dans les huit jours par une décision qui ne peut faire l'objet de recours.
 
 
 ####### Article R109
@@ -13842,7 +13846,7 @@ D la durée horaire de comparution, celle-ci ne pouvant excéder huit heures par
 
 ####### Article R113
 
-Lorsque les experts justifient qu'ils se sont trouvés, par suite de circonstances indépendantes de leur volonté, dans l'impossibilité de remplir leur mission, les magistrats commettants peuvent, par décision motivée soumise à l'agrément du président de la chambre d'accusation, leur allouer une indemnité, outre leurs frais de transport, de séjour et autres débours s'il y a lieu.
+Lorsque les experts justifient qu'ils se sont trouvés, par suite de circonstances indépendantes de leur volonté, dans l'impossibilité de remplir leur mission, les magistrats commettants peuvent, par décision motivée soumise à l'agrément du président de la chambre de l'instruction, leur allouer une indemnité, outre leurs frais de transport, de séjour et autres débours s'il y a lieu.
 
 
 ####### Article R114
@@ -14476,7 +14480,7 @@ Ces frais sont à la charge des intéressés et ne sont pas imputables sur les c
 
 Il est alloué aux magistrats et aux personnels exerçant les fonctions de greffier des indemnités pour frais de voyage et de séjour nécessités :
 1. Par les transports effectués en matière criminelle, correctionnelle ou de police, dans les cas prévus par le Code de procédure pénale ou par des lois spéciales ;
-2. Par les transports du président de la chambre d'accusation à l'effet de s'assurer du bon fonctionnement des cabinets d'instruction du ressort de la cour d'appel, conformément aux dispositions de l'article 220 ;
+2. Par les transports du président de la chambre de l'instruction à l'effet de s'assurer du bon fonctionnement des cabinets d'instruction du ressort de la cour d'appel, conformément aux dispositions de l'article 220 ;
 3. (dispositions abrogées)
 4. Par les transports des magistrats du ressort de la cour d'appel qui siègent comme présidents ou assesseurs dans une cour d'assises tenue hors du chef-lieu du ressort, et du procureur général ou de ses substituts qui vont y porter la parole, sans qu'il y ait lieu de distinguer entre les sessions ordinaires et extraordinaires, ainsi que du procureur de la République lorsqu'il occupe le siège du ministère public devant les tribunaux d'instance de son ressort, en application de l'article 45 du présent code ou de l'article 4 de l'ordonnance n° 58-1273 du 22 décembre 1958 ;
 5. Par les transports des commissaires de police, ou des officiers de police désignés par le procureur général, conformément aux articles 46 et 48, pour occuper le siège du ministère public près le tribunal de police d'une autre ville que celle où ils exercent leurs fonctions ;
@@ -14500,7 +14504,7 @@ Pour chaque remise ou mise en oeuvre, à la demande des autorités judiciaires d
 ##### Article R210
 
 Les seules impressions qui doivent être payées à titre de frais de justice sont :
-1. Celle des publications ou insertions de communiqué, relatives à des décisions de non-lieu, qui sont ordonnées par le juge d'instruction ou la chambre d'accusation en application des articles 177-1 et 212-1 ;
+1. Celle des publications ou insertions de communiqué, relatives à des décisions de non-lieu, qui sont ordonnées par le juge d'instruction ou la chambre de l'instruction en application des articles 177-1 et 212-1 ;
 2. Celles des signalements individuels de personnes arrêtées dans les cas exceptionnels où l'envoi de ces signalements aurait été reconnu indispensable ;
 3. Celle de l'arrêt ou du jugement de révision d'où résulte l'innocence d'un condamné et dont l'affichage est prescrit par l'article 626, alinéas 9 et 10.
 
@@ -14605,7 +14609,7 @@ Ces frais ne sont point imputés sur les fonds généraux des frais de justice c
 
 Les frais d'enquêtes sociales ordonnées en matière d'exercice de l'autorité parentale sont recouvrés par le Trésor selon les procédures et sous les garanties prévues en matière d'amende pénale.
 
-La partie condamnée aux dépens peut former un recours contre la disposition de la décision relative à la liquidation de ces frais. A défaut d'appel sur le fond, le recours, motivé, est formé au greffe de la juridiction dont émane la décision, dans le mois de la notification de cette décision. Il est porté devant la chambre d'accusation.
+La partie condamnée aux dépens peut former un recours contre la disposition de la décision relative à la liquidation de ces frais. A défaut d'appel sur le fond, le recours, motivé, est formé au greffe de la juridiction dont émane la décision, dans le mois de la notification de cette décision. Il est porté devant la chambre de l'instruction.
 
 En l'absence de condamnation aux dépens, les frais d'enquête sociale sont recouvrés contre la partie désignée par le juge qui a ordonné l'enquête.
 
@@ -14696,12 +14700,12 @@ Lorsque la taxe diffère des réquisitions du ministère public, l'ordonnance de
 
 ###### Article R228-1
 
-L'ordonnance de taxe peut être frappée par la partie prenante ou le ministère public d'un recours devant la chambre d'accusation quelle que soit la juridiction à laquelle appartient le magistrat taxateur. Le délai de recours est de dix jours à compter de la notification. Le délai de recours et l'exercice du recours dans le délai sont suspensifs d'exécution.
+L'ordonnance de taxe peut être frappée par la partie prenante ou le ministère public d'un recours devant la chambre de l'instruction quelle que soit la juridiction à laquelle appartient le magistrat taxateur. Le délai de recours est de dix jours à compter de la notification. Le délai de recours et l'exercice du recours dans le délai sont suspensifs d'exécution.
 
 
 ###### Article R229
 
-Un recours contre l'ordonnance de taxe peut être formé devant la chambre d'accusation par le ministère public, à la demande du comptable assignataire, dans un délai d'un mois à compter du versement de la pièce de dépense par le régisseur entre les mains de ce comptable.
+Un recours contre l'ordonnance de taxe peut être formé devant la chambre de l'instruction par le ministère public, à la demande du comptable assignataire, dans un délai d'un mois à compter du versement de la pièce de dépense par le régisseur entre les mains de ce comptable.
 
 En matière d'aide juridictionnelle, le délai d'un mois court à compter de la transmission qui est faite par le greffe au comptable assignataire de l'ordonnance de taxe.
 
@@ -14712,9 +14716,15 @@ Le refus motivé du ministère public d'exercer le recours est porté à la conn
 
 Les recours mentionnés aux articles précédents sont formés par déclaration au greffe du magistrat taxateur ou par lettre recommandée avec demande d'accusé de réception adressée à ce greffe.
 
+
+
 La partie prenante est informée du recours du procureur de la République par lettre recommandée, adressée par le greffe.
 
-La décision de la chambre d'accusation est adressée pour exécution au greffe de la juridiction à laquelle appartient le magistrat taxateur. En cas de trop-versé le greffier en chef procède à l'émission d'un titre de recouvrement.
+
+
+La décision de la chambre de l'instruction est adressée pour exécution au greffe de la juridiction à laquelle appartient le magistrat taxateur. En cas de trop-versé le greffier en chef procède à l'émission d'un titre de recouvrement.
+
+
 
 Le pourvoi en cassation est ouvert dans tous les cas.
 
@@ -14725,7 +14735,7 @@ La partie condamnée peut former un recours contre la disposition de la décisio
 
 Ce recours est porté devant la juridiction d'appel au cas où la décision qui contient la liquidation peut être entreprise par cette voie.
 
-Dans le cas où la décision qui contient la liquidation des dépens n'est pas susceptible d'appel, le recours est porté devant la chambre d'accusation.
+Dans le cas où la décision qui contient la liquidation des dépens n'est pas susceptible d'appel, le recours est porté devant la chambre de l'instruction.
 
 Le recours est formé au greffe de la juridiction qui a rendu la décision, selon les règles et dans le délai qui sont, suivant le cas, ceux de l'appel ou du pourvoi en cassation.
 
@@ -21821,7 +21831,7 @@ Le président de la Cour de justice de la République ;
 
 Les premiers présidents des cours d'appel et les procureurs généraux près les cours d'appel ;
 
-Les présidents de chambre d'accusation ;
+Les présidents de chambre de l'instruction ;
 
 Les présidents des tribunaux de grande instance et les procureurs de la République près les tribunaux de grande instance ;
 
