@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 1er juillet 1989
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19890701)
+- Date de consolidation : 8 juillet 1989
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19890708)
 
 
 # Partie législative
@@ -486,7 +486,7 @@ S'il y a plusieurs commissaires de police au lieu où siège le tribunal, le pro
 
 ##### Article 48
 
-S'il n'y a pas de commissaire de police au lieu où siège le tribunal, le procureur général désigne, pour exercer les fonctions du ministère public, un commissaire ou un inspecteur divisionnaire ou principal de la police nationale en résidence dans le ressort du tribunal de grande instance.
+S'il n'y a pas de commissaire de police au lieu où siège le tribunal, le procureur général désigne, pour exercer les fonctions du ministère public, un commissaire ou un inspecteur divisionnaire ou principal de la police nationale en résidence dans le ressort du tribunal de grande instance ou, à défaut, d'un tribunal de grande instance limitrophe situé dans le même département.
 
 
 #### Chapitre III : Du juge d'instruction
@@ -1005,6 +1005,15 @@ Il en est de même dans toute instance civile fondée sur des faits constitutifs
 Les pouvoirs conférés au juge d'instruction par les articles 139 et 140 appartiennent, en tout état de cause, à la juridiction compétente selon les distinctions de l'article 148-1.
 
 
+###### Article 142-3
+
+Le montant affecté à la deuxième partie du cautionnement qui n'a pas été versé à la victime de l'infraction ou au créancier d'une dette alimentaire est restitué en cas de non-lieu et, sauf s'il est fait application de l'article 372, en cas d'absolution ou d'acquittement.
+
+En cas de condamnation, il est employé conformément aux dispositions du 2° de l'article 142. Le surplus est restitué lorsque la condamnation est définitive.
+
+Les conditions d'application du présent article sont fixées par un décret en Conseil d'Etat.
+
+
 ###### Article 143
 
 Lorsqu'une juridiction de jugement est appelée à statuer dans les cas prévus à la présente sous-section, elle le fait dans les conditions déterminées par l'article 148-2.
@@ -1145,9 +1154,9 @@ Les dispositions des articles 168 et 169 sont applicables aux personnes appelée
 
 ##### Article 175
 
-Aussitôt que l'information lui paraît terminée, le juge d'instruction communique le dossier au procureur de la République.
+Aussitôt que l'information lui paraît terminée, le juge d'instruction communique le dossier au procureur de la République. Les conseils de l'inculpé et de la partie civile en sont avisés, dans les délais les plus brefs, soit verbalement avec émargement au dossier de la procédure, soit par lettre recommandée.
 
-Ce dernier lui adresse ses réquisitions dans un délai d'un mois si un inculpé est détenu et de trois mois dans les autres cas.
+Le procureur de la République lui adresse ses réquisitions dans un délai d'un mois si un inculpé est détenu et de trois mois dans les autres cas.
 
 Le juge d'instruction qui ne reçoit pas de réquisitions dans le délai prescrit peut rendre l'ordonnance de règlement.
 
@@ -1491,6 +1500,13 @@ L'inculpé est placé sous contrôle judiciaire par une ordonnance du juge d'ins
 Le juge d'instruction peut, à tout moment, imposer à l'inculpé placé sous contrôle judiciaire une ou plusieurs obligations nouvelles, supprimer tout ou partie des obligations comprises dans le contrôle, modifier une ou plusieurs de ces obligations ou accorder une dispense occasionnelle ou temporaire d'observer certaines d'entre elles.
 
 
+###### Article 139
+
+L'inculpé est placé sous contrôle judiciaire par une ordonnance du juge d'instruction qui peut être prise en tout état de l'instruction.
+
+Le juge d'instruction peut, à tout moment, imposer à l'inculpé placé sous contrôle judiciaire une ou plusieurs obligations nouvelles, supprimer tout ou partie des obligations comprises dans le contrôle, modifier une ou plusieurs de ces obligations ou accorder une dispense occasionnelle ou temporaire d'observer certaines d'entre elles.
+
+
 ###### Article 140
 
 La mainlevée du contrôle judiciaire peut être ordonnée à tout moment par le juge d'instruction, soit d'office, soit sur les réquisitions du procureur de la République, soit sur la demande de l'inculpé après avis du procureur de la République.
@@ -1500,6 +1516,13 @@ Le juge d'instruction statue sur la demande de l'inculpé dans un délai de cinq
 Faute par le juge d'instruction d'avoir statué dans ce délai, l'inculpé peut saisir directement de sa demande la chambre d'accusation qui, sur les réquisitions écrites et motivées du procureur général, se prononce dans les vingt jours de sa saisine.
 
 A défaut, la mainlevée du contrôle judiciaire est acquise de plein droit, sauf si des vérifications concernant la demande de l'inculpé ont été ordonnées.
+
+
+###### Article 141-2
+
+Si l'inculpé se soustrait volontairement aux obligations du contrôle judiciaire, le juge d'instruction peut, quelle que soit la durée de la peine d'emprisonnement encourue, décerner à son encontre mandat d'arrêt ou de dépôt en vue de sa détention provisoire.
+
+Les mêmes droits appartiennent en tout état de cause à la juridiction qui est compétente selon les distinctions de l'article 148-1. Toutefois, à l'encontre de l'accusé, il n'y a pas lieu à délivrance d'un mandat et l'ordonnance de prise de corps est exécutée sur l'ordre du président de la cour d'assises ou, dans l'intervalle des sessions, du président de la chambre de l'instruction.
 
 
 ###### Article 142
@@ -1531,15 +1554,6 @@ La première partie du cautionnement est restituée si l'inculpé, le prévenu o
 Elle est acquise à l'Etat dans le cas contraire, sauf motif légitime d'excuse.
 
 Elle est néanmoins toujours restituée en cas de non-lieu, d'absolution ou d'acquittement.
-
-
-###### Article 142-3
-
-Le montant affecté à la deuxième partie du cautionnement qui n'a pas été versé à la victime de l'infraction ou au créancier d'une dette alimentaire est restitué en cas de non-lieu et, sauf s'il est fait application de l'article 372, en cas d'absolution ou d'acquittement.
-
-En cas de condamnation, il est employé conformément aux dispositions du 2° de l'article 142. Le surplus est restitué.
-
-Les conditions d'application du présent article sont fixées par un décret en Conseil d'Etat.
 
 
 ###### Sous-section 2 : De la détention provisoire
@@ -1620,6 +1634,8 @@ Ce document est adressé sans délai, en original ou en copie et par tout moyen,
 ###### Article 148-8
 
 Lorsque l'inculpé entend saisir la chambre d'accusation en application des dispositions des articles 140, troisième alinéa, 148, sixième alinéa, ou 148-4, sa demande est faite, dans les formes prévues par les articles 148-6 et 148-7, au greffier de la chambre d'accusation compétente ou au chef de l'établissement pénitentiaire qui en assure la transmission.
+
+Lorsque le président de la chambre d'accusation constate que cette juridiction a été directement saisie, sur le fondement des articles 140, 148, sixième alinéa, ou 148-4, d'une demande de mainlevée du contrôle judiciaire ou de mise en liberté manifestement irrecevable, il peut décider, par une ordonnance motivée non susceptible de voie de recours, qu'il n'y a pas lieu de statuer sur cette demande ; dans ce cas, la demande et l'ordonnance sont versées au dossier de la procédure.
 
 
 ###### Sous-section 3 : De l'indemnisation à raison d'une détention provisoire
@@ -1815,7 +1831,7 @@ Hors le cas prévu à l'article 196, les dispositifs des arrêts sont, dans les 
 
 Dans les mêmes formes et délais, les dispositifs des arrêts de non-lieu sont portés à la connaissance des inculpés, les dispositifs des arrêts de renvoi devant le tribunal correctionnel ou de police sont portés à la connaissance des inculpés et des parties civiles.
 
-Les arrêts contre lesquels les inculpés ou les parties civiles peuvent former un pourvoi en cassation leur sont signifiés à la requête du procureur général dans les trois jours. Toutefois, ces arrêts sont notifiés par lettre recommandée à l'inculpé, à la partie civile ou au requérant mentionné au cinquième alinéa de l'article 99 tant que le juge d'instruction n'a pas clôturé son information.
+Les arrêts contre lesquels les inculpés ou les parties civiles peuvent former un pourvoi en cassation leur sont signifiés à la requête du procureur général dans les trois jours. Toutefois, ces arrêts sont notifiés par lettre recommandée à l'inculpé, à la partie civile ou au requérant mentionné au cinquième alinéa de l'article 99 tant que le juge d'instruction n'a pas clôturé son information. Ils peuvent être notifiés à l'inculpé détenu par les soins du chef de l'établissement pénitentiaire qui adresse, sans délai, au procureur général l'original ou la copie du récépissé signé par l'inculpé.
 
 Toute notification d'acte à la dernière adresse déclarée par une partie est réputée faite à sa personne.
 
@@ -3874,6 +3890,21 @@ A l'audience de renvoi, le tribunal peut, soit dispenser le prévenu de peine, s
 La décision sur la peine intervient au plus tard un an après la première décision d'ajournement.
 
 
+##### Article 469-4
+
+Lorsqu'il ajourne le prononcé de la peine dans les conditions et suivant les modalités prévues par l'article précédent, le tribunal peut placer le prévenu sous le régime de la mise à l'épreuve. L'intéressé doit satisfaire à l'ensemble des mesures de surveillance et d'assistance mentionnées au deuxième alinéa de l'article 739 et à celles des obligations particulières, mentionnées au même alinéa, qui lui sont spécialement imposées par le tribunal. La décision d'ajournement est exécutoire par provision.
+
+Le prévenu est placé sous le contrôle du juge de l'application des peines dans le ressort duquel il a sa résidence. Le juge de l'application des peines s'assure, soit par lui-même, soit par toute personne qualifiée, de l'exécution de la mesure. Les dispositions du deuxième alinéa de l'article 740 et de l'article 741 sont applicables au contrôle exercé sur le prévenu.
+
+Le tribunal peut, à la demande du juge de l'application des peines, aménager ou supprimer les obligations particulières imposées au prévenu ou en prévoir de nouvelles.
+
+Si le prévenu ne se soumet pas aux mesures de surveillance et d'assistance ou aux obligations particulières, le juge de l'application des peines peut saisir le tribunal avant l'expiration du délai d'épreuve afin qu'il soit statué sur la peine.
+
+Les dispositions des articles 741-1 et 741-2, du deuxième alinéa de l'article 741-3 et du troisième alinéa de l'article 744 sont applicables. La comparution du prévenu devant le tribunal dans le cas prévu par le quatrième alinéa du présent article rend non avenue la fixation de la date d'audience de renvoi par la décision d'ajournement.
+
+Lorsque la décision d'ajournement a été rendue par une juridiction compétente à l'égard des mineurs, les attributions du juge de l'application des peines sont dévolues au juge des enfants dans le ressort duquel le mineur a sa résidence.
+
+
 ##### Article 470
 
 Si le tribunal estime que le fait poursuivi ne constitue aucune infraction à la loi pénale ou que le fait n'est pas établi, ou qu'il n'est pas imputable au prévenu, il renvoie celui-ci des fins de la poursuite.
@@ -3890,9 +3921,15 @@ Toutefois, lorsqu'il apparaît que des tiers responsables doivent être mis en c
 
 Nonobstant appel, le prévenu détenu qui n'a pas été condamné à une peine d'emprisonnement sans sursis est mis en liberté immédiatement après le jugement.
 
+
+
 Il en est de même en cas de condamnation à une peine d'emprisonnement, lorsque la détention provisoire a été ordonnée ou maintenue en application de l'article 464-1 ou de l'article 465, premier alinéa, aussitôt que la durée de la détention a atteint celle de la peine prononcée.
 
-Le contrôle judiciaire prend fin sauf si le tribunal en décide autrement lorsqu'il prononce une condamnation à l'emprisonnement sans sursis ou assorti du sursis avec mise à l'épreuve.
+
+
+Le contrôle judiciaire prend fin sauf si le tribunal en décide autrement lorsqu'il prononce une condamnation à l'emprisonnement sans sursis ou assorti du sursis avec mise à l'épreuve. Si un cautionnement a été fourni, les dispositions des premier et deuxième alinéas de l'article 142-2 et du deuxième alinéa de l'article 142-3 sont applicables.
+
+
 
 Les sanctions pénales prononcées en application des articles 43-1 à 43-4 du Code pénal peuvent être déclarées exécutoires par provision.
 
@@ -4003,7 +4040,13 @@ Il est donné lecture du jugement par le président ou par l'un des juges ; cett
 
 La minute du jugement est datée et mentionne les noms des magistrats qui l'ont rendu ; la présence du ministère public à l'audience doit y être constatée.
 
+
+
 Après avoir été signée par le président et le greffier, la minute est déposée au greffe du tribunal dans les trois jours au plus tard du prononcé du jugement. Ce dépôt est mentionné sur le registre spécialement tenu au greffe à cet effet.
+
+
+
+En cas d'empêchement du président, mention en est faite sur la minute qui est signée par celui des juges qui donne lecture du jugement.
 
 
 ##### Section 6 : Du jugement par défaut et de l'opposition
@@ -4782,7 +4825,7 @@ Le recours est porté devant la chambre criminelle de la Cour de cassation.
 
 #### Article 567-1
 
-Si le président de la chambre criminelle constate qu'il a été formé un pourvoi contre une décision qui n'est pas susceptible de voie de recours en application des articles 186, alinéa 8, 706 et 706-2, il rend une ordonnance de non-admission du pourvoi. Sa décision n'est pas susceptible de recours.
+Si le président de la chambre criminelle constate qu'il a été formé un pourvoi contre une décision qui n'est pas susceptible de voie de recours en application des articles 148-8, deuxième alinéa, 186, dernier alinéa, 186-1, troisième alinéa, 636, 706 et 706-2, il rend une ordonnance de non-admission du pourvoi. Sa décision n'est pas susceptible de recours.
 
 
 #### Article 567-2
@@ -4813,7 +4856,7 @@ Le délai du pourvoi contre les arrêts ou les jugements par défaut ne court, �
 
 Pendant les délais du recours en cassation et, s'il y a eu recours, jusqu'au prononcé de l'arrêt de la Cour de cassation, il est sursis à l'exécution de l'arrêt de la cour d'appel, sauf en ce qui concerne les condamnations civiles, et à moins que la cour d'appel ne confirme le mandat décerné par le tribunal en application de l'article 464-1 ou de l'article 465, premier alinéa, ou ne décerne elle-même mandat sous les mêmes conditions et selon les mêmes règles.
 
-Le contrôle judiciaire prend fin, sauf si la cour d'appel en décide autrement, lorsqu'elle prononce une condamnation à l'emprisonnement sans sursis ou assorti du sursis avec mise à l'épreuve.
+Le contrôle judiciaire prend fin, sauf si la cour d'appel en décide autrement, lorsqu'elle prononce une condamnation à l'emprisonnement sans sursis ou assorti du sursis avec mise à l'épreuve. Lorsqu'un cautionnement a été fourni, les dispositions des premier et deuxième alinéas de l'article 142-2 et du deuxième alinéa de l'article 142-3 sont applicables.
 
 En cas d'acquittement, d'absolution ou de condamnation soit à l'emprisonnement assorti du sursis simple ou du sursis avec mise à l'épreuve, soit à l'amende, le prévenu détenu est, nonobstant pourvoi, mis en liberté immédiatement après l'arrêt.
 
@@ -5518,15 +5561,21 @@ L'opposition est jugée dans les quinze jours de l'arrivée des pièces au greff
 
 En matière criminelle, correctionnelle ou de police, la chambre criminelle de la Cour de cassation peut dessaisir toute juridiction d'instruction ou de jugement et renvoyer la connaissance de l'affaire à une autre juridiction du même ordre, soit si la juridiction normalement compétente ne peut être légalement composée, ou si le cours de la justice se trouve autrement interrompu, soit pour cause de suspicion légitime.
 
+
+
 La requête aux fins de renvoi peut être présentée soit par le procureur général près la Cour de cassation, soit par le ministère public établi près la juridiction saisie, soit par l'inculpé, soit par la partie civile.
+
+
 
 La requête doit être signifiée à toutes les parties intéressées qui ont un délai de dix jours pour déposer un mémoire au greffe de la Cour de cassation.
 
+
+
 La présentation de la requête n'a point d'effet suspensif à moins qu'il n'en soit autrement ordonné par la Cour de cassation.
 
-Le procureur général près la Cour de cassation peut aussi et dans les mêmes formes demander à la chambre criminelle le renvoi d'une affaire d'une juridiction à une autre dans l'intérêt d'une bonne administration de la justice.
 
-En cas de rejet d'une demande de renvoi pour cause de suspicion légitime, la chambre crinimelle peut ordonner le renvoi dans le même intérêt d'une bonne administration de la justice.
+
+Le procureur général près la Cour de cassation peut aussi et dans les mêmes formes demander à la chambre criminelle le renvoi d'une affaire d'une juridiction à une autre dans l'intérêt d'une bonne administration de la justice.
 
 
 ### Article 664
@@ -6714,6 +6763,19 @@ En outre, le décret détermine les conditions dans lesquelles :
 3. Sont habilitées les associations mentionnées au premier alinéa de l'article 747-1.
 
 
+#### Article 747-8
+
+Toute juridiction ayant prononcé hors la présence du prévenu, pour un délit de droit commun, une condamnation comportant un emprisonnement ferme de six mois au plus, peut, lorsque cette condamnation n'est plus susceptible de faire l'objet d'une voie de recours par le condamné, ordonner qu'il sera sursis à l'exécution de cette peine et que le condamné accomplira, au profit d'une collectivité publique, d'un établissement public ou d'une association, un travail d'intérêt général non rémunéré d'une durée qui ne pourra être inférieure à quarante heures ni supérieure à deux cent quarante heures. L'exécution de l'obligation d'accomplir un travail d'intérêt général est soumise aux prescriptions des troisième et quatrième alinéas de l'article 747-1 et des articles 747-2 à 747-5.
+
+La juridiction est saisie par le juge de l'application des peines au moyen d'un rapport mentionnant qu'après avoir été informé du droit de refuser l'accomplissement d'un travail d'intérêt général, le condamné a expressément déclaré renoncer à se prévaloir de ce droit. Le rapport ne peut être présenté que si la peine d'emprisonnement n'est pas en cours d'exécution. Son dépôt a pour effet de suspendre, jusqu'à la décision de la juridiction saisie, l'exécution de la peine.
+
+La juridiction statue en chambre du conseil sur les conclusions du ministère public, le condamné ou son avocat entendus ou convoqués. Si la personne pour laquelle le sursis est demandé se trouve détenue, il est procédé conformément aux dispositions de l'article 712.
+
+La décision est portée sans délai à la connaissance du juge de l'application des peines ; elle est notifiée par ce magistrat au condamné lorsqu'elle a été rendue hors la présence de celui-ci. Elle est seulement susceptible d'un pourvoi en cassation qui n'est pas suspensif.
+
+Sous réserve des prescriptions de l'article 747-6, le présent article est applicable aux mineurs de seize à dix-huit ans.
+
+
 ### Article 734
 
 Le tribunal ou la cour qui prononce une condamnation à l'emprisonnement ou à l'amende peut, dans les cas et selon les conditions prévues ci-après, ordonner qu'il sera sursis à l'exécution de cette peine.
@@ -6935,12 +6997,12 @@ Lorsqu'il n'existe pas de fiche au casier judiciaire, le bulletin n° 1 porte la
 ### Article 775
 
 Le bulletin n° 2 est le relevé des fiches du casier judiciaire applicables à la même personne, à l'exclusion de celles concernant les décisions suivantes :
-1. Les décisions prononcées en vertu des articles 2, 8, 15, 16, 18 et 28 de l'ordonnance n° 45-174 du 2 février 1945 modifiée, relative à l'enfance délinquante ;
-2. Les condamnations dont la mention au bulletin n. 2 a été expressément exclue en application de l'article 775-1 ;
+1. Les décisions prononcées en vertu des articles 2, 8, 15, 16, 18 et 28 de l'ordonnance n. 45-174 du 2 février 1945 modifiée, relative à l'enfance délinquante ;
+2. Les condamnations dont la mention au bulletin n° 2 a été expressément exclue en application de l'article 775-1 ;
 3. Les condamnations prononcées pour contraventions de police ;
 4. Les condamnations assorties du bénéfice du sursis, avec ou sans mise à l'épreuve, lorsqu'elles doivent être considérées comme non avenues ;
 5. Les condamnations effacées par la réhabilitation de plein droit ou judiciaire ;
-6. Les condamnations auxquelles sont applicables les dispositions de l'article 361 du Code de justice militaire ;
+6. Les condamnations auxquelles sont applicables les dispositions de l'article 361 du code de justice militaire ;
 7. En matière de redressement judiciaire, les jugements prononçant la faillite personnelle ou l'interdiction prévue par l'article 192 de la loi n. 85-98 du 25 janvier 1985 précitée lorsque ces mesures sont effacées par un jugement de clôture pour extinction du passif, par la réhabilitation ou à l'expiration d'un délai de cinq ans à compter du jour où ces condamnations sont devenues définitives, ainsi que le jugement prononçant la liquidation judiciaire à l'égard d'une personne physique, à l'expiration d'un délai de cinq ans à compter du jour où ce jugement est devenu définitif ou après le prononcé d'un jugement de clôture pour extinction du passif.
 
 Toutefois, si la durée de la faillite personnelle ou de l'interdiction est supérieure à cinq ans, la condamnation relative à ces mesures demeure mentionnée au bulletin n. 2 pendant la même durée ;
@@ -6949,11 +7011,11 @@ Toutefois, si la durée de la faillite personnelle ou de l'interdiction est sup�
 10. Les arrêtés d'expulsion abrogés ou rapportés ;
 11. Les condamnations prononcées sans sursis en application des articles 43-1 à 43-5 et 43-8 du code pénal, à l'expiration d'un délai de cinq ans à compter du jour où elles sont devenues définitives.
 
-Toutefois, si la durée de l'interdiction, déchéance ou incapacité, prononcée en application de l'article 43-1, est supérieure à cinq ans, la condamnation demeure mentionnée au bulletin n. 2 pendant la même durée ;
-12. Les déclarations de culpabilité assorties d'une dispense de peine ;
+Toutefois, si la durée de l'interdiction, déchéance ou incapacité, prononcée en application de l'article 43-1, est supérieure à cinq ans, la condamnation demeure mentionnée au bulletin n° 2 pendant la même durée ;
+12. Les déclarations de culpabilité assorties d'une dispense de peine ou d'un ajournement du prononcé de celle-ci ;
 13. Les condamnations prononcées par des juridictions étrangères.
 
-Les bulletins n. 2 fournis en cas de contestation concernant l'inscription sur les listes électorales, ne comprennent que les décisions entraînant des incapacités en matière d'exercice du droit de vote.
+Les bulletins n° 2 fournis en cas de contestation concernant l'inscription sur les listes électorales, ne comprennent que les décisions entraînant des incapacités en matière d'exercice du droit de vote.
 
 Lorsqu'il n'existe pas au casier judiciaire de fiches concernant des décisions à relever sur le bulletin n° 2, celui-ci porte la mention Néant.
 
@@ -7206,6 +7268,18 @@ La réhabilitation efface la condamnation, nul ne peut en faire état.
 
 
 ### Titre X : Des frais de justice
+
+#### Dispositions générales
+
+#### Article 801
+
+Tout délai prévu par une disposition de procédure pénale pour l'accomplissement d'un acte ou d'une formalité expire le dernier jour à vingt-quatre heures. Le délai qui expirerait normalement un samedi ou un dimanche ou un jour férié ou chômé est prorogé jusqu'au premier jour ouvrable suivant.
+
+
+#### Article 802
+
+En cas de violation des formes prescrites par la loi à peine de nullité ou d'inobservation des formalités substantielles, à l'exception toutefois de celles prévues à l'article 105, toute juridiction, y compris la Cour de cassation, qui est saisie d'une demande d'annulation ou qui relève d'office une telle irrégularité ne peut prononcer la nullité [*condition*] que lorsque celle-ci a eu pour effet de porter atteinte aux intérêts de la partie qu'elle concerne.
+
 
 ### Article 800
 
