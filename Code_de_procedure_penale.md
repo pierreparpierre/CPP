@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 22 février 1990
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19900222)
+- Date de consolidation : 27 février 1990
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19900227)
 
 
 # Partie législative
@@ -9251,6 +9251,7 @@ Sont, en outre, assimilées aux frais de justice criminelle, correctionnelle et 
 14. Des frais postaux des greffes des juridictions civiles nécessités par les actes et procédures ainsi que par l'envoi des bulletins de casier judiciaire.
 15. Des actes faits d'office en matière de mesures conservatoires prises après l'ouverture d'une succession.
 16. Des dispositions législatives ou réglementaires particulières prévoyant que l'avance doit être faite par le Trésor public.
+18. Des frais de l'appel aux créanciers prévu à l'article 11 de la loi n° 89-1010 du 31 décembre 1989 relative à la prévention et au règlement des difficultés liées au surendettement des particuliers et des familles.
 
 
 #### Chapitre II : Tarif des frais
