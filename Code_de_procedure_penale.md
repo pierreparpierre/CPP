@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 24 janvier 1978
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19780124)
+- Date de consolidation : 9 mars 1978
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19780309)
 
 
 # Partie législative
@@ -8327,6 +8327,13 @@ Les gratifications exceptionnelles visées au dernier alinéa de l'article D. 11
 ###### Article D330
 
 Tout versement effectué à l'extérieur sur la part disponible d'un détenu doit non seulement avoir été demandé ou consenti par ce détenu, mais aussi avoir été autorisé expressément par le magistrat saisi du dossier de l'information s'il s'agit d'un prévenu ou, sinon, par le chef d'établissement.
+
+
+###### Article D331
+
+Les détenus peuvent verser sur leur livret de caisse d'épargne des sommes prélevées sur leur part disponible.
+
+Les opérations éventuelles de retrait sont subordonnées, pendant la détention, à l'accord du chef d'établissement.
 
 
 ###### Article D332
