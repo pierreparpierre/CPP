@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 10 avril 2002
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20020410)
+- Date de consolidation : 17 avril 2002
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20020417)
 
 
 # Partie législative
@@ -21845,7 +21845,8 @@ Les fonctionnaires du corps de maîtrise et d'application de la police nationale
 - le détachement de la police nationale auprès de la direction nationale des enquêtes douanières.
 2. Services dont la compétence territoriale s'étend sur le ressort d'une ou plusieurs cours d'appel ou parties de celles-ci :
 - les services régionaux de la police judiciaire et la direction régionale de police judiciaire de Paris ainsi que leurs détachements, antennes et services départementaux ;
-- la direction des renseignements généraux de la préfecture de police.
+- la direction des renseignements généraux de la préfecture de police ;
+- le département des missions de police administrative et judiciaire de la direction de la logistique de la préfecture de police.
 3. Services dont la compétence territoriale s'étend sur le ressort d'un ou plusieurs tribunaux de grande instance ou parties de ceux-ci :
 - les sûretés départementales ;
 - les circonscriptions de sécurité publique.
