@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 23 novembre 1978
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19781123)
+- Date de consolidation : 1er janvier 1979
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19790101)
 
 
 # Partie législative
@@ -3777,6 +3777,11 @@ Il est notifié aux parties, à la diligence de ce magistrat, par lettre recomma
 #### Article 618
 
 Lorsqu'une demande en cassation a été rejetée, la partie qui l'avait formée ne peut plus se pourvoir en cassation contre le même arrêt ou jugement, sous quelque prétexte et par quelque moyen que ce soit.
+
+
+#### Article 619
+
+Lorsque, après cassation d'un premier arrêt ou jugement rendu en dernier ressort, le deuxième arrêt ou jugement rendu dans la même affaire, entre les mêmes parties, procédant en la même qualité, est attaqué par les mêmes moyens, l'affaire est portée devant l'assemblée plénière dans les formes prévues par les articles L. 131-2 et L. 131-3 du code de l'organisation judiciaire.
 
 
 #### Chapitre VI : Du pourvoi dans l'intérêt de la loi
