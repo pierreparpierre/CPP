@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 3 septembre 2003
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20030903)
+- Date de consolidation : 4 septembre 2003
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20030904)
 
 
 # Partie législative
@@ -14806,6 +14806,7 @@ Sont, en outre, assimilées aux frais de justice criminelle, correctionnelle et 
 19. Les frais d'impression, d'insertion, de publication et de diffusion audiovisuelle des arrêts, jugements et ordonnances de justice en application de l'article 131-35 du code pénal.
 20. Les frais d'une immobilisation décidée en application du 5° de l'article 131-6 et du 2° de l'article 131-14 du code pénal.
 21. Les frais des administrateurs ad hoc désignés en application des articles 388-2 et 389-3 du code civil, lorsqu'ils figurent sur la liste prévue à l'article R. 53.
+22. Des indemnités forfaitaires des administrateurs ad hoc institués pour la représentation des mineurs maintenus en zone d'attente ou demandeurs du statut de réfugié par application de l'article 17 de la loi n° 2002-305 du 4 mars 2002 et désignés conformément à son décret d'application n° 2003-841 du 2 septembre 2003.
 
 
 #### Chapitre II : Tarif des frais
@@ -15756,7 +15757,8 @@ La procédure de certification est applicable aux frais suivants énumérés à 
 2. Part contributive de l'Etat à la rétribution des auxiliaires de justice en matière d'aide juridictionnelle ;
 3. Indemnités de transport et de séjour des magistrats, des greffiers et des secrétaires des juridictions de l'ordre judiciaire ;
 4. Frais postaux des greffes des juridictions civiles nécessités par les actes et procédures ;
-5. Frais tarifés des actes faits d'office en matière de mesures conservatoires prises après l'ouverture d'une succession.
+5. Frais tarifés des actes faits d'office en matière de mesures conservatoires prises après l'ouverture d'une succession ;
+6. Indemnités forfaitaires des administrateurs ad hoc institués pour la représentation des mineurs maintenus en zone d'attente ou demandeurs du statut de réfugié par application de l'article 17 de la loi n° 2002-305 du 4 mars 2002 et désignés conformément à son décret d'application n° 2003-841 du 2 septembre 2003.
 
 
 ###### Article R225
