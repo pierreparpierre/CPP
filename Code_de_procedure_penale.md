@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 19 novembre 1998
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19981119)
+- Date de consolidation : 9 décembre 1998
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19981209)
 
 
 # Partie législative
@@ -12951,9 +12951,9 @@ Quand, après une information ouverte sur constitution de partie civile, une dé
 
 ##### Article D32-1
 
-Outre le titre de détention qu'il délivre, le juge d'instruction transmet au chef d'établissement une notice individuelle comportant des renseignements relatifs aux faits ayant motivé la poursuite de l'inculpé, à ses antécédents judiciaires et à sa personnalité.
+Outre le titre de détention qu'il délivre, le juge d'instruction transmet au chef d'établissement une notice individuelle comportant des renseignements relatifs aux faits ayant motivé la poursuite de la personne mise en examen, à ses antécédents judiciaires et à sa personnalité.
 
-Il indique sur cette notice, le cas échéant, les mesures qu'il prescrit en application des dispositions des articles D. 55, D. 56, D. 61, D. 65, D. 105, D. 321, D. 337, D. 397 et D. 421.
+Il indique sur cette notice, le cas échéant, les mesures qu'il prescrit en application des dispositions des articles D. 55, D. 56, D. 61, D. 65, D. 105, D. 321, D. 337 et D. 421.
 
 
 ##### Section 8 : Des commissions rogatoires
@@ -13359,19 +13359,6 @@ Les mentions utiles sont portées sur le registre après chaque audience, ainsi 
 Les registres d'exécution des peines sont établis conformément aux modèles fixés par le ministre de la justice et sont tenus selon ses instructions.
 
 
-### Article D49
-
-Le procureur de la République près le tribunal de grande instance poursuit seul l'exécution des peines d'emprisonnement pour contravention de police prononcées par le tribunal de police.
-
-
-
-A cet effet, l'officier du ministère public près ce tribunal lui adresse un extrait de tout jugement prononçant une telle peine, dès que celui-ci est devenu définitif.
-
-
-
-Des registres spéciaux d'exécution des peines d'emprisonnement prononcées par chacun des tribunaux de police du ressort du tribunal de grande instance sont tenus au parquet de ce tribunal, dans les conditions prévues à l'article D48.
-
-
 ### Article D49-1
 
 Préalablement à la mise à exécution d'une condamnation à une peine égale ou inférieure à un an d'emprisonnement concernant une personne non incarcérée, le ministère public communique au juge de l'application des peines un extrait de la décision accompagné, le cas échéant, de toutes informations utiles. Il en est de même en cas de cumul des condamnations concernant la même personne si le total des peines prononcées n'excède pas un an.
@@ -13660,16 +13647,18 @@ Les mêmes prérogatives appartiennent au juge des enfants à l'égard des mineu
 
 ##### Article D55-1
 
-Hors le cas de l'instruction préparatoire, l'autorité judiciaire qui ordonne un placement en détention provisoire ou, à défaut, le ministère public chargé de l'exécution de la décision, adresse au chef de l'établissement, en même temps que le titre de détention, la notice prévue par l'article D32-1 (alinéa 1er).
+Hors le cas de l'instruction préparatoire, l'autorité judiciaire qui ordonne un placement en détention provisoire ou, à défaut, le ministère public chargé de l'exécution de la décision, adresse au chef de l'établissement, en même temps que le titre de détention, la notice prévue par l'article D. 32-1 (alinéa 1er).
 
-Cette notice précise, le cas échéant, les mesures prescrites par l'autorité judiciaire et l'avis prévu par l'article D79.
+Cette notice précise, le cas échéant, les mesures prescrites par l'autorité judiciaire et l'avis prévu par l'article D. 78.
 
 
 ##### Article D56
 
-Indépendamment des mesures d'isolement ou de séparation d'autres détenus qu'il peut ordonner conformément aux dispositions de l'article D55, le juge d'instruction a le droit de prescrire une interdiction temporaire de communiquer en vertu de l'article 116.
+Indépendamment des mesures d'isolement ou de séparation d'autres détenus qu'il peut ordonner conformément aux dispositions de l'article D. 55, le juge d'instruction a le droit de prescrire une interdiction temporaire de communiquer en vertu de l'article 145-4.
 
-En aucun cas, l'interdiction de communiquer ne s'applique au conseil de l'inculpé, mais elle s'oppose à ce que le détenu qu'elle concerne soit visité par toute autre personne étrangère à l'administration pénitentiaire ou corresponde avec elle.
+
+
+En aucun cas, l'interdiction de communiquer ne s'applique au conseil de la personne mise en examen, mais elle s'oppose à ce que le détenu qu'elle concerne soit visité par toute autre personne étrangère à l'administration pénitentiaire ou corresponde avec elle.
 
 
 ##### Article D57
@@ -13729,7 +13718,7 @@ Les sommes appartenant ou venant à échoir aux prévenus sont inscrites à leur
 
 ###### Article D64
 
-Les permis de visite sont délivrés pour les prévenus par le magistrat saisi du dossier de l'information et ils sont utilisés dans les conditions visées aux articles D403 et suivants.
+Les permis de visite sont délivrés pour les prévenus par le magistrat saisi du dossier de l'information dans les conditions prévues par l'article 145-4 et ils sont utilisés dans les conditions visées aux articles D. 403 et suivants.
 
 Sauf disposition contraire, ces permis sont valables jusqu'au moment où la condamnation éventuelle acquiert un caractère définitif. En conséquence, il n'y a pas lieu à renouvellement du permis lorsque le magistrat qui l'a accordé est dessaisi du dossier de la procédure, mais l'autorité judiciaire ultérieurement saisie est compétente pour en supprimer les effets ou pour délivrer de nouveaux permis.
 
@@ -13752,9 +13741,9 @@ Pour l'exercice de ce choix, le tableau des avocats inscrits dans les barreaux d
 
 ###### Article D67
 
-Conformément aux dispositions des articles 116 et 716, les prévenus peuvent communiquer librement avec leur conseil verbalement ou par écrit, et toutes facilités compatibles avec les exigences de la discipline et de la sécurité de la prison leur sont accordées pour l'exercice de leur défense.
+Conformément aux dispositions des articles 145-4 et 716, les prévenus peuvent communiquer librement avec leur conseil verbalement ou par écrit, et toutes facilités compatibles avec les exigences de la discipline et de la sécurité de l'établissement pénitentiaire leur sont accordées pour l'exercice de leur défense.
 
-Ni l'interdiction de communiquer visée à l'article 116, ni les punitions de quelque nature qu'elles soient, ne peuvent supprimer ou restreindre cette faculté de libre communication avec le conseil.
+Ni l'interdiction de communiquer visée à l'article 145-4, ni les punitions de quelque nature qu'elles soient, ne peuvent supprimer ou restreindre cette faculté de libre communication avec le conseil.
 
 
 ###### Article D68
@@ -13775,155 +13764,176 @@ A cet effet, les mentions utiles doivent être portées sur leur enveloppe pour 
 
 ##### Section 1 : Des divers établissements affectés à l'exécution des peines
 
-##### Article D69-1
-
-Les condamnés sont répartis dans les établissements affectés à l'exécution des peines compte tenu, notamment, de leur sexe, de leur âge, de leur situation pénale, de leurs antécédents, de leur état de santé physique et mentale, de leurs aptitudes, et, plus généralement, de leur personnalité ainsi que du régime pénitentiaire dont ils relèvent en vue de leur réadaptation sociale
-
-
-
-Les condamnés sont, dans la mesure du possible, intéressés à l'élaboration ou à la modification de leur programme de traitement individuel qui est conçu et mis en oeuvre en liaison avec les différentes catégories de personnel.
-
-
-
-Les affectations des condamnés sont décidées exclusivement par l'administration centrale des services pénitentiaires à la suite de la procédure d'orientation visée à la section II.
-
-
-
-Toutefois, les affectations relèvent de la compétence du directeur régional des services pénitentiaires pour les détenus dont le reliquat de la peine à subir n'excède pas deux ans d'emprisonnement.
-
-
-
-Dans l'un et l'autre cas, les décisions sont prises, sauf urgence, après consultation du juge de l'application des peines.
-
-
 ##### Article D70
 
-Les établissements qui reçoivent les condamnés définitifs sont :
+Les établissements qui reçoivent les condamnés définitifs sont les maisons centrales, les centres de détention à vocation nationale ou régionale selon les distinctions prévues par les articles D. 71 et D. 72 et les centres de semi-liberté.
 
-Pour les condamnés à une longue peine, au sens du premier alinéa de l'article 717, les maisons centrales et les centres de détention à vocation nationale ou régionale dont les régimes et les critères d'affectation sont respectivement définis aux articles D70-1, D70-2 et D73 ;
+Les maisons centrales comportent une organisation et un régime de sécurité dont les modalités internes permettent également de préserver et de développer les possibilités de réinsertion sociale des condamnés.
 
-Pour les autres condamnés, les maisons d'arrêt.
+Les centres de détention comportent un régime principalement orienté vers la réinsertion sociale des condamnés.
 
-Des établissements ou quartiers d'établissements appartenant à l'une des catégories visées ci-dessus sont spécialement destinés à recevoir, en fonction, des critères définis au premier alinéa de l'article D69-1 :
-- soit les mineurs et les jeunes adultes dont la peine expirera avant qu'ils aient atteint l'âge de vingt-huit ans ;
-- soit les détenus dont l'état de santé nécessite une prise en charge médicale.
+Les condamnés faisant l'objet d'une mesure de semi-liberté sont détenus dans les centres ou quartiers de semi-liberté. Les condamnés faisant l'objet d'une mesure de placement à l'extérieur dans les conditions fixées par l'article D. 136 peuvent également y être détenus.
 
-Par ailleurs, les condamnés admis au régime de la semi-liberté sont détenus dans des quartiers ou des centres destinés à cet effet.
-
-
-##### Article D70-1
-
-Les maisons centrales comportent une organisation et un régime de sécurité dont les modalités internes permettent néanmoins de préserver et de développer les possibilités de reclassement des condamnés.
-
-Un arrêté ministériel fixe la liste des maisons centrales.
-
-
-##### Article D70-2
-
-Les centres de détention comportent un régime principalement orienté vers la resocialisation des condamnés.
-
-Parmi ces établissements figurent les centres pour jeunes condamnés et les établissements ouverts.
-
-Un arrêté ministériel fixe la liste des centres de détention.
+A titre exceptionnel, les maisons d'arrêt peuvent recevoir des condamnés, dans les conditions déterminées par l'article D. 73.
 
 
 ##### Article D71
 
-Les affectations des condamnés auxquels il reste à subir une peine d'une durée supérieure à deux ans ou plusieurs peines dont le total est supérieur à deux ans, après le moment où leur condamnation ou la dernière de leurs condamnations, est devenue définitive, sont décidées exclusivement par l'administration centrale des services pénitentiaires à la suite de la procédure d'orientation visée à la section II. Elles peuvent être modifiées au cours de l'exécution de la peine compte tenu notamment du comportement des condamnés ou de leurs perspectives de réadaptation sociale.
+Les maisons centrales et les centres de détention à vocation nationale reçoivent les condamnés à une ou plusieurs peines d'emprisonnement dont la durée totale est supérieure à cinq ans, sous réserve des dispositions de l'article D. 72, deuxième alinéa.
+
+Un arrêté du ministre de la justice fixe la liste des maisons centrales et des centres de détention à vocation nationale.
 
 
 ##### Article D72
 
-Les maisons d'arrêt reçoivent les condamnés à titre définitif qui n'ont pas à subir une longue peine au sens du premier alinéa de l'article 717.
+Les centres de détention à vocation régionale reçoivent les condamnés à une ou plusieurs peines d'emprisonnement dont la durée totale n'excède pas cinq ans.
 
-Ces condamnés sont maintenus dans l'établissement où ils ont été écroués ou sont envoyés dans une autre maison d'arrêt de la région.
+Ils peuvent recevoir les condamnés à une ou plusieurs peines dont la durée totale est inférieure à sept ans, si la durée de l'incarcération restant à subir au moment où leur condamnation ou la dernière de leurs condamnations est devenue définitive, est inférieure à cinq ans.
 
-Dans ce dernier cas, la décision d'affectation appartient au directeur régional des services pénitentiaires [*compétence*] dans le cadre des mesures indiquées à l'article D301. Elle est prise en tenant compte des possibilités de traitement individuel et de la capacité offertes par chaque établissement.
+Un arrêté du ministre de la justice fixe la liste des centres de détention à vocation régionale.
 
 
 ##### Article D73
 
-Les centres de détention régionaux reçoivent les condamnés auxquels il reste à subir un temps d'incarcération n'excédant pas trois ans.
-
-L'affectation est décidée à l'échelon régional pour les détenus dont le reliquat de la peine ou des peines n'excède pas deux ans d'emprisonnement.
+Les maisons d'arrêt peuvent recevoir des condamnés à l'emprisonnement d'une durée inférieure ou égale à un an dans les conditions prévues par le troisième alinéa de l'article 717.
 
 
-##### Article D74
+##### Section 2 : De la procédure d'orientation et des décisions d'affectation des condamnés
 
-Le régime des centres de détention réservés aux jeunes condamnés fait l'objet d'aménagements correspondant aux besoins particuliers de cette catégorie de détenus.
+###### Paragraphe 1er : Dispositions générales
 
+###### Article D74
 
-##### Article D75
+La procédure d'orientation consiste à réunir tous les éléments relatifs à la personnalité du condamné, son sexe, son âge, ses antécédents, sa catégorie pénale, son état de santé physique et mentale, ses aptitudes, ses possibilités de réinsertion sociale et, d'une manière générale, tous renseignements susceptibles d'éclairer l'autorité compétente pour décider de l'affectation la plus adéquate.
 
-Des établissements ou des quartiers d'établissements appartenant à la catégorie des maisons d'arrêt, des maisons centrales et des centres de détention ont une vocation sanitaire et sont aménagés, pour que les détenus puissent y recevoir les soins ou y être soumis à la surveillance d'ordre médical que nécessite soit leur âge ou leur infirmité, soit leur état de santé physique ou mental.
+L'affectation consiste à déterminer, sur la base de ces éléments, dans quel établissement le condamné doit exécuter sa peine.
 
-L'admission est prononcée, sur avis médical, par l'administration centrale ou par le Directeur régional, selon les dispositions [*conditions*] des articles D300, D301 et D383 ; en ce qui concerne les détenus malades, la décision de sortie est prise dans des conditions identiques.
+Les jeunes condamnés âgés de moins de vingt et un ans peuvent être affectés, en fonction des critères définis au premier alinéa, dans des établissements ou quartiers d'établissements appartenant à l'une des catégories mentionnées à l'article D. 70 dont le régime fait l'objet des aménagements prévus aux articles D. 515 et suivants.
 
-Les condamnés placés dans ces établissements reçoivent un traitement médical approprié, mais ils demeurent soumis au régime des prisons ordinaires, en toutes celles de ses dispositions qui ne peuvent nuire à ce traitement.
-
-
-##### Section 2 : De l'orientation des condamnés à une longue peine
-
-##### Article D76
-
-Pour l'application des dispositions de la présente section sont considérés comme ayant à subir une longue peine les condamnés à la réclusion criminelle et les condamnés à l'emprisonnement auxquels il reste à subir une peine d'une durée supérieure à deux ans ou plusieurs peines dont le total est supérieur à deux ans, après le moment où leur condamnation, ou la dernière de leurs condamnations, est devenue définitive.
+Les condamnés sont intéressés à l'élaboration ou à la modification du projet d'exécution de leur peine. Celui-ci est conçu et mis en oeuvre par les différents services concourant à l'individualisation de la peine.
 
 
-##### Article D77
+###### Paragraphe 2 : La procédure d'orientation
 
-L'orientation des condamnés à une longue peine a pour objet de déterminer l'établissement pénitentiaire qui convient à chacun d'eux, compte tenu de son âge, de ses antécédents, de sa catégorie pénale, de son état de santé physique et mentale, de ses aptitudes, des possibilités de son reclassement, et plus généralement, de sa personnalité.
+###### Article D75
 
-L'orientation relève exclusivement de l'administration centrale pour les condamnés auxquels il reste à subir une peine d'une durée supérieure à deux ans, ou plusieurs peines dont le total est supérieur à deux ans, après le moment où leur condamnation ou la dernière de leurs condamnations est devenue définitive. Elle s'opère à l'aide des renseignements qui sont fournis par l'autorité judiciaire et par l'administration pénitentiaire sur les intéressés, et éventuellement, grâce aux examens auxquels ces derniers sont soumis au centre national d'observation de l'administration pénitentiaire.
+La procédure d'orientation est obligatoirement mise en oeuvre pour les condamnés dont le temps d'incarcération restant à subir est supérieur à un an. Pour les condamnés mineurs, elle est obligatoire si le temps d'incarcération à subir est supérieur à trois mois.
 
-
-##### Article D78
-
-Le ministère public près la juridiction qui a prononcé une condamnation à une longue peine adresse à l'établissement pénitentiaire où le condamné est détenu ou vient à être incarcéré, outre l'extrait de jugement ou d'arrêt et la notice individuelle visée à l'article D158, les pièces ci-dessous désignées :
-1. Copie du rapport de l'enquête ou des enquêtes sur la personnalité, la situation matérielle, familiale ou sociale de l'intéressé qui auraient été prescrites conformément aux dispositions de l'alinéa 5 de l'article 81 ;
-2. Copie du rapport de l'examen ou des examens médicaux, psychiatriques ou médico-psychologiques auxquels il aurait été éventuellement procédé en vertu d'une décision judiciaire ;
-3. Copie du réquisitoire définitif et de la décision de condamnation ;
-4. Et, s'il échet, les avis indiqués à l'article D79.
-
-Ces pièces et copies doivent être envoyées dans le mois qui suit la date à compter de laquelle la condamnation est devenue définitive lorsque l'intéressé est détenu, ou sinon, dans le mois qui suit l'incarcération de celui-ci.
+Elle s'opère dans les conditions définies aux articles D. 76 à D. 79, à l'aide des renseignements qui sont fournis par l'autorité judiciaire et par l'administration pénitentiaire sur les intéressés, et, éventuellement, grâce aux examens auxquels ces derniers sont soumis au centre national d'observation de l'administration pénitentiaire.
 
 
-##### Article D79
+###### Article D76
 
-Chaque fois qu'ils l'estiment utile, le président de la juridiction qui a prononcé la condamnation ainsi que le représentant du ministère public, peuvent exprimer leur avis sur la destination qui semblerait la mieux appropriée au condamné ou sur celle qui, au contraire, leur paraîtrait contre-indiquée. Il leur est également loisible de donner leur opinion sur le traitement dont l'intéressé relèverait.
+Le chef d'établissement constitue un dossier d'orientation pour chaque condamné auquel il reste à subir un temps d'incarcération d'une durée supérieure à un an. Pour les condamnés mineurs, le dossier d'orientation est constitué si le temps d'incarcération restant à subir est d'une durée supérieure à trois mois. Ce dossier comprend les renseignements relatifs à la situation pénale et pénitentiaire du condamné, les éléments afférents aux conditions de prise en charge sanitaire et l'avis du service socio-éducatif de l'établissement, l'avis du juge de l'application des peines et celui du juge des enfants s'il y a lieu, ainsi que la proposition du chef d'établissement.
 
-Ces avis sont joints aux documents visés à l'article D78, en vue de leur transmission à l'établissement où le condamné est détenu.
+Les condamnés ayant à subir un temps d'incarcération d'une durée inférieure ou égale à un an pour les majeurs, et à trois mois pour les mineurs, peuvent faire l'objet d'un dossier d'orientation selon les mêmes modalités lorsque le chef d'établissement estime que leur situation nécessite une orientation particulière.
 
+Lorsque le temps d'incarcération restant à subir est égal ou supérieur à deux ans et, pour les mineurs, à six mois, ce dossier contient également les pièces visées à l'article D. 77.
 
-##### Article D80
-
-Le chef d'établissement signale à l'administration centrale chaque condamné auquel il reste à subir une peine d'une durée supérieure à deux ans, ou plusieurs peines dont le total est supérieur à deux ans, après le moment où la condamnation, ou la dernière des condamnations, est devenue définitive, au moyen d'une notice d'orientation. Il communique le texte de cette notice au juge de l'application des peines afin que ce magistrat soit en mesure de formuler son avis sur la destination du condamné.
-
-La notice contient, avec les propositions du chef d'établissement, les principaux renseignements de nature à permettre l'orientation de l'intéressé, et son examen donne lieu :
-- soit à une décision d'envoi au centre national d'observation ;
-- soit à la délivrance d'un ordre de transfèrement à destination d'un établissement affecté à l'exécution des peines, s'il apparaît immédiatement que cet établissement répond à la situation du condamné ;
-- soit au maintien de l'intéressé à l'établissement où il se trouve, ou à sa mise à la disposition du directeur régional.
+Le dossier d'orientation est adressé au directeur régional des services pénitentiaires, qui arrête une décision d'affectation lorsque celle-ci relève de sa compétence ou communique le dossier assorti de son avis au ministre de la justice.
 
 
-##### Article D81
+###### Article D77
 
-Au vu de la notice mentionnée à l'article D80 et afin de compléter le dossier, l'administration centrale peut procéder ou faire procéder, notamment par un service socio-éducatif des services extérieurs, à toute enquête sur la situation familiale et sociale d'un condamné.
+Le ministère public près la juridiction qui a prononcé une condamnation à une peine privative de liberté adresse à l'établissement pénitentiaire où le condamné est détenu ou doit être incarcéré l'extrait de jugement ou d'arrêt, la notice individuelle visée à l'article D. 158 et, s'il y a lieu, la copie de la décision sur les intérêts civils conformément à l'article D. 325.
 
+Lorsque la peine privative de liberté prononcée est supérieure à deux ans pour les majeurs, et six mois pour les mineurs, le ministère public adresse en outre à l'établissement pénitentiaire, les pièces suivantes :
+1. La copie du rapport de l'enquête ou des enquêtes sur la personnalité, la situation matérielle, familiale ou sociale de l'intéressé, qui auraient été prescrites conformément aux dispositions de l'article 41, alinéa 6, et de l'article 81, alinéas 6 et 7 ;
+2. La copie du rapport de l'examen ou des examens médicaux, psychiatriques ou médico-psychologiques auxquels il aurait été éventuellement procédé en vertu d'une décision judiciaire ;
+3. La copie du réquisitoire définitif et de la décision de condamnation ;
+4. Et, s'il y a lieu, les avis indiqués à l'article D. 78.
 
-##### Article D82
-
-En cas d'admission au centre national d'observation, le condamné est transféré dans cet établissement suivant les instructions et à la date arrêtées par l'administration centrale et il y est soumis obligatoirement aux différents examens qui semblent nécessaires.
-
-
-
-Au vu de ces examens, du dossier qui a été constitué et des propositions du centre national d'observation, une décision d'affectation dans l'établissement qui paraît le mieux approprié à la personnalité de l'intéressé est prise par l'administration centrale.
-
+Ces pièces doivent être envoyées dans le mois qui suit la date à compter de laquelle la condamnation est devenue définitive lorsque l'intéressé est détenu ou, dans le cas contraire, dans le mois qui suit l'incarcération de celui-ci.
 
 
-Le juge de l'application des peines du tribunal dans le ressort duquel est situé le centre national d'observation exerce auprès dudit centre toutes les attributions qui lui sont dévolues par le présent code.
+###### Article D78
+
+Chaque fois qu'ils l'estiment utile, le président de la juridiction qui a prononcé la condamnation ainsi que le représentant du ministère public peuvent exprimer leur avis sur l'affectation qui leur semble la mieux appropriée au condamné ou sur celle qui, au contraire, leur paraît inadaptée.
+
+Ces avis sont joints aux documents mentionnés à l'article D. 77, en vue de leur transmission à l'établissement où le condamné est détenu.
 
 
+###### Article D79
 
-L'affectation ne peut être modifiée que s'il survient un fait ou un élément d'appréciation nouveau et, éventuellement, après un nouvel examen par le centre national d'observation. Ce centre peut également être chargé d'un bilan d'évolution de la personnalité d'un condamné dans la perspective notamment, d'une libération conditionnelle ou d'une meilleure individualisation du régime de détention ou d'exécution de la peine.
+Afin de compléter le dossier mentionné à l'article D. 76, le ministre de la justice, ou le directeur régional, peut procéder ou faire procéder, notamment par un service socio-éducatif des services déconcentrés, à toute enquête sur la situation familiale et sociale d'un condamné. Le chef d'établissement peut également faire procéder à une telle enquête par le service socio-éducatif de son établissement.
+
+
+###### Paragraphe 3 : La décision d'affectation
+
+###### Article D80
+
+Le ministre de la justice dispose d'une compétence d'affectation des condamnés dans toutes les catégories d'établissement. Sa compétence est exclusive pour les affectations dans les maisons centrales et les centres de détention à vocation nationale.
+
+L'affectation des condamnés dans les centres de détention à vocation régionale est décidée par le directeur régional des services pénitentiaires. Celui-ci peut déléguer sa compétence aux directeurs des établissements pénitentiaires comprenant un quartier maison d'arrêt et un quartier centre de détention régional, pour l'affectation des condamnés qui y sont incarcérés et auxquels il reste à subir, au moment où leur condamnation ou la dernière de leurs condamnations est devenue définitive, une incarcération d'une durée inférieure à deux ans.
+
+Les condamnés affectés dans des maisons d'arrêt sont maintenus dans l'établissement où ils sont écroués ou sont transférés dans une autre maison d'arrêt de la région. Dans ce second cas, l'affectation est décidée par le directeur régional des services pénitentiaires en tenant compte notamment de la capacité offerte par chaque établissement.
+
+Dans tous les cas, la décision est prise, sauf urgence, après consultation du juge de l'application des peines.
+
+
+###### Article D81
+
+Lorsque l'affectation incombe au directeur régional, la décision donne lieu :
+1. Soit à la délivrance d'un ordre de transfèrement du condamné à destination d'un centre de détention à vocation régionale ou d'une maison d'arrêt de sa circonscription ;
+2. Soit au maintien de l'intéressé à l'établissement où il se trouve ;
+3. Soit à sa mise à la disposition d'un autre directeur régional après l'accord préalable de ce dernier. Le ministre de la justice est compétent en cas de désaccord entre les directeurs régionaux.
+
+
+###### Article D81-1
+
+Lorsque l'affectation incombe au ministre de la justice, la décision donne lieu :
+1. Soit à l'envoi du condamné au centre national d'observation ;
+2. Soit à la délivrance d'un ordre de transfèrement du condamné à destination d'un établissement pour peine ou d'une maison d'arrêt qui paraît le mieux adapté à sa situation ;
+3. Soit au maintien de l'intéressé à l'établissement où il se trouve ;
+4. Soit à sa mise à la disposition d'un directeur régional.
+
+
+###### Article D81-2
+
+En cas d'admission au centre national d'observation, le condamné est transféré dans cet établissement suivant les instructions et à la date arrêtées par le ministre de la justice. Le détenu est soumis aux différents examens qui semblent nécessaires.
+
+Au vu de ces examens, du dossier qui a été constitué en application de l'article D. 76 et des propositions du centre national d'observation, une décision d'affectation dans l'établissement qui paraît le mieux approprié à la personnalité du condamné est prise par le ministre de la justice.
+
+
+###### Paragraphe 4 : Changements d'affectation
+
+###### Article D82
+
+L'affectation peut être modifiée soit à la demande du condamné, soit à la demande du chef de l'établissement dans lequel il exécute sa peine.
+
+Hors le cas où le condamné a été mis à la disposition d'un directeur régional dans les conditions prévues par les articles D. 81 et D. 81-1, la décision de changement d'affectation appartient à l'autorité qui a décidé de l'affectation initiale.
+
+L'affectation ne peut être modifiée que s'il survient un fait ou un élément d'appréciation nouveau.
+
+
+###### Article D82-1
+
+Que la demande émane du condamné ou du chef d'établissement, ce dernier constitue un dossier qui comprend les éléments permettant d'établir la motivation de la demande.
+
+Le ministre de la justice, le directeur régional ou le chef d'établissement peuvent procéder ou faire procéder dans les conditions définies à l'article D. 79 à toute enquête sur la situation familiale ou sociale du condamné.
+
+La décision de changement d'affectation est prise, sauf urgence, après avis du juge de l'application des peines et du procureur de la République du lieu de détention.
+
+
+###### Article D82-2
+
+Lorsque la décision incombe au directeur régional, elle donne lieu :
+1. Soit à la délivrance d'un ordre de transfèrement du condamné à destination d'un centre de détention à vocation régionale ou d'une maison d'arrêt de sa circonscription ;
+2. Soit au maintien de l'intéressé à l'établissement où il se trouve.
+
+
+###### Article D82-3
+
+Lorsque la décision incombe au ministre de la justice, elle donne lieu :
+1. Soit à l'envoi du condamné au centre national d'observation ;
+2. Soit à la délivrance d'un ordre de transfèrement du condamné à destination d'un autre établissement ;
+3. Soit au maintien de l'intéressé à l'établissement où il se trouve ;
+4. Soit à sa mise à la disposition d'un directeur régional.
+
+
+###### Article D82-4
+
+Indépendamment de toute demande de changement d'affectation émanant du condamné ou du chef d'établissement, le ministre de la justice peut charger le centre national d'observation d'effectuer un bilan d'évolution de la personnalité du condamné dans la perspective, notamment, d'une libération conditionnelle ou d'une meilleure individualisation du régime de détention ou d'exécution de la peine.
 
 
 ##### Section 3 : Du régime auquel les condamnés sont soumis
@@ -13936,19 +13946,19 @@ L'affectation ne peut être modifiée que s'il survient un fait ou un élément 
 
 Dans les maisons d'arrêt cellulaires, ou dans les quartiers cellulaires de ces établissements, il ne peut être dérogé à la règle de l'emprisonnement individuel qu'à titre temporaire, en raison de leur encombrement ou, pendant la journée, en raison des nécessités de l'organisation du travail.
 
-Le chef de l'établissement peut cependant décider, sur l'avis motivé du médecin, de suspendre l'emprisonnement individuel d'un détenu, notamment si l'intéressé manifeste des intentions de suicide, à charge d'en rendre compte au directeur régional et, selon qu'il s'agit d'un prévenu ou d'un condamné, au magistrat saisi du dossier de l'information ou au juge de l'application des peines.
+Le chef de l'établissement peut cependant décider, sur avis médical motivé, de suspendre l'emprisonnement individuel d'un détenu, notamment pour des motifs d'ordre psychologique, à charge d'en rendre compte au directeur régional et, selon qu'il s'agit d'un prévenu ou d'un condamné, au magistrat saisi du dossier de l'information ou au juge de l'application des peines.
 
 
 ####### Article D85
 
 Au cas où le nombre des cellules ne serait pas suffisant pour que chaque détenu puisse en occuper une individuellement, le chef de l'établissement désigne les détenus qui peuvent être placés ensemble dans le quartier en commun ou dans les locaux de désencombrement s'il en existe, et, à défaut, dans les cellules.
 
-Les détenus ainsi désignés ne doivent comprendre, ni les prévenus à l'égard desquels l'autorité judiciaire aura prescrit l'interdiction de communiquer ou la mise à l'isolement, ni les détenus âgés de moins de 21 ans, ni les condamnés à l'emprisonnement de police, non plus, dans la mesure du possible, que les prévenus et les condamnés n'ayant pas subi antérieurement une peine privative de liberté.
+Les détenus ainsi désignés ne doivent comprendre, ni les prévenus à l'égard desquels l'autorité judiciaire aura prescrit l'interdiction de communiquer ou la mise à l'isolement, ni les détenus âgés de moins de 21 ans, non plus, dans la mesure du possible, que les prévenus et les condamnés n'ayant pas subi antérieurement une peine privative de liberté.
 
 
 ####### Article D86
 
-Des coïnculpés ne doivent pas être réunis dans une même cellule, alors même que le magistrat saisi du dossier de l'information n'aurait pas ordonné leur séparation.
+Des personnes mises en examen dans la même affaire ne doivent pas être réunies dans une même cellule, alors même que le magistrat saisi du dossier de l'information n'aurait pas ordonné leur séparation.
 
 
 ####### Article D87
@@ -13967,15 +13977,15 @@ Au surplus, dans la mesure du possible, il convient d'assurer l'emprisonnement i
 
 ####### Article D89
 
-Indépendamment des détenus qui doivent être isolés de leurs codétenus pour des raisons disciplinaires ou par mesure de précaution ou de sécurité, ou sur prescription médicale, et des prévenus qui font l'objet de l'une des mesures visées à l'article D56, il importe que soient séparés, chaque fois que cela est possible les détenus âgés de moins de vingt et un ans, quelle que soit leur situation pénale, et les condamnés à l'emprisonnement de police.
+Indépendamment des détenus qui doivent être isolés de leurs codétenus pour des raisons disciplinaires ou par mesure de précaution ou de sécurité, ou sur prescription médicale, et des prévenus qui font l'objet de l'une des mesures visées à l'article D. 56, il importe que soient séparés, chaque fois que cela est possible les détenus âgés de moins de vingt et un ans, quelle que soit leur situation pénale.
 
 
 ####### Article D90
 
-Pour les détenus dont l'isolement n'est pas assuré dans les conditions prévues à l'article D89, les catégories suivantes doivent être séparées :
-- les condamnés de police ;
-- les autres condamnés ;
-- les détenus soumis à la contrainte judiciaire et les prévenus, conformément aux dispositions de l'article D59.
+Pour les détenus dont l'isolement n'est pas assuré dans les conditions prévues à l'article D. 89, les catégories suivantes doivent être séparées :
+1. Les condamnés ;
+2. Les détenus soumis à la contrainte judiciaire ;
+3. Les prévenus conformément aux dispositions de l'article D. 59.
 
 Doivent être distingués au surplus, à l'intérieur de chacune de ces catégories, d'une part les détenus n'ayant pas subi antérieurement une peine privative de liberté, et d'autre part ceux qui ont déjà encouru de nombreuses condamnations.
 
@@ -13994,16 +14004,16 @@ Le chef d'établissement informe chaque mois le président du tribunal de grande
 
 ####### Article D93
 
-Le directeur régional ordonne tous les transfèrements utiles à l'intérieur de sa région concernant les condamnés à de courtes peines, les détenus pour dettes et les condamnés à de longues peines laissés à sa disposition.
+Le directeur régional ordonne tous les transfèrements utiles à l'intérieur de sa région concernant les condamnés relevant de sa compétence d'affectation, les détenus soumis à la contrainte judiciaire et les condamnés mis à sa disposition.
 
-Si les mesures qui lui paraissent nécessaires concernent d'autres détenus, excèdent sa compétence ou soulèvent des difficultés particulières, il doit adresser dans le moindre délai un rapport au ministre de la justice.
+Si les mesures qui lui paraissent nécessaires concernent d'autres détenus, excèdent sa compétence ou soulèvent des difficultés particulières, il doit adresser dans les plus brefs délais un rapport au ministre de la justice.
 
 
 ###### Article D83
 
 Le régime appliqué dans les maisons d'arrêt est celui de l'emprisonnement individuel de jour et de nuit dans toute la mesure où la distribution des lieux le permet et sauf contre-indication médicale.
 
-Cette règle ne fait pas obstacle, toutefois, à ce que soient organisées des activités collectives ou des activités dirigées, dans les conditions prévues aux articles D362, D446 et D452.
+Cette règle ne fait pas obstacle, toutefois, à ce que soient organisées des activités collectives ou des activités dirigées, dans les conditions prévues aux articles D. 446, D. 452 et D. 459-3.
 
 
 ###### Paragraphe 2 : Etablissements pour peines
@@ -14014,7 +14024,7 @@ Dans chaque maison centrale ou centre de détention la prise en charge des déte
 
 
 
-A cette occasion, les condamnés sont informés du régime intérieur de l'établissement et de leur programme de traitement individuel, dont les modalités sont examinées avec eux, ainsi qu'il est prévu à l'article D. 69-1.
+A cette occasion, les condamnés sont informés du régime intérieur de l'établissement et du projet d'exécution de leur peine, dont les modalités sont examinées avec eux, ainsi qu'il est prévu à l'article D. 74.
 
 
 
@@ -14025,27 +14035,21 @@ La période d'accueil et d'observation, durant laquelle les détenus peuvent êt
 
 Le régime des maisons centrales et des centres de détention comporte l'isolement de nuit. Il n'y est dérogé que sur indication médicale ou, à titre exceptionnel et provisoire, en raison de la distribution des locaux.
 
-
-
 Pendant la journée, les condamnés sont réunis pour le travail et les activités physiques et sportives. Ils peuvent l'être aussi pour les besoins de l'enseignement ou de la formation, de même que pour des activités culturelles ou de loisirs.
 
-
-
-Le contenu de l'emploi du temps, et notamment la part faite à ces diverses activités, doit permettre aux condamnés de conserver ou de développer leurs aptitudes intellectuelles, psychologiques et physiques pour préparer leur réadaptation ultérieure.
+Le contenu de l'emploi du temps, et notamment la part faite à ces diverses activités, doit permettre aux condamnés de conserver ou de développer leurs aptitudes intellectuelles, psychologiques et physiques pour préparer leur réinsertion ultérieure.
 
 
 ###### Article D95-1
 
-Sans préjudice de l'application des dispositions de l'article D95 prévoyant la mise en oeuvre de mesure de traitement pendant toute la durée de l'exécution de la peine, les condamnés bénéficient, au cours de la dernière période de l'incarcération, d'une préparation active à leur élargissement conditionnel ou définitif, en particulier sur le plan socio-professionnel. Cette préparation comprend, le cas échéant, un placement au régime de semi-liberté. Elle est effectuée soit sur place, soit après transfèrement sur un centre ou un quartier spécialisé.
+Sans préjudice de l'application des dispositions de l'article D. 95 prévoyant la mise en oeuvre d'activités pendant toute la durée de l'exécution de la peine, les condamnés bénéficient, au cours de la dernière période de l'incarcération, d'une préparation active à leur élargissement conditionnel ou définitif, en particulier sur le plan socio-professionnel. Cette préparation comprend, le cas échéant, un placement à l'extérieur ou au régime de semi-liberté. Elle est effectuée soit sur place, soit après transfèrement sur un centre ou un quartier spécialisé.
 
 
 ###### Article D97
 
-Le régime des centres de détention visés à l'article D. 70-2 est aménagé en vue de favoriser la resocialisation des condamnés.
+Le régime des centres de détention mentionnés aux articles D. 71 et D. 72 comporte les particularités énoncées aux articles D. 146 concernant les permissions de sortir, D. 417 relatif aux modalités et moyens de correspondance avec l'extérieur et D. 448 sur les activités collectives et leur organisation.
 
-Il comporte, en conséquence, les particularités énoncées aux articles D. 146 concernant les permissions de sortir, D. 417 relatif aux modalités et moyens de correspondance avec l'extérieur et D. 448 sur les activités collectives et leur organisation.
-
-Les détenus dont le comportement se révèle incompatible avec l'application de ce régime sont exclus des centres de détention par application des dispositions de l'article D. 71.
+Les détenus dont le comportement se révèle incompatible avec l'application de ce régime font l'objet d'une procédure de changement d'affectation.
 
 
 ##### Section 6 : Du juge de l'application des peines et de la commission de l'application des peines
@@ -14061,11 +14065,17 @@ La compétence de ce ou de ces magistrats s'exerce à l'égard des établissemen
 
 Le juge de l'application des peines est chargé, auprès des établissements pénitentiaires situés dans le ressort de sa juridiction et dans lesquels sont détenus des condamnés, de suivre l'exécution des peines de ceux-ci.
 
-Il ne peut se substituer au directeur régional ou au chef de l'établissement, en ce qui concerne l'organisation ou le fonctionnement de celui-ci, mais il doit assurer l'individualisation de l'exécution de la sentence judiciaire en orientant et en contrôlant les conditions de son application *obligation*. A cet effet, il lui appartient de décider les principales modalités du traitement auquel sera soumis chaque condamné, et notamment les mesures visées à l'article D. 97 et aux articles D. 118 et suivants.
+
+
+Il ne peut se substituer au directeur régional ou au chef de l'établissement, en ce qui concerne l'organisation ou le fonctionnement de celui-ci, mais il doit assurer l'individualisation de l'exécution de la sentence judiciaire en orientant et en contrôlant les conditions de son application. A cet effet, il lui appartient de décider les principales modalités de l'exécution de la peine, et notamment les mesures visées aux articles D. 118 et suivants.
+
+
 
 Lorsqu'il n'y a pas urgence, il se prononce au sein de la commission de l'application des peines.
 
-Le juge de l'application des peines ordonne l'extraction des condamnés, soit en vue de la comparution de ceux-ci dans son cabinet lorsqu'il l'a estimé utile, soit dans les cas prévus aux articles 723-6, D. 424, D. 425 et D. 455, soit plus généralement pour la mise en application d'une décision relevant de sa compétence. Il requiert l'extraction par les services de police ou de gendarmerie selon la distinction de l'article D. 315.
+
+
+Le juge de l'application des peines ordonne l'extraction des condamnés, soit en vue de la comparution de ceux-ci dans son cabinet lorsqu'il l'a estimé utile, soit dans les cas prévus aux articles 723-6, D. 424, D. 425, D. 455 et D. 459, soit plus généralement pour la mise en application d'une décision relevant de sa compétence. Il requiert l'extraction par les services de police ou de gendarmerie selon la distinction de l'article D. 315.
 
 
 ##### Article D116-1
@@ -14080,11 +14090,11 @@ Lorsque le juge de l'application des peines est appelé à se rendre dans un ét
 
 ##### Article D117-1
 
-La commission de l'application des peines qui siège dans chaque établissement pénitentiaire comprend, outre les membres de droit mentionnés à l'article 722 (alinéa 4), les membres du personnel de direction, le surveillant chef, un membre du personnel de surveillance, les travailleurs sociaux, le médecin et le psychiatre.
+La commission de l'application des peines qui siège dans chaque établissement pénitentiaire comprend, outre les membres de droit mentionnés à l'article 722 (alinéa 4), les membres du personnel de direction, un chef de service pénitentiaire, un membre du personnel de surveillance et les travailleurs sociaux.
 
 
 
-Le juge de l'application des peines peut, en accord avec le chef de l'établissement, faire appel soit à titre permanent, soit pour une séance déterminée, à toute personne remplissant une mission dans la prison, lorsque sa connaissance des cas individuels ou des problèmes à examiner rend sa présence utile.
+Le juge de l'application des peines peut, en accord avec le chef de l'établissement, faire appel soit à titre permanent, soit pour une séance déterminée, à toute personne remplissant une mission dans l'établissement pénitentiaire, lorsque sa connaissance des cas individuels ou des problèmes à examiner rend sa présence utile.
 
 
 
@@ -14106,30 +14116,46 @@ Si le condamné ne satisfait pas aux obligations qui lui sont imposées ou s'il 
 
 ###### Article D119
 
-La décision de placement à l'extérieur des condamnés en vue de leur emploi à des travaux contrôlés par l'administration, d'admission au régime de semi-liberté, sous réserve de l'application des dispositions de l'article 723-1, d'autorisation de sortie sous escorte ou de permission de sortir est prise [*compétence*] par le juge de l'application des peines, sur la proposition ou après avis du chef de l'établissement et, sauf urgence, au sein de la commission de l'application des peines.
+La décision de placement à l'extérieur des condamnés, d'admission au régime de semi-liberté, sous réserve de l'application des dispositions de l'article 132-25 du code pénal, d'autorisation de sortie sous escorte ou de permission de sortir est prise par le juge de l'application des peines, sur la proposition ou après avis du chef de l'établissement et, sauf urgence, au sein de la commission de l'application des peines.
+
+
 
 Ce magistrat recueille tous les renseignements qu'il estime utiles, sans préjudice de l'application des dispositions de l'article D. 127 lorsqu'il s'agit de l'ouverture d'un chantier de travail.
 
 
 ###### Article D120
 
-Par exception au principe posé à l'article D. 119, l'admission au régime de semi-liberté est prononcée par le ministre de la justice, lorsqu'elle a lieu à titre probatoire préalablement à la mise à exécution d'un arrêté de libération conditionnelle, dans l'hypothèse visée à l'article D. 535-1°.
+Par exception au principe posé à l'article D. 119, l'admission au régime de semi-liberté ou au régime de placement à l'extérieur sans surveillance en application de l'article D. 136 est prononcée par le ministre de la justice, lorsqu'elle a lieu à titre probatoire préalablement à la mise à exécution d'un arrêté de libération conditionnelle, dans l'hypothèse visée à l'article D. 535-1°.
+
+
+###### Article D121
+
+Les rémunérations des condamnés bénéficiant d'un contrat de travail dans les conditions définies au deuxième alinéa de l'article D. 103 sont versées directement par l'employeur sur un compte extérieur dont est titulaire le condamné, sauf prescriptions contraires du juge de l'application des peines.
+
+Les rémunérations des détenus exerçant une activité à l'extérieur de l'établissement, dans les conditions prévues par le premier alinéa de l'article D. 103, sont versées, sauf prescriptions contraires du juge de l'application des peines, à l'établissement pénitentiaire qui approvisionne le compte nominatif des détenus, en application des dispositions relatives à la répartition des produits du travail.
+
+
+###### Article D121-1
+
+Les condamnés admis au régime de la semi-liberté ou du placement à l'extérieur sans surveillance en application de l'article D. 136 sont dispensés de la constitution du pécule de libération.
+
+Ils demeurent redevables de la part réservée à l'indemnisation des parties civiles et aux créanciers d'aliments, sous réserve de prescriptions particulières déterminées par le juge de l'application des peines.
 
 
 ###### Article D122
 
-Par dérogation aux dispositions de l'article D. 318, les détenus admis au régime de semi-liberté ou bénéficiaires d'une permission de sortir sont autorisés à détenir une somme d'argent leur permettant d'effectuer en dehors de l'établissement les dépenses nécessaires et, notamment, de payer les repas pris à l'extérieur et d'utiliser des moyens de transport.
+Par dérogation aux dispositions de l'article D. 318, les détenus bénéficiant d'une mesure de semi-liberté ou d'un placement à l'extérieur sans surveillance en application de l'article D. 136 ou bénéficiaires d'une permission de sortir sont autorisés à détenir une somme d'argent leur permettant d'effectuer en dehors de l'établissement les dépenses nécessaires et, notamment, de payer les repas pris à l'extérieur, d'utiliser des moyens de transport et de faire face à des frais médicaux éventuels.
 
 
 
-Le chef de l'établissement apprécie, au moment de la sortie des intéressés, l'importance de la somme qui doit leur être remise, par prélèvement sur leur part disponible. Lorsqu'ils réintègrent la prison, et à intervalles réguliers en ce qui concerne les semi-libres, les détenus doivent justifier des dépenses effectuées et le reliquat de la somme qui avait été mise à leur disposition est déposé au service comptable.
+Le chef de l'établissement apprécie, au moment de la sortie des intéressés, l'importance de la somme qui doit leur être remise, par prélèvement sur leur part disponible. Lorsqu'ils réintègrent l'établissement pénitentiaire, et à intervalles réguliers en ce qui concerne les semi-libres, les détenus doivent justifier des dépenses effectuées et le reliquat de la somme qui avait été mise à leur disposition est déposé au service comptable.
 
 
 ###### Article D123
 
-Les détenus autorisés à sortir d'un établissement sans faire l'objet d'une surveillance doivent être porteurs d'un document leur permettant de justifier de la régularité de leur situation.
+Les détenus autorisés à sortir d'un établissement sans faire l'objet d'une surveillance en application des articles 723 et 723-3 doivent être porteurs d'un document leur permettant de justifier de la régularité de leur situation.
 
-Outre les renseignements d'état civil et d'anthropométrie utiles, ce document doit mentionner les lieux où les intéressés sont autorisés à se rendre ainsi que la date et l'heure auxquelles ils sont dans l'obligation de réintégrer la prison.
+Outre les renseignements d'état civil, ce document doit mentionner les lieux où les intéressés sont autorisés à se rendre ainsi que la date et l'heure auxquelles ils sont dans l'obligation de réintégrer l'établissement pénitentiaire.
 
 Il doit être produit à toute réquisition de l'autorité publique.
 
@@ -14144,7 +14170,7 @@ Toute inobservation de ces règles, tout manquement à l'obligation de bonne con
 
 
 
-Le juge de l'application des peines prononce, le cas échéant, le retrait de la mesure lorsque celle-ci a été accordée par lui.
+Conformément à l'article D. 117-2, le juge de l'application des peines prononce, le cas échéant, le retrait de la mesure lorsque celle-ci a été accordée par lui.
 
 
 
@@ -14155,9 +14181,7 @@ Lorsque le régime de semi-liberté a été décidé par la juridiction de jugem
 
 Les détenus qui, bénéficiant d'une des autorisations prévues aux articles 723 et 723-3, n'ont pas regagné l'établissement pénitentiaire dans les délais fixés, doivent être considérés comme se trouvant en état d'évasion.
 
-
-
-Les diligences prévues aux articles D280 et D283 doivent en conséquence être effectuées, et les intéressés, de même que ceux qui auraient tenté de se soustraire à l'obligation de réintégrer la prison, encourent des sanctions disciplinaires sans préjudice des poursuites pénales qui pourraient être exercées en application de l'article 245 du code pénal.
+Les diligences prévues aux articles D. 280 et D. 283 doivent en conséquence être effectuées, et les intéressés, de même que ceux qui auraient tenté de se soustraire à l'obligation de réintégrer la prison, encourent des sanctions disciplinaires sans préjudice des poursuites pénales qui pourraient être exercées en application de l'article 434-29 du code pénal.
 
 
 ###### Article D125-1
@@ -14167,23 +14191,96 @@ Les condamnés bénéficiant d'une mesure prise en application de l'article 723,
 La déclaration d'emploi est souscrite à la diligence et sous la responsabilité de l'employeur, conformément aux obligations qui lui incombent selon la nature de son entreprise.
 
 
-###### Paragraphe 3 : Régime de semi-liberté
+###### Paragraphe 2 : Placement à l'extérieur sous surveillance du personnel pénitentiaire
+
+###### Article D126
+
+En application des dispositions du premier alinéa de l'article 723, les condamnés peuvent être employés en dehors d'un établissement pénitentiaire à des travaux contrôlés par l'administration.
+
+Ces travaux, quelle qu'en soit la nature, peuvent être exécutés pour le compte d'une administration, d'une collectivité publique, d'une personne physique ou morale sous les régimes définis au premier alinéa de l'article D. 103.
+
+
+###### Article D127
+
+L'ouverture d'un chantier de travail dans les conditions prévues à l'article D. 126 est subordonnée à l'accord du préfet si l'effectif des détenus est supérieur à trois. Dans les autres cas, il en est tenu informé.
+
+
+###### Article D128
+
+Peuvent être désignés pour être employés à des travaux à l'extérieur, s'ils présentent des garanties suffisantes pour la sécurité et l'ordre public, notamment au regard de leur personnalité, de leurs antécédents, de leur conduite en détention et des gages de réinsertion dont ils ont fait preuve :
+1. Les détenus ayant à subir une durée d'incarcération inférieure ou égale à cinq ans et n'ayant pas été condamnés antérieurement à une peine privative de liberté supérieure à six mois ;
+2. Les détenus remplissant les conditions de délai requises pour être proposés au bénéfice de la libération conditionnelle, quels que soient leurs antécédents et la durée de l'incarcération à subir ;
+3. Les détenus remplissant les conditions de délai requises pour être admis à la semi-liberté.
+
+
+###### Article D130
+
+Les détenus placés à l'extérieur demeurent soumis à la surveillance effective du personnel pénitentiaire.
+
+
+
+Celui-ci a la charge d'appliquer les prescriptions et règlements relatifs au régime disciplinaire, notamment en ce qui concerne les communications avec les tiers. L'employeur doit se conformer aux indications qui lui sont données à cet égard.
+
+
+
+A la fin de chaque journée de travail, les détenus sont réintégrés à l'établissement pénitentiaire, à moins que, sur proposition de l'administration pénitentiaire, il n'en soit décidé autrement par le juge de l'application des peines.
+
+
+###### Article D131
+
+Le chef d'établissement pénitentiaire doit s'assurer de la stricte application des consignes données au personnel de surveillance pour l'application des dispositions de l'article D. 130.
+
+
+###### Article D133
+
+Le chef d'établissement a qualité pour accorder une concession pour une durée égale ou inférieure à trois mois ou concernant un effectif égal ou inférieur à cinq détenus.
+
+Les concessions envisagées pour une durée supérieure à trois mois ou pour un effectif supérieur à cinq détenus font l'objet d'un contrat qui en fixe les conditions particulières, notamment en ce qui concerne l'effectif et la rémunération des détenus et la durée de la concession. Ce contrat est signé par le représentant de l'entreprise concessionnaire et le directeur régional des services pénitentiaires.
+
+Ainsi qu'il est dit à l'article D. 119, il ne peut recevoir effet à l'égard du placement de chaque détenu qu'après autorisation du juge de l'application des peines.
+
+
+###### Article D134
+
+Les prix payés pour le travail des détenus doivent être égaux aux salaires et aux accessoires de salaires des travailleurs libres de la même catégorie placés dans les mêmes conditions de tâche et de lieu, déduction faite des frais particuliers pouvant incomber à l'employeur.
+
+
+###### Article D135
+
+Les détenus placés à l'extérieur sont soumis aux mêmes horaires et conditions de travail que les travailleurs libres de même profession.
+
+
+###### Paragraphe 3 : Placement à l'extérieur sans surveillance du personnel pénitentiaire
+
+###### Article D136
+
+Peuvent être autorisés soit à travailler à l'extérieur, soit à y suivre un enseignement, un stage, un emploi temporaire en vue de leur insertion sociale, une formation professionnelle ou faire l'objet d'une prise en charge sanitaire, sans être soumis à la surveillance continue du personnel pénitentiaire :
+1. Les condamnés dont la peine restant à subir n'excède pas un an ;
+2. Les condamnés admis au bénéfice de la libération conditionelle, sous la condition d'avoir été soumis à titre probatoire au régime du placement à l'extérieur ;
+3. Les condamnés qui remplissent les conditions de délai requises pour être proposés au bénéfice de la libération conditionnelle et dont la peine restant à subir n'excède pas trois ans.
+
+Le juge de l'application des peines détermine les conditions particulières de l'exécution de la mesure suivant la nature de l'activité ou de la prise en charge sanitaire, et la personnalité du condamné.
+
+Il peut en outre subordonner l'octroi ou le maintien de la mesure à l'une ou plusieurs des conditions énumérées à l'article D. 536.
+
+L'employeur ou le directeur de l'établissement de formation ou de soins doit informer sans délai le représentant qualifié de l'administration pénitentiaire de tout incident concernant le détenu, notamment de toute absence quelle qu'en soit la durée.
+
+
+###### Paragraphe 4 : Régime de semi-liberté
 
 ###### Article D138
 
-L'octroi ou le maintien de la semi-liberté peut être subordonné à l'une ou plusieurs des conditions énumérées à l'article D536.
+L'octroi ou le maintien de la semi-liberté peut être subordonné à l'une ou plusieurs des conditions énumérées à l'article D. 536.
 
 
-###### Article D139
+###### Article D137
 
-Les condamnés admis au régime de semi-liberté s'engagent à respecter les règles générales et spéciales dont ils reçoivent communication.
+Les condamnés admis au régime de la semi-liberté en application des dispositions des articles 132-25 du code pénal et 723-1 du code de procédure pénale s'engagent à respecter les conditions de bonne tenue et d'assiduité au travail, la participation effective à l'activité et le suivi du traitement médical.
 
-Les règles générales, qui sont déterminées par le ministre de la justice, concernent les conditions de bonne tenue et d'assiduité au travail, la participation effective à l'activité, et le suivi du traitement médical.
-
-Les règles spéciales, qui sont arrêtées par le juge de l'application des peines, ont trait aux jours et heures de sortie et de retour, aux conditions particulières propres à la nature de l'activité ou du traitement et à la personnalité du condamné ainsi que, s'il y a lieu, aux modalités de versement de son salaire.
+Le juge de l'application des peines détermine les jours et heures de sortie et de retour, les conditions particulières propres à la nature de l'activité ou du traitement et à la personnalité du condamné.
 
 
-###### Paragraphe 4 : Permissions de sortir
+###### Paragraphe 5 : Permissions de sortir
 
 ###### Article D142
 
@@ -14194,23 +14291,40 @@ Un délai de route peut être accordé au bénéficiaire de la permission de sor
 
 ###### Article D142-1
 
-Les conditions de délai prévues aux articles D143 à D146 ne sont applicables que si le condamné n'est pas en cours d'exécution de la période de sûreté.
+Les conditions de délai prévues aux articles D. 143 à D. 146 ne sont applicables que si le condamné n'est pas en cours d'exécution de la période de sûreté.
 
 
 ###### Article D143
 
 Des permissions de sortir d'une durée n'excédant pas la journée peuvent être accordées dans les cas suivants aux condamnés à une peine privative de liberté inférieure ou égale à cinq ans ainsi qu'aux condamnés à une peine privative de liberté supérieure à cinq ans, lorsque ces derniers ont exécuté la moitié de leur peine :
-1. Présentation à leurs employeurs éventuels des détenus prochainement libérables ou susceptibles d'être admis au bénéfice de la libération conditionnelle ou au régime de semi-liberté ;
-2. Présentation aux épreuves d'un examen dans les conditions prévues aux articles D455 et D459 ;
-3. Présentation dans un centre d'examen médical, psychologique ou psychotechnique ;
-4. Accomplissement de toute formalité requise par l'autorité militaire soit préalablement à un engagement dans les forces armées en vue duquel la libération conditionnelle a été accordée, soit à l'égard des détenus militaires et marins ;
-5. Sortie les dimanches et jours fériés ou chômés des condamnés admis au régime de semi-liberté ;
-6. Comparution soit devant une juridiction de l'ordre judiciaire, soit devant une juridiction ou un organisme d'ordre administratif, d'un condamné admis au régime de semi-liberté.
+
+
+1. Présentation à leurs employeurs éventuels des détenus prochainement libérables ou susceptibles d'être admis au bénéfice de la libération conditionnelle ou au régime de semi-liberté ou de placement à l'extérieur en application de l'article D. 136 ;
+
+
+2. Présentation aux épreuves d'un examen dans les conditions prévues aux articles D. 455 et D. 459 ;
+
+
+3. Présentation dans un centre de soins ;
+
+
+4. Accomplissement de toute formalité requise par l'autorité militaire soit préalablement à un engagement dans les forces armées en vue duquel la libération conditionnelle a été accordée, soit à l'égard des détenus militaires ;
+
+
+5. Sorties pour la pratique d'activités culturelles ou sportives organisées ;
+
+
+6. Comparution soit devant une juridiction de l'ordre judiciaire, soit devant une juridiction ou un organisme d'ordre administratif.
+
+
+###### Article D143-1
+
+Des permissions de sortir peuvent être accordées les samedis, dimanches et jours fériés ou chômés aux condamnés admis au régime de la semi-liberté ou bénéficiant d'un placement à l'extérieur en application de l'article D. 136.
 
 
 ###### Article D144
 
-A l'occasion des circonstances familiales graves visées à l'article D425, une permission de sortir d'une durée maximale de trois jours peut être accordée, d'une part aux condamnés à une peine privative de liberté inférieure ou égale à cinq ans, et, d'autre part, aux condamnés à une peine privative de liberté supérieure à cinq ans, lorsqu'ils ont exécuté la moitié de leur peine.
+A l'occasion des circonstances familiales graves visées à l'article D. 425, une permission de sortir d'une durée maximale de trois jours peut être accordée, d'une part aux condamnés à une peine privative de liberté inférieure ou égale à cinq ans, et, d'autre part, aux condamnés à une peine privative de liberté supérieure à cinq ans, lorsqu'ils ont exécuté la moitié de leur peine.
 
 
 ###### Article D145
@@ -14222,7 +14336,7 @@ Ces permissions sont accordées sans condition de délai aux condamnés exécuta
 
 ###### Article D146
 
-Les condamnés incarcérés dans les centres de détention peuvent bénéficier des permissions de sortir prévues à l'article D145, lorsqu'ils ont exécuté le tiers de leur peine.
+Les condamnés incarcérés dans les centres de détention peuvent bénéficier des permissions de sortir prévues à l'article D. 145, lorsqu'ils ont exécuté le tiers de leur peine.
 
 A leur égard, la durée de ces permissions peut être portée à cinq jours et, une fois par an, à dix jours.
 
@@ -14230,6 +14344,8 @@ A leur égard, la durée de ces permissions peut être portée à cinq jours et,
 ###### Article D147
 
 Le détenu bénéficiaire d'une permission de sortir doit supporter les frais occasionnés par son séjour hors de l'établissement et notamment le coût des moyens de transport qu'il serait éventuellement obligé d'utiliser.
+
+
 
 En conséquence, aucune autorisation de sortir ne peut être accordée si une somme suffisante ne figure pas à la part disponible du condamné ou si l'intéressé ne justifie pas de possibilités licites d'hébergement et de transport.
 
@@ -14243,20 +14359,11 @@ Indépendamment des cas où il est procédé à leur extraction ou à leur trans
 
 ###### Paragraphe 1er : Principes
 
-###### Article D98
-
-Les condamnés à des peines privatives de liberté pour des faits qualifiés crimes ou délits de droit commun sont dispensés du travail  s'ils suivent effectivement un enseignement ou une formation professionnelle ou si, après avis du médecin, ils sont reconnus inaptes.
-
-
-
-L'inobservation par des détenus des ordres ou des instructions donnés pour l'exécution d'une tâche peut entraîner l'application de sanctions disciplinaires.
-
-
 ###### Article D99
 
-De même que les prévenus, les condamnés de police, les condamnés bénéficiant du régime visé à l'article D493 et les détenus pour dettes peuvent demander qu'il leur soit donné du travail.
+Les détenus, quelle que soit leur catégorie pénale, peuvent demander qu'il leur soit proposé un travail.
 
-Dans cette hypothèse, ils sont assujettis aux mêmes règles que les condamnés pour l'organisation et la discipline du travail.
+L'inobservation par les détenus des ordres et instructions donnés pour l'exécution d'une tâche peut entraîner la mise à pied ou le déclassement de l'emploi.
 
 
 ###### Article D100
@@ -14268,11 +14375,17 @@ Les dispositions nécessaires doivent être prises pour qu'un travail productif 
 
 Le travail est procuré aux détenus compte tenu du régime pénitentiaire auquel ceux-ci sont soumis, des nécessités de bon fonctionnement des établissements ainsi que des possibilités locales d'emploi.
 
+
+
 Dans la mesure du possible, le travail de chaque détenu est choisi en fonction non seulement de ses capacités physiques et intellectuelles, mais encore de l'influence que ce travail peut exercer sur les perspectives de sa réinsertion. Il est aussi tenu compte de sa situation familiale et de l'existence de parties civiles à indemniser.
 
-Les détenus peuvent être autorisés à travailler pour leur propre compte par le chef d'établissement s'il s'agit d'un membre du personnel de direction, sinon, par le directeur régional. Ils peuvent également être autorisés à travailler pour le compte d'associations constituées en vue de préparer leur réinsertion sociale et professionnelle.
 
-Ces associations sont agréées par décision du garde des sceaux, ministre de la justice.
+
+Les détenus peuvent être autorisés à travailler pour leur propre compte. Ils peuvent également être autorisés à travailler pour le compte d'associations constituées en vue de préparer leur réinsertion sociale et professionnelle.
+
+
+
+Ces associations sont agréées par décision du directeur régional des services pénitentiaires territorialement compétent.
 
 
 ###### Paragraphe 2 : Formes et modalités du travail
@@ -14286,25 +14399,29 @@ L'organisation, les méthodes et les rémunérations du travail doivent se rappr
 
 ###### Article D103
 
-Le travail est effectué dans les établissements pénitentiaires sous le régime de la régie directe, de la concession ou de celui qui est défini pour les détenus autorisés à travailler pour leur propre compte ou dans le cadre d'une association agréée.
+Outre les modalités prévues à l'article D. 101, alinéa 3, le travail est effectué dans les établissements pénitentiaires sous le régime du service général, de la concession de main-d'oeuvre pénale ou dans le cadre d'une convention conclue entre les établissements pénitentiaires et le service de l'emploi pénitentiaire.
 
-Sont exclusives de tout contrat de travail les relations qui s'établissent entre l'administration pénitentiaire et le détenu auquel elle procure un travail ainsi que les relations entre l'entreprise concessionnaire et le détenu mis à sa disposition selon les conditions d'une convention administrative qui fixe, notamment, les conditions de rémunération et d'emploi.
+Les relations entre l'organisme employeur et le détenu sont exclusives de tout contrat de travail ; il est dérogé à cette règle pour les détenus admis au régime de la semi-liberté. Cette règle peut en outre être écartée, conformément à l'article 720, pour les détenus exerçant des activités à l'extérieur des établissements pénitentiaires dans les conditions définies au premier alinéa de l'article 723.
 
-Toutefois, conformément au second alinéa de l'article 723, les dispositions ci-dessus ne sont pas applicables aux condamnés admis au régime de semi-liberté qui font l'objet, s'ils sont préalablement détenus, d'une décision de placement à laquelle ils doivent souscrire.
+Les conditions de rémunération et d'emploi des détenus qui travaillent sous le régime de la concession ou pour le compte d'associations sont fixées par convention, en référence aux conditions d'emploi à l'extérieur, en tenant compte des spécificités de la production en milieu carcéral.
 
 
 ###### Article D104
 
 Les concessions de travail à l'intérieur des établissements pénitentiaires font l'objet de clauses et conditions générales arrêtées par le ministre de la justice.
 
-Le chef d'établissement, s'il s'agit d'un membre du personnel de direction, a qualité [*compétence*] pour accorder une concession de travail pour une durée égale ou inférieure à trois mois ou pour un effectif égal ou inférieur à cinq détenus.
 
-Les concessions [*de travail*] envisagées pour une durée supérieure à trois mois ou pour un effectif supérieur à cinq détenus font l'objet d'un contrat qui en fixe les conditions particulières notamment quant à l'effectif des détenus, au montant des rémunérations et à la durée de la concession. Ce contrat est signé par le représentant de l'entreprise concessionnaire et le directeur régional.
+
+Le chef d'établissement a qualité pour accorder une concession de travail pour une durée égale ou inférieure à trois mois ou pour un effectif égal ou inférieur à cinq détenus.
+
+
+
+Les concessions envisagées pour une durée supérieure à trois mois ou pour un effectif supérieur à cinq détenus font l'objet d'un contrat qui en fixe les conditions particulières notamment quant à l'effectif des détenus, au montant des rémunérations et à la durée de la concession. Ce contrat est signé par le représentant de l'entreprise concessionnaire et le directeur régional.
 
 
 ###### Article D105
 
-Dans chaque établissement, des détenus sont affectés au service général de la prison, en vue de maintenir en état de propreté les locaux de la détention et d'assurer les différents travaux ou corvées nécessaires au fonctionnement des services.
+Dans chaque établissement, des détenus sont affectés au service général de l'établissement pénitentiaire, en vue de maintenir en état de propreté les locaux de la détention et d'assurer les différents travaux ou corvées nécessaires au fonctionnement des services.
 
 Ces détenus sont choisis de préférence parmi les condamnés n'ayant pas une longue peine à subir ; des prévenus ne peuvent être désignés qu'avec l'accord préalable du magistrat saisi du dossier de l'information.
 
@@ -14315,9 +14432,9 @@ Aucun détenu ne peut être employé aux écritures de la comptabilité généra
 
 ###### Article D106
 
-Les rémunérations pour tout travail effectué par un détenu sont versées, sous réserve des dispositions du troisième alinéa de l'article D103, à l'administration qui opère le reversement des cotisations sociales aux organismes de recouvrement et procède ensuite à l'inscription et à la répartition de la rémunération nette sur le compte nominatif des détenus, conformément aux dispositions des articles D111 et suivants.
+Les rémunérations pour tout travail effectué par un détenu sont versées, sous réserve des dispositions de l'article D. 121, à l'administration qui opère le reversement des cotisations sociales aux organismes de recouvrement et procède ensuite à l'inscription et à la répartition de la rémunération nette sur le compte nominatif des détenus, conformément aux dispositions des articles D. 111 et suivants.
 
-Ces rémunérations sont soumises à cotisations patronales et ouvrières selon les modalités fixées, pour les assurances maladie, maternité et vieillesse, par les articles R381-97 à R381-109 du Code de la sécurité sociale. En outre, pour celles qui sont versées par les entreprises concessionnaires, un prélèvement spécial est effectué au bénéfice du fonds national des allocations familiales dans les conditions prévues par le décret n° 77-946 du 2 août 1977.
+Ces rémunérations sont soumises à cotisations patronales et ouvrières selon les modalités fixées, pour les assurances maladie, maternité et vieillesse, par les articles R. 381-97 à R. 381-109 du Code de la sécurité sociale.
 
 Les tarifs de rémunération sont portés à la connaissance des détenus.
 
@@ -14338,7 +14455,16 @@ Le respect du repos hebdomadaire et des jours fériés doit être assuré ; les 
 
 ###### Article D109
 
-Les dispositions législatives et réglementaires relatives à l'hygiène et à la sécurité des travailleurs dans les établissements industriels sont applicables dans les établissements pénitentiaires.
+Sont applicables aux travaux effectués par les détenus dans les établissements pénitentiaires ou à l'extérieur des établissements pénitentiaires dans les conditions définies au premier alinéa de l'article 723, les mesures d'hygiène et de sécurité prévues par le livre II du titre III du code du travail et les décrets pris pour son application.
+
+
+###### Article D109-1
+
+Pour l'application des règles d'hygiène et de sécurité aux travaux effectués par les détenus, soit dans les établissements pénitentiaires, soit à l'extérieur de ceux-ci dans les conditions définies au premier alinéa de l'article 723, le chef d'établissement compétent peut solliciter l'intervention des services de l'inspection du travail. Cette intervention donne lieu à un rapport, adressé au chef d'établissement pénitentiaire, qui indique, s'il y a lieu, les manquements en matière d'hygiène et de sécurité et recommande les mesures de nature à remédier à la situation.
+
+Le chef d'établissement pénitentiaire adresse dans les deux mois, au service de l'inspection du travail à l'origine du rapport, une réponse motivée précisant les mesures qui lui ont fait suite ainsi que celles qui seront prises, accompagnées d'un calendrier de réalisation. Lorsque la situation du travail présente un risque grave et imminent pour la santé ou la sécurité des détenus au travail, ce délai est ramené à quinze jours.
+
+En cas de désaccord sur la nature ou le calendrier de ces mesures, l'inspecteur du travail en réfère au directeur régional du travail, de l'emploi et de la formation professionnelle qui saisit le directeur régional des services pénitentiaires compétent. Ce dernier fait connaître sa réponse dans un délai d'un mois.
 
 
 ###### Article D110
@@ -14372,11 +14498,9 @@ Les rémunérations versées sur crédits budgétaires sont nettes de tout prél
 
 ##### Article D113
 
-Une part égale à 20 % [*pourcentage*] de la rémunération telle qu'elle résulte de l'article D111 est affectée à la constitution d'un pécule de libération ainsi qu'à l'indemnisation des parties civiles.
+Une part égale à 10 % de la rémunération telle qu'elle résulte de l'article D. 111 est affectée à la constitution du pécule de libération, sous réserve des dispositions particulières de l'article D. 121-1.
 
-Les prélèvements relatifs à l'indemnisation des parties civiles sont limités à la moitié de cette part.
-
-La part prévue par le premier alinéa du présent article est réduite à 10 % [*pourcentage*] pour les semi-libres. Elle est exclusivement réservée à l'indemnisation des parties civiles.
+Une part égale à 10 % de la rémunération telle qu'elle résulte de l'article D. 111 est affectée à l'indemnisation des parties civiles et aux créanciers d'aliments.
 
 
 ##### Article D114
@@ -14388,19 +14512,25 @@ La portion attribuée aux détenus sur les produits de leur travail peut toutefo
 
 #### Chapitre III : Des dispositions communes aux différents établissements pénitentiaires
 
-##### Section 1 : Du greffe judiciaire des prisons
+##### Section 1 : Du greffe judiciaire des établissements pénitentiaires
 
-###### Paragraphe 1 : Registre et formalités d'écrou.
+###### Paragraphe 1er : Registre et formalités d'écrou
 
 ###### Article D148
 
 Tout établissement pénitentiaire est pourvu d'un registre d'écrou.
 
+
+
 Le chef de l'établissement, ou sous son autorité le fonctionnaire chargé du greffe, tient ce registre et veille à la légalité de la détention des individus incarcérés ainsi qu'à l'élargissement des libérables.
+
+
 
 Le registre d'écrou est constitué de feuilles mobiles sur lesquelles figurent le numéro d'écrou initial ainsi que le numéro d'écrou actuel et classées dans un fichier.
 
-Il doit être présenté aux fins de contrôle et de visa, aux différentes autorités judiciaires à chacune de leurs visites, ainsi qu'aux autorités administratives qui procèdent à l'inspection générale de l'établissement [*obligation*].
+
+
+Il doit être présenté aux fins de contrôle et de visa, aux différentes autorités judiciaires à chacune de leurs visites, ainsi qu'aux autorités administratives qui procèdent à l'inspection générale de l'établissement.
 
 
 ###### Article D149
@@ -14430,7 +14560,7 @@ En cas de sortie consécutive à une décision de suspension ou de fractionnemen
 
 De même, lors de son retour, un acte d'écrou est dressé sous forme simplifiée et l'intéressé reprend le numéro d'écrou qui lui était attribué avant sa sortie.
 
-Ces formalités d'écrou sous forme simplifiée sont également applicables aux détenus qui font l'objet d'un transfèrement dans les conditions prévues à l'article D. 313-1 du C.P.P.
+Ces formalités d'écrou sous forme simplifiée sont également applicables aux détenus qui font l'objet d'un transfèrement dans les conditions prévues à l'article D. 313-1 du code de procédure pénale.
 
 
 ###### Article D149-2
@@ -14440,76 +14570,43 @@ Dans les cas d'application de la procédure d'écrou simplifié, le chef d'étab
 
 ###### Article D150
 
-Outre les écritures exigées pour l'incarcération ou la libération et la mention des ordonnances prévues aux articles 133, 145, 148 et 179, ainsi que des jugements ou arrêts prévus aux articles 213, 464-1 et 569, des indications doivent être portées pour prévenir les fraudes, fixer l'identité des détenus et faire connaître les modifications subies par la situation pénale ou administrative de ceux-ci pendant leur détention ou au moment de leur mise en liberté.
+Outre les écritures exigées pour l'incarcération ou la libération et la mention des ordonnances prévues aux articles 133,145,148 et 179, ainsi que des jugements ou arrêts prévus aux articles 213, 464-1 et 569, des indications doivent être portées pour prévenir les fraudes, fixer l'identité des détenus et faire connaître les modifications subies par la situation pénale ou administrative de ceux-ci pendant leur détention ou au moment de leur mise en liberté.
 
 
 ###### Article D151
 
 Le registre d'écrou ne doit pas quitter l'établissement pénitentiaire.
 
+
+
 Toutefois, à titre exceptionnel, la fiche d'écrou d'un détenu peut être déplacée en dehors de cet établissement afin de permettre soit l'écrou d'un individu hospitalisé immédiatement après son arrestation et momentanément intransportable, soit la levée d'écrou d'un détenu hospitalisé au moment de sa libération.
 
 
-###### Paragraphe 2 : Autres registres et écritures du greffe.
+###### Paragraphe 2 : Autres registres et écritures du greffe
 
 ###### Article D152
 
-Indépendamment du registre d'écrou, des registres ou livres prévus par la réglementation comptable, le chef de l'établissement doit tenir ou faire tenir des registres et les fichiers dont la nomenclature suit, sans préjudice de ceux dont la tenue est ou viendrait à être prescrite par décision ministérielle ou dont l'utilité apparaîtrait dans la pratique :
+Indépendamment du registre d'écrou, des registres ou livres prévus par la réglementation comptable, le chef de l'établissement doit tenir ou faire tenir les registres et les fichiers suivants :
+1. Répertoire alphabétique des détenus écroués ;
+2. Registre des demandes de mise en liberté, de saisine de la chambre d'accusation, de demandes d'actes ou de mesures utiles à l'instruction et de requêtes en annulation ;
+3. Registre des déclarations d'opposition ;
+4. Registre des déclarations d'appel et de pourvoi ;
+5. Registre des libérations par mois ;
+6. Fichier des libérations conditionnelles ;
+7. Fichier des interdits de séjour ;
+8. Registre du contrôle numérique ;
+9. Registre des mesures d'individualisation de la peine ;
+10. Registre des inspections et carnet d'ordres de service ;
+11. Registre des entrées et sorties ;
+12. Registre des mesures mentionnées à l'article 723 ;
+13. Fichier des réductions de peine.
 
 
-- répertoire alphabétique des détenus écroués ;
+###### Article D153
 
+Pour l'application des articles 81, 82-1, 148-7, 148-8, 156, 167, 173, 221-2, 490-1, 503, 547 et 577, le chef de l'établissement, ou, sous son autorité, le fonctionnaire chargé du greffe, tient dans chaque établissement un registre des déclarations d'appel ou de pourvoi, un registre des déclarations d'opposition et un registre des demandes de mise en liberté, de saisine de la chambre d'accusation, de demandes d'actes ou de mesures utiles à l'instruction et de requêtes en annulation, dans lesquels sont conservées les déclarations, demandes et requêtes qu'il est appelé à recevoir et à transmettre.
 
-- registre des demandes de mise en liberté et de saisine de la chambre d'accusation ;
-
-
-- registre des déclarations d'opposition ;
-
-
-- registre des déclarations d'appel et de pourvoi ;
-
-
-- registre des libérations par mois ;
-
-
-- fichier des libérations conditionnelles ;
-
-
-- fichier des interdits de séjour ;
-
-
-- registre du contrôle numérique ;
-
-
-- registre des lettres adressées par les détenus aux autorités ;
-
-
-- registre des sanctions disciplinaires ;
-
-
-- registre des mesures d'individualisation de la peine ;
-
-
-- registre des mesures d'isolement ;
-
-
-- registre des inspections et carnet d'ordres de service ;
-
-
-- registre des entrées et sorties ;
-
-
-- registre des mesures visées à l'article 723 ;
-
-
-- fichier des réductions de peine.
-
-
-###### Article D153.
-
-Pour l'application des articles 148-7, 148-8, 490-1, 503, 547 et 577 le chef de l'établissement, ou sous son autorité, le fonctionnaire chargé du greffe, tient dans chaque établissement un registre des déclarations d'appel ou de pourvoi, un registre des déclarations d'opposition et un registre des demandes de mise en liberté ou de saisine de la chambre d'accusation dans lesquels sont conservées les déclarations et demandes qu'il est appelé à recevoir et à transmettre.
-
-Ces registres sont composés de la copie des exemplaires numérotés desdites déclarations.
+Ces registres sont composés de la copie des exemplaires numérotés desdites déclarations, demandes et requêtes.
 
 
 ###### Article D154
@@ -14521,100 +14618,110 @@ Il leur appartient pareillement de délivrer des expéditions ou extraits des ac
 
 ###### Paragraphe 3 : Dossiers individuels des détenus.
 
-####### A : Dossier spécial aux condamnés à une longue peine.
+####### A : Dossier spécial aux condamnés ayant fait l'objet d'une procédure d'orientation.
 
 ####### Article D156
 
-Un dossier spécial est ouvert pour tout condamné qui doit subir une peine privative de liberté d'une durée supérieure à un an, ou plusieurs peines dont le total est supérieur à un an, après le moment où sa condamnation est devenue définitive.
+Un dossier spécial est ouvert pour tout condamné ayant fait l'objet d'une procédure d'orientation suivant les prescriptions des articles D. 75 et suivants.
 
-Ce dossier comprend les cinq parties visées aux articles D157, D159, D161, D162 et D163.
+Ce dossier comprend les quatre parties visées aux articles D. 157, D. 159, D. 162 et D. 163.
 
 
 ####### Article D157
 
-La partie judiciaire du dossier contient l'extrait ou les extraits de jugement ou d'arrêt de condamnation, la notice individuelle visée à l'article D158 et toutes autres pièces ou documents relatifs à l'exécution des peines, notamment ceux qui concernent les victimes.
+La partie judiciaire du dossier contient l'extrait ou les extraits de jugement ou d'arrêt de condamnation, la notice individuelle visée à l'article D. 158 et toutes autres pièces ou documents relatifs à l'exécution des peines, notamment ceux qui concernent les victimes.
 
 
 ####### Article D158
 
 La notice individuelle contient les renseignements concernant l'état civil du condamné, sa profession, sa situation de famille, ses moyens d'existence, son degré d'instruction, sa conduite habituelle, sa moralité et ses antécédents.
 
-Ces renseignements sont complétés par l'exposé des faits qui ont motivé la condamnation et des éléments de nature à aggraver ou à atténuer la culpabilité de l'intéressé.
+
+
+Ces renseignements sont complétés par l'exposé des faits qui ont motivé la condamnation et des éléments de nature à aggraver ou à atténuer la culpabilité de l'intéressé et la liste de ses coauteurs ou complices éventuels.
+
+
 
 La rédaction de la notice, qui incombe au ministère public près la juridiction qui a prononcé la condamnation, est obligatoire à l'égard de tout condamné qui doit subir ou auquel il reste à subir plus de trois mois d'une peine privative de liberté à compter de la date où la décision est devenue définitive.
 
-La notice doit être adressée dans le délai prévu au dernier alinéa de l'article D78.
+
+
+La notice doit être adressée dans le délai prévu au dernier alinéa de l'article D. 77.
 
 
 ####### Article D159
 
 La partie pénitentiaire du dossier est constituée par le chef de l'établissement dans lequel le condamné accomplit sa peine.
 
-Elle contient tous les renseignements tenus à jour sur son comportement en détention et au travail, son compte nominatif, et sur les décisions administratives prises à son égard.
 
 
-####### Article D160.
-
-Dans la même partie du dossier, sont consignées les sanctions disciplinaires prononcées ainsi que toutes les mesures visant à encourager les efforts des détenus en vue de leur réadaptation sociale.
+Elle contient tous les renseignements tenus à jour sur son comportement en détention, au travail et pendant les activités, et sur les décisions administratives prises à son égard.
 
 
-####### Article D161
+####### Article D160
 
-La partie médicale du dossier comprend l'ensemble des documents relatifs à l'état de santé physique et mental du condamné et, notamment, le résultat des examens pratiqués par les médecins et dentistes ou par les différents services de dépistage.
-
-
-
-Le personnel médical de l'établissement peut seul consulter ces documents et faire état des renseignements qui y sont mentionnés, compte tenu des prescriptions relatives au secret médical et des dispositions de l'article D378.
+Dans la même partie du dossier, sont consignées les sanctions disciplinaires prononcées ainsi que toutes les mesures visant à encourager les efforts des détenus en vue de leur réinsertion sociale.
 
 
+####### Article D162
 
-En cas de transfèrement, cette partie du dossier est adressée sous pli fermé au médecin de l'établissement de destination.
+La troisième partie du dossier visé à l'article D. 156 correspond au dossier destiné au service socio-éducatif.
 
-
-####### Article D162.
-
-La quatrième partie du dossier visé à l'article D156 correspond au dossier destiné au service socio-éducatif.
-
-Contenant des éléments ou documents recueillis par les travailleurs sociaux ou qui leur ont été fournis, ce dossier leur permet de suivre l'évolution du détenu et, ainsi, de mieux individualiser sa situation pénale et la préparation de sa libération. Il a aussi pour objet de leur permettre de renseigner l'autorité judiciaire qui en fait la demande, en application de l'article D462.
+Contenant des éléments ou documents recueillis par les travailleurs sociaux ou qui leur ont été fournis, ce dossier leur permet de suivre l'évolution du détenu et, ainsi, de mieux individualiser sa situation pénale et la préparation de sa libération. Il a aussi pour objet de leur permettre de renseigner l'autorité judiciaire qui en fait la demande, en application de l'article D. 462.
 
 Les documents couverts par le secret professionnel ne peuvent être consultés que par un membre d'un service socio-éducatif. En cas de transfèrement, le service socio-éducatif transmet ces documents sous pli fermé au service correspondant de l'établissement de destination ou, en cas de libération et s'il y a lieu, au comité de probation et d'assistance aux libérés du lieu de résidence où l'intéressé a déclaré se retirer.
 
 
-####### Article D163.
+####### Article D163
 
 Une partie du dossier individuel constitue une cote d'observation où sont assemblés les pièces et documents contenant le résultat des enquêtes, examens et expertises auxquels il a pu être procédé sur la personnalité, l'état médical, psychiatrique et psychologique, la situation matérielle, familiale ou sociale du condamné, soit au cours de l'information préalable, soit en vue de son orientation, soit ultérieurement pendant le cours de l'exécution de sa peine.
 
-Ce dossier comprend, par conséquent, les pièces visées aux articles D78, D79 et D81 et contient les différentes appréciations ou avis émis à l'égard du condamné intéressé, ainsi que les rapports de synthèse de l'observation.
 
 
-####### Article D164.
+Ce dossier comprend, par conséquent, les pièces visées aux articles D. 78, D. 79 et D. 81 et contient les différentes appréciations ou avis émis à l'égard du condamné intéressé, ainsi que les rapports de synthèse de l'observation.
 
-A la libération ou au décès d'un condamné à une longue peine, ou après son évasion, les différentes parties de son dossier sont rassemblées, et à l'expiration du délai d'un an, l'ensemble est envoyé au dépôt central d'archives pénitentiaires.
 
-Le ministre de la justice détermine les conditions dans lesquelles ces archives, et plus généralement tous autres documents en possession de l'administration pénitentiaire, peuvent être consultés pour les besoins de la recherche scientifique.
+####### Article D164
+
+A la libération ou au décès d'un condamné ou après son évasion, les différentes parties de son dossier sont conservées au greffe de l'établissement pendant la durée nécessaire à leur utilisation courante.
+
+Passé ce délai, il appartient à l'administration pénitentiaire de procéder au versement de ces documents aux services des archives départementales.
+
+Les modalités de consultation des archives sont fixées par les articles 7 et 8 de la loi n° 79-18 du 3 janvier 1979 sur les archives.
 
 
 ####### B : Dossiers des autres détenus.
 
-####### Article D165.
+####### Article D165
 
-Pour les condamnés n'ayant pas à subir une longue peine au sens de l'article D156, leur dossier est constitué au fur et à mesure de l'arrivée ou de la rédaction des pièces les concernant.
+Pour les condamnés ne répondant pas au critère défini par l'article D. 156 leur dossier est constitué au fur et à mesure de l'arrivée ou de la rédaction des pièces les concernant.
+
+
 
 Toutes dispositions doivent être prises pour assurer la protection du secret de celles d'entre elles qui ont un caractère strictement médical ou social.
 
 
-####### Article D166.
+####### Article D166
 
-Le dossier visé à l'article D. 165 est conservé pendant trente années au greffe de l'établissement où son titulaire a été incarcéré en dernier lieu.
+Le dossier visé à l'article D. 165 est conservé pendant la durée nécessaire à son utilisation courante au greffe de l'établissement où son titulaire a été incarcéré en dernier lieu.
 
-Passé ce délai, l'administration pénitentiaire en est déchargée et peut en demander le versement dans les dépôts d'archives départementales.
+Passé ce délai, il appartient à l'administration pénitentiaire de procéder au versement de ces documents aux services d'archives départementales.
+
+Les modalités de consultation des archives sont fixées par les articles 7 et 8 de la loi n° 79-18 du 3 janvier 1979 sur les archives.
 
 
-###### Article D155.
+####### Article D167
+
+Pour les détenus étrangers faisant l'objet d'une mesure d'éloignement du territoire, est constituée en application de l'article D. 155 une cote particulière où sont assemblés tous les documents et pièces comprenant des éléments d'identification et de nationalité fournis par les autorités judiciaires ou recueillis au cours de la détention.
+
+Cette cote contient également toutes les informations relatives à la situation pénale et administrative des intéressés.
+
+
+###### Article D155
 
 Pour tout détenu, il est constitué au greffe de l'établissement pénitentiaire un dossier individuel qui suit l'intéressé dans les différents établissements où il serait éventuellement transféré.
 
-Indépendamment de ce dossier, des dossiers particuliers doivent être établis en outre à l'égard de certains détenus, notamment pour les condamnés proposables à la libération conditionnelle, pour les interdits de séjour, pour les étrangers passibles d'expulsion et pour les libérables qui ont à satisfaire à des obligations militaires.
+Indépendamment de ce dossier, des dossiers particuliers doivent être établis en outre à l'égard de certains détenus, notamment pour les condamnés proposables à la libération conditionnelle, pour les interdits de séjour, pour les étrangers passibles d'une mesure d'éloignement du territoire français et pour les libérables qui ont à satisfaire à des obligations militaires.
 
 
 ##### Section 2 : Des visites effectuées par les autorités judiciaires
@@ -14629,12 +14736,12 @@ Il lui appartient de faire part de ses observations éventuelles aux autorités 
 
 
 
-Il adresse chaque année au ministre de la justice, sous le couvert des chefs de cour, un rapport sur l'application des peines.
+Il adresse chaque année au ministre de la justice, sous le couvert des chefs de cour et de tribunaux de grande instance, un rapport sur l'application des peines.
 
 
 ##### Article D177
 
-Conformément aux dispositions de l'article 222, le président de la chambre d'accusation visite, chaque fois qu'il l'estime nécessaire et au moins une fois par trimestre, les maisons d'arrêt du ressort de la cour d'appel, et y vérifie la situation des inculpés en état de détention provisoire.
+Conformément aux dispositions de l'article 222, le président de la chambre d'accusation visite, chaque fois qu'il l'estime nécessaire et au moins une fois par trimestre, les maisons d'arrêt du ressort de la cour d'appel, et y vérifie la situation des personnes mises en examen en état de détention provisoire.
 
 
 
@@ -14649,7 +14756,7 @@ Le juge d'instruction et, en ce qui concerne les mineurs relevant de sa juridict
 En outre, le juge des enfants procède à une visite de la maison d'arrêt au moins une fois par an pour y vérifier les conditions de la détention des mineurs. A cette occasion, il fait part de ses observations éventuelles aux autorités compétentes pour y donner suite.
 
 
-##### Article D178.
+##### Article D178
 
 Le procureur de la République et le procureur général visitent les établissements pénitentiaires.
 
@@ -14662,6 +14769,10 @@ Le procureur de la République doit se rendre dans chaque prison une fois par tr
 Il rend compte de ses observations éventuelles au procureur général.
 
 
+
+Le procureur général visite chaque établissement pénitentiaire du ressort de la cour d'appel, au moins une fois par an.
+
+
 ##### Article D179
 
 Un rapport conjoint du premier président et du procureur général rend compte chaque année au ministre de la justice du fonctionnement des établissements pénitentiaires de leur ressort et du service assuré par le personnel de ces établissements.
@@ -14672,25 +14783,73 @@ Un rapport conjoint du premier président et du procureur général rend compte 
 ##### Article D180
 
 La commission de surveillance comprend, sous la présidence du préfet dans les chefs-lieux de département et du sous-préfet dans les chefs-lieux d'arrondissement :
+
+
 1. Le président du tribunal de grande instance et le procureur de la République près ledit tribunal, ou les magistrats les représentant ;
+
+
 2. Le juge de l'application des peines ;
+
+
 3. Un juge d'instruction désigné par le président du tribunal de grande instance ;
+
+
 4. Le juge des enfants, si la commission est instituée auprès d'une maison d'arrêt située au siège d'un tribunal pour enfant ;
+
+
 5. Le bâtonnier de l'ordre des avocats ou son représentant ;
-6. Un officier représentant le général commandant la région militaire, si la commission est instituée auprès d'un établissement où sont incarcérés des militaires et marins ;
+
+
+6. Un officier représentant le général commandant la région militaire, si la commission est instituée auprès d'un établissement où sont incarcérés des militaires ;
+
+
 7. Un membre du conseil général élu par ses collègues ;
+
+
 8. Le maire de la commune où est situé l'établissement ou son représentant ;
+
+
 9. Le directeur départemental du travail et de la main-d'oeuvre ou son représentant ;
+
+
 10. L'inspecteur d'académie ou son représentant ;
+
+
 11. Le président de la chambre de commerce et d'industrie ou son représentant ;
-12. Le président de la chambre des métiers ou son représentant ;
-13. Le directeur départemental de l'action sanitaire et sociale ou son représentant ;
-14. Un représentant des oeuvres d'assistance aux détenus ou aux libérés agréées au titre de l'aide sociale, désigné sur la proposition du juge de l'application des peines ;
-15. Trois à six personnes appartenant à des oeuvres sociales ou choisies en raison de l'intérêt qu'elles portent aux problèmes pénitentiaires et post-pénaux.
+
+
+12. Le président de la chambre de métiers et de l'artisanat ou son représentant ;
+
+
+13. Le directeur départemental des affaires sanitaires et sociales ou son représentant ;
+
+
+14. Le directeur départemental de la protection judiciaire de la jeunesse ou son représentant, si l'établissement pénitentiaire est habilité à recevoir des mineurs ;
+
+
+15. Le directeur départemental de la jeunesse et des sports ou son représentant ;
+
+
+16. Le commandant du groupement de gendarmerie du département ou son représentant ;
+
+
+17. Le directeur départemental de la sécurité publique ou son représentant ;
+
+
+18. Un représentant des oeuvres d'assistance aux détenus ou aux libérés agréées au titre de l'aide sociale, désigné sur la proposition du juge de l'application des peines ;
+
+
+19. Trois à six personnes appartenant à des oeuvres sociales ou choisies en raison de l'intérêt qu'elles portent aux problèmes pénitentiaires et post-pénaux.
+
+
 
 Les membres de la commission visés aux deux numéros précédents sont nommés pour une période de deux ans renouvelable par un arrêté préfectoral dont une ampliation est adressée au ministre de la justice.
 
-Le chef de l'établissement et les membres du personnel, les visiteurs agréés, les membres des services médico-sociaux ainsi que les aumôniers attachés à l'établissement, et toutes autres personnes y exerçant habituellement une activité ne peuvent faire partie de la commission de surveillance.
+
+
+Le chef de l'établissement et les membres du personnel, les visiteurs agréés, les personnels socio-éducatifs ainsi que les aumôniers attachés à l'établissement, et toutes autres personnes y exerçant habituellement une activité ne peuvent faire partie de la commission de surveillance.
+
+
 
 Le directeur régional des services pénitentiaires, ou son représentant, assiste aux travaux de la commission de surveillance.
 
@@ -14702,29 +14861,25 @@ Le premier président de la cour d'appel et le procureur général près ladite 
 
 ##### Article D182
 
-En l'absence du commissaire de la République ou du secrétaire général de la préfecture, ou dans les chefs-lieux d'arrondissement en l'absence du commissaire adjoint de la République, les séances sont présidées par le magistrat du rang le plus élevé.
+En l'absence du préfet ou du secrétaire général de la préfecture, ou dans les chefs-lieux d'arrondissement en l'absence du sous-préfet, les séances sont présidées par le magistrat du rang le plus élevé.
 
 
 ##### Article D183
 
 La commission de surveillance se réunit sur convocation de son président, au moins une fois par an, dans l'établissement près duquel elle est instituée.
 
-En outre, un ou plusieurs de ses membres peuvent être délégués pour visiter la prison plus fréquemment si la commission l'estime utile.
+En outre, un ou plusieurs de ses membres peuvent être délégués pour visiter l'établissement pénitentiaire plus fréquemment si la commission l'estime utile.
 
 La commission entend le chef d'établissement qui présente un rapport sur l'organisation et le fonctionnement de l'établissement. Elle peut également procéder à l'audition de toute personne susceptible de lui apporter des informations utiles à l'exercice de sa mission.
 
-En application de l'article D261, le président de la commission de surveillance reçoit les requêtes des détenus portant sur toute matière relevant de la compétence de cette commission, telle qu'elle est définie à l'article D184.
+En application de l'article D. 261, le président de la commission de surveillance reçoit les requêtes des détenus portant sur toute matière relevant de la compétence de cette commission, telle qu'elle est définie à l'article D. 184.
 
 
 ##### Article D184
 
-La commission est chargée de la surveillance intérieure de la prison en ce qui concerne la salubrité, la sécurité, le régime alimentaire et le service de santé, le travail, la discipline et l'observation des règlements, ainsi que l'enseignement et la réadaptation sociale des détenus.
-
-
+La commission est chargée de la surveillance intérieure de l'établissement pénitentiaire en ce qui concerne la salubrité, la sécurité, le régime alimentaire et l'organisation des soins, le travail, la discipline et l'observation des règlements, ainsi que l'enseignement et la réinsertion sociale des détenus.
 
 Il lui appartient de communiquer au ministre de la justice les observations, critiques ou suggestions qu'elle croit devoir formuler.
-
-
 
 Elle ne peut, en aucun cas, faire acte d'autorité.
 
@@ -14743,9 +14898,11 @@ Les détenus nommément désignés sont visités en vertu d'autorisations et dan
 
 ##### Article D187
 
-Le ministre de la justice peut seul délivrer les autorisations à portée générale qui permettent, à titre permanent, ou pour un nombre limité de visites, la communication avec les détenus non nominativement désignés, sous réserve des droits conférés à l'autorité judiciaire.
+Le ministre de la justice peut délivrer les autorisations à portée générale qui permettent, à titre permanent, ou pour un nombre limité de visites, la communication avec les détenus non nominativement désignés, sous réserve des droits conférés à l'autorité judiciaire.
 
-En dehors des cas visés à l'article D473 relatif aux visiteurs des prisons, ces autorisations sont exceptionnelles.
+Le directeur régional des services pénitentiaires délivre ces autorisations lorsque la demande est relative à des personnes détenues dans des établissements situés dans le ressort de sa compétence territoriale.
+
+En dehors des cas visés à l'article D. 473 relatif aux visiteurs de prisons, ces autorisations sont exceptionnelles.
 
 
 #### Chapitre IV : De l'administration des établissements pénitentiaires
@@ -14754,14 +14911,12 @@ En dehors des cas visés à l'article D473 relatif aux visiteurs des prisons, ce
 
 ##### Article D188
 
-L'administration pénitentiaire a pour fonction d'assurer la mise à exécution des décisions judiciaires prononçant une peine privative de liberté ou ordonnant une incarcération provisoire, et d'assurer la garde et l'entretien des personnes qui, dans les cas déterminés par la loi, doivent être placées ou maintenues en détention en vertu ou à la suite de décisions de justice.
+Le service public pénitentiaire a pour fonction d'assurer la mise à exécution des décisions judiciaires prononçant une peine privative de liberté ou ordonnant une incarcération provisoire, et d'assurer la garde et l'entretien des personnes qui, dans les cas déterminés par la loi, doivent être placées ou maintenues en détention en vertu ou à la suite de décisions de justice.
 
 
 ##### Article D189
 
-Conformément aux dispositions de l'article 728, le régime intérieur des prisons établies pour peines que réglemente le présent titre est institué en vue de préparer leur reclassement social.
-
-A l'égard de tous les détenus dont elle a la charge à quelque titre que ce soit, l'administration pénitentiaire assure le respect de la dignité inhérente à la personne humaine et prend toutes les mesures destinées à faciliter leur réintégration dans la société.
+A l'égard de toutes les personnes qui lui sont confiées par l'autorité judiciaire, à quelque titre que ce soit, le service public pénitentiaire assure le respect de la dignité inhérente à la personne humaine et prend toutes les mesures destinées à faciliter leur réinsertion sociale.
 
 
 ##### Article D190
@@ -14773,7 +14928,7 @@ Son administration centrale est constituée par la direction de l'administration
 
 ##### Article D191
 
-Les services extérieurs de l'administration pénitentiaire sont répartis en directions régionales.
+Les services déconcentrés de l'administration pénitentiaire sont répartis en directions régionales.
 
 
 ##### Article D192
@@ -14792,7 +14947,7 @@ Marseille - Alpes-de-Haute-Provence, Hautes-Alpes, Alpes-Maritimes, Bouches-du-R
 
 Paris - Cher, Essonne, Eure-et-Loir, Hauts-de-Seine, Indre, Indre-et-Loire, Loir-et-Cher, Loiret, Seine-et-Marne, Seine-Saint-Denis, Val-de-Marne, Val-d'Oise, Yvelines.
 
-Rennes - Calvados, Côtes-du-Nord, Finistère, Ille-et-Vilaine, Loire-Atlantique, Maine-et-Loire, Manche, Mayenne, Morbihan, Orne, Sarthe, Vendée.
+Rennes - Calvados, Côtes-d'Armor, Finistère, Ille-et-Vilaine, Loire-Atlantique, Maine-et-Loire, Manche, Mayenne, Morbihan, Orne, Sarthe, Vendée.
 
 Strasbourg - Meurthe-et-Moselle, Meuse, Moselle, Bas-Rhin, Haut-Rhin, Vosges.
 
@@ -14801,31 +14956,29 @@ Toulouse - Ariège, Aude, Aveyron, Gard, Haute-Garonne, Gers, Hérault, Lot, Loz
 
 ##### Article D193
 
-Une mission des services pénitentiaires de l'outre-mer, confiée à un directeur régional des services pénitentiaires, a compétence sur les établissements et services pénitentiaires des départements d'outre-mer et du territoire de Nouvelle-Calédonie.
+Une mission des services pénitentiaires de l'outre-mer, confiée à un directeur régional des services pénitentiaires, a compétence sur les établissements et services pénitentiaires des départements d'outre-mer et des territoires de la Polynésie française et de Nouvelle-Calédonie.
 
-Cette mission est, en outre, chargée, dans le domaine pénitentiaire, des relations avec le territoire de la Polynésie française et les collectivités territoriales de Saint-Pierre-et-Miquelon et de Mayotte, liés par convention avec l'Etat.
+Cette mission est, en outre, chargée, dans le domaine pénitentiaire, des relations avec les collectivités territoriales de Saint-Pierre-et-Miquelon et de Mayotte, liées par convention avec l'Etat.
 
 
 ##### Section 2 : Du personnel de l'administration pénitentiaire
 
 ###### Paragraphe 1er : Attributions particulières
 
-###### Article D198.
+###### Article D198
 
-Les agents visés à l'article D196, 1°, exercent les fonctions définies par le statut spécial des fonctionnaires des services extérieurs de l'administration pénitentiaire et par les textes relatifs à l'organisation et à la gestion des établissements.
+Les agents visés à l'article D. 196, 1°, exercent les fonctions définies par le statut spécial des fonctionnaires des services déconcentrés de l'administration pénitentiaire et par les textes relatifs à l'organisation et à la gestion des établissements.
 
-Les agents visés à l'article D196, 2° et 3°, soit qu'ils relèvent du statut général de la fonction publique, soit qu'ils soient soumis à d'autres dispositions, réglementaires ou contractuelles, exercent leurs fonctions dans les conditions et sous les obligations particulières résultant soit des textes relatifs à l'organisation des établissements, soit, en général, du service pénitentiaire.
-
-Notamment, les aumôniers, les médecins, les infirmiers ou infirmières, les travailleurs sociaux, exercent leurs fonctions dans les conditions et sous les obligations particulières définies respectivement aux articles D433 et suivants, D373 et suivants, D367 et D461 et suivants.
+Les agents visés à l'article D. 196, 2°, 3°, 4° et 5° exercent leurs fonctions dans les conditions et sous les obligations particulières résultant des dispositions législatives et réglementaires régissant le service public pénitentiaire.
 
 
 ###### Paragraphe 2 : Dispositions générales
 
 ###### Article D216
 
-Le personnel des services extérieurs de l'administration pénitentiaire est tenu de parfaire ses connaissances professionnelles dans les conditions qui sont fixées par l'administration centrale.
+Le personnel des services déconcentrés de l'administration pénitentiaire est tenu de parfaire ses connaissances professionnelles dans les conditions qui sont fixées par l'administration centrale.
 
-Il a obligation de participer aux cours et stages de formation ou de perfectionnement assurés à l'école de formation du personnel de l'administration pénitentiaire ou organisés par le centre national d'études et de recherches pénitentiaires ou par tout autre organisme.
+Il a l'obligation de participer aux enseignements et stages de formation ou de perfectionnement assurés par l'Ecole nationale de l'administration pénitentiaire, dans le cadre du dispositif déconcentré de formation continue, ou par tout autre organisme.
 
 
 ###### Article D216-1
@@ -14862,7 +15015,7 @@ Ils sont tenus de se porter mutuellement aide et assistance chaque fois que les 
 
 ###### Article D220
 
-Indépendamment des défenses résultant de la loi pénale, il est interdit aux agents des services extérieurs de l'administration pénitentiaire et aux personnes ayant accès dans la détention :
+Indépendamment des défenses résultant de la loi pénale, il est interdit aux agents des services déconcentrés de l'administration pénitentiaire et aux personnes ayant accès dans la détention :
 - de se livrer à des actes de violence sur les détenus ;
 - d'user, à leur égard, soit de dénominations injurieuses, soit de tutoiement, soit de langage grossier ou familier ;
 - de fumer dans les lieux fermés et couverts affectés à un usage collectif, sous réserve de ceux spécialement aménagés à cet effet ou de boire à l'intérieur de la détention ou d'y paraître en état d'ébriété ;
@@ -14875,7 +15028,7 @@ Indépendamment des défenses résultant de la loi pénale, il est interdit aux 
 
 ###### Article D221
 
-Les membres du personnel ne peuvent entretenir avec les personnes placées ou ayant été placées par décision de justice sous l'autorité ou le contrôle de l'établissement ou du service dont ils relèvent, ainsi qu'avec leurs parents ou amis, des relations qui ne seraient pas justifiées par les nécessités de leurs fonctions.
+Les membres du personnel pénitentiaire et les personnes remplissant une mission dans l'établissement pénitentiaire ne peuvent entretenir avec les personnes placées ou ayant été placées par décision de justice sous l'autorité ou le contrôle de l'établissement ou du service dont ils relèvent, ainsi qu'avec leurs parents ou amis, des relations qui ne seraient pas justifiées par les nécessités de leurs fonctions.
 
 
 ###### Article D222
@@ -14885,7 +15038,7 @@ Le personnel masculin n'a accès au quartier des femmes que sur autorisation du 
 
 ###### Article D223
 
-Les directeurs régionaux, les chefs d'établissements quel que soit leur grade, et leurs adjoints, les fonctionnaires ayant la responsabilité du greffe judiciaire et de l'économat, les surveillants-chefs, premiers surveillants et surveillants, les internes, les infirmiers et infirmières, les agents chargés de l'entretien sont tenus d'occuper personnellement les logements qui leur sont attribués par nécessité absolue de service.
+Les directeurs régionaux, les chefs d'établissements quel que soit leur grade, et leurs adjoints, les fonctionnaires ayant la responsabilité du greffe judiciaire et de l'économat, les chefs de service pénitentiaire, premiers surveillants et surveillants, les agents chargés de l'entretien sont tenus d'occuper personnellement les logements qui leur sont attribués par nécessité absolue de service *obligations*.
 
 
 ###### Article D224
@@ -14911,27 +15064,15 @@ Indépendamment des récompenses prévues par son statut particulier, le personn
 
 ###### Article D227
 
-Le service médical dont bénéficie le personnel dans chaque établissement comporte :
+Auprès de chaque établissement ou service, un médecin lié par convention avec l'administration pénitentiaire dispense les soins au personnel. Ce médecin assure :
+1. L'examen et les soins hors vacation des agents qui en font la demande ;
+2. Sur demande, la visite à domicile et hors vacation, des agents malades résidant à moins de deux kilomètres de l'établissement ou du service et se trouvant dans l'impossibilité de se déplacer.
 
+Dans les cas prévus aux 1° et 2°, le personnel titulaire et stagiaire des services déconcentrés de l'administration pénitentiaire a droit au remboursement intégral de ses frais médicaux, pharmaceutiques et d'hospitalisation, sauf s'il se trouve en disponibilité, en détachement, en congé annuel ou exceptionnel. Il possède le même droit lorsqu'il a recours à un médecin spécialiste, après en avoir obtenu l'autorisation de l'administration sur avis conforme du médecin lié par convention avec l'administration pénitentiaire auprès de l'établissement ou du service.
 
-1. L'examen gratuit des candidats à un emploi ;
+Selon l'importance de l'établissement pénitentiaire, un ou plusieurs médecins sont désignés par le directeur régional des services pénitentiaires pour remplir ces missions.
 
-
-2. L'examen et les soins hors vacation des agents qui en font la demande ;
-
-
-3. Sur demande, la visite à domicile et hors vacation des agents malades résidant à moins de deux kilomètres de la prison et se trouvant dans l'impossibilité de se déplacer ;
-
-
-4. L'examen obligatoire hors vacation des agents prétendant à l'octroi d'un congé médical ordinaire.
-
-
-
-Ce dernier examen est subi par l'intéressé à l'établissement d'affectation ou à l'établissement le plus proche de sa résidence. Toutefois, si l'état de l'agent le met dans l'impossibilité de se déplacer, il est examiné à domicile par le médecin de l'établissement, à la condition de résider à moins de deux kilomètres de ce dernier.
-
-
-
-Dans les cas prévus aux 2°, 3° et 4° ci-dessus, le personnel titulaire et stagiaire des services extérieurs de l'administration pénitentiaire a droit au remboursement intégral de ses frais médicaux, pharmaceutiques et d'hospitalisation, sauf s'il se trouve en disponibilité, en détachement, en congé annuel ou exceptionnel. Il possède le même droit lorsqu'il a recours à un médecin spécialiste, après en avoir obtenu l'autorisation de l'administration sur avis conforme du médecin de la prison. Toutefois, il perd le droit au remboursement des frais pharmaceutiques si les médicaments ne sont pas fournis par un pharmacien des établissements pénitentiaires.
+Les soins au personnel de l'établissement pénitentiaire ne relèvent pas des missions de l'unité de consultations et des soins ambulatoires, en dehors des situations d'urgence.
 
 
 ###### Article D228
@@ -14941,34 +15082,28 @@ Le personnel bénéficie par ailleurs d'un service social assuré par l'assistan
 
 ##### Article D196
 
-Pour assurer leur fonctionnement, les services extérieurs de l'administration pénitentiaire disposent des catégories de personnel suivantes :
-1. Fonctionnaires placés par règlement d'administration publique sous statut spécial :
+Pour assurer leur fonctionnement, les services déconcentrés de l'administration pénitentiaire disposent des catégories de personnels suivantes :
+1. Fonctionnaires des services déconcentrés de l'administration pénitentiaire placés par décret en Conseil d'Etat sous statut spécial :
 
-Personnel de direction : directeurs régionaux, directeurs, sous-directeurs ;
+a) Personnel de direction : corps des personnels de direction ;
 
-Personnel administratif : secrétaires administratifs, commis ;
+b) Personnel administratif : corps des attachés d'administration et d'intendance, corps des secrétaires administratifs, corps des adjoints administratifs ;
 
-Personnel technique et de formation professionnelle : instructeurs techniques, chefs de travaux ;
+c) Personnel technique et de formation professionnelle : corps des professeurs techniques d'enseignement professionnel et de travaux, corps des instructeurs techniques, corps des chefs de travaux ;
 
-Personnel éducatif et de probation : éducateurs, adjoints de probation ;
+d) Personnel d'insertion et de probation : corps des chefs des services d'insertion et de probation, corps des conseillers d'insertion et de probation ;
 
-Personnel de surveillance : chefs de maison d'arrêt, surveillants-chefs, premiers surveillants, surveillants principaux, surveillants.
-2. Fonctionnaires des corps communs :
+e) Personnel de surveillance : corps des chefs de service pénitentiaire, corps des gradés et surveillants ;
+2. Fonctionnaires des services déconcentrés de l'administration pénitentiaire, régis par des statuts interministériels :
 
-Personnel de bureau et de service ;
+Personnel administratif : corps des agents administratifs, corps des agents des services techniques ;
+3. Fonctionnaires des corps communs du ministère de la justice affectés dans les services déconcentrés de l'administration pénitentiaire :
 
-Personnel médico-social : assistants sociaux, infirmiers.
-3. Agents contractuels, indemnitaires et vacataires :
+Personnel de service social : corps des assistants de service social du ministère de la justice, corps des conseillers techniques de service social du ministère de la justice ;
+4. Fonctionnaires des corps interministériels affectés dans les services déconcentrés de l'administration pénitentiaire :
 
-Ingénieurs, agents techniques d'encadrement et d'entretien ;
-
-Médecins, chirurgiens-dentistes, pharmaciens, internes ;
-
-Aumôniers ;
-
-Délégués à la probation ;
-
-Enseignants, moniteurs d'éducation physique et tous autres personnels spécialisés.
+Personnel infirmier : corps interministériel des infirmières et infirmiers de l'Etat ;
+5. Agents non titulaires de l'Etat affectés dans les services déconcentrés de l'administration pénitentiaire.
 
 
 ##### Article D197
@@ -14980,7 +15115,7 @@ Dans chaque région et dans chaque établissement pénitentiaire, la composition
 
 ##### Article D229
 
-Sans préjudice du contrôle des autorités judiciaires, prévu aux articles D176 et suivants, et celui de la commission de surveillance, les établissements pénitentiaires font l'objet du contrôle général de l'inspection des services pénitentiaires et des inspections périodiques des magistrats ou des fonctionnaires de la direction de l'administration pénitentiaire et des directeurs régionaux ou de leurs adjoints ; en outre, ils sont soumis aux inspections du commissaire de la République ou du commissaire adjoint de la République, ainsi que, dans le domaine de leur compétence, de toutes autres autorités administratives investies d'un pouvoir de contrôle à l'égard des différents services de l'administration pénitentiaire.
+Sans préjudice du contrôle des autorités judiciaires, prévu aux articles D. 176 et suivants, et celui de la commission de surveillance, les établissements pénitentiaires font l'objet du contrôle général de l'inspection des services pénitentiaires et des inspections périodiques des magistrats ou des fonctionnaires de la direction de l'administration pénitentiaire et des directeurs régionaux ou de leurs adjoints ; en outre, ils sont soumis aux inspections du préfet ou du sous-préfet, ainsi que, dans le domaine de leur compétence, de toutes autres autorités administratives investies d'un pouvoir de contrôle à l'égard des différents services de l'administration pénitentiaire.
 
 Les modalités selon lesquelles les directeurs régionaux et leurs adjoints effectuent leurs inspections et en dressent rapport sont définies par une instruction de service.
 
@@ -14997,7 +15132,7 @@ Les administrations ou corps intéressés par certaines parties du service des �
 
 ##### Article D232
 
-Les magistrats et les fonctionnaires ou autres personnes ayant autorité ou mission dans la prison ont accès dans la détention après justification de leur qualité ou présentation de leur ordre de mission.
+Les magistrats et les fonctionnaires ou autres personnes ayant autorité ou mission dans l'établissement pénitentiaire ont accès dans la détention après justification de leur qualité ou présentation de leur ordre de mission et après s'être soumis aux mesures de contrôle réglementaires.
 
 S'ils ont à s'entretenir avec les détenus, ils peuvent le faire en dehors des jours et délais normaux de visite et en l'absence de tout membre du personnel ; l'entretien a lieu éventuellement dans les cellules lorsque cette façon de procéder ne présente pas d'inconvénient.
 
@@ -15064,7 +15199,7 @@ Le directeur des services judiciaires au ministère de la justice ;
 
 Le directeur des affaires criminelles et des grâces au ministère de la justice ;
 
-Le directeur de l'éducation surveillée au ministère de la justice ;
+Le directeur de la protection judiciaire de la jeunesse au ministère de la justice ;
 
 Le chef du service de l'administration générale et de l'équipement au ministère de la justice ;
 
@@ -15072,9 +15207,9 @@ Le directeur général de la police nationale au ministère de l'intérieur ;
 
 Le directeur général du travail et de l'emploi au ministère d'Etat chargé des affaires sociales ;
 
-Le directeur général de la santé publique au ministère de la santé publique ;
+Le directeur général de la santé au ministère chargé de la santé ;
 
-Le directeur de l'action sociale au ministère de la santé publique ;
+Le directeur de l'action sociale au ministère des affaires sociales ;
 
 Le chef du service de l'inspection générale de l'administration au ministère de l'intérieur ;
 
@@ -15120,7 +15255,7 @@ Un membre du Conseil économique et social ;
 
 Un membre du Conseil supérieur de la magistrature ;
 
-Sont désignés pour une durée de trois ans dans les conditions visées à l'article D238 :
+Sont désignés pour une durée de trois ans dans les conditions visées à l'article D. 238 :
 
 Un conseiller d'Etat ;
 
@@ -15132,7 +15267,7 @@ Un juge de l'application des peines ;
 
 Un professeur de droit pénal, de criminologie et science pénitentiaire ;
 
-Un professeur d'hygiène et de médecine préventive ;
+Un professeur de santé publique ;
 
 Un professeur de médecine légale ;
 
@@ -15140,7 +15275,7 @@ Un directeur régional des services pénitentiaires.
 
 III - Peuvent en outre être désignées, dans les mêmes conditions, pour prendre part aux séances du conseil supérieur siégeant en assemblée générale ou en commission les personnes que leurs connaissances ou leurs travaux antérieurs mettent en mesure d'apporter une contribution utile aux débats.
 
-IV - Le conseil supérieur, lorsqu'il siège en commission, est composé d'un président, du rapporteur général, de membres désignés dans les conditions visées à l'article D238 et du secrétaire.
+IV - Le conseil supérieur, lorsqu'il siège en commission, est composé d'un président, du rapporteur général, de membres désignés dans les conditions visées à l'article D. 238 et du secrétaire.
 
 
 ##### Article D238
@@ -15164,7 +15299,7 @@ Le secrétariat du conseil supérieur de l'administration pénitentiaire est cha
 Il établit les procès-verbaux et en assure la diffusion.
 
 
-#### Chapitre V : De la discipline et de la sécurité des prisons
+#### Chapitre V : De la discipline et de la sécurité des établissements pénitentiaires
 
 ##### Section 1 : De la police intérieure
 
@@ -15177,14 +15312,14 @@ Selon leurs mérites et leurs aptitudes, les condamnés ont une égale vocation 
 Aucune discrimination ne doit être fondée à cet égard sur des considérations tenant à la race, à la langue, à la religion, à l'origine nationale, aux opinions politiques ou à la situation sociale.
 
 
-##### Article D242.
+##### Article D242
 
 L'ordre et la discipline doivent être maintenus avec fermeté, mais sans apporter plus de contraintes qu'il n'est nécessaire pour le maintien de la sécurité et d'une bonne organisation de la vie en collectivité.
 
 
 ##### Article D243
 
-Les détenus doivent obéissance aux fonctionnaires ou agents ayant autorité dans la prison en tout ce qu'ils leur prescrivent pour l'exécution des règlements.
+Les détenus doivent obéissance aux fonctionnaires ou agents ayant autorité dans l'établissement pénitentiaire en tout ce qu'ils leur prescrivent pour l'exécution des règlements.
 
 
 ##### Article D244
@@ -15208,7 +15343,7 @@ Les hommes et les femmes sont incarcérés dans des établissements distincts. L
 Les femmes détenues ne sont surveillées que par des personnes de leur sexe ; les agents masculins du personnel ont seulement accès aux locaux qu'elles occupent dans les conditions déterminées à l'article D222.
 
 
-##### Section 2 : Du régime disciplinaire et des mesures visant à encourager les efforts des détenus en vue de leur réadaptation sociale
+##### Section 2 : Du régime disciplinaire et des mesures visant à encourager les efforts des détenus en vue de leur réinsertion sociale
 
 ###### Paragraphe 1er : Du régime disciplinaire
 
@@ -15240,7 +15375,7 @@ Constitue une faute disciplinaire du deuxième degré le fait, pour un détenu :
 7. De se soustraire à une sanction disciplinaire prononcée à son encontre ;
 8. De se livrer à des trafics, des échanges non autorisés par les règlements ou tractations avec des codétenus ou des personnes extérieures ;
 9. De détenir des objets ou substances non autorisés par les règlements ou de se livrer à leur trafic, hors le cas prévu au 3° de l'article D. 249-1 ;
-10. De se trouver en état d'ébriété ou d'absorber sans autorisation médicale des substances de nature à troubler son comportement ;
+10. De se trouver en état d'ébriété ou d'absorber sans autorisation médicale des susbstances de nature à troubler son comportement ;
 11. De provoquer un tapage de nature à troubler l'ordre de l'établissement ;
 12. De mettre en danger la sécurité d'autrui par une imprudence ou une négligence ;
 13. De tenter d'obtenir d'un membre du personnel de l'établissement ou d'une personne en mission au sein de l'établissement un avantage quelconque par des offres, des promesses, des dons ou des présents ;
@@ -15425,11 +15560,11 @@ Le chef d'établissement peut, après le prononcé de la sanction, dispenser le 
 Il peut, pour les mêmes motifs, après le prononcé de la sanction, décider d'en suspendre ou d'en fractionner l'exécution.
 
 
-###### Paragraphe 2 : Mesures visant à encourager les efforts des détenus en vue de leur réadaptation sociale
+###### Paragraphe 2 : Mesures visant à encourager les efforts des détenus en vue de leur réinsertion sociale
 
 ###### Article D252
 
-Les diverses mesures d'individualisation du traitement prévues par le présent code et relevant du juge de l'application des peines ou du chef d'établissement sont décidées en fonction notamment des efforts manifestés par les détenus en vue de leur réadaptation sociale.
+Les diverses mesures d'individualisation de l'exécution de la peine et relevant du juge de l'application des peines ou du chef d'établissement sont décidées en fonction notamment des efforts manifestés par les détenus en vue de leur réinsertion sociale.
 
 
 ###### Article D253
@@ -15438,28 +15573,32 @@ La réduction de peine prévue à l'article 721 est accordée en tenant compte d
 
 
 
-Cette appréciation, dont doit dépendre la détermination, non seulement de l'opportunité de la réduction de peine, mais aussi de sa durée, porte à la fois sur le comportement général, sur l'assiduité et l'application au travail et, le cas échéant, aux études ou à la formation professionnelle, ainsi que sur le sens des responsabilités manifesté par le détenu quant au respect des règles organisant la vie collective dans la prison.
+Cette appréciation, dont doit dépendre la détermination, non seulement de l'opportunité de la réduction de peine, mais aussi de sa durée, porte à la fois sur le comportement général, sur l'assiduité et l'application au travail et, le cas échéant, aux études ou à la formation professionnelle, ainsi que sur le sens des responsabilités manifesté par le détenu quant au respect des règles organisant la vie collective dans l'établissement pénitentiaire.
 
 
 ###### Article D254
 
-Outre l'application des dispositions des articles 721 et D253, le comportement d'un détenu peut motiver de la part du juge de l'application des peines ou du chef d'établissement, après avis de la commission de l'application des peines, une proposition en vue d'une modification de régime, d'un transfèrement ou d'une mesure de grâce, soit à la suite d'un acte de courage et de dévouement, soit en fonction de la situation familiale ou professionnelle de l'intéressé ou de l'intérêt susceptible de présenter une telle mesure pour sa réinsertion.
+Outre l'application des dispositions des articles 721 et D. 253, le comportement d'un détenu peut motiver de la part du juge de l'application des peines ou du chef d'établissement, après avis de la commission de l'application des peines, une proposition en vue d'une modification de régime, d'un transfèrement ou d'une mesure de grâce, soit à la suite d'un acte de courage et de dévouement, soit en fonction de la situation familiale ou professionnelle de l'intéressé ou de l'intérêt susceptible de présenter une telle mesure pour sa réinsertion.
 
 
-##### Section 3 : Du règlement intérieur de chaque prison
+##### Section 3 : Du règlement intérieur de chaque établissement pénitentiaire
 
 ##### Article D255
 
-Dans chaque prison un règlement intérieur détermine le contenu du régime propre à l'établissement.
+Dans chaque établissement pénitentiaire un règlement intérieur détermine le contenu du régime propre à l'établissement.
+
+
 
 Le règlement intérieur établi par le chef d'établissement, ainsi que toute modification apportée à ce document, sont transmis pour approbation au directeur régional, après avoir été soumis pour avis au juge de l'application des peines.
+
+
 
 Le règlement intérieur, ainsi que les modifications qui lui sont apportées, sont communiqués à la commission de surveillance.
 
 
 ##### Article D256
 
-Les dispositions du présent titre et du règlement intérieur de la prison doivent être portées à la connaissance des détenus, et éventuellement des tiers, dans la mesure où elles justifient les décisions prises à leur égard et où elles sont relatives à la discipline.
+Les dispositions du présent titre et du règlement intérieur de l'établissement pénitentiaire doivent être portées à la connaissance des détenus, et éventuellement des tiers, dans la mesure où elles justifient les décisions prises à leur égard et où elles sont relatives à la discipline.
 
 A cet effet, des extraits en peuvent être affichés à l'intérieur de la détention.
 
@@ -15468,12 +15607,14 @@ A cet effet, des extraits en peuvent être affichés à l'intérieur de la déte
 
 Plus généralement, lors de son entrée dans un établissement pénitentiaire, chaque détenu doit être informé des dispositions essentielles du présent titre et du règlement intérieur de l'établissement. Son attention est appelée en particulier sur les règles relatives à la discipline, sur les possibilités de communiquer avec sa famille et éventuellement avec son défenseur ou avec les autorités administratives et judiciaires, et sur les points qu'il lui est nécessaire de connaître concernant ses droits et ses obligations.
 
+
+
 Le texte de ces dispositions est communiqué aux détenus qui sollicitent d'en prendre connaissance au cours de leur incarcération.
 
 
 ##### Article D257-1
 
-En dehors de l'application des dispositions de l'article D257, le chef d'établissement et le personnel doivent assurer par les moyens les plus appropriés l'information des détenus et recueillir les observations et les suggestions que ceux-ci présenteraient.
+En dehors de l'application des dispositions de l'article D. 257, le chef d'établissement et le personnel doivent assurer par les moyens les plus appropriés l'information des détenus et recueillir les observations et les suggestions que ceux-ci présenteraient.
 
 
 ##### Article D258
@@ -15489,7 +15630,7 @@ D'autre part, l'urgence peut conférer à un chef d'établissement une compéten
 
 Tout détenu peut présenter des requêtes ou des plaintes au chef de l'établissement ; ce dernier lui accorde audience s'il invoque un motif suffisant.
 
-Chaque détenu peut demander à être entendu par les magistrats et fonctionnaires chargés de l'inspection ou de la visite de l'établissement, hors la présence de tout membre du personnel de la prison.
+Chaque détenu peut demander à être entendu par les magistrats et fonctionnaires chargés de l'inspection ou de la visite de l'établissement, hors la présence de tout membre du personnel de l'établissement pénitentiaire.
 
 
 ##### Article D260
@@ -15510,12 +15651,14 @@ Les détenus peuvent, à tout moment, adresser des lettres aux autorités admini
 
 Ces lettres peuvent être remises sous pli fermé et échappent alors à tout contrôle ; aucun retard ne doit être apporté à leur envoi.
 
+Elles font l'objet d'un enregistrement, tant à l'arrivée qu'au départ, sur le registre prévu à cet effet, tenu sous la responsabilité du chef d'établissement.
+
 
 ##### Article D263
 
-Les détenus militaires ou marins ont la faculté par ailleurs d'écrire librement aux autorités militaires ou maritimes françaises.
+Les détenus militaires ont la faculté par ailleurs d'écrire librement aux autorités militaires françaises.
 
-Au surplus, ils peuvent être visités par les représentants de l'autorité militaire ou maritime désignés par une instruction de service.
+Au surplus, ils peuvent être visités par les représentants de l'autorité militaire désignés par une instruction de service.
 
 
 ##### Article D264
@@ -15527,15 +15670,15 @@ A cette fin, les autorisations nécessaires sont accordées à ces représentant
 
 ##### Section 5 : De la sécurité
 
-###### Paragraphe 1er : Dispositions générales
+###### Paragraphe 1er : Dispositions générales.
 
 ###### Article D266
 
-La sécurité intérieure des prisons incombe au personnel de l'administration pénitentiaire.
+La sécurité intérieure des établissements pénitentiaires incombe au personnel de l'administration pénitentiaire.
 
-Toutefois, lorsque la gravité ou l'ampleur d'un incident survenu ou redouté à l'intérieur d'un établissement ne permet pas d'assurer le rétablissement ou d'envisager le maintien de l'ordre et de la sécurité par les seuls moyens du personnel de surveillance, le chef de l'établissement doit faire appel au chef du service local de police ou de gendarmerie et en rendre compte sur-le-champ au commissaire de la République. Il en est de même dans l'hypothèse d'une attaque ou d'une menace provenant de l'extérieur.
+Toutefois, lorsque la gravité ou l'ampleur d'un incident survenu ou redouté à l'intérieur d'un établissement ne permet pas d'assurer le rétablissement ou d'envisager le maintien de l'ordre et de la sécurité par les seuls moyens du personnel de surveillance, le chef de l'établissement doit faire appel au chef du service local de police ou de gendarmerie et en rendre compte sur-le-champ au préfet. Il en est de même dans l'hypothèse d'une attaque ou d'une menace provenant de l'extérieur.
 
-Les modalités de l'appel aux forces préposées au maintien de l'ordre et de l'intervention de celles-ci sont déterminées par une instruction de service et précisées, en ce qui concerne chaque établissement pénitentiaire, par un plan de protection et d'intervention dressé et tenu à jour sous l'autorité du commissaire de la République.
+Les modalités de l'appel aux forces préposées au maintien de l'ordre et de l'intervention de celles-ci sont déterminées par une instruction de service et précisées, en ce qui concerne chaque établissement pénitentiaire, par un plan de protection et d'intervention dressé et tenu à jour sous l'autorité du préfet.
 
 
 ###### Article D267
@@ -15544,7 +15687,7 @@ L'administration pénitentiaire pourvoit à l'armement du personnel dans les con
 
 Les agents en service dans les locaux de détention ne doivent pas être armés, à moins d'ordre exprès donné, dans des circonstances exceptionnelles et pour une intervention strictement définie, par le chef de l'établissement.
 
-En toute hypothèse, il ne peut être fait usage des armes que dans les cas déterminés à l'article  D. 175.
+En toute hypothèse, il ne peut être fait usage des armes que dans les cas déterminés à l'article  D. 283-6.
 
 
 ###### Article D268
@@ -15554,14 +15697,14 @@ Toutes dispositions doivent être prises en vue de prévenir les évasions, nota
 
 ###### Article D269
 
-Les surveillants procèdent, en l'absence des détenus, à l'inspection fréquente et minutieuse des cellules et locaux divers où les détenus séjournent, travaillent ou ont accès. Les systèmes de fermeture sont vérifiés périodiquement et les barreaux sondés quotidiennement.
+Les surveillants procèdent, en l'absence des détenus, à l'inspection fréquente et minutieuse des cellules et locaux divers où les détenus séjournent, travaillent ou ont accès. Les systèmes de fermetures sont périodiquement vérifiés et les barreaux contrôlés quotidiennement.
 
 
 ###### Article D270
 
-Hormis les cas visés aux articles D131, D136 à D147, les détenus doivent faire l'objet d'une surveillance constante.
+Hormis les cas visés aux articles D. 136 à D. 147, les personnels pénitentiaires doivent être constamment en mesure de s'assurer de la présence effective des détenus.
 
-Pendant la nuit, les dortoirs demeurent éclairés sans que la lumière soit assez intense pour empêcher le sommeil. A moins qu'ils ne comportent des cloisonnements permettant l'isolement individuel des détenus, personne ne doit y pénétrer, non plus que dans les cellules, en l'absence de raisons graves ou de péril imminent. En toute hypothèse, l'intervention de deux membres du personnel au moins est nécessaire, ainsi que celle d'un gradé, s'il y en a un en service de nuit.
+Pendant la nuit, les cellules doivent pouvoir être éclairées en cas de besoin. Personne ne doit y pénétrer en l'absence de raisons graves ou de péril imminent. En toute hypothèse, l'intervention de deux membres du personnel au moins est nécessaire, ainsi que celle d'un gradé, s'il y en a un en service de nuit.
 
 
 ###### Article D271
@@ -15571,59 +15714,68 @@ La présence de chaque détenu doit être contrôlée au moment du lever et du c
 
 ###### Article D272
 
-Des rondes sont faites après le coucher et au cours de la nuit, suivant un horaire fixé et quotidiennement modifié par le surveillant-chef.
+Des rondes sont faites après le coucher et au cours de la nuit, suivant un horaire fixé et quotidiennement modifié par le chef de détention, sous l'autorité du chef d'établissement.
 
 
 ###### Article D273
 
-Les détenus ne peuvent garder à leur disposition aucun objet, médicament ou substance pouvant permettre ou faciliter un suicide, une agression ou une évasion, non plus qu'aucun outil dangereux en dehors du temps de travail.
+Les détenus ne peuvent garder à leur disposition aucun objet ou substance pouvant permettre ou faciliter un suicide, une agression ou une évasion, non plus qu'aucun outil dangereux en dehors du temps de travail.
 
-Au surplus, et pendant la nuit, les objets laissés habituellement en leur possession, et notamment tout ou partie de leurs vêtements, peuvent leur être retirés pour des motifs de sécurité.
+Au surplus, et pendant la nuit, les objets et vêtements laissés habituellement en leur possession peuvent leur être retirés pour des motifs de sécurité.
+
+Sauf décision individuelle du chef d'établissement motivée par des raisons d'ordre et de sécurité, un détenu peut garder à sa disposition, selon les modalités prescrites par les médecins intervenant dans les établissements pénitentiaires, des médicaments, matériels et appareillages médicaux.
 
 
 ###### Article D274
 
 L'entrée ou la sortie des sommes d'argent, correspondances ou objets quelconques n'est régulière que si elle est conforme aux dispositions du présent titre et du règlement intérieur de l'établissement ou si elle a été expressément autorisée par le chef de l'établissement dans le cas où celui-ci est habilité à le faire.
 
+
+
 En toute hypothèse, les sommes, correspondances ou objets doivent être soumis au contrôle de l'administration.
 
-Indépendamment des avis prévus à l'article D280, il est donné connaissance à l'autorité judiciaire, en vue de l'application éventuelle des pénalités prévues à l'article 248 du code pénal, de la découverte des sommes, correspondances ou objets qui seraient trouvés en possession des détenus ou de leur visiteurs et qui auraient été envoyés ou remis contrairement aux prescriptions des deux alinéas qui précèdent.
 
 
-###### Article D275.
+Indépendamment des avis prévus à l'article D. 280, il est donné connaissance à l'autorité judiciaire, en vue de l'application éventuelle des pénalités prévues à l'article 434-35 du code pénal, de la découverte des sommes, correspondances ou objets qui seraient trouvés en possession des détenus ou de leur visiteurs et qui auraient été envoyés ou remis contrairement aux prescriptions des deux alinéas qui précèdent.
+
+
+###### Article D275
 
 Les détenus doivent être fouillés fréquemment et aussi souvent que le chef de l'établissement l'estime nécessaire.
 
-Ils le sont notamment à leur entrée dans l'établissement et chaque fois qu'ils en sont extraits et y sont reconduits pour quelque cause que ce soit. Ils peuvent également être l'objet d'une fouille avant et après tout parloir ou visite quelconque.
+Ils le sont notamment à leur entrée dans l'établissement et chaque fois qu'ils en sont extraits et y sont reconduits pour quelque cause que ce soit. Ils doivent également faire l'objet d'une fouille avant et après tout parloir ou visite quelconque.
 
 Les détenus ne peuvent être fouillés que par des agents de leur sexe et dans des conditions qui, tout en garantissant l'efficacité du contrôle, préservent le respect de la dignité inhérente à la personne humaine.
 
 
-###### Article D276.
+###### Article D276
 
-Le surveillant-chef inscrit chaque jour sur le carnet de chaque surveillant les divers locaux qu'il devra visiter le lendemain, le nombre et l'horaire des rondes qu'il devra effectuer, les détenus qui lui seront confiés ou les parties du service dont il sera chargé.
+Le chef d'établissement détermine les modalités d'organisation du service des agents.
 
-Le surveillant-chef consigne sur ce carnet les recommandations spéciales faites à un surveillant, notamment pour signaler un détenu dangereux ou à observer particulièrement.
+Sous l'autorité du chef d'établissement, le chef de détention ou celui de ses collaborateurs spécialement désigné à cet effet, détermine les activités à assurer. Il arrête chaque jour les divers locaux à contrôler et la programmation des rondes à effectuer. Il consigne sur un registre prévu à cet effet les recommandations spéciales faites aux surveillants, notamment pour signaler un détenu dangereux ou à observer particulièrement.
 
 
-###### Paragraphe 2 : Conditions d'accès dans les lieux de détention
+###### Article D276-1
+
+En vue de la mise en oeuvre des mesures de sécurité adaptées, le ministre de la justice décide de l'inscription et de la radiation des détenus au répertoire des détenus particulièrement signalés dans des conditions déterminées par instruction ministérielle.
+
+
+###### Paragraphe 2 : Conditions d'accès dans les lieux de détention.
 
 ###### Article D277
 
-Sous réserve des dispositions des articles D229 à D231, aucune personne étrangère au service ne peut être admise à visiter une prison qu'en vertu d'une autorisation spéciale délivrée par le directeur régional des services pénitentiaires ou par le ministre de la justice.
+Sous réserve des dispositions des articles D. 229 à D. 231, aucune personne étrangère au service ne peut être admise à visiter un établissement pénitentiaire qu'en vertu d'une autorisation spéciale délivrée par le chef d'établissement. Cette autorisation est délivrée par le directeur régional des services pénitentiaires lorsque la demande est relative à plusieurs établissements situés dans le ressort de sa compétence territoriale et par le ministre de la justice lorsqu'elle est relative à des établissements situés sur tout le territoire national.
 
 A moins d'une disposition expresse, cette autorisation ne confère pas à son bénéficiaire le droit de communiquer avec les détenus de quelque manière que ce soit, même en présence de membres du personnel.
 
-Aucune photographie de l'intérieur de la prison ne peut être effectuée sans autorisation spéciale du ministre ; il en est de même de tout croquis, prises de vues ou enregistrement sonore se rapportant à la détention.
+Une autorisation spéciale est nécessaire pour effectuer à l'intérieur d'un établissement pénitentiaire des photographies, croquis, prises de vue et enregistrements sonores se rapportant à la détention. Cette autorisation est délivrée par le directeur régional des services pénitentiaires lorsqu'elle est relative à un ou plusieurs établissements situés dans le ressort de sa compétence territoriale, et par le ministre de la justice lorsque l'autorisation est relative à des établissements situés sur tout le territoire national.
 
 
 ###### Article D278
 
-Les personnes étrangères au service d'un établissement pénitentiaire ne peuvent pénétrer à l'intérieur de celui-ci qu'après avoir justifié de leur identité et de leur qualité.
+Les personnes étrangères au service d'un établissement pénitentiaire ne peuvent pénétrer à l'intérieur de celui-ci qu'après avoir justifié de leur identité et de leur qualité et après s'être soumises aux mesures de contrôle réglementaires.
 
-
-
-La pièce d'identité produite par les personnes qui n'ont pas autorité dans la prison ou qui n'y sont pas en mission, peut être retenue pour leur être restituée seulement au moment de leur sortie.
+La pièce d'identité produite par les personnes qui n'ont pas autorité dans l'établissement pénitentiaire ou qui n'y sont pas en mission, peut être retenue pour leur être restituée seulement au moment de leur sortie.
 
 
 ###### Article D279
@@ -15635,18 +15787,22 @@ Seuls n'ont pas à figurer sur ce registre les noms des fonctionnaires logés à
 
 ###### Article D279-1
 
-A titre exceptionnel, et seulement pour d'impérieuses raisons de sécurité, le ministre de la justice peut suspendre pendant une période de temps limitée toute visite à l'intérieur d'une prison.
+A titre exceptionnel, et seulement pour d'impérieuses raisons de sécurité, le ministre de la justice peut suspendre pendant une période de temps limitée toute visite à l'intérieur d'un établissement pénitentiaire.
 
 
-###### Paragraphe 3 : Incidents
+###### Paragraphe 3 : Incidents.
 
 ###### Article D280
 
-Tout incident grave touchant à l'ordre, à la discipline ou à la sécurité de la prison doit être immédiatement porté par le chef de l'établissement à la connaissance du commissaire de la République et du procureur de la République, en même temps qu'à celle du directeur régional des services pénitentiaires et du ministre de la justice.
+Tout incident grave touchant à l'ordre, à la discipline ou à la sécurité de l'établissement pénitentiaire doit être immédiatement porté par le chef de l'établissement à la connaissance du préfet et du procureur de la République, en même temps qu'à celle du directeur régional des services pénitentiaires et du ministre de la justice.
+
+
 
 Si l'incident concerne un prévenu, avis doit en être donné également au magistrat saisi du dossier de l'information et, si l'incident concerne un condamné, au juge de l'application des peines.
 
-Si le détenu appartient aux forces armées, l'autorité militaire ou maritime doit en outre être avisée.
+
+
+Si le détenu appartient aux forces armées, l'autorité militaire doit en outre être avisée.
 
 
 ###### Article D281
@@ -15656,7 +15812,7 @@ Le chef de l'établissement dans lequel a été commis un crime ou un délit doi
 
 ###### Article D282
 
-En cas de décès d'un détenu, le chef de l'établissement donne les avis prévus à l'article D280.
+En cas de décès d'un détenu, le chef de l'établissement donne les avis prévus à l'article D. 280.
 
 S'il y a eu suicide ou mort violente, ou encore si la cause du décès est inconnue ou suspecte, les dispositions de l'article 74 sont applicables.
 
@@ -15669,12 +15825,12 @@ Le lieu du décès ne doit être indiqué dans l'acte de l'état civil que par l
 
 Toute évasion doit être signalée sur-le-champ au chef de l'établissement ou à son représentant le plus proche.
 
-Le chef de l'établissement avise immédiatement les services de police ou de gendarmerie et rend compte de l'évasion aux autorités visées à l'article D280.
+Le chef de l'établissement avise immédiatement les services de police ou de gendarmerie et rend compte de l'évasion aux autorités visées à l'article D. 280.
 
 Toute tentative d'évasion doit également être portée sans délai à la connaissance de ces autorités.
 
 
-###### Paragraphe 4 : Mise à l'isolement
+###### Paragraphe 4 : Mise à l'isolement.
 
 ###### Article D283-1
 
@@ -15684,9 +15840,13 @@ La mise à l'isolement est ordonnée par le chef de l'établissement qui rend co
 
 Le détenu peut faire parvenir au juge de l'application des peines soit directement, soit par l'intermédiaire de son conseil, toutes observations utiles en ce qui concerne la décision prise à son égard.
 
-Les détenus placés à l'isolement sont signalés au médecin qui les visite dans les conditions prévues à l'article D375. Le médecin émet, chaque fois qu'il l'estime utile, un avis sur l'opportunité de prolonger l'isolement ou d'y mettre fin.
+La liste des détenus présents au quartier d'isolement est communiquée quotidiennement à l'équipe médicale. Ces détenus font l'objet d'un examen médical dans les conditions prévues à l'article D. 381. Il appartient au médecin, chaque fois qu'il l'estime utile au regard de l'état de santé du détenu, d'émettre un avis sur l'opportunité de mettre fin à la mesure d'isolement.
 
-La durée de l'isolement ne peut être prolongée au-delà de trois mois sans qu'un nouveau rapport ait été fait devant la commission de l'application des peines et sans une décision du directeur régional, prononcée après avis du médecin.
+La durée de l'isolement ne peut être prolongée au-delà de trois mois sans qu'un nouveau rapport ait été fait devant la commission de l'application des peines et sans une décision du directeur régional.
+
+La mesure d'isolement ne peut être prolongée au-delà d'un an à partir de la décision initiale que par décision du ministre de la justice, prise sur rapport motivé du directeur régional qui recueille préalablement les avis de la commission de l'application des peines et du médecin intervenant à l'établissement.
+
+Un registre des mesures d'isolement est tenu sous la responsabilité du chef d'établissement. Ce registre est visé par les autorités administratives et judiciaires lors de leurs visites de contrôle et d'inspection.
 
 
 ###### Article D283-2
@@ -15696,7 +15856,7 @@ La mise à l'isolement ne constitue pas une mesure disciplinaire.
 Les détenus qui en font l'objet sont soumis au régime ordinaire de détention.
 
 
-###### Paragraphe 5 : Moyens de contrainte
+###### Paragraphe 5 : Moyens de contrainte.
 
 ###### Article D283-3
 
@@ -15704,7 +15864,7 @@ Aucun moyen de contrainte ne doit être employé à titre de sanction disciplina
 
 
 
-Les moyens de contrainte visés à l'article 726 ne peuvent être utilisés, en application des dispositions dudit article, que sur prescription médicale ou sur ordre du chef de l'établissement, s'il n'est d'autre possibilité de maîtriser un détenu, de l'empêcher de causer des dommages ou de porter atteinte à lui-même ou à autrui. Le chef d'établissement doit faire visiter d'urgence le détenu par le médecin qui décide de maintenir ou de faire cesser la contrainte.
+Les moyens de contrainte visés à l'article 726 ne peuvent être utilisés, en application des dispositions dudit article, que sur ordre du chef de l'établissement, s'il n'est d'autre possibilité de maîtriser un détenu, de l'empêcher de causer des dommages ou de porter atteinte à lui-même ou à autrui. Il appartient au chef d'établissement de demander l'examen du détenu par un médecin. Il est mis fin à la contrainte si ce dernier constate qu'elle est incompatible avec l'état de santé du détenu.
 
 
 
@@ -15713,9 +15873,7 @@ Il doit en être rendu compte sans délai au directeur régional.
 
 ###### Article D283-4
 
-Par mesure de précaution contre les évasions, les détenus peuvent être soumis au port des menottes et des entraves pendant leur transfèrement ou leur extraction, ou lorsque les circonstances ne permettent pas d'assurer efficacement leur garde d'une autre manière.
-
-
+Dans les conditions définies par l'article 803, et par mesure de précaution contre les évasions, les détenus peuvent être soumis au port des menottes ou, s'il y a lieu, des entraves pendant leur transfèrement ou leur extraction, ou lorsque les circonstances ne permettent pas d'assurer efficacement leur garde d'une autre manière.
 
 Toutefois, aucun lien ne doit être laissé à un détenu au moment de sa comparution devant une juridiction.
 
@@ -15742,7 +15900,9 @@ Pour l'application des dispositions qui précèdent, les membres des forces pré
 
 ##### Article D265
 
-Tout chef d'établissement doit veiller à une stricte application des instructions relatives au maintien de l'ordre et de la sécurité dans la prison qu'il dirige.
+Tout chef d'établissement doit veiller à une stricte application des instructions relatives au maintien de l'ordre et de la sécurité dans l'établissement pénitentiaire qu'il dirige.
+
+
 
 A ce titre, il est disciplinairement responsable des incidents ou des évasions imputables à sa négligence ou à l'inobservation des règlements, indépendamment des procédures disciplinaires susceptibles d'être engagées contre d'autres membres du personnel.
 
@@ -15762,19 +15922,21 @@ Chaque détenu doit être immédiatement mis en mesure d'informer sa famille de 
 
 ##### Article D285
 
-Le jour de son arrivée à la prison ou, au plus tard, le lendemain, chaque détenu doit être visité par le chef de l'établissement ou par un de ses subordonnés immédiats.
+Le jour de son arrivée à l'établissement pénitentiaire ou, au plus tard, le lendemain, chaque détenu doit être visité par le chef de l'établissement ou par un de ses subordonnés immédiats.
 
-Dans les délais les plus brefs, le détenu est soumis à un examen médical destiné à déceler toute affection de nature contagieuse ou évolutive qui nécessiterait des mesures d'isolement ou des soins urgents.
+Dans les délais les plus brefs, le détenu est soumis à un examen médical dans les conditions prévues à l'article D. 381.
 
-Le détenu est également visité, dès que possible, par un membre du service socio-éducatif et, s'il y a lieu, par le ministre de son culte, conformément aux dispositions des articles D436 et D464.
+Le détenu est également visité, dès que possible, par un membre du service socio-éducatif, conformément aux dispositions de l'article D. 464.
+
+Le détenu qui manifeste son intention de pratiquer sa religion peut être visité par le ministre du culte, conformément aux dispositions de l'article D. 436.
 
 
 ##### Article D287
 
-Des instructions de service déterminent les conditions dans lesquelles doivent être rédigés et envoyés :
-- les fiches d'identité judiciaire destinées à permettre l'identification anthropométrique de chaque détenu ;
-- les bulletins individuels destinés à renseigner les services de police sur l'entrée, la sortie et le transfèrement éventuel de chaque détenu ;
-- les notes individuelles prévues à l'article R69 concernant les dates de l'expiration des peines corporelles et l'exécution de la contrainte judiciaire, destinées au casier judiciaire.
+Des instructions de service déterminent les conditions dans lesquelles :
+1. Les services de l'identité judiciaire du ministère de l'intérieur informent l'établissement pénitentiaire des opérations anthropométriques ;
+2. Le recto de chaque fiche pénale intitulé "fiche d'exécution des peines" est rédigé et transmis en copie au casier judiciaire, conformément aux dispositions des articles R. 69 et R. 72 ;
+3. Les officiers de police judiciaire habilités de la police nationale et de la gendarmerie nationale reçoivent les informations relatives à l'identité des personnes incarcérées, dès l'incarcération et à la libération.
 
 
 ##### Article D288
@@ -15801,9 +15963,9 @@ L'application de cette règle ne peut cependant avoir pour conséquence de retar
 
 Toute réquisition ou ordre de transfèrement ou d'extraction régulièrement délivré a un caractère impératif et le chef de l'établissement de détention doit y déférer sans le moindre retard, à moins d'impossibilité matérielle ou de circonstances particulières dont il aurait alors à rendre compte immédiatement à l'autorité requérante.
 
-Il en est notamment ainsi lorsque le médecin juge intransportable le détenu à transférer ou à extraire. Le certificat délivré par ce praticien permet l'application éventuelle des dispositions de l'article 416.
+Il en est notamment ainsi lorsqu'il est établi par un médecin, habilité ou autorisé à intervenir dans l'établissement pénitentiaire, que l'état de santé du détenu ne permet pas son transfert ou son extraction. Le certificat délivré par ce praticien permet l'application éventuelle des dispositions de l'article 416.
 
-Au surplus, la situation du détenu du point de vue judiciaire peut faire obstacle à son transfèrement ou en faire différer l'exécution ainsi qu'il est précisé à l'article D302.
+Au surplus, la situation du détenu du point de vue judiciaire peut faire obstacle à son transfèrement ou en faire différer l'exécution ainsi qu'il est précisé à l'article D. 302.
 
 
 ###### Article D293
@@ -15812,7 +15974,7 @@ Aucun transfèrement, aucune extraction ne peut être opéré sans un ordre écr
 
 Cet ordre, lorsqu'il n'émane pas de l'administration pénitentiaire elle-même, est adressé par le procureur de la République du lieu de l'autorité requérante au procureur de la République du lieu de détention.
 
-Ce magistrat transmet l'ordre au chef de l'établissement pénitentiaire après y avoir apposé son visa et prend toutes dispositions nécessaires pour que le transfèrement ou l'extraction ait lieu dans les conditions de sécurité prévues aux articles D294 à D296.
+Ce magistrat transmet l'ordre au chef de l'établissement pénitentiaire après y avoir apposé son visa et prend toutes dispositions nécessaires pour que le transfèrement ou l'extraction ait lieu dans les conditions de sécurité prévues aux articles D. 294 à D. 296.
 
 L'ordre ainsi donné est conservé au greffe de l'établissement pénitentiaire, en original ou en copie certifiée conforme.
 
@@ -15825,7 +15987,7 @@ Si les personnes chargées de procéder à l'opération sont inconnues des servi
 
 Des précautions doivent être prises en vue d'éviter les évasions et tous autres incidents lors des transfèrements et extractions de détenus.
 
-Ces derniers sont fouillés minutieusement avant le départ. Ils peuvent être soumis, sous la responsabilité du chef d'escorte, au port des menottes et, s'il y a lieu, des entraves.
+Ces derniers sont fouillés minutieusement avant le départ. Ils peuvent être soumis, sous la responsabilité du chef d'escorte, au port des menottes ou, s'il y a lieu, des entraves, dans les conditions définies à l'article D. 283-4.
 
 Au cas où un détenu serait considéré comme dangereux ou devrait être surveillé particulièrement, le chef de l'établissement donne tous les renseignements et avis nécessaires au chef de l'escorte.
 
@@ -15881,21 +16043,16 @@ Si le détenu transféré est en prévention, le soin d'assurer sa réintégrati
 
 Le ministre de la justice ordonne les transfèrements de caractère administratif, c'est-à-dire les transfèrements autres que ceux visés aux articles D. 297 à D. 299.
 
-La compétence du ministre est exclusive en ce qui concerne :
-- Le transfèrement à titre administratif de tout détenu d'une région pénitentiaire à une autre ;
-- Le transfèrement dans une maison centrale, un centre de détention ;
-- Le transfèrement dans un établissement pénitentiaire à vocation sanitaire, à moins qu'il ne s'agisse d'un établissement dans lequel le directeur régional a été autorisé par décision ministérielle à affecter lui-même les détenus de sa région.
+La compétence du ministre de la justice est exclusive en ce qui concerne :
+1. Le transfèrement à titre administratif de tout détenu d'une région pénitentiaire à une autre ;
+2. Les transfèrements vers ou à partir d'une maison centrale ou d'un centre de détention à vocation nationale.
 
 
 ####### Article D301
 
-Sous réserve des dispositions de l'article D300 et à moins qu'il ne s'agisse de détenus ayant fait l'objet d'une décision d'affectation de la part de l'administration centrale, le directeur régional peut ordonner, à l'intérieur de sa région, les transfèrements individuels ou collectifs qu'il estime nécessaires.
+Sous réserve des dispositions de l'article D. 300 et sauf s'il s'agit de détenus ayant fait l'objet d'une décision d'affectation de la part du ministre de la justice autre qu'une mise à disposition du directeur régional, ce dernier peut ordonner, à l'intérieur de sa région, les transfèrements individuels ou collectifs qu'il estime nécessaires.
 
-Il peut procéder ainsi à l'égard des condamnés à qui de courtes peines restent à subir :
-- afin de remédier à l'encombrement d'un établissement ;
-- pour mieux répartir la population suivant les possibilités du travail pénal ;
-- pour envoyer dans un établissement plus sûr un détenu jugé dangereux ;
-- pour envoyer un détenu dans un établissement pénitentiaire sanitaire réservé par décision ministérielle aux prisonniers de sa région.
+S'il s'agit de prévenus, il ne peut être procédé à leur transfert qu'avec l'accord du magistrat saisi du dossier de l'information.
 
 
 ####### Article D302
@@ -15905,11 +16062,6 @@ Un condamné ne peut être transféré s'il doit être tenu à la disposition de
 
 
 Il appartient au ministère public de faire connaître à l'administration pénitentiaire la date à partir de laquelle le détenu pourra être dirigé sur sa destination pénale, et il en est rendu compte à l'autorité ayant délivré l'ordre de transfèrement.
-
-
-####### Article D303
-
-Dans l'hypothèse où le transfèrement d'un prévenu paraît nécessaire à destination d'un établissement pénitentiaire sanitaire pour raison médicale, ou d'une autre maison d'arrêt pour motif d'ordre administratif, l'opération ne peut être prescrite par l'administration pénitentiaire qu'avec l'accord du magistrat saisi du dossier de l'information.
 
 
 ####### C : Exécution des transfèrements par l'administration pénitentiaire
@@ -15932,7 +16084,9 @@ La même charge lui incombe en ce qui concerne l'exécution d'un ordre de transf
 
 Les transfèrements s'effectuent par route ou par voie ferrée, maritime ou aérienne.
 
-L'autorité à laquelle incombe l'organisation du transfèrement décide du moyen de transport à utiliser dans chaque cas, compte tenu de l'importance du convoi, du caractère dangereux et de l'état de santé des détenus, de la distance à parcourir et de l'urgence de l'opération.
+L'autorité à laquelle incombe l'organisation du transfèrement décide du moyen de transport à utiliser dans chaque cas, compte tenu de l'importance du convoi, du caractère dangereux du détenu, de la distance à parcourir, de l'urgence de l'opération et de l'état de santé du détenu, sous réserve du cas où un transport sanitaire aura été prescrit par un médecin.
+
+Dans ce dernier cas, l'autorité à laquelle incombe l'organisation du transfèrement décide des moyens de surveillance à mettre en oeuvre.
 
 Toutes précautions doivent être prises pour assurer aux détenus transportés des conditions suffisantes de confort et d'hygiène.
 
@@ -15999,12 +16153,12 @@ Il lui appartient de même de faire conduire, soit à l'aller d'un établissemen
 
 ####### Article D312
 
-Les mesures qui ont pour objet de refouler à la frontière certains étrangers condamnés par décision de justice ou d'assurer l'exécution des arrêtés d'expulsion n'incombent pas à l'administration pénitentiaire, même lorsque les intéressés y sont soumis à leur sortie de prison.
+Les mesures qui ont pour objet de refouler à la frontière certains étrangers condamnés par décision de justice ou d'assurer l'exécution des arrêtés d'expulsion n'incombent pas à l'administration pénitentiaire, même lorsque les intéressés y sont soumis à leur libération.
 
 
 ####### Article D313
 
-Les mineurs qui ont été placés provisoirement dans une maison d'arrêt, et qui doivent faire l'objet d'une des mesures prévues par les articles 15, 16 et 28 de l'ordonnance n° 45-174 du 2 février 1945 relatives à l'enfance délinquante sont dirigés sans retard sur l'institution ou auprès de la personne chargée de les recevoir.
+Les mineurs qui ont été placés provisoirement dans une maison d'arrêt, et qui doivent faire l'objet d'une des mesures prévues par les articles 15,16 et 28 de l'ordonnance n° 45-174 du 2 février 1945 relatives à l'enfance délinquante sont dirigés sans retard sur l'institution ou auprès de la personne chargée de les recevoir.
 
 A cette fin, le chef de l'établissement pénitentiaire qui en a la garde les signale au procureur de la République du siège du tribunal pour enfants, et à la direction de la protection judiciaire de la jeunesse au ministère de la justice.
 
@@ -16028,7 +16182,7 @@ L'extraction s'effectue sans radiation de l'écrou car elle comporte obligatoire
 
 L'autorité compétente pour ordonner ou pour autoriser l'extraction est tenue en conséquence de donner toutes instructions utiles pour que soit assurée la réintégration.
 
-Celle-ci doit avoir lieu dans le délai le plus bref et, en toute hypothèse autre que celle d'une hospitalisation, le jour même de l'extraction. Lorsqu'il est nécessaire que la mesure motivant l'extraction se prolonge pendant plusieurs jours, le détenu est réintégré chaque soir à la prison.
+Celle-ci doit avoir lieu dans le délai le plus bref et, en toute hypothèse autre que celle d'une hospitalisation, le jour même de l'extraction. Lorsqu'il est nécessaire que la mesure motivant l'extraction se prolonge pendant plusieurs jours, le détenu est réintégré chaque soir à l'établissement pénitentiaire.
 
 
 ###### Article D314-1
@@ -16040,6 +16194,15 @@ A cette fin, l'autorité compétente précise la date exacte du retour prévu à
 Durant son absence de son lieu habituel de détention, le détenu, écroué dès son arrivée sous la forme simplifiée dans l'établissement de destination, est réintégré chaque soir dans cet établissement.
 
 
+###### Article D314-2
+
+Dans l'hypothèse où, en application des dispositions prévues aux articles D. 391 et suivants, un détenu doit être hospitalisé dans un établissement de santé éloigné de l'établissement pénitentiaire dans lequel il est écroué, il peut faire l'objet d'une levée d'écrou sous la forme simplifiée, nonobstant le fait que l'absence de son établissement d'origine excède soixante-douze heures.
+
+Le détenu est écroué dans l'établissement pénitentiaire situé à proximité de l'établissement de santé selon les mêmes modalités.
+
+A l'issue de l'hospitalisation, le détenu doit être réintégré dans son établissement d'origine dans les délais les plus brefs. Si cette réintégration n'est pas possible, le transfert définitif du détenu est effectué en régularisation.
+
+
 ###### Article D315
 
 Lorsqu'un détenu doit comparaître à quelque titre et pour quelque cause que ce soit, devant une juridiction de l'ordre judiciaire, les réquisitions nécessaires sont délivrées par le procureur de la République dans toutes les hypothèses où elles ne relèvent pas de la compétence d'un autre magistrat en vertu des règles édictées par le présent code.
@@ -16049,7 +16212,7 @@ La charge de procéder aux extractions de détenus qui sont requises par l'autor
 
 ###### Article D316
 
-Le commissaire de la République apprécie si l'extraction des détenus appelés à comparaître devant des juridictions ou des organismes d'ordre administratif est indispensable. Dans l'affirmative, il requiert l'extraction par les services de police ou de gendarmerie selon la distinction de l'article D315 [*réquisition*].
+Le préfet apprécie si l'extraction des détenus appelés à comparaître devant des juridictions ou des organismes d'ordre administratif est indispensable. Dans l'affirmative, il requiert l'extraction par les services de police ou de gendarmerie selon la distinction de l'article D. 315.
 
 
 ###### Article D317
@@ -16059,16 +16222,18 @@ Dans les hypothèses où, en raison des nécessités de l'enquête à laquelle i
 Lorsque des officiers de police judiciaire n'agissent pas en exécution d'une commission rogatoire ordonnant l'extraction, une autorisation spéciale doit être accordée à cet effet par le magistrat saisi du dossier de l'information, et s'il n'y pas d'information judiciaire, par le procureur de la République du lieu de détention.
 
 
-##### Article D290.
+##### Article D290
 
 Le transfèrement consiste dans la conduite d'un détenu sous surveillance d'un établissement à un autre établissement pénitentiaire.
 
-Cette opération comporte la radiation de l'écrou à l'établissement de départ et un nouvel écrou à la prison de destination sans que la détention subie soit pour autant considérée comme interrompue.
+
+
+Cette opération comporte la radiation de l'écrou à l'établissement de départ et un nouvel écrou à l'établissement pénitentiaire de destination sans que la détention subie soit pour autant considérée comme interrompue.
 
 
 ##### Article D291
 
-L'extraction est l'opération par laquelle un détenu est conduit sous surveillance en dehors de l'établissement de détention, lorsqu'il doit comparaître en justice, ou lorsqu'il doit recevoir des soins qu'il n'est pas possible de lui donner en prison, ou plus généralement lorsque l'accomplissement d'un acte ne pouvant être effectué dans un établissement pénitentiaire a été reconnu absolument nécessaire et compatible avec la situation de l'intéressé.
+L'extraction est l'opération par laquelle un détenu est conduit sous surveillance en dehors de l'établissement de détention, lorsqu'il doit comparaître en justice, ou lorsqu'il doit recevoir des soins qu'il n'est pas possible de lui donner dans l'établissement pénitentiaire, ou plus généralement lorsque l'accomplissement d'un acte ne pouvant être effectué dans un établissement pénitentiaire a été reconnu absolument nécessaire et compatible avec la situation de l'intéressé.
 
 
 #### Chapitre VII : De la gestion des biens et de l'entretien des détenus
@@ -16081,23 +16246,18 @@ L'extraction est l'opération par laquelle un détenu est conduit sous surveilla
 
 L'établissement pénitentiaire où le détenu est écroué tient un compte nominatif où sont inscrites les valeurs pécuniaires lui appartenant.
 
-Sous réserve que les détenus n'en aient pas demandé l'envoi à un tiers ou la consignation, les sommes dont ils sont porteurs à leur entrée dans la prison sont immédiatement inscrites à leur compte nominatif au moment de leur écrou. L'importance de ces sommes ne saurait en aucun cas justifier le refus de la prise en charge.
+Sous réserve que les détenus n'en aient pas demandé l'envoi à un tiers ou la consignation, les sommes dont ils sont porteurs à leur entrée dans l'établissement pénitentiaire sont immédiatement inscrites à leur compte nominatif au moment de leur écrou. L'importance de ces sommes ne saurait en aucun cas justifier le refus de la prise en charge.
 
 Le compte nominatif est par la suite crédité ou débité de toutes les sommes qui viennent à être dues au détenu, ou par lui, au cours de sa détention, dans les conditions réglementaires.
 
 
-###### Article D320.
-
-Les dispositions de l'article 29 du Code pénal [* article abrogé *] ne font pas obstacle à ce que les condamnés en état d'interdiction légale puissent, dans les conditions et limites fixées au présent titre, disposer eux-mêmes des fonds figurant à leur compte nominatif et en recevoir directement le solde à leur sortie.
-
-
 ###### Article D321
 
-Le détenu conserve la gestion de ses biens patrimoniaux extérieurs, dans la limite de sa capacité civile. Toutefois, cette gestion ne peut s'effectuer que par mandataire, celui-ci devant être étranger à l'administration pénitentiaire.
+Le détenu conserve la gestion de ses biens patrimoniaux extérieurs, dans la limite de sa capacité civile. Le cas échéant, cette gestion peut s'effectuer par l'intermédiaire d'un mandataire, celui-ci devant être étranger à l'administration pénitentiaire.
 
-Les procurations éventuelles sont envoyées dans les conditions fixées aux articles D414 et suivants et, lorsqu'elles émanent de prévenus, sont notamment soumises au contrôle du magistrat saisi du dossier de l'information dans les conditions que celui-ci détermine ; l'apposition d'un visa en vue de l'acheminement de ces documents ne saurait faire préjuger de la capacité du signataire.
+Les procurations éventuelles sont envoyées dans les conditions fixées aux articles D. 414 et suivants et, lorsqu'elles émanent de prévenus, sont notamment soumises au contrôle du magistrat saisi du dossier de l'information dans les conditions que celui-ci détermine ; l'apposition d'un visa en vue de l'acheminement de ces documents ne saurait faire préjuger de la capacité du signataire.
 
-En toute hypothèse, un acte requérant le ministère d'un notaire peut être dressé en prison, lorsque cet officier ministériel a obtenu l'autorisation visée à l'article D411.
+En toute hypothèse, un acte requérant le ministère d'un notaire peut être dressé dans l'établissement pénitentiaire, lorsque cet officier ministériel a obtenu l'autorisation visée à l'article D. 411.
 
 
 ###### Article D322
@@ -16109,10 +16269,10 @@ Les comptables des établissements pénitentiaires ou leurs préposés bénéfic
 
 La part disponible du compte nominatif peut être utilisée par le détenu, conformément aux règlements, pour effectuer des achats à l'intérieur de l'établissement pénitentiaire, ou même, sur autorisation spéciale, pour procéder à des versements au dehors.
 
-En cas d'évasion du titulaire du compte, cette part est appliquée d'office à l'indemnisation des parties civiles. Le reliquat est acquis à l'Etat, sauf décision du ministre de la justice ordonnant qu'il soit rétabli en tout ou partie au profit du détenu lorsque ce dernier a été repris.
+En cas d'évasion du titulaire du compte, cette part est appliquée d'office à l'indemnisation des parties civiles. Le reliquat est acquis à l'Etat, sauf décision du directeur régional des services pénitentiaires du lieu où s'est produite l'évasion ordonnant qu'il soit rétabli en tout ou partie au profit du détenu lorsque ce dernier a été repris.
 
 
-###### Article D324.
+###### Article D324
 
 Les sommes constituant le pécule de libération sont inscrites à un compte spécial ; lorsqu'elles dépassent une somme fixée par arrêté du garde des sceaux, ministre de la justice, elles sont versées à un livret de caisse d'épargne.
 
@@ -16120,7 +16280,7 @@ Une instruction de service détermine les modalités d'application de ces dispos
 
 Le capital représentatif des rentes d'accidents du travail dont la conversion a été rendue obligatoire par le décret n° 59-734 du 15 juin 1959 est intégralement versé au pécule de libération.
 
-Pendant l'incarcération, le pécule de libération ne peut faire l'objet d'aucune voie d'exécution sous réserve des dispositions prévues à l'article D113.
+Pendant l'incarcération, le pécule de libération ne peut faire l'objet d'aucune voie d'exécution.
 
 
 ###### Article D325
@@ -16183,24 +16343,23 @@ Sont de même versées au Trésor les sommes trouvées en possession irréguliè
 
 ###### Article D333
 
-Une saisie-arrêt peut, dans les conditions du droit commun, être valablement formée concernant le compte nominatif d'un détenu, entre les mains du comptable ou de son préposé.
+Une saisie-attribution peut, dans les conditions du droit commun, être valablement formée concernant le compte nominatif d'un détenu, entre les mains du comptable ou de son préposé.
 
-La saisie-arrêt porte sur les sommes composant la part disponible, sous réserve du cantonnement éventuellement ordonné par l'autorité judiciaire et des insaisissabilités reconnues par la loi ; ces dernières s'appliquent à la part du détenu sur le produit de son travail.
+La saisie-attribution porte exclusivement sur les sommes composant la part disponible, sous réserve du cantonnement éventuellement ordonné par l'autorité judiciaire et des insaisissabilités reconnues par la loi.
+
+La saisie des rémunérations des détenus peut être opérée dans les conditions du droit commun.
 
 
 ###### Article D334
 
-Au moment de sa libération, chaque détenu reçoit les sommes qui résultent de la liquidation de son compte nominatif ; éventuellement lui sont également remis ;
+Au moment de sa libération, chaque détenu reçoit les sommes qui résultent de la liquidation de son compte nominatif ; le cas échéant lui sont également remis :
+1. Les pièces justificatives du paiement des sommes versées pour l'exécution de ses condamnations pécuniaires ;
+2. Les pièces justificatives du paiement des sommes versées pour l'indemnisation des parties civiles ;
+3. Un état des sommes prélevées au titre de la participation aux frais d'entretien ;
+4. Un état des sommes épargnées au titre du pécule de libération ;
+5. Un état des sommes prélevées au titre des cotisations à caractère social.
 
-Les pièces justificatives du paiement des sommes versées pour l'exécution de ses condamnations pécuniaires ;
-
-Un état des sommes prélevées au titre des frais d'entretien ;
-
-Un état des sommes épargnées au titre du pécule de libération ;
-
-Un état des sommes prélevées au titre des cotisations à caractère social.
-
-Si l'intéressé doit, après son élargissement, être remis à une escorte, les fonds et les pièces justificatives sont remis contre décharge au chef de cette escorte, par dérogation aux dispositions du premier alinéa de l'article D310.
+Si l'intéressé doit, après son élargissement, être remis à une escorte, les fonds et les pièces justificatives sont remis contre décharge au chef de cette escorte, par dérogation aux dispositions du premier alinéa de l'article D. 310.
 
 Il en sera de même en cas de transfert uniquement en ce qui concerne les pièces justificatives.
 
@@ -16213,12 +16372,12 @@ Les objets dont les détenus sont porteurs à leur entrée dans un établissemen
 
 Ils sont alors, après inventaire, inscrits sur un registre spécial, au compte de l'intéressé pour lui être restitués à sa sortie.
 
-Si le détenu entrant est porteur de médicaments, le médecin décide de l'usage qu'il pourra en faire.
+Si le détenu entrant est porteur de médicaments, le médecin doit en être immédiatement avisé afin de décider de l'usage qui doit en être fait.
 
 
 ###### Article D336
 
-Les bijoux, après estimation, et les valeurs sont inventoriés, inscrits au registre visé à l'article D335 et déposés au service comptable de la prison. A la demande du détenu, ils peuvent toutefois être rendus à sa famille, avec l'accord du magistrat saisi du dossier de l'information, lorsque l'intéressé est prévenu.
+Les bijoux, après estimation, et les valeurs sont inventoriés, inscrits au registre visé à l'article D. 335 et déposés au service comptable de l'établissement pénitentiaire. A la demande du détenu, ils peuvent toutefois être rendus à sa famille, avec l'accord du magistrat saisi du dossier de l'information, lorsque l'intéressé est prévenu.
 
 En cas de perte à l'établissement, il est remis au détenu où à ses ayants droit la valeur d'estimation de l'objet perdu.
 
@@ -16234,7 +16393,7 @@ Dans ce cas, ils n'en sont pas moins inscrits provisoirement au registre visé �
 
 Les effets personnels retirés aux détenus qui ont manifesté le désir de porter les vêtements fournis par l'administration sont inventoriés, nettoyés et désinfectés.
 
-Ils sont ensuite mis au magasin de la prison, en vue d'être restitués à leur propriétaire à la sortie de celui-ci.
+Ils sont ensuite mis au magasin de l'établissement pénitentiaire, en vue d'être restitués à leur propriétaire à la sortie de celui-ci.
 
 
 ###### Article D339
@@ -16246,19 +16405,19 @@ Le chef d'établissement donne connaissance à l'autorité judiciaire des sommes
 
 Au moment de la libération, les bijoux, valeurs, vêtements et effets personnels sont remis au détenu qui en donne décharge. Si l'intéressé refuse de les recevoir, il en est fait remise à l'administration des domaines.
 
-Lorsque la sortie de prison a lieu par transfèrement, les objets appartenant aux détenus sont déposés contre reçu entre les mains de l'agent de transfèrement s'ils ne sont pas trop lourds ou volumineux ; sinon, ils sont expédiés à la nouvelle destination du détenu aux frais de ce dernier ou sont, avec son consentement, vendus à son profit ou remis à un tiers désigné par lui.
+Lorsque le détenu est transféré, les objets lui appartenant sont déposés contre reçu entre les mains de l'agent de transfèrement s'ils ne sont pas trop lourds ou volumineux ; sinon, ils sont expédiés à la nouvelle destination du détenu aux frais de ce dernier ou sont remis à un tiers désigné par lui, après accord du chef d'établissement.
 
 
 ###### Article D341
 
-Après un délai de trois ans depuis le décès d'un détenu, si les bijoux, valeurs, vêtements et effets personnels n'ont pas été réclamés par ses ayants droit, il en est fait remise à l'administration des domaines et cette remise vaut décharge pour l'administration de la prison ; l'argent est de même versé au Trésor.
+Après un délai de trois ans depuis le décès d'un détenu, si les bijoux, valeurs, vêtements et effets personnels n'ont pas été réclamés par ses ayants droit, il en est fait remise à l'administration des domaines et cette remise vaut décharge pour l'administration pénitentiaire ; l'argent est de même versé au Trésor.
 
 Après un délai de trois ans à compter de l'évasion d'un détenu, les objets et l'argent laissés reçoivent la même destination que ci-dessus, si la capture de l'intéressé n'a pas été signalée.
 
 
 ##### Article D318
 
-Sous réserve des dispositions prévues à l'article D122, il n'est laissé aux détenus ni argent, ni valeurs, ni bijoux autres que leur alliance et leur montre.
+Sous réserve des dispositions prévues aux articles D. 122 et D. 395, il n'est laissé aux détenus ni argent, ni valeurs, ni bijoux autres que leur alliance et leur montre.
 
 
 ##### Section 2 : De l'entretien des détenus
@@ -16272,16 +16431,16 @@ Ce régime comporte trois distributions journalières.
 
 ##### Article D343
 
-A moins d'en être privés par mesure disciplinaire, les détenus ont la possibilité d'acheter, sur leur part disponible, divers objets ou denrées en supplément de ceux qui leur sont octroyés.
+A moins d'en être privés par mesure disciplinaire, les détenus ont la possibilité d'acquérir avec les sommes figurant à leur part disponible divers objets, denrées ou prestations de service en supplément de ceux qui leur sont octroyés.
 
-Cette faculté s'exerce toutefois sous le contrôle du chef de l'établissement et dans les conditions prévues au règlement intérieur ; elle peut être limitée en cas d'abus.
+Cette faculté s'exerce sous le contrôle du chef de l'établissement et dans les conditions prévues au règlement intérieur ; elle peut être limitée en cas d'abus.
 
 
 ##### Article D344
 
 Les prix pratiqués à la cantine doivent être portés à la connaissance des détenus.
 
-Ces prix sont fixés périodiquement par le chef de l'établissement, s'il s'agit d'un membre du personnel de direction ou, sinon, par le directeur régional des services pénitentiaires. Sauf en ce qui concerne le pain et le tabac, ils doivent tenir compte des frais exposés par l'administration pour la manutention et la préparation.
+Ces prix sont fixés périodiquement par le chef d'établissement. Sauf en ce qui concerne le tabac, ils doivent tenir compte des frais exposés par l'administration pour la manutention et la préparation.
 
 
 ##### Article D345
@@ -16291,9 +16450,7 @@ Les vivres vendus en cantine comprennent seulement les denrées d'usage courant 
 
 ##### Article D346
 
-Quelle que soit leur situation pénale, les détenus peuvent, à moins d'en être privés par mesure disciplinaire ou par prescription médicale, acheter chaque jour en cantine cinquante centilitres de cidre ou de bière de faible degré.
-
-La vente en cantine de toute autre boisson alcoolisée, et notamment du vin, est interdite.
+La vente en cantine de toute boisson alcoolisée est interdite.
 
 
 ##### Article D347
@@ -16307,14 +16464,58 @@ Le chef d'établissement détermine, en fonction de la configuration des lieux, 
 
 Dans tous les établissements les condamnés portent les vêtements personnels qu'ils possèdent ou qu'ils acquièrent par l'intermédiaire de l'administration, à moins qu'il n'en soit autrement ordonné par l'autorité administrative pour d'impérieuses raisons d'ordre ou de propreté.
 
-Toutefois, ils peuvent demander à l'administration de leur fournir les effets nécessaires s'ils craignent la détérioration de leurs vêtements personnels soit par un usage trop fréquent, soit à l'occasion du travail auquel ils sont astreints.
+Toutefois, ils peuvent demander à l'administration de leur fournir les effets nécessaires s'ils craignent la détérioration de leurs vêtements personnels soit par un usage trop fréquent, soit à l'occasion du travail.
 
 Le modèle des vêtements ainsi fournis peut varier selon l'activité exercée et les conditions climatiques.
 
+Une tenue de sport peut être fournie, sur leur demande, aux détenus dépourvus de ressources suffisantes qui participent régulièrement aux séances d'activités physiques et sportives.
 
-#### Chapitre VIII : De l'hygiène et du service sanitaire
 
-##### Section 1 : De l'hygiène
+#### Chapitre VIII : De l'hygiène et de l'organisation sanitaire
+
+##### Section 1 : Dispositions générales
+
+##### Article D348-1
+
+L'inspection générale des affaires sociales et les services déconcentrés du ministère chargé de la santé veillent à l'observation des mesures nécessaires au maintien de la santé des détenus et de l'hygiène dans les établissements pénitentiaires.
+
+Ces services contrôlent à l'intérieur des établissements pénitentiaires l'exécution des lois et règlements se rapportant à la santé publique et effectuent toutes vérifications utiles à leurs missions.
+
+
+##### Article D348-2
+
+Le comité interministériel de coordination de la santé en milieu pénitentiaire est présidé conjointement par le garde des sceaux, ministre de la justice, ou son représentant et par le ministre chargé de la santé ou son représentant. Il comprend en outre :
+1. Le directeur général de la santé ou son représentant ;
+2. Le directeur des hôpitaux ou son représentant ;
+3. Le directeur de l'administration pénitentiaire ou son représentant ;
+4. Le directeur des affaires criminelles et des grâces ou son représentant ;
+5. Le directeur de la sécurité sociale ou son représentant ;
+6. Un directeur régional des services pénitentiaires désigné par le directeur de l'administration pénitentiaire ;
+7. Un juge de l'application des peines désigné par le ministre de la justice ;
+8. Un médecin inspecteur de santé publique désigné par le directeur général de la santé ;
+9. Un chef d'établissement pénitentiaire désigné par le directeur de l'administration pénitentiaire ;
+10. Un travailleur social désigné par le directeur de l'administration pénitentiaire ;
+11. Un médecin exerçant dans un établissement pénitentiaire désigné par le directeur des hôpitaux ;
+12. Un directeur d'hôpital désigné par le directeur des hôpitaux.
+
+
+##### Article D348-3
+
+Le comité interministériel est chargé d'examiner toute question d'ordre général se rapportant à la protection, à l'amélioration de la santé des détenus et à l'hygiène dans les établissements pénitentiaires.
+
+Il veille à la mise en oeuvre des orientations fixées dans les domaines de la prévention, de l'organisation des soins et de l'hygiène dans les établissements pénitentiaires.
+
+Il assure la concertation, à l'échelon national, entre les services des ministères compétents chargés de promouvoir l'amélioration des soins dispensés aux personnes incarcérées et concourt à l'évaluation du dispositif de soins en milieu pénitentiaire.
+
+
+##### Article D348-4
+
+Le comité interministériel se réunit au moins une fois par an. Les présidents peuvent convoquer aux séances du comité interministériel toute personne qualifiée par sa compétence ou en raison de ses fonctions. Le comité interministériel peut constituer des groupes de travail afin d'examiner les questions relevant de sa compétence.
+
+Le secrétariat de ce comité est assuré alternativement chaque année soit par un magistrat ou un fonctionnaire de la direction de l'administration pénitentiaire, soit par un fonctionnaire de la direction générale de la santé.
+
+
+##### Section 2 : De l'hygiène
 
 ###### Paragraphe 1er : Salubrité et propreté des locaux
 
@@ -16332,9 +16533,9 @@ Les installations sanitaires doivent être propres et décentes. Elles doivent �
 
 ###### Article D352
 
-Chaque détenu valide fait son lit et entretient sa cellule ou la place qui lui est réservée dans un état constant de propreté.
+Chaque détenu valide fait son lit et entretient sa cellule ou la place qui lui est réservée dans un état constant de propreté. A cet effet, l'administration pénitentiaire lui fournit les produits et objets de nettoyage nécessaires.
 
-Les ateliers réfectoires, dortoirs, couloirs et préaux, ainsi que les autres locaux à usage commun et ceux affectés aux services, sont nettoyés chaque jour par les détenus du service général.
+Les ateliers, réfectoires, dortoirs, couloirs et préaux ainsi que les lieux à usage collectif sont nettoyés chaque jour par les détenus du service général en tant que de besoin.
 
 
 ###### Paragraphe 2 : Hygiène du travail et des services économiques
@@ -16369,53 +16570,25 @@ Les effets de literie ayant servi à un détenu doivent être changés avant d'�
 
 ###### Article D357
 
-La propreté personnelle est exigée de tous les détenus.
+La propreté est exigée de tous les détenus.
 
-Les fournitures de toilette nécessaires leur sont remises dès leur entrée en prison, et les facilités et le temps convenables leur sont accordés pour qu'ils procèdent quotidiennement à leurs soins de propreté.
+Les facilités et le temps convenables leur sont accordés pour qu'ils procèdent quotidiennement à leurs soins de propreté.
+
+Une trousse de toilette comprenant des produits d'hygiène corporelle est fournie à tout entrant provenant de l'état de liberté. Le renouvellement en est assuré pour les détenus dont les ressources sont insuffisantes.
 
 
 ###### Article D358
 
-Les détenus sont mis en mesure de se raser ou de tailler leur barbe ou moustache deux fois par semaine au moins, et avant chaque sortie ou conduite à l'extérieur.
+Les détenus prennent une douche à leur arrivée à l'établissement. Dans toute la mesure du possible, ils doivent pouvoir se doucher au moins trois fois par semaine ainsi qu'après les séances de sport et au retour du travail.
 
-Sur prescription du médecin, la barbe et la moustache des détenus peuvent être rasées et les cheveux coupés court.
+Les conditions de l'utilisation des douches sont fixées par le règlement intérieur de l'établissement.
 
 
 ###### Article D359
 
-A moins d'indication contraire du médecin, tous les détenus doivent être douchés au moins une fois par semaine.
+Le règlement intérieur de chaque établissement pénitentiaire doit réserver une partie de l'emploi du temps des détenus à la pratique d'exercices physiques.
 
-Il leur est également donné une douche à leur entrée.
-
-
-###### Paragraphe 4 : Exercices physiques
-
-###### Article D360
-
-Le règlement intérieur de chaque établissement pénitentiaire doit réserver une partie de l'emploi du temps des détenus à la pratique d'exercices physiques, en particulier lorsque ces détenus ne sont pas habituellement occupés à des travaux à l'extérieur.
-
-
-###### Article D361
-
-Tout détenu doit effectuer chaque jour une promenade à l'air libre, sur cour ou préau, sauf s'il en a été dispensé sur avis du médecin.
-
-La durée de la promenade est d'au moins une heure.
-
-
-###### Article D362
-
-Des séances d'éducation physique et de sport ont lieu dans tous les établissements pénitentiaires où il est possible d'en organiser.
-
-Le temps réservé à l'une et l'autre de ces activités peut s'imputer sur la durée de la promenade.
-
-La pratique de l'éducation physique et du sport s'effectue sous le contrôle du médecin de l'établissement et en liaison avec les services compétents du ministère de l'éducation nationale.
-
-
-###### Article D363
-
-Tout détenu peut être admis sur sa demande à pratiquer l'éducation physique et le sport.
-
-Les détenus punis de cellule sont exclus des séances. Le chef de l'établissement peut en écarter tout autre détenu pour des raisons d'ordre et de sécurité.
+Tout détenu doit pouvoir effectuer chaque jour une promenade d'au moins une heure à l'air libre.
 
 
 ##### Article D349
@@ -16423,408 +16596,402 @@ Les détenus punis de cellule sont exclus des séances. Le chef de l'établissem
 L'incarcération doit être subie dans des conditions satisfaisantes d'hygiène et de salubrité, tant en ce qui concerne l'aménagement et l'entretien des bâtiments, le fonctionnement des services économiques et l'organisation du travail, que l'application des règles de propreté individuelle et la pratique des exercices physiques.
 
 
-##### Section 2 : Du service sanitaire
+##### Section 3 : De l'organisation sanitaire
 
-###### Paragraphe 1 : Organisation sanitaire
+###### Paragraphe 1er : Dispositions générales
+
+###### Article D360
+
+Le transfèrement dans un établissement pénitentiaire mieux approprié peut être sollicité dans les conditions prévues au quatrième alinéa de l'article D. 382, pour les détenus qui ne bénéficient pas, dans l'établissement où ils sont écroués, de conditions matérielles de détention adaptées à leur état de santé et pour ceux qui nécessitent une prise en charge particulière.
+
+Le directeur régional fait procéder, à l'intérieur de sa région et dans les conditions prévues à l'article D. 301, à tout transfèrement ayant pour objet de permettre à un détenu malade d'être pris en charge dans de meilleures conditions.
+
+S'il s'agit de prévenus, le magistrat saisi du dossier de l'information doit avoir donné préalablement son accord au transfèrement, après avoir été informé de la durée probable du traitement envisagé.
+
+
+###### Article D361
+
+Les détenus malades bénéficient du régime alimentaire qui leur est médicalement prescrit.
+
+
+###### Article D362
+
+Hors le cas où l'état de santé du détenu rend nécessaire un acte de diagnostic ou de soins auquel il n'est pas à même de consentir, celui-ci doit, conformément aux dispositions de l'article 36 du code de déontologie médicale, exprimer son consentement préalablement à tout acte médical et, en cas de refus, être informé par le médecin des conséquences de ce refus.
+
+Lorsque le détenu est mineur, il appartient au détenteur de l'autorité parentale d'exprimer son consentement. Toutefois, lorsque la santé ou l'intégrité corporelle du mineur risque d'être compromise par le refus du représentant légal, ou l'impossibilité de recueillir son consentement, le médecin responsable peut saisir le ministère public afin de provoquer les mesures d'assistance éducative lui permettant de donner les soins qui s'imposent.
+
+
+###### Article D363
+
+Conformément à l'article L. 209-5 du code de la santé publique, les détenus ne peuvent être sollicités pour se prêter à des recherches biomédicales que s'il en est attendu un bénéfice direct et majeur pour leur santé. Leur consentement est recueilli selon les modalités prévues par les articles L. 209-9 et L. 209-10 du même code.
+
 
 ###### Article D364
 
-Un ou plusieurs médecins sont désignés par le directeur régional des services pénitentiaires auprès de chaque établissement pénitentiaire, selon son importance, sur proposition du chef de l'établissement pénitentiaire, après consultation de l'ordre départemental des médecins et avis du préfet.
+Si un détenu se livre à une grève de la faim prolongée, il ne peut être traité sans son consentement, sauf lorsque son état de santé s'altère gravement et seulement sur décision et sous surveillance médicales.
 
-La désignation de ces médecins est acquise pour une durée de trois ans, renouvelable par reconduction expresse du directeur régional.
-
-Les médecins coordinateurs titulaires d'un contrat sont désignés par le ministre de la justice après consultation de l'ordre départemental des médecins et avis du préfet.
-
-En cas d'absence ou d'empêchement, le ou les médecins titulaires sont remplacés temporairement par un médecin agréé par le directeur régional.
+Il en est rendu compte aux autorités à prévenir en cas d'incident dans les conditions visées à l'article D. 280.
 
 
 ###### Article D365
 
-Des internes en médecine ou en pharmacie sont en fonctions dans les établissements pénitentiaires où l'effectif des détenus justifie une surveillance médicale constante.
+Hormis les cas où ils se trouvent en dehors d'un établissement pénitentiaire en application des articles 723 et 723-3, les détenus ne peuvent être examinés ou soignés par un médecin de leur choix, à moins d'une décision du directeur régional des services pénitentiaires territorialement compétent. Ils doivent alors assumer les frais qui leur incombent du fait de cette prise en charge.
 
-Ils sont placés, du point de vue médical, sous l'autorité et la responsabilité du médecin.
 
-Toutefois, il appartient au chef de l'établissement de déterminer, sur proposition du médecin, les conditions dans lesquelles les internes assurent leur service.
-
+###### Paragraphe 2 : Protection sociale des détenus
 
 ###### Article D366
 
-Indépendamment des chirurgiens-dentistes et des médecins psychiatres, dont les attributions sont précisées aux articles D. 392 et D. 397, tous autres spécialistes ou auxiliaires médicaux peuvent être appelés, sur la proposition du médecin de l'établissement, à prêter leur concours à l'examen et au traitement des détenus.
+Les détenus sont affiliés, dès leur incarcération, au régime général de la sécurité sociale. A ce titre, ils bénéficient, ainsi que leurs ayants droit, des prestations en nature de l'assurance maladie et maternité servies par le régime général dans les conditions fixées par les articles L. 381-30 à L. 381-30-6 du code de la sécurité sociale.
+
+Les détenus bénéficiant d'une mesure de semi-liberté ou de placement à l'extérieur en application de l'article 723 et qui exercent une activité professionnelle dans les conditions de droit commun sont affiliés au régime de sécurité sociale dont ils relèvent au titre de cette activité, dès lors que la durée de celle-ci permet l'ouverture des droits. Dans le cas contraire, ils continuent à bénéficier des prestations en nature de l'assurance maladie et maternité servies par le régime général dans les conditions fixées par les articles L. 381-30 à L. 381-30-6 du code de la sécurité sociale, jusqu'à ce qu'ils remplissent les conditions d'ouverture du droit aux prestations du régime d'assurance maladie dont ils relèvent au titre de leur activité.
 
 
 ###### Article D367
 
-Un infirmier ou une infirmière est attaché, à temps complet ou à temps partiel, à chaque établissement pénitentiaire.
+La part qui reste éventuellement à la charge du détenu, après remboursement d'un appareillage ou d'une prothèse par l'assurance maladie, et déduction faite du versement par l'administration pénitentiaire de la part des dépenses prévue par l'article L. 381-30-5 du code de la sécurité sociale, est prise sur son compte nominatif. Cependant, l'administration pénitentiaire peut se substituer aux détenus dont les ressources sont insuffisantes.
 
-Des surveillants spécialisés peuvent, avec l'accord du médecin, assister l'infirmier ou l'infirmière dans sa tâche.
+Le financement des appareillages, prothèses, actes, traitements ou interventions chirurgicales qui ne sont pas pris en charge par l'assurance maladie est à l'entière charge des intéressés, après autorisation du chef d'établissement, sous réserve des dispositions relatives aux prestations servies aux détenus en application de la législation sur les accidents du travail et les maladies professionnelles.
 
+
+###### Paragraphe 3 : L'organisation des soins en milieu pénitentiaire
 
 ###### Article D368
 
-Une infirmerie est installée dans chaque établissement.
+Les missions de diagnostic et de soins en milieu pénitentiaire et la coordination des actions de prévention et d'éducation pour la santé sont assurées par une équipe hospitalière placée sous l'autorité médicale d'un praticien hospitalier, dans le cadre d'une unité de consultations et de soins ambulatoires, conformément aux dispositions des articles R. 711-7 à R. 711-18 du code de la santé publique.
 
-Selon l'importance et la spécialisation de l'établissement, cette infirmerie est pourvue d'un équipement permettant de donner les soins et le traitement convenables aux détenus malades, de fournir un régime adapté aux besoins des infirmes et des malades chroniques et d'isoler les malades contagieux.
+En application de l'article R. 711-7 du code de la santé publique, le directeur de l'agence régionale de l'hospitalisation désigne, pour chaque établissement pénitentiaire de la région, l'établissement public de santé situé à proximité de l'établissement pénitentiaire, qui est chargé de mettre en oeuvre les missions décrites au premier alinéa du présent article.
 
-Des locaux sont également aménagés en cabinet de consultation médicale et en pharmacie.
+En application de l'article R. 711-9 du code de la santé publique, lorsque l'établissement public de santé désigné par le directeur de l'agence régionale de l'hospitalisation ne comporte pas de service de psychiatrie et que l'établissement pénitentiaire n'est pas desservi par un service médico-psychologique régional mentionné à l'article D. 372, le directeur de l'agence régionale de l'hospitalisation désigne en outre, dans les mêmes conditions, l'établissement public de santé ou l'établissement de santé privé admis à participer à l'exécution du service public hospitalier, situé à proximité, qui est chargé de dispenser aux détenus les soins en psychiatrie.
 
 
 ###### Article D369
 
-Les détenus malades bénéficient, selon les prescriptions médicales et dans toute la mesure du possible, des conditions matérielles de détention et du régime alimentaire nécessités par leur état.
+En application des dispositions de l'article R. 711-10 du code de la santé publique, les modalités d'intervention de l'établissement public de santé mentionné à l'article R. 711-7 du même code sont fixées par un protocole signé par le directeur de l'agence régionale de l'hospitalisation, le directeur régional des services pénitentiaires, le chef de l'établissement pénitentiaire et le directeur de l'établissement de santé concerné, après avis du conseil d'administration.
+
+Il en est de même en ce qui concerne les modalités d'intervention de l'établissement de santé éventuellement désigné en application de l'article R. 711-9 du code de la santé publique. Dans ce cas, le directeur de l'établissement public de santé mentionné à l'article R. 711-7 est également signataire de ce protocole complémentaire.
 
 
 ###### Article D370
 
-Toutes mesures nécessaires en vue de prévenir ou de combattre les affections épidémiques ou contagieuses sont prises par l'administration en accord avec le médecin de la prison.
+En application de l'article R. 711-15 (2°) du code de la santé publique, l'administration pénitentiaire met à disposition de l'unité de consultations et de soins ambulatoires des locaux spécialisés destinés aux consultations, aux examens et, le cas échéant, à une implantation de la pharmacie à usage intérieur.
 
-Les vêtements et la literie ayant servi à un détenu décédé ou atteint de maladie contagieuse, ainsi que la cellule ou le local qu'il occupait, doivent être désinfectés.
+Des cellules situées à proximité de l'unité de consultations et de soins ambulatoires peuvent être réservées à l'hébergement momentané des détenus malades dont l'état de santé exige des soins fréquents ou un suivi médical particulier, sans toutefois nécessiter une hospitalisation. L'affectation des détenus dans ces cellules est décidée par le chef de l'établissement pénitentiaire, sur proposition du praticien responsable de l'unité de consultations et de soins ambulatoires.
 
 
 ###### Article D371
 
-Le résultat de tout examen médical ou dentaire subi par un détenu est porté sur une fiche individuelle, ainsi que toutes indications relatives à l'état de santé et au traitement de l'intéressé.
-
-La fiche est classée à l'infirmerie de l'établissement à la seule disposition du personnel médical et infirmier, et, en cas de transfèrement, elle est incluse dans le dossier du détenu visé à l'article D. 161 ou transmise directement sous pli fermé adressé au médecin de l'établissement de destination.
-
-A la libération, elle est placée audit dossier.
+Dans les établissements pénitentiaires dont le fonctionnement est régi par une convention passée en application de la loi n° 87-432 du 22 juin 1987 relative au service public pénitentiaire, les missions décrites au premier alinéa de l'article D. 368 et les attributions afférentes relèvent de l'équipe médicale placée sous l'autorité d'un médecin, responsable du service mis en place en application de cette convention, dans le cadre du cahier des clauses administratives et techniques particulières précisant son fonctionnement.
 
 
 ###### Article D372
 
-L'inspection générale des affaires sociales et les services du ministre chargé de la santé veillent à l'observation des mesures nécessaires au maintien de la santé des détenus et de l'hygiène dans les prisons.
+Les secteurs de psychiatrie en milieu pénitentiaire répondent, conformément aux dispositions du décret n° 86-602 du 14 mars 1986 modifié, aux besoins de santé mentale de la population incarcérée dans les établissements pénitentiaires relevant de chacun de ces secteurs, sans préjudice des actions de prévention, de diagnostic et de soins courants mises en oeuvre par les secteurs de psychiatrie générale ou infanto-juvénile, au titre des articles R. 711-7 et R. 711-9 du code de la santé publique, ou par l'équipe médicale mise en place en application de la convention visée à l'article D. 371.
 
-Ces services contrôlent à l'intérieur des établissements pénitentiaires l'exécution des lois et règlements se rapportant à la santé publique et effectuent toutes vérifications utiles à leurs missions.
+Chaque secteur de psychiatrie en milieu pénitentiaire est rattaché à un établissement public de santé ou à un établissement de santé privé admis à participer à l'exécution du service public hospitalier et placé sous l'autorité d'un psychiatre, praticien hospitalier, assisté d'une équipe pluridisciplinaire. Il comporte notamment un service médico-psychologique régional aménagé dans un établissement pénitentiaire.
 
-Les médecins des établissements peuvent correspondre directement avec les médecins de ces services à l'occasion des affaires mettant en cause le secret professionnel.
+Les modalités d'intervention du service médico-psychologique régional et de sa coordination avec l'unité de consultations et de soins ambulatoires sont fixées dans le cadre d'un protocole établi en application du décret n° 86-602 du 14 mars 1986 modifié susvisé.
 
+L'administration pénitentiaire prend à sa charge la construction, l'aménagement et l'entretien des locaux individualisés et adaptés, nécessaires au bon fonctionnement du service médico-psychologique régional, en application du décret visé au précédent alinéa.
 
-###### Article D372-1
-
-Le comité interministériel de coordination de la santé en milieu carcéral est présidé par le garde des sceaux, ministre de la justice, ou son représentant. Il comprend en outre :
-
-
-- le chef de l'inspection générale des affaires sociales ou son représentant ;
-
-
-- le directeur de l'administration pénitentiaire ou son représentant ;
-
-
-- le directeur de la sécurité sociale ou son représentant ;
-
-
-- le directeur général de la santé ou son représentant ;
-
-
-- le directeur des hôpitaux ou son représentant ;
-
-
-- le directeur de la pharmacie et du médicament ou son représentant ;
-
-
-- le chef de l'inspection des services pénitentiaires ;
-
-
-- le sous-directeur de l'exécution des peines privatives de liberté et de la réinsertion à la direction de l'administration pénitentiaire ;
-
-
-- le sous-directeur du personnel et des affaires administratives à à la direction de l'administration pénitentiaire ;
-
-
-- le chef du bureau du personnel à la direction de l'administration pénitentiaire ;
-
-
-- un médecin inspecteur régional désigné par le directeur général de la santé ;
-
-
-- un médecin inspecteur départemental désigné par le directeur général de la santé ;
-
-
-- un chef d'établissement pénitentiaire désigné par le directeur de l'administration pénitentiaire ;
-
-
-- un médecin exerçant ses fonctions dans un établissement pénitentiaire désigné par le directeur de l'administration pénitentiaire ;
-
-
-- un infirmier exerçant ses fonctions dans un établissement pénitentiaire désigné par le directeur de l'administration pénitentiaire.
-
-
-###### Article D372-2
-
-Le comité prévu à l'article D. 372-1 est chargé d'examiner toute question d'ordre général se rapportant à la protection, à l'amélioration de la santé des détenus et à l'hygiène dans les établissements pénitentiaires.
-
-Il veille à la mise en oeuvre des orientations fixées pour l'organisation et le fonctionnement des établissements pénitentiaires dans les domaines de l'hygiène et de la santé.
-
-Il assure la concertation, à l'échelon national, entre les services des ministères compétents chargés de promouvoir l'amélioration des soins dispensés aux personnes incarcérées.
-
-
-###### Article D372-3
-
-Le comité interministériel prévu à l'article D. 372-1 se réunit au moins une fois par an.
-
-Le président peut convoquer aux séances du comité interministériel toute personne qualifiée par sa compétence ou en raison de ses fonctions.
-
-Le comité interministériel peut constituer des groupes de travail afin d'examiner les questions relevant de sa compétence.
-
-Le secrétariat de ce comité est assuré par un magistrat ou un fonctionnaire de la direction de l'administration pénitentiaire.
-
-
-###### Paragraphe 2 : Rôle du médecin de l'établissement
 
 ###### Article D373
 
-Dans chaque établissement pénitentiaire, le médecin est tenu d'apporter ses soins aux membres du personnel dans les conditions prévues à l'article D. 227.
+L'administration pénitentiaire assure la sécurité des personnes concourant aux missions de santé dans l'enceinte de l'établissement pénitentiaire.
+
+Des personnels de surveillance sont affectés par le chef d'établissement pénitentiaire dans les structures médicales visées au premier alinéa de l'article D. 368, à l'article D. 371 et au deuxième alinéa de l'article D. 372, après avis des médecins responsables de celles-ci.
 
 
 ###### Article D374
 
-Il appartient au médecin de vérifier l'observation des règles d'hygiène collective et individuelle prescrites à la section I.
+Si une intervention médicale paraît nécessaire en dehors des heures d'ouverture de l'unité de consultations et de soins ambulatoires, les personnels pénitentiaires appliquent les directives prévues par le protocole mentionné au premier alinéa de l'article D. 369.
 
-A cet effet, il doit visiter l'ensemble des services et des bâtiments de la prison aussi fréquemment que possible, et au moins une fois par trimestre.
-
-En signalant les imperfections ou insuffisances éventuellement constatées, il donne son avis sur les moyens d'y remédier et ses observations sont portées par le chef de l'établissement à la connaissance du directeur régional.
+Dans les établissements où les soins sont assurés par la structure visée à l'article D. 371, les personnels pénitentiaires appliquent les prescriptions définies dans le cadre du cahier des clauses administratives et techniques particulières.
 
 
 ###### Article D375
 
-Le médecin, chargé de veiller à la santé physique et mentale des détenus, visite obligatoirement :
-1. Les détenus qui viennent d'être écroués dans l'établissement, ainsi qu'il est prévu à l'article D. 285 ;
-2. Les détenus signalés malades ou qui se sont déclarés tels ;
-3. Au moins deux fois par semaine les détenus placés au quartier disciplinaire ou à l'isolement, ainsi qu'il est dit aux articles D. 168 et D. 170 ;
-4. Les détenus réclamant, pour raison de santé, l'exemption de travail, ou le changement d'affectation, ou la dispense d'exercices physiques, ou une modification ou un aménagement quelconque à leur régime ;
-5. Les détenus à transférer, en vue de signaler ceux pour lesquels il devrait être sursis au transfèrement ou prévu des mesures spéciales ;
-6. Aux fins et dans les conditions visées à l'article D. 388, les détenus hospitalisés.
+Le dossier médical du détenu est conservé sous la responsabilité de l'établissement de santé visé au deuxième alinéa de l'article D. 368 et à l'article D. 372 ou du service médical pour les établissements pénitentiaires dont le fonctionnement est régi par une convention passée en application de la loi n° 87-432 du 22 juin 1987 relative au service public pénitentiaire.
 
-Si le médecin estime que la santé physique ou mentale d'un détenu risque d'être affectée par la prolongation ou par une modalité quelconque de la détention, il en avise par écrit le chef de l'établissement, notamment dans les cas et aux fins prévus aux articles D. 84, D. 97, D. 168 et D. 170. Ce dernier informe aussitôt, s'il y a lieu, l'autorité judiciaire compétente.
+Quand le dossier est établi par l'établissement de santé, il est soumis aux dispositions des articles R. 710-2-1 et suivants du code de la santé publique.
+
+Seul le personnel soignant peut avoir accès au dossier médical.
+
+En cas de transfèrement ou d'extraction vers un établissement hospitalier, les informations médicales contenues dans le dossier sont transmises au médecin destinataire dans des conditions matérielles garantissant leur inviolabilité.
 
 
 ###### Article D376
 
-La fréquence des visites du médecin est déterminée lors de sa désignation, par le directeur régional, selon l'importance de l'établissement ; elle est au moins hebdomadaire.
+Les établissements de santé visés aux articles D. 368 et D. 372 établissent un rapport annuel d'activité incluant la présentation des actions de prévention et d'éducation pour la santé.
 
-En outre, le médecin se rend à la prison toutes les fois qu'il y est appelé par le chef de l'établissement.
+Ce rapport est transmis aux signataires des protocoles. Il est présenté devant l'instance de concertation constituée en application de l'article R. 711-16 (10°) du code de la santé publique ainsi qu'à la commission de surveillance.
 
 
 ###### Article D377
 
-Les prescriptions du médecin et les comptes rendus de ses examens doivent être signés par lui et inscrits sur un registre spécial.
+Conformément au cahier des clauses administratives et techniques particulières auquel ils sont soumis, les services médicaux des établissements pénitentiaires dont le fonctionnement est régi par une convention passée en application de la loi n° 87-432 du 22 juin 1987 relative au service public pénitentiaire adressent leurs statistiques mensuelles d'activité médicale au directeur régional des services pénitentiaires, qui les transmet au ministère de la justice.
+
+Ils établissent également un rapport annuel d'activité comprenant des éléments quantitatifs et qualitatifs qu'ils adressent au directeur de l'établissement pénitentiaire et à la commission de surveillance.
 
 
 ###### Article D378
 
-Le médecin de l'établissement délivre des attestations écrites relatives à l'état de santé des détenus et contenant les renseignements nécessaires à l'orientation et au traitement pénitentiaire ou post-pénal de ceux-ci, chaque fois que l'administration pénitentiaire ou l'autorité judiciaire en fait la demande.
+Les rapports annuels d'activité présentés en application des articles D. 376 et D. 377 sont adressés au directeur régional des services pénitentiaires, qui en assure la transmission au ministère de la justice en y joignant ses éventuelles observations.
 
-Le médecin pourra délivrer des certificats aux détenus et sous réserve de l'accord exprès de ceux-ci à leur famille ou à leur conseil.
 
-Il pourra également communiquer au médecin traitant du détenu tous renseignements nécessaires à la poursuite du traitement en milieu libre.
-
-Il fournira les attestations ou documents indispensables aux intéressés pour bénéficier des avantages qui leur sont reconnus par la sécurité sociale, et notamment de ceux prévus par la législation sur les accidents du travail et les maladies professionnelles.
-
+###### Paragraphe 4 : Attributions des personnels de santé
 
 ###### Article D379
 
-A la fin de chaque année, le médecin fait un rapport d'ensemble sur l'état sanitaire des détenus.
+Le praticien responsable de l'unité de consultations et de soins ambulatoires organise le suivi médical des détenus et coordonne les actions de prévention et d'éducation pour la santé mises en oeuvre à leur égard, conformément aux dispositions des articles R. 711-13 et R. 711-14 du code de la santé publique.
 
-Ce rapport est remis au chef de l'établissement qui le transmet, accompagné de ses observations, au juge de l'application des peines ainsi qu'au directeur régional en vue de son envoi au ministère de la justice.
-
-
-###### Paragraphe 3 : Traitement médical
 
 ###### Article D380
 
-Les détenus malades bénéficient gratuitement des soins qui leur sont nécessaires, ainsi que de la fourniture des produits et spécialités pharmaceutiques dont l'emploi est autorisé dans les hôpitaux publics.
+Le médecin responsable des structures visées aux articles D. 368 et D. 371 veille à l'observation des règles d'hygiène collective et individuelle dans l'établissement pénitentiaire.
 
-Réserve faite des expertises ordonnées par l'autorité judiciaire, ils ne peuvent être examinés ou traités, même à leurs frais, par un médecin de leur choix ou en dehors de la prison, à moins d'une décision ministérielle.
-
-Les détenus bénéficiant d'une mesure de semi-liberté ou de placement à l'extérieur en application de l'article 723 continuent à bénéficier de la gratuité des soins jusqu'à ce qu'ils remplissent les conditions d'ouverture du droit aux prestations du régime d'assurance maladie dont ils relèvent au titre de leur activité.
-
-Les détenus ne peuvent être soumis à des expériences médicales ou scientifiques pouvant porter atteinte à l'intégrité de leur personne physique ou morale.
+A ce titre, il est habilité à visiter l'ensemble des locaux de l'établissement et à signaler aux services compétents les insuffisances en matière d'hygiène et, de manière générale, toute situation susceptible d'affecter la santé des détenus ; il donne son avis sur les moyens d'y remédier.
 
 
 ###### Article D381
 
-Le médecin prononce l'admission à l'infirmerie des détenus malades, à moins que ceux-ci puissent être soignés dans leur cellule individuelle.
+Les médecins chargés des prestations de médecine générale dans les structures visées aux articles D. 368 et D. 371 assurent des consultations médicales, suite à des demandes formulées par le détenu ou, le cas échéant, par le personnel pénitentiaire ou par toute autre personne agissant dans l'intérêt du détenu.
 
-En toute hypothèse, les soins prescrits et les médicaments ordonnés ne peuvent être administrés que par l'infirmier ou l'infirmière, ou sous son contrôle direct.
+Ces médecins réalisent en outre :
+
+a) Un examen médical systématique pour les détenus venant de l'état de liberté ;
+
+b) Les visites aux détenus placés au quartier disciplinaire dans les conditions prévues à l'article D. 251-4, chaque fois que ces médecins l'estiment nécessaire et en tout cas deux fois par semaine au moins ;
+
+c) Les visites au quartier d'isolement, dans les conditions prévues à l'article D. 283-1, chaque fois que ces médecins l'estiment nécessaire et en tout cas deux fois par semaine au moins ;
+
+d) L'examen des détenus sollicitant des attestations relatives à une inaptitude au travail pour raison médicale ;
+
+e) L'examen médical des détenus sollicitant une attestation relative à la pratique d'une activité sportive ;
+
+f) L'examen des détenus sollicitant pour raison médicale un changement d'affectation ou une modification ou un aménagement quelconque de leur régime de détention.
+
+Ces médecins veillent à ce que la continuité des soins soit assurée à l'occasion des transfèrements des détenus.
 
 
 ###### Article D382
 
-Au cas où le médecin de l'établissement estime que les soins nécessaires ne peuvent être donnés sur place, ou s'il s'agit d'une affection épidémique, les détenus malades sont envoyés dans un établissement pénitentiaire mieux approprié ou dans un établissement pénitentiaire spécialisé.
+Les médecins intervenant dans les structures visées aux articles D. 368, D. 371 et D. 372 délivrent au détenu, à sa demande, des certificats ou attestations relatifs à son état de santé et, sous réserve de son accord exprès, à sa famille ou à son conseil.
 
-Toutefois, si leur état de santé interdit leur transfèrement ou s'il y a urgence, ils doivent être admis dans le service hospitalier le plus proche. Il en est de même pour les prévenus qui ne peuvent être éloignés des juridictions d'instruction ou de jugement devant lesquelles ils ont à comparaître.
+Ils lui fournissent les attestations ou documents indispensables pour bénéficier des avantages qui lui sont reconnus par la sécurité sociale, et notamment de ceux prévus par la législation sur les accidents du travail et les maladies professionnelles.
 
-Si le malade appartient aux forces armées le transfèrement doit être effectué sur un hôpital militaire déterminé en accord entre l'administration pénitentiaire et l'autorité militaire, l'hospitalisation étant toujours décidée par le médecin de l'établissement pénitentiaire.
+Ils délivrent aux autorités pénitentiaires des attestations écrites contenant les renseignements strictement nécessaires à l'orientation du détenu ainsi qu'aux modifications ou aux aménagements du régime pénitentiaire que pourrait justifier son état de santé.
 
-Les détenus ne peuvent être hospitalisés, même à leurs frais, dans un établissement privé, à moins d'une décision ministérielle.
+En tout état de cause, si ces médecins estiment que l'état de santé d'un détenu n'est pas compatible avec un maintien en détention ou avec le régime pénitentiaire qui lui est appliqué, ils en avisent par écrit le chef de l'établissement pénitentiaire. Ce dernier en informe aussitôt, s'il y a lieu, l'autorité judiciaire compétente.
+
+Un double des attestations et avis délivrés en application des alinéas 3 et 4 du présent article est remis au détenu, à sa demande.
 
 
 ###### Article D383
 
-Le directeur régional fait procéder, à l'intérieur de sa région et dans les conditions prévues à l'article D. 301, à tout transfèrement ayant pour objet de permettre à un détenu malade d'être soigné dans les meilleures conditions.
+Le personnel infirmier répond aux demandes de soins dans le cadre de son rôle propre, dispense les soins et administre les médicaments sur prescription médicale, en application du décret n° 93-345 du 15 mars 1993 relatif aux actes professionnels et à l'exercice de la profession d'infirmier.
 
-S'il s'agit de prévenus, le magistrat saisi du dossier de l'information doit avoir donné préalablement son accord au transfèrement après avoir été informé de la durée probable du traitement envisagé.
 
+###### Paragraphe 5 : Mesures spécifiques de santé
 
 ###### Article D384
 
-L'hospitalisation est soumise à autorisation ministérielle donnée sur avis du médecin de l'établissement de détention. En ce qui concerne les prévenus, cette autorisation suppose l'accord préalable de l'autorité judiciaire.
+Des moyens de prévention et d'information sur les maladies transmissibles sont mis à la disposition des personnes incarcérées.
 
-En cas d'urgence, il peut toutefois être procédé à l'hospitalisation avant réception de l'autorisation ministérielle.
+Le médecin responsable des structures visées aux articles D. 368 et D. 371 prescrit, en liaison avec le médecin de prévention du personnel pénitentiaire, toutes les mesures nécessaires à la prophylaxie individuelle et collective des maladies transmissibles. Ces mesures sont mises en oeuvre en collaboration avec l'administration pénitentiaire.
+
+
+###### Article D384-1
+
+La prophylaxie de la tuberculose prévue par le code de la santé publique est assurée dans les établissements pénitentiaires par les services compétents prévus à cet effet.
+
+Le dépistage de la tuberculose est réalisé chez tous les entrants provenant de l'état de liberté par un examen radiologique pulmonaire effectué et interprété dans les délais les plus brefs à compter de la date d'incarcération. Cette mesure s'applique également aux détenus présents qui n'auraient jamais bénéficié, ni lors de leur entrée en détention, ni au cours de leur incarcération, d'un dépistage radiologique de la tuberculose. Cet examen systématique est pratiqué sur place, sauf impossibilité matérielle.
+
+Les détenus dont l'état de santé le nécessite sont isolés sur avis médical. Le médecin prescrit les mesures appropriées pour éviter toute contamination du personnel et des détenus.
+
+En liaison avec le médecin responsable des structures visées aux articles D. 368 et D. 371 et le médecin de prévention du personnel pénitentiaire, le médecin du service de lutte antituberculeuse effectue le dépistage de la tuberculose auprès des personnes ayant été en contact avec un détenu présentant une maladie tuberculeuse.
+
+En application de l'article L. 11 du code de la santé publique, la déclaration obligatoire des cas de tuberculose est faite par le médecin ayant effectué le diagnostic et est transmise par le médecin responsable des structures visées aux articles D. 368 et D. 371 au médecin inspecteur de santé publique de la direction départementale des affaires sanitaires et sociales.
+
+
+###### Article D384-2
+
+La prophylaxie des maladies vénériennes prévue par le code de la santé publique est assurée dans les établissements pénitentiaires par les services compétents prévus à cet effet.
+
+
+###### Article D384-3
+
+Toute personne incarcérée doit pouvoir bénéficier, avec son accord, d'une information et d'un conseil personnalisé sur l'infection par le virus de l'immunodéficience humaine (VIH) et, le cas échéant, au cours de consultations médicales, de la prescription d'un test de dépistage et de la remise du résultat.
 
 
 ###### Article D385
 
-Les frais de séjour des détenus hospitalisés sont imputables sur les chapitres du budget du ministère de la justice relatifs à l'entretien des détenus.
+Dans le cadre de la prise en charge globale des personnes présentant une dépendance à un produit licite ou illicite, les secteurs de psychiatrie générale et les secteurs de psychiatrie en milieu pénitentiaire favorisent et coordonnent, en collaboration avec les unités de consultations et de soins ambulatoires, les interventions, au sein de l'établissement pénitentiaire, des équipes des structures spécialisées de soins, notamment des centres spécialisés de soins aux toxicomanes et des centres d'hygiène alimentaire et d'alcoologie.
 
-Toutefois, les frais de transfèrement et de séjour des militaires et marins sont à la charge du ministère de la défense lorsque les intéressés sont dirigés sur un hôpital militaire.
+Dans les établissements visés à l'article D. 371, cette coordination est assurée par les médecins psychiatres du service médical.
 
+
+###### Paragraphe 6 : L'habilitation des personnels hospitaliers
 
 ###### Article D386
 
-Dans le cas exceptionnel où l'hospitalisation d'un détenu s'impose dans les conditions visées aux articles D. 382 et D. 384, le chef de l'établissement de détention avise dans les meilleurs délais l'administration de l'hôpital afin qu'elle prenne les dispositions voulues pour que l'intéressé soit placé dans une chambre de sûreté, ou, à défaut d'installation spéciale dans une chambre ou dans un local où un certain isolement sera possible, de manière que la surveillance suivie du détenu puisse être assurée dans les conditions prévues ci-dessous sans entraîner de gêne pour l'exécution du service hospitalier ou pour les autres malades.
+Les praticiens hospitaliers exerçant à temps plein dans les structures de soins visées aux articles D. 368 et D. 372 sont, préalablement à leur nomination, habilités par le ministre de la justice.
+
+Les praticiens hospitaliers exerçant à temps partiel dans ces structures sont, préalablement à leur nomination ou à leur affectation, habilités par le directeur régional des services pénitentiaires territorialement compétent.
+
+Les autres personnels médicaux et hospitaliers exerçant dans ces structures sont, préalablement à leur nomination ou à leur affectation, habilités par le directeur régional des services pénitentiaires territorialement compétent.
+
+
+###### Article D386-1
+
+L'habilitation est accordée, après avis du préfet de département et, à Paris, du préfet de police, pour une période de cinq ans, renouvelable par tacite reconduction.
+
+L'habilitation ne peut être accordée aux personnes qui ont fait l'objet d'une condamnation justifiant l'inscription au bulletin n° 2 du casier judiciaire, pour des agissements contraires à l'honneur, à la probité ou aux bonnes moeurs.
+
+L'habilitation est retirée de plein droit lorsque cette exigence cesse d'être remplie.
+
+
+###### Article D387
+
+Les personnels hospitaliers sont informés par le directeur régional des services pénitentiaires ou son représentant des conditions d'exercice en milieu carcéral et des obligations résultant des dispositions du présent code.
+
+Le règlement intérieur de l'établissement pénitentiaire dans lequel ils sont amenés à exercer leur mission doit leur être remis par le chef de l'établissement pénitentiaire.
+
+
+###### Article D388
+
+L'habilitation peut être suspendue par le directeur régional des services pénitentiaires pour les praticiens hospitaliers à temps plein, ou par le chef de l'établissement pénitentiaire pour les autres personnels hospitaliers, en cas de manquements graves aux dispositions du code de procédure pénale ou du règlement intérieur. Le directeur de l'établissement de santé doit en être préalablement informé.
+
+L'autorité qui a délivré l'habilitation rend, dans le mois suivant la suspension, une décision motivée de maintien ou de retrait de l'habilitation, après avoir recueilli les observations de la personne habilitée et l'avis de l'autorité investie du pouvoir de nomination.
+
+
+###### Article D389
+
+En cas d'absence ou d'empêchement de l'une des personnes habilitées, ou en cas de nécessité de service, d'autres personnels hospitaliers relevant de l'établissement de santé signataire du protocole passé en application de l'article R. 711-10 du code de la santé publique peuvent être autorisés, sur proposition du directeur de cet établissement, à pénétrer dans l'établissement pénitentiaire par le chef de l'établissement pénitentiaire.
+
+
+###### Article D390
+
+Dans le cadre des actions de prévention et d'éducation pour la santé, l'autorisation d'accès à l'établissement pénitentiaire est accordée par le chef de l'établissement aux personnes intervenant au titre des collectivités territoriales et aux membres du réseau associatif spécialisé auquel peut faire appel l'établissement de santé.
+
+
+###### Article D390-1
+
+Dans le cadre de la prise en charge globale des personnes présentant une dépendance à un produit licite ou illicite, l'autorisation d'accès à l'établissement pénitentiaire est accordée, par le chef d'établissement, aux personnels des structures spécialisées de soins, notamment des centres spécialisés de soins aux toxicomanes et des centres d'hygiène alimentaire et d'alcoologie.
+
+
+###### Paragraphe 7 : Les hospitalisations
+
+###### Article D391
+
+L'hospitalisation des détenus pour des pathologies autres que des troubles mentaux est assurée conformément au 2° de l'article R. 711-19 du code de la santé publique :
+
+a) Par l'établissement de santé mentionné à l'article R. 711-7 du code de la santé publique lorsque cette hospitalisation présente un caractère d'urgence ou de très courte durée ;
+
+b) Par un établissement de santé figurant sur une liste fixée par arrêté conjoint des ministres de la justice, de l'intérieur, de la défense et des ministres chargés de la santé, de la sécurité sociale et du budget.
+
+Si le malade appartient aux forces armées, le transfèrement doit être effectué sur un hôpital militaire déterminé en accord entre l'administration pénitentiaire et l'autorité militaire, l'hospitalisation étant toujours décidée par le médecin intervenant dans l'établissement pénitentiaire. Les frais de transfèrement et de séjour des militaires sont à la charge du ministère de la défense lorsque les intéressés sont dirigés sur un hôpital militaire.
+
+Les détenus ne peuvent être hospitalisés, même à leurs frais, dans un établissement privé, à moins d'une décision du directeur régional des services pénitentiaires territorialement compétent.
+
+
+###### Article D392
+
+Pour les détenus qui sont incarcérés dans un établissement pénitentiaire dont le fonctionnement est régi par une convention passée en application de l'article 2 de la loi n° 87-432 du 22 juin 1987, les hospitalisations présentant un caractère d'urgence et de très courte durée sont réalisées dans l'établissement public de santé le plus proche dispensant les soins définis au a du 1° de l'article L. 711-2 du code de la santé publique et participant à l'accueil et au traitement des urgences.
+
+En dehors des hospitalisations présentant un caractère d'urgence ou de très courte durée, les dispositions du b de l'article D. 391 s'appliquent conformément aux dispositions de l'article 15 du décret n° 94-929 du 27 octobre 1994 relatif aux soins dispensés aux détenus par le service public hospitalier.
+
+
+###### Article D393
+
+L'admission dans un établissement de santé à vocation nationale ou dans un établissement de santé situé dans une autre direction régionale des services pénitentiaires que celle où le détenu est écroué doit être autorisée par le ministre de la justice. Le directeur régional des services pénitentiaires autorise cette hospitalisation dans les autres cas. Ces autorisations sont données après avis d'un médecin intervenant à l'établissement.
+
+En ce qui concerne les prévenus, l'autorisation d'hospitalisation suppose l'accord préalable du magistrat saisi du dossier de l'information.
+
+En cas d'urgence, il peut toutefois être procédé à l'hospitalisation avant réception de l'accord des autorités judiciaires et administratives compétentes, auxquelles il en est rendu compte immédiatement.
+
+
+###### Article D394
+
+Lorsque l'hospitalisation d'un détenu s'impose dans les conditions visées aux articles D. 391 et D. 392, le chef de l'établissement pénitentiaire avise dans les meilleurs délais le directeur de l'établissement de santé afin qu'il prenne toutes dispositions pour que l'intéressé soit accueilli dans des locaux adaptés, de manière à ce que la garde de celui-ci puisse être assurée dans les conditions prévues ci-dessous sans entraîner de gêne pour l'exécution du service hospitalier ou pour les autres malades.
 
 Le chef de l'établissement pénitentiaire doit donner également tous renseignements utiles à l'autorité préfectorale pour la mettre en mesure de prescrire l'escorte et la garde du détenu hospitalisé par les services de police ou de gendarmerie et, d'une façon générale, pour arrêter les mesures propres à éviter tout incident compte tenu de la personnalité du sujet.
 
 
-###### Article D387
+###### Article D395
 
 Les détenus admis à l'hôpital sont considérés comme continuant à subir leur peine ou, s'il s'agit de prévenus, comme placés en détention provisoire.
 
 Les règlements pénitentiaires demeurent applicables à leur égard dans toute la mesure du possible ; il en est ainsi notamment en ce qui concerne leurs relations avec l'extérieur.
 
-
-###### Article D388
-
-Le séjour des détenus dans les hôpitaux doit être réduit au temps strictement nécessaire ; tout détenu qui peut recevoir à l'infirmerie de la prison les soins qu'exige encore son état doit être réintégré.
-
-A cette fin, les médecins de l'administration pénitentiaire doivent suivre la situation sanitaire des détenus hospitalisés en liaison avec les médecins des services hospitaliers.
-
-
-###### Article D389
-
-Les dispositions visées aux articles D. 381 ou D. 384 sont applicables aux malades pour lesquels une intervention chirurgicale est nécessaire.
-
-Sauf impossibilité, le détenu doit donner son assentiment écrit à l'intervention envisagée ; lorsqu'il s'agit d'un détenu mineur, l'autorisation de la famille ou du tuteur est demandée préalablement à l'opération, à moins que celle-ci ne puisse être différée sans danger.
-
-
-###### Article D390
-
-Si un détenu se livre à une grève de la faim prolongée, il peut être procédé à son alimentation forcée, mais seulement sur décision et sous surveillance médicales, et lorsque ses jours risquent d'être mis en danger.
-
-Il en est rendu compte aux autorités à prévenir en cas d'incident dans les conditions visées à l'article D. 280.
-
-
-###### Paragraphe 4 : Soins divers
-
-###### Article D391
-
-Le principe de la gratuité des soins s'étend à tous les examens ou traitements de spécialistes, comme aux prothèses diverses que requiert l'état de santé des détenus.
-
-Toutefois, s'il s'agit de consultations d'opérations ou d'appareillages dont la nécessité médicale n'est pas reconnue, ils ne peuvent avoir lieu qu'aux frais des intéressés et après autorisation du chef de l'établissement, sous réserve des dispositions relatives aux prestations servies aux détenus en application de la législation sur les accidents du travail et les maladies professionnelles. Lorsque la prison est dirigée par un chef de maison d'arrêt ou par un surveillant-chef la décision appartient au directeur régional.
-
-
-###### Article D392
-
-Dans chaque établissement un chirurgien-dentiste est habilité par le directeur régional, sur proposition du chef d'établissement et après avis du préfet, à donner ses soins aux détenus.
-
-L'habilitation est acquise pour une durée de trois ans, renouvelable par reconduction expresse du directeur régional.
-
-Il est tenu de faire au moins deux visites par mois à la prison et de s'y rendre sur appel du chef de l'établissement en cas d'urgence.
-
-Il doit pratiquer l'examen dentaire systématique des détenus dans les conditions déterminées par une instruction de service.
-
-Le règlement des frais et honoraires pour les soins et prothèses dentaires qui ne seraient pas indispensables au maintien ou au rétablissement de la santé incombe aux détenus bénéficiaires dans les conditions déterminées par ladite instruction de service.
-
-
-###### Article D393
-
-Conformément aux dispositions de l'article L. 273 du Code de la santé publique, l'examen et le traitement prévus par les dispositions en vigueur relatives à la prophylaxie des maladies vénériennes sont obligatoires pour tous les détenus. Les prévenus ne sont soumis à cette obligation que si l'autorité sanitaire et l'administration pénitentiaire les considèrent, en raison de présomptions graves, précises et concordantes, atteints d'une maladie vénérienne.
-
-L'examen et les soins sont assurés dans les établissements pénitentiaires par la direction départementale de l'action sanitaire et sociale, conformément à la réglementation générale en la matière.
-
-A cet effet, les médecins, infirmières et assistantes sociales des services spécialisés ont accès dans les établissements pénitentiaires. Sur la proposition du directeur départemental de l'action sanitaire et sociale, l'autorisation de pénétrer dans les prisons leur est délivrée à titre nominatif par le directeur régional des services pénitentiaires.
-
-
-###### Article D394
-
-La prophylaxie de la tuberculose est assurée dans les établissements pénitentiaires par les services départementaux d'hygiène sociale, conformément à la réglementation générale en la matière.
-
-Tout détenu fait l'objet, dès que possible après son incarcération, d'une cuti-réaction suivie, si elle est positive, d'une radioscopie ou, s'il y a lieu, d'une radiographie pratiquée soit avec le matériel appartenant à la prison, soit avec celui des services d'hygiène sociale.
-
-Les détenus âgés de moins de vingt-cinq ans et dont la cuti-réaction aura été négative seront informés de la possibilité qu'ils ont de recevoir, sur leur demande, la vaccination par le B.C.G..
-
-Les détenus atteints de tuberculose sont placés à l'isolement et des mesures d'hygiène rigoureuses doivent être observées. Le chef de l'établissement propose leur transfèrement, sur avis du médecin, dans un établissement pénitentiaire sanitaire.
-
-
-###### Article D395
-
-Des consultations d'hygiène mentale peuvent être organisées dans chaque maison d'arrêt par les services qualifiés des directions départementales de l'action sanitaire et sociale.
-
-Dans cette hypothèse, les médecins de ces services, ainsi que leurs assistants ou assistantes, ont accès dans l'établissement en vertu d'une autorisation délivrée à titre nominatif par le directeur régional des services pénitentiaires sur la proposition du directeur départemental de l'action sanitaire et sociale. Leurs examens doivent être pratiqués en liaison avec le médecin de la prison auquel leurs observations sont au surplus communiquées.
+Par dérogation aux dispositions de l'article D. 318, le détenu admis à l'hôpital peut être autorisé par le chef d'établissement à détenir une somme d'argent provenant de la part disponible de son compte nominatif pour effectuer, à l'intérieur de l'établissement de santé, des dépenses courantes.
 
 
 ###### Article D396
 
-Les détenus peuvent, sur leur consentement écrit, et après avis conforme du médecin, être soumis à une cure de désintoxication alcoolique avant leur libération.
+En application de l'article R. 711-16 du code de la santé publique, les détenus ont accès, pour des consultations ou des examens médico-techniques, aux équipements médicaux situés dans l'établissement de santé.
+
+
+###### Article D397
+
+Lors des hospitalisations et des consultations ou examens prévus à l'article D. 396, les mesures de sécurité adéquates doivent être prises dans le respect de la confidentialité des soins.
 
 
 ###### Article D398
 
-Les détenus en état d'aliénation mentale ne peuvent être maintenus dans un établissement pénitentiaire.
+Les détenus atteints des troubles mentaux visés à l'article L. 342 du code de la santé publique ne peuvent être maintenus dans un établissement pénitentiaire.
 
-Sur la proposition du médecin de la prison et conformément à la législation générale en la matière, il appartient au préfet de faire procéder à leur internement. Cet internement doit être effectué d'urgence s'il s'agit d'individus dangereux pour eux-mêmes ou pour autrui.
+Au vu d'un certificat médical circonstancié et conformément à la législation en vigueur, il appartient à l'autorité préfectorale de faire procéder, dans les meilleurs délais, à leur hospitalisation d'office dans un établissement de santé habilité au titre de l'article L. 331 du code de la santé publique.
 
-Il n'est pas fait application, à leur égard, de la règle posée au second alinéa de l'article D. 386 concernant leur surveillance par un personnel de police pendant leur hospitalisation.
+Il n'est pas fait application, à leur égard, de la règle posée au second alinéa de l'article D. 394 concernant leur garde par un personnel de police ou de gendarmerie pendant leur hospitalisation.
 
-
-###### Paragraphe 5 : Maternité
 
 ###### Article D399
 
-Les détenues enceintes et celles auxquelles est laissé leur enfant bénéficient d'un régime approprié.
-
-Si leur état le permet et, lorsqu'il s'agit de prévenues, si le magistrat saisi du dossier de l'information y consent, elles peuvent être transférées dans un établissement disposant d'un quartier spécialement aménagé.
+Les médecins intervenant en milieu pénitentiaire se tiennent informés de l'évolution de l'état de santé des détenus hospitalisés.
 
 
-###### Article D400
+##### Section 4 : Protection de la mère et de l'enfant
 
-Les détenues sont transférées, au terme de la grossesse, à l'hôpital ou à la maternité, à moins que le médecin estime que l'accouchement puisse avoir lieu à l'infirmerie de la prison.
+##### Article D400
 
-La mère est réintégrée à la prison avec son enfant, dès que l'état de l'un et de l'autre le permet.
+Toutes dispositions doivent être prises par les médecins des structures visées aux articles D. 368 et D. 371, pour que les détenues enceintes bénéficient d'un suivi médical adapté et que leur accouchement soit réalisé dans le service hospitalier approprié à leur état de santé.
 
 Si la naissance a lieu dans un établissement pénitentiaire, l'acte de l'état civil mentionne seulement la rue et le numéro de l'immeuble.
 
 
-###### Article D401
+##### Article D400-1
+
+Les détenues enceintes et celles qui ont gardé leur enfant auprès d'elles, bénéficient de conditions de détention appropriées.
+
+
+##### Article D401
 
 Les enfants peuvent être laissés auprès de leur mère en détention jusqu'à l'âge de dix-huit mois.
 
-Toutefois, à la demande de la mère, cette limite peut être prolongée, sur décision du ministre de la justice, après avis d'une commission consultative.
+Des locaux spécialement aménagés sont réservés à l'accueil des mères ayant gardé leur enfant auprès d'elles. S'il s'agit de prévenues, elles ne peuvent être transférées dans un établissement doté de tels locaux qu'après accord du magistrat saisi du dossier de l'information.
 
-Avant d'émettre son avis, la commission entend l'avocat de la mère.
-
-La situation de chaque enfant est examinée au moins une fois par an.
-
-Il appartient au service socio-éducatif de la prison de pourvoir au placement des enfants, au mieux de leur intérêt, avant qu'ils ne soient séparés de leur mère, et avec l'accord de la ou des personnes qui exercent à leur égard l'autorité parentale.
+Il appartient au service socio-éducatif de l'établissement pénitentiaire, en liaison avec les services compétents en matière d'enfance et de famille et avec les titulaires de l'autorité parentale, d'organiser le séjour de l'enfant auprès de sa mère détenue et les sorties de celui-ci à l'extérieur de l'établissement pénitentiaire, et de préparer, le cas échéant, la séparation de l'enfant d'avec sa mère, au mieux de son intérêt. Durant les six mois suivant son départ, l'enfant peut être admis à séjourner pour de courtes périodes auprès de sa mère.
 
 
-###### Article D401-1
+##### Article D401-1
 
-La commission consultative prévue à l'article D. 401 comprend :
+A la demande de la mère, la limite d'âge de dix-huit mois peut être reculée, sur décision du directeur régional des services pénitentiaires territorialement compétent, après avis d'une commission consultative.
 
-Un magistrat au ministère de la justice, chef du bureau de l'individualisation des régimes de détention ou un magistrat de ce bureau, président ;
+Avant d'émettre son avis, la commission entend le défenseur de la mère et, si possible, le père de l'enfant.
 
-Un médecin psychiatre ;
 
-Un médecin pédiatre ;
+##### Article D401-2
 
-Un psychologue ;
+La commission consultative prévue à l'article D. 401-1 comprend :
+1. Le directeur régional des services pénitentiaires ou son représentant, président ;
+2. Un médecin psychiatre ;
+3. Un médecin pédiatre appartenant à un service de protection maternelle et infantile ;
+4. Un psychologue ;
+5. Un chef d'établissement pénitentiaire spécialement affecté à la détention des femmes ;
+6. Un travailleur social.
 
-Un chef d'établissement pénitentiaire spécialement affecté à la détention des femmes ;
-
-Un travailleur social.
-
-Les membres de la commission sont nommés par arrêté ministériel pour une période de deux ans renouvelable.
+Les membres de la commission sont nommés par le directeur régional pour une période de deux ans renouvelable.
 
 
 #### Chapitre IX : Des relations des détenus avec l'extérieur
@@ -16835,42 +17002,25 @@ Les membres de la commission sont nommés par arrêté ministériel pour une pé
 
 Les permis de visite sont délivrés pour les prévenus par les autorités visées à l'article D. 64.
 
-Pour les condamnés, ils sont délivrés par le chef de l'établissement. A l'égard des condamnés hospitalisés dans les conditions prévues aux articles D. 386 et D. 398, les permis de visite sont délivrés par le préfet de police à Paris, les commissaires de la République délégués pour la police auprès des commissaires de la République des départements des Bouches-du-Rhône, du Rhône, du Nord, de la Corse-du-Sud et de la Haute-Corse, les commissaires de la République et les commissaires de la République adjoints dans les départements.
+Pour les condamnés, ils sont délivrés par le chef de l'établissement. A l'égard des condamnés hospitalisés dans les conditions prévues aux articles D. 391 et suivants, les permis de visite sont délivrés par le préfet de police à Paris, les préfets délégués pour la police auprès des préfets des départements des Bouches-du-Rhône, du Rhône, du Nord, de la Corse-du-Sud et de la Haute-Corse, les préfets et les sous-préfets dans les départements.
 
 Ces permis sont, soit permanents, soit valables seulement pour un nombre limité de visites.
 
 
 ##### Article D404
 
-Les détenus sont autorisés à recevoir la visite des membres de leur famille et de leur tuteur. Toute autre personne peut être autorisée à rendre visite à un détenu, sous réserve du maintien de la sécurité et du bon ordre dans l'établissement, s'il apparaît que ces visites sont faites dans l'intérêt du traitement.
+Sous réserve des motifs liés au maintien de la sécurité ou au bon ordre de l'établissement, le chef d'établissement ne peut refuser de délivrer un permis de visite aux membres de la famille d'un condamné ou à son tuteur. Toute autre personne peut être autorisée à rencontrer un condamné, s'il apparaît que ces visites contribuent à l'insertion sociale ou professionnelle de ce dernier.
 
 
 ##### Article D405
 
-Dans les maisons d'arrêt, les visites se déroulent dans un parloir sans dispositif de séparation ou en cas d'impossibilité dans un local qui comporte un dispositif permettant la séparation des détenus de leurs interlocuteurs.
+Les visites se déroulent dans un parloir sans dispositif de séparation. Toutefois, le chef d'établissement peut décider que les visites auront lieu dans un parloir avec dispositif de séparation :
 
-Le chef d'établissement pourra toujours décider que les visites auront lieu dans un parloir avec dispositif de séparation :
+a) S'il existe des raisons sérieuses de redouter un incident ;
 
-S'il existe des raisons graves de redouter un incident ;
+b) En cas d'incident au cours de la visite ;
 
-En cas d'incident au cours de la visite ;
-
-A la demande du visiteur ou du visité.
-
-Pour les détenus malades qui ne sont pas en état d'être déplacés, la visite peut avoir lieu exceptionnellement à l'infirmerie.
-
-
-##### Article D405-1
-
-Dans les établissements pour peines, les condamnés communiquent avec leurs visiteurs dans un parloir sans dispositif de séparation.
-
-Le chef d'établissement peut décider que les visites auront lieu dans un parloir comportant un dispositif de séparation :
-
-S'il existe des raisons graves de redouter un incident ;
-
-En cas d'incident au cours de la visite ;
-
-A la demande du visiteur ou du visité.
+c) A la demande du visiteur ou du visité.
 
 Le chef de l'établissement informe de sa décision la commission de l'application des peines lors de sa prochaine réunion.
 
@@ -16896,7 +17046,7 @@ Les visiteurs dont l'attitude donne lieu à observation sont signalés à l'auto
 
 ##### Article D409
 
-Tout permis de visite présenté au chef d'un établissement pénitentiaire a le caractère d'un ordre auquel celui-ci doit déférer, sauf à surseoir si les détenus sont matériellement empêchés ou punis de cellule ou si quelque circonstance exceptionnelle l'oblige à en référer à l'autorité qui a délivré le permis.
+Tout permis de visite présenté au chef d'un établissement pénitentiaire a le caractère d'un ordre auquel celui-ci doit déférer, sauf à surseoir si les détenus sont matériellement empêchés ou placés en cellule disciplinaire ou si quelque circonstance exceptionnelle l'oblige à en référer à l'autorité qui a délivré le permis.
 
 
 ##### Article D410
@@ -16933,7 +17083,7 @@ Les prévenus peuvent écrire et recevoir des lettres dans les conditions fixée
 
 Les détenus condamnés peuvent écrire à toute personne de leur choix et recevoir des lettres de toute personne.
 
-Le chef d'établissement peut toutefois interdire la correspondance occasionnelle ou périodique avec des personnes autres que le conjoint ou les membres de la famille d'un condamné lorsque cette correspondance paraît compromettre gravement la réadaptation du détenu ou la sécurité et le bon ordre de l'établissement. Il informe de sa décision la commission de l'application des peines.
+Le chef d'établissement peut toutefois interdire la correspondance occasionnelle ou périodique avec des personnes autres que le conjoint ou les membres de la famille d'un condamné lorsque cette correspondance paraît compromettre gravement la réinsertion du détenu ou la sécurité et le bon ordre de l'établissement. Il informe de sa décision la commission de l'application des peines.
 
 
 ##### Article D415
@@ -16945,7 +17095,7 @@ Elles sont retenues lorsqu'elles contiennent des menaces précises contre la sé
 
 ##### Article D416
 
-Sous réserve des dispositions des articles D. 69, D. 438 et D. 469, les lettres de tous les détenus, tant à l'arrivée qu'au départ, peuvent être lues aux fins de contrôle.
+Sous réserve des dispositions des articles D. 69, D. 262, D. 438 et D. 469, les lettres de tous les détenus, tant à l'arrivée qu'au départ, peuvent être lues aux fins de contrôle.
 
 Celles qui sont écrites par les prévenus, ou à eux adressées, sont au surplus communiquées au magistrat saisi du dossier de l'information dans les conditions que celui-ci détermine.
 
@@ -16993,7 +17143,7 @@ A moins d'en être privés par mesure disciplinaire, les détenus peuvent recevo
 
 Pour les condamnés, cette faculté s'exerce dans les conditions déterminées par une instruction de service.
 
-La destination à donner à ces subsides est réglée conformément aux dispositions des articles D. 326 et D. 329.
+La destination à donner à ces subsides est réglée conformément aux dispositions des articles D. 328 et D. 329.
 
 
 ##### Article D423
@@ -17031,16 +17181,20 @@ Les agents de la force publique ou les membres de l'administration pénitentiair
 
 Au cas où un détenu vient à décéder, à être frappé d'une maladie mettant ses jours en danger, ou victime d'un accident grave, ou à être placé dans un établissement psychiatrique, sa proche famille doit en être immédiatement informée.
 
-A cet effet, chaque prisonnier est invité, lors de son écrou, à indiquer la ou les personnes qui seraient à prévenir.
+A cet effet, chaque détenu est invité, lors de son écrou, à indiquer la ou les personnes qui seraient à prévenir.
 
-L'aumonier, le travailleur social et le visiteur de prison qui suivent ce détenu sont également avisés, s'il y a lieu.
+L'aumonier et le visiteur de prison qui suivent ce détenu sont également avisés, s'il y a lieu.
 
 
 ##### Article D428
 
-Les renseignements relatifs au lieu d'incarcération, à l'état de santé, à la situation pénale ou à la date de libération d'un détenu, doivent être fournis par les services pénitentiaires exclusivement aux autorités administratives et judiciaires qui sont qualifiées pour en connaître.
+Les renseignements relatifs au lieu d'incarcération, à la situation pénale ou à la date de libération d'un détenu, doivent être fournis  par les services pénitentiaires exclusivement aux autorités administratives et judiciaires qui sont qualifiées pour en connaître.
+
+
 
 Leur communication à des tiers est subordonnée, d'une part, à l'appréciation de l'administration pénitentiaire ou, s'il y a lieu, du magistrat saisi du dossier de l'information et, d'autre part, au consentement exprès du détenu.
+
+
 
 Toutefois, à défaut de ce consentement, les personnes qui auraient un intérêt légitime à obtenir de tels renseignements ont la faculté d'en solliciter la communication par une requête adressée au procureur de la République du lieu de détention ou, si ce lieu n'est pas connu des requérants, au procureur de la République de leur résidence ; ce magistrat apprécie si les renseignements demandés peuvent être donnés sans inconvénient et, dans l'affirmative, les fait transmettre aux intéressés. Les renseignements peuvent de la même façon être sollicités auprès du général commandant la région militaire.
 
@@ -17054,27 +17208,6 @@ Ce certificat peut également être délivré à un membre du service socio-édu
 Il ne doit comporter en aucun cas d'appréciation sur l'intéressé.
 
 
-##### Article D430
-
-La sortie des écrits faits par un détenu en vue de leur publication ou de leur divulgation sous quelque forme que ce soit ne peut être autorisée que par décision ministérielle.
-
-Sans préjudice d'une éventuelle saisie par l'autorité judiciaire, et sous réserve de l'exercice des droits de la défense, tout manuscrit rédigé en détention peut au surplus être retenu, pour des raisons d'ordre, pour n'être restitué à son auteur qu'au moment de sa libération.
-
-Les dispositions du présent article ne font cependant pas obstacle à la diffusion à l'intérieur et à l'extérieur de bulletins ou journaux rédigés par des détenus avec l'accord et sous le contrôle de l'administration.
-
-
-##### Article D430-1
-
-La diffusion, hors les locaux d'un établissement pénitentiaire, d'un audiovidéogramme réalisé dans le cadre des actions d'insertion est soumise à autorisation du ministre de la justice ou du directeur régional selon qu'elle revêt une dimension nationale ou locale.
-
-
-##### Article D431
-
-Les détenus sont autorisés à lire des journaux, des périodiques et des livres, dans les conditions déterminées à l'article D. 444, et à faire usage d'un récepteur radiophonique individuel. Une instruction de service détermine les caractéristiques auxquelles cet appareil doit répondre, ainsi que les conditions dans lesquelles les détenus peuvent se le procurer et l'utiliser.
-
-En outre, l'information est assurée dans les conditions visées à l'article D. 447 concernant l'usage collectif de la radiophonie et de la télévision.
-
-
 #### Article D402
 
 En vue de faciliter le reclassement familial des détenus à leur libération, il doit être particulièrement veillé au maintien et à l'amélioration de leurs relations avec leurs proches, pour autant que celles-ci paraissent souhaitables dans l'intérêt des uns et des autres.
@@ -17086,9 +17219,9 @@ En vue de faciliter le reclassement familial des détenus à leur libération, i
 
 ##### Article D435
 
-Les aumôniers fixent, en accord avec le chef de l'établissement, les heures des offices, et éventuellement leurs jours pour le cas où ces exercices n'auraient pas lieu le dimanche ou un jour férié.
+Les aumôniers fixent en accord avec le chef d'établissement les jours et heures des offices en respectant les calendriers religieux.
 
-Les membres du personnel et les détenus ont seuls le droit d'assister aux offices. A la demande de l'aumônier, ceux-ci peuvent être célébrés ou des prêches peuvent être faits par d'autres ministres du culte sur autorisation délivrée par le chef de l'établissement s'il s'agit d'un membre du personnel de direction, sinon par le directeur régional.
+Les membres du personnel et les détenus ont seuls le droit d'assister aux offices. A la demande de l'aumônier, ceux-ci peuvent être célébrés ou des prêches peuvent être faits par d'autres ministres du culte sur autorisation délivrée par le chef de l'établissement.
 
 
 ##### Article D436
@@ -17109,7 +17242,7 @@ Les aumôniers ne peuvent demander à s'entretenir avec un détenu travaillant e
 
 ##### Article D438
 
-Les détenus peuvent toujours correspondre librement et sous pli fermé avec l'aumônier de l'établissement ; aucune sanction disciplinaire ne peut entraîner la suppression de cette faculté.
+Les détenus peuvent toujours correspondre librement et sous pli fermé avec les aumôniers agréés auprès de l'établissement.
 
 
 ##### Article D432
@@ -17121,194 +17254,165 @@ Il peut à ce titre participer aux offices ou réunions organisés par les perso
 
 ##### Article D433
 
-Le service religieux est assuré, pour les différents cultes, par des aumôniers désignés par le ministre de la justice, sur la proposition du directeur régional qui consulte à cet effet l'autorité religieuse compétente, et après avis du préfet.
+Le service religieux est assuré, pour les différents cultes, par des aumôniers désignés par le directeur régional qui consulte à cet effet l'autorité religieuse compétente, et après avis du préfet.
 
-Ces aumôniers consacrent tout ou partie de leur temps à cette fonction selon le nombre des détenus de leur profession qui se trouvent dans l'établissement aurpès duquel ils sont nommés.
+Ces aumôniers consacrent tout ou partie de leur temps à cette fonction selon le nombre des détenus de leur profession qui se trouvent dans l'établissement auprès duquel ils sont nommés.
 
 
 ##### Article D434
 
-Les aumôniers ont pour mission de célébrer les offices religieux, d'administrer les sacrements et d'apporter régulièrement aux détenus les secours de leur religion.
+Les aumôniers ont pour mission de célébrer les offices religieux, d'administrer les sacrements et d'apporter aux détenus une assistance pastorale.
 
 Ils ne doivent exercer auprès des détenus qu'un rôle spirituel et moral en se conformant aux dispositions du présent titre et au règlement intérieur de l'établissement.
+
+
+##### Article D434-1
+
+Les aumôniers peuvent être assistés dans leur mission par des auxiliaires bénévoles d'aumônerie, agréés par le directeur régional des services pénitentiaires après avis du préfet et de l'autorité religieuse compétente, pour une période de deux ans renouvelable. Ces derniers peuvent animer des groupes de détenus en vue de la réflexion, de la prière et de l'étude. Ils ne peuvent pas avoir d'entretiens individuels avec les détenus.
 
 
 ##### Article D439
 
 Les détenus sont autorisés à recevoir ou à conserver en leur possession les objets de pratique religieuse et les livres nécessaires à leur vie spirituelle.
 
-Une bibliothèque composée d'ouvrages religieux peut être aménagée par l'aumônier de chaque culte dans les conditions déterminées par le directeur régional.
 
+##### Section 3 : De l'enseignement et de la formation professionnelle
 
 ##### Section 2 : De l'action socio-culturelle
 
-##### Article D440
+###### Paragraphe 1er : Les activités socioculturelles
 
-Des activités socio-culturelles sont organisées dans chaque établissement pénitentiaire.
+###### Article D440
 
-Elles ont notamment pour objet de développer, en fonction des possibilités locales, les moyens d'expression, les connaissances et les capacités physiques et intellectuelles des détenus.
+Des activités socioculturelles sont organisées dans chaque établissement pénitentiaire. Elles ont notamment pour objet de développer les moyens d'expression, les connaissances et les aptitudes des détenus.
 
-L'emploi du temps hebdomadaire doit permettre à tout détenu qui le souhaite de participer aux activités socio-culturelles et sportives organisées à l'établissement.
+Le service socio-éducatif recherche à cet effet le concours d'intervenants extérieurs auxquels peut être confiée l'animation de certaines activités.
 
-
-##### Article D441
-
-En concertation avec le responsable de l'établissement et sous son autorité, le service socio-éducatif est particulièrement chargé d'organiser et de coordonner les activités socio-culturelles auxquelles peut concourir l'ensemble des personnels.
-
-Le service socio-éducatif recherche en outre le concours d'intervenants extérieurs auxquels peut être confiée l'animation de certaines activités.
+L'emploi du temps hebdomadaire doit permettre à tout détenu qui le souhaite de participer à ces activités.
 
 
-##### Article D442
+###### Paragraphe 2 : L'action culturelle
 
-Une association fonctionnant sous le régime de la loi du 1er juillet 1901 est constituée auprès de chaque établissement pénitentiaire en vue de soutenir et de développer l'action socio-culturelle et sportive au profit des détenus.
+###### Article D441
+
+Une programmation culturelle, résultant de la représentation la plus étendue des secteurs de la culture, est mise en oeuvre dans chaque établissement pénitentiaire.
+
+Ce programme a pour objectif de développer les moyens d'expression et les connaissances des détenus.
+
+
+###### Article D441-1
+
+Le service socio-éducatif, sous l'autorité du chef d'établissement, est plus particulièrement chargé d'organiser la programmation culturelle de l'établissement.
+
+A cet effet, il sélectionne et met en oeuvre, avec l'appui des services compétents de l'Etat et des collectivités territoriales, des projets proposés par des organismes ou des opérateurs culturels.
+
+
+###### Article D441-2
+
+Chaque établissement possède une bibliothèque dont les ouvrages sont mis gratuitement à la disposition des détenus.
+
+Sa localisation doit permettre un accès direct et régulier des détenus à l'ensemble des documents.
+
+Un bibliothécaire ou, à défaut, le service socio-éducatif assure les achats, organise la formation et encadre les détenus qui en assurent la gestion quotidienne.
+
+
+###### Paragraphe 3 : L'association socioculturelle et sportive
+
+###### Article D442
+
+Une association fonctionnant sous le régime de la loi du 1er juillet 1901 est constituée auprès de chaque établissement pénitentiaire en vue de soutenir et de développer l'action socioculturelle et sportive au profit des détenus.
 
 Pour obtenir l'agrément du garde des sceaux, ministre de la justice, les statuts de ces associations doivent remplir les conditions fixées par une instruction de service.
 
 
-##### Article D443
+###### Paragraphe 4 : L'accès des détenus aux activités culturelles et socioculturelles
 
-Chaque établissement possède au moins une bibliothèque dont les ouvrages sont mis gratuitement à la disposition des détenus.
+###### Article D443
 
-Ils doivent être suffisamment nombreux et variés pour tenir compte des diversités linguistiques et culturelles des détenus, et pour respecter leur liberté de choix.
+Le règlement intérieur détermine les conditions d'accès des détenus aux activités culturelles et socio-culturelles.
+
+Il précise également les conditions dans lesquelles les détenus empruntent les ouvrages ou documents de la bibliothèque. Il doit notamment prévoir et favoriser les conditions d'accès direct des détenus à la bibliothèque.
+
+
+###### Article D444
+
+Les détenus peuvent se procurer par l'intermédiaire de l'administration les journaux, les périodiques et les livres français et étrangers de leur choix n'ayant pas fait l'objet d'une saisie dans les trois derniers mois.
+
+Toutefois, les publications contenant des menaces précises contre la sécurité des personnes ou celle des établissements pénitentiaires peuvent être, à la demande des chefs d'établissement, retenues sur décision du ministre de la justice.
+
+Les détenus peuvent se procurer par l'intermédiaire de l'administration et selon les modalités qu'elle détermine un récepteur radiophonique et un téléviseur individuels.
+
+Le règlement intérieur détermine les caractéristiques auxquelles doivent répondre ces appareils, ainsi que les conditions de leur utilisation.
 
 Les échanges et les prêts de livres personnels entre détenus sont autorisés.
 
 
-##### Article D444
+###### Article D444-1
 
-Les détenus peuvent se procurer, par l'intermédiaire de l'administration, et dans les conditions déterminées par une instruction de service, les journaux, les périodiques et les livres français et étrangers de leur choix n'ayant pas fait l'objet d'une saisie dans les trois derniers mois.
+La sortie des écrits faits par un détenu en vue de leur publication ou de leur divulgation, sous quelque forme que ce soit, est autorisée par décision du directeur régional des services pénitentiaires territorialement compétent.
 
-Toutefois, les publications contenant des menaces précises contre la sécurité des personnes ou celles des établissements pénitentiaires peuvent être, à la demande des chefs d'établissement, retenues sur décision du garde des sceaux.
+Sans préjudice d'une éventuelle saisie par l'autorité judiciaire et sous réserve de l'exercice des droits de la défense, tout manuscrit rédigé en détention peut au surplus être retenu pour des raisons d'ordre, pour n'être restitué à son auteur qu'au moment de sa libération.
 
-
-##### Article D445
-
-Le règlement intérieur de chaque établissement détermine les conditions dans lesquelles les détenus empruntent ou consultent les ouvrages de la bibliothèque.
-
-Il doit notamment prévoir et favoriser, compte tenu des possibilités locales, les conditions d'accès direct des détenus à la bibliothèque.
+Les dispositions du présent article ne font cependant pas obstacle à la diffusion, à l'intérieur et à l'extérieur de l'établissement pénitentiaire, de bulletins ou journaux rédigés par des détenus avec l'accord et sous le contrôle de l'administration.
 
 
-##### Article D446
+###### Article D445
 
-Pour l'animation d'activités par des personnes extérieures, l'autorisation est donnée par le chef d'établissement si celui-ci est un membre du personnel de direction ou, sinon, par le directeur régional.
+La diffusion, hors des locaux d'un établissement pénitentiaire, d'un audiovidéogramme réalisé dans le cadre des actions d'insertion est soumise à l'autorisation du ministre de la justice ou du directeur régional selon qu'elle revêt une dimension nationale ou locale.
+
+
+###### Article D446
+
+Pour l'animation d'activités par des personnes extérieures, l'autorisation est donnée par le chef d'établissement.
 
 Sous le contrôle du service socio-éducatif, des détenus peuvent être associés à l'organisation de ces activités et certains d'entre eux chargés de les préparer et de les animer.
 
 La liste des détenus autorisés à participer à ces activités est établie par le chef d'établissement après concertation avec le service socio-éducatif et, éventuellement, avec l'animateur extérieur.
 
 
-##### Article D447
+###### Article D447
 
-Outre l'usage du récepteur individuel autorisé pour chaque détenu à l'article D. 431, l'utilisation collective de la radiophonie et de la télévision est organisée par l'administration.
-
-Le règlement intérieur prévoit les modalités de cette utilisation collective ; il fixe notamment l'horaire et les conditions d'accès aux séances audio-visuelles.
-
-Les détenus peuvent être consultés sur le choix des programmes à diffuser.
+Le règlement intérieur détermine l'organisation de l'usage collectif de la télévision et de la radiophonie et prévoit, dans les établissements qui disposent d'un centre de ressources audiovisuelles et multimédia, les conditions d'accès des détenus à ces équipements, ainsi qu'au choix des programmes diffusés par les organismes privés ou publics.
 
 
-##### Article D448
+###### Article D448
 
 Dans les établissements affectés à l'exécution des peines, les condamnés peuvent être autorisés par le chef de l'établissement et sous le contrôle constant d'un membre du personnel à participer en groupes d'importance limitée à des activités ou à des jeux excluant toute idée de gain.
 
 Dans les centres de détention, les condamnés bénéficient des dispositions ci-dessus, sauf décision contraire du chef de l'établissement, pour des motifs tenant à leur comportement, à la sécurité ou à la disposition des locaux.
 
 
-##### Article D449
+###### Article D449
 
 Dans tous les établissements, les détenus peuvent être autorisés lorsqu'ils se trouvent dans leur cellule, à se livrer individuellement à des activités de leur choix qui ne préjudicient pas à l'ordre et à la sécurité.
 
 Dans les établissements pour peines, chaque condamné est autorisé à aménager sa cellule d'une façon personnelle. Ces aménagements ne doivent pas entraîner la dégradation des installations immobilières ou mobilières existantes. Le chef d'établissement détermine la destination à donner à ces aménagements en cas de changement de cellule, de transfèrement ou de mise en liberté.
 
 
-##### Section 3 : De l'enseignement
+##### Section 4 : Des activités physiques et sportives
 
-###### Paragraphe 1er : Enseignement scolaire
+##### Article D459-1
 
-###### Article D452
+Une programmation d'activités sportives est mise en oeuvre dans chaque établissement pénitentiaire afin de favoriser l'accès de chacun à une pratique physique. Ce programme tend au développement des capacités physiques, motrices et relationnelles des détenus.
 
-L'enseignement primaire est assuré dans tous les établissements pénitentiaires.
-
-Les condamnés qui ne savent pas lire, écrire ou calculer couramment doivent bénéficier de cet engagement. Les autres détenus peuvent y être admis sur leur demande.
-
-Des cours spéciaux sont organisés pour les illettrés ainsi que pour ceux qui ne parlent ni n'écrivent la langue française.
-
-Le règlement intérieur détermine les horaires et les modalités dudit enseignement.
+La pratique des activités physiques et sportives s'effectue en liaison avec les services compétents des ministères chargés de l'éducation nationale et de la jeunesse et des sports.
 
 
-###### Paragraphe 2 : Formation professionnelle
+##### Article D459-2
 
-###### Article D457
-
-La préparation aux examens professionnels est assurée plus spécialement dans les établissements pénitentiaires qui ont été aménagés et pourvus du personnel nécessaire.
-
-Les condamnés qui, compte tenu de leur âge, de leurs connaissances et de leurs aptitudes, paraissent susceptibles de profiter de cet enseignement sont transférés dans lesdits établissements en vertu d'une décision ministérielle, à condition que leur situation pénale le permette.
+Sous réserve des contraintes architecturales, l'établissement doit être doté d'équipements sportifs de plein air et couverts, réglementaires et polyvalents, permettant l'organisation de séances et de rencontres sportives. Dans toute la mesure du possible, la localisation des terrains de sport est différente de celle des cours de promenade.
 
 
-###### Article D458
+##### Article D459-3
 
-Dans la mesure où les nécessités du service, de l'ordre et de la sécurité le permettent, et où les conditions matérielles d'incarcération s'y prêtent, les détenus peuvent être autorisés à entreprendre ou à poursuivre individuellement des études techniques, notamment à l'aide des cours par correspondance ainsi qu'il est précisé à l'article D. 454.
+Tout détenu est admis, sauf contre-indication médicale, à pratiquer les activités physiques et sportives.
 
-Par ailleurs, le régime de semi-liberté peut être accordé dans les conditions fixées aux articles D. 136 et suivants, afin que soit suivie, à l'extérieur de l'établissement, une formation professionnelle qui apparaîtrait indispensable à la réinsertion sociale du condamné.
+Le temps réservé à cette pratique peut s'imputer sur la durée de la promenade.
 
-
-###### Article D459
-
-Les détenus qui reçoivent un enseignement professionnel dans les établissements pénitentiaires spécialisés subissent les épreuves qui sanctionnent leurs études dans les conditions fixées au règlement intérieur de ces établissements.
-
-Pour les autres, l'autorisation de se présenter aux examens est donnée, après avis des services compétents du ministère du travail, dans les conditions fixées à l'article D. 455.
+En dehors des cas où un détenu peut être privé temporairement des activités physiques et sportives pour des raisons disciplinaires, le chef d'établissement peut en écarter tout autre détenu pour des raisons d'ordre et de sécurité.
 
 
-##### Article D450
-
-Les détenus doivent acquérir ou développer les connaissances qui leur seront nécessaires après leur libération en vue d'une meilleure adaptation sociale.
-
-Toutes facilités compatibles avec les exigences de la discipline et de la sécurité doivent être données à cet effet aux détenus aptes à profiter d'un enseignement scolaire et professionnel et, en particulier, aux plus jeunes et aux moins instruits.
-
-
-##### Article D451
-
-Le règlement intérieur de l'établissement pénitentiaire détermine les conditions dans lesquelles sont assurés l'enseignement, y compris l'éducation civique, la formation professionnelle et les activités physiques et sportives.
-
-
-##### Article D453
-
-Les détenus peuvent se livrer à toutes études compatibles avec leur situation pénale et les conditions de leur détention.
-
-Il leur est permis de disposer du matériel et des fournitures scolaires ainsi que des documents pédagogiques nécessaires.
-
-
-##### Article D454
-
-Dans tout établissement, les détenus peuvent recevoir et suivre les cours par correspondance organisés par les services du ministère de l'éducation nationale.
-
-Ils peuvent également recevoir d'autres cours par correspondance avec l'autorisation du chef de l'établissement qui, en cas de difficulté, en réfère au ministère de la justice. Lorsque la prison est dirigée par un chef de maison d'arrêt ou un surveillant-chef, la décision appartient au directeur régional.
-
-Dans l'un et l'autre cas, les détenus doivent effectuer les exercices que comporte cette forme d'enseignement et ils en supportent les frais sauf convention particulière entre l'administration pénitentiaire et un organisme d'enseignement à distance.
-
-D'autre part, le régime de semi-liberté peut être accordé dans les conditions fixées aux articles D. 136 et suivants afin que soit suivi, à l'extérieur de l'établissement, un enseignement qui ne pourrait être dispensé en détention ou reçu par correspondance et qui apparaîtrait nécessaire au reclassement du sujet.
-
-
-##### Article D455
-
-Les détenus qui reçoivent un enseignement primaire sont admis à subir les épreuves des examens qui le sanctionnent lorsque l'instituteur estime leur préparation suffisante.
-
-Les détenus peuvent, après avis des services compétents du ministère de l'éducation nationale, se présenter aux épreuves écrites ou orales de tous autres examens organisés à l'établissement sauf opposition du chef d'établissement s'il s'agit d'un membre du personnel de direction, sinon du directeur régional.
-
-Si les épreuves ne peuvent se dérouler à l'établissement, les candidats sont extraits de la prison ou, si leur situation le permet, bénéficient d'une permission de sortir dans les conditions prévues à l'article D. 143.
-
-Les examens donnent lieu à la délivrance de certificats, brevets ou diplômes qui ne font pas apparaître l'état de détention des intéressés.
-
-
-##### Article D456
-
-Le service de l'enseignement, comme la charge d'aider ou de conseiller les détenus qui ont été admis à poursuivre des études personnelles, doit être assuré par des personnes qualifiées tout particulièrement des membres du corps enseignant qui auront reçu un agrément du directeur régional.
-
-Ce service est assuré par des personnels enseignants affectés selon les procédures en vigueur à l'éducation nationale et agréés par l'administration pénitentiaire.
-
-Par ailleurs, le directeur régional peut accepter les concours bénévoles que les visiteurs de prison, les membres des comités de probation et d'assistance aux libérés seraient susceptibles de lui offrir.
-
-
-##### Section 4 : Du service socio-éducatif
+##### Section 5 : Du service socio-éducatif
 
 ###### Paragraphe 1er : Travailleurs sociaux
 
@@ -17360,7 +17464,7 @@ Les lettres adressées par les détenus à d'autres travailleurs sociaux peuvent
 
 ####### Article D470
 
-Par dérogation aux dispositions des articles D. 467 à D. 469, les prévenus auxquels il est interdit de communiquer par application des dispositions du second alinéa de l'article 116 ne peuvent ni correspondre avec le travailleur social, ni recevoir sa visite, à moins que celui-ci ne soit en possession d'une autorisation du magistrat saisi du dossier de l'information.
+Par dérogation aux dispositions des articles D. 467 à D. 469, les prévenus auxquels il est interdit de communiquer par application des dispositions du premier alinéa de l'article 145-4 ne peuvent ni correspondre avec le travailleur social, ni recevoir sa visite, à moins que celui-ci ne soit en possession d'une autorisation du magistrat saisi du dossier de l'information.
 
 
 ####### Article D471
@@ -17372,7 +17476,7 @@ Ce rapport est adressé par la voie hiérarchique à l'administration centrale a
 
 ###### Article D461
 
-Le service socio-éducatif a pour mission de participer à la prévention des effets désocialisants de l'emprisonnement sur les détenus, de favoriser le maintien de leurs liens sociaux et familiaux et de les aider à préparer leur réadaptation sociale.
+Le service socio-éducatif a pour mission de participer à la prévention des effets désocialisants de l'emprisonnement sur les détenus, de favoriser le maintien de leurs liens sociaux et familiaux et de les aider à préparer leur réinsertion sociale.
 
 Les travailleurs sociaux assurent les liaisons avec les divers services sociaux, éducatifs, médico-sociaux locaux et prennent tous contacts qu'ils jugent nécessaires pour la réinsertion des détenus.
 
@@ -17395,41 +17499,39 @@ Plus généralement, ils doivent se conformer aux interdictions visées à l'art
 
 ###### Article D472
 
-Les visiteurs de prison aident bénévolement dans leur tâche les travailleurs sociaux des établissements pénitentiaires dans les conditions de l'article D. 460.
-
-Leur rôle consiste à prendre en charge les détenus signalés par le service socio-éducatif afin de les soutenir durant leur incarcération et contribuer à la préparation de leur réinsertion.
-
-De plus, en fonction de leurs aptitudes, ils peuvent participer à des actions d'enseignement ou à l'animation socio-culturelle des établissements.
+Les visiteurs de prison contribuent, bénévolement et en fonction de leurs aptitudes particulières, à la prise en charge des détenus signalés par le service socio-éducatif, en vue de préparer leur réinsertion en leur apportant notamment aide et soutien pendant leur incarcération. Ils peuvent participer à des actions d'animation collective.
 
 
 ###### Article D473
 
-Les visiteurs de prison sont agréés, pour une période de deux ans renouvelable, aux fins d'accès auprès des détenus ou d'une catégorie de détenus d'un ou de plusieurs établissements déterminés.
+Les visiteurs de prison sont agréés, pour une période de deux ans renouvelable, aux fins d'accès auprès des détenus d'un ou de plusieurs établissements déterminés.
 
-L'agrément est accordé et retiré par le directeur régional, après avis du préfet et du juge de l'application des peines.
+L'agrément est accordé par le directeur régional, après avis du préfet et du juge de l'application des peines.
 
-En cas d'urgence et pour des motifs graves, cet agrément peut être suspendu par le directeur régional soit d'office, soit à la demande du juge de l'application des peines ou du procureur de la République.
+L'agrément est retiré par le directeur régional soit d'office après avoir recueilli l'avis du juge de l'application des peines, soit à la demande de ce dernier ou du procureur de la République.
+
+En cas d'urgence, et pour des motifs graves, l'agrément peut être suspendu par le chef d'établissement, qui en avise sans délai le directeur régional, pour décision.
 
 
 ###### Article D474
 
-Les visiteurs maintiennent une collaboration étroite avec le ou les travailleurs sociaux de l'établissement qui ont pour tâche de rassembler, d'orienter et de coordonner leurs efforts ; ils sont réunis par celui-ci ou ceux-ci chaque trimestre en présence du chef de l'établissement, afin que soient confrontés les méthodes et les résultats obtenus.
+Les visiteurs de prison interviennent en collaboration avec le service socio-éducatif qui a pour tâche de coordonner leurs actions. Ils sont réunis chaque trimestre en présence du chef d'établissement.
 
-Ils doivent par ailleurs se conformer non seulement aux dispositions du présent titre et du règlement intérieur de l'établissement relatives à la discipline et à la sécurité, mais aussi aux obligations particulières résultant de leur qualité et de leur rôle, telles que ces obligations sont portées à leur connaissance au moment de leur agrément.
+Les visiteurs de prison s'engagent au respect des dispositions du présent titre et du règlement intérieur de l'établissement relatives à la discipline et à la sécurité, ainsi qu'aux obligations particulières résultant de leur qualité et de leur rôle, portées à leur connaissance lors de leur prise de fonction.
 
 
 ###### Article D475
 
-Les visiteurs de prison peuvent exercer leur action auprès de tous les détenus écroués dans l'établissement pour lequel ils sont accrédités ou auprès des détenus appartenant à la catégorie visée à l'autorisation qui leur a été accordée, quelle que soit la situation pénale de ces détenus.
+Les visiteurs de prison peuvent exercer leur action auprès de tous les détenus écroués dans l'établissement pour lequel ils sont habilités, quelle que soit la situation pénale de ces détenus.
 
-Toutefois, le droit de visite est suspendu à l'égard des détenus placés au quartier disciplinaire et à l'égard des prévenus dans le cas où ces derniers font l'objet de l'interdiction de communiquer prévue au second alinéa de l'article 116.
+Toutefois, le droit de visite est suspendu à l'égard des détenus placés au quartier disciplinaire et à l'égard des prévenus dans le cas où ces derniers font l'objet de l'interdiction de communiquer prévue au premier alinéa de l'article 145-4.
 
 
 ###### Article D476
 
 Les visiteurs de prison ont accès à un local aménagé à l'intérieur de la détention afin d'y recevoir les détenus dont ils s'occupent.
 
-Sous cette réserve, ils s'entretiennent avec les détenus dans les conditions fixées à l'article D. 437.
+L'entretien a lieu en dehors de la présence d'un surveillant.
 
 Les visites ont lieu aux jours et heures fixés par le chef de l'établissement en accord avec les visiteurs.
 
@@ -17441,20 +17543,20 @@ Les visiteurs peuvent correspondre avec les détenus dont ils s'occupent sous pl
 
 ##### Article D460
 
-Au sein de chaque établissement pénitentiaire est institué un service socio-éducatif qui comprend des assistants sociaux et des éducateurs.
+Au sein de chaque établissement pénitentiaire est institué un service socio-éducatif qui comprend des assistants de service social et des conseillers d'insertion et de probation.
 
-Dans le présent titre, le terme de travailleur social [*définition*] s'applique indifféremment aux assistants sociaux et aux éducateurs.
+Dans le présent titre, le terme de travailleur social [*définition*] s'applique indifféremment aux assistants de service social et aux conseillers d'insertion et de probation.
 
-Dans les établissements pénitentiaires les plus importants, le service socio-éducatif est dirigé par un membre du corps des assistants sociaux ou des éducateurs.
+Dans les établissements pénitentiaires les plus importants, le service socio-éducatif est dirigé par un personnel d'insertion et de probation ou un personnel de service social.
 
-Afin de coordonner, de développer et d'orienter l'action de l'ensemble des travailleurs sociaux en milieu ouvert et en milieu fermé, un délégué régional à l'action socio-éducative issu du corps des assistants sociaux ou des éducateurs est affecté au siège de chaque direction régionale des services pénitentiaires.
+Afin de coordonner, de développer et d'orienter l'action de l'ensemble des travailleurs sociaux en milieu ouvert et en milieu fermé, un travailleur social est affecté au siège de chaque direction régionale des services pénitentiaires.
 
 Des travailleurs sociaux sont affectés à l'administration centrale pour participer à l'élaboration de la politique socio-éducative et à sa mise en oeuvre.
 
 Des visiteurs de prison, bénévoles, ont pour mission d'aider dans leur tâche les membres du service socio-éducatif qui, dans chaque établissement, coordonnent leur action.
 
 
-##### Section 5 : De l'aide à la libération
+##### Section 6 : De l'aide à la libération
 
 ###### Paragraphe 1er : Avis donnés aux détenus au moment de leur libération
 
@@ -17470,7 +17572,7 @@ Il comporte l'adresse du comité de probation et d'assistance aux libérés du l
 Un certificat de présence destiné à l'association pour l'emploi dans l'industrie et le commerce est joint au billet de sortie.
 
 
-###### Paragraphe 2 : Aide aux indigents
+###### Paragraphe 2 : Aide aux détenus dépourvus de ressources à leur libération
 
 ###### Article D481
 
@@ -17484,7 +17586,7 @@ En accord avec le chef de l'établissement, le service socio-éducatif se préoc
 
 ###### Article D483
 
-L'administration pénitentiaire peut procéder ou participer à l'acquisition d'un titre de transport pour les détenus qui, à leur libération, n'auraient pas un pécule suffisant pour se rendre au lieu où ils justifient de moyens réguliers d'existence.
+L'administration pénitentiaire peut procéder ou participer à l'acquisition d'un titre de transport pour les détenus qui, à leur libération, n'auraient pas un compte nominatif suffisant pour rejoindre le lieu où ils ont déclaré se rendre.
 
 
 ###### Article D484
@@ -17492,40 +17594,18 @@ L'administration pénitentiaire peut procéder ou participer à l'acquisition d'
 Le détenu dont la levée d'écrou a été régulièrement opérée peut, à sa demande expresse et formulée par écrit, obtenir que son élargissement effectif soit reporté du soir au lendemain matin, s'il n'est pas assuré d'un gîte ou d'un moyen de transport immédiat.
 
 
-###### Article D485
-
-Il entre dans les attributions du service socio-éducatif d'effectuer, en accord avec le chef de l'établissement, les diligences voulues pour que les détenus malades soient, s'il y a lieu, hospitalisés dès leur libération.
-
-A cet égard, les intéressés sont considérés comme étant domiciliés au lieu de détention, sous réserve des dispositions spéciales arrêtées d'un commun accord entre le ministre de la justice et le ministre de la santé publique et de la population pour les malades mentaux.
-
-
-###### Article D486
-
-Le service socio-éducatif doit également assurer la prise en charge du détenu libéré par le dispensaire le plus proche du lieu où l'intéressé se propose de fixer son domicile, s'il doit faire l'objet d'une surveillance prophylactique ou de post-cure pour une affection traitée au cours de sa détention.
-
-
 ##### Article D478
 
-Au moment de la libération des détenus, l'administration pénitentiaire les informe de l'aide qu'ils peuvent recevoir, notamment auprès du comité de probation et d'assistance aux libérés du lieu de leur résidence.
+Le service public pénitentiaire doit permettre au détenu de préparer sa libération dans les meilleures conditions.
 
-Elle peut fournir, éventuellement, une aide matérielle à certains d'entre eux.
+Le service socio-éducatif, en liaison avec les services de l'Etat, des collectivités territoriales et de tous organismes publics ou privés, favorise l'accès de chaque personne libérée aux droits sociaux et aux dispositifs d'insertion et de santé. Il s'assure que la personne libérée bénéficie d'un hébergement dans les premiers temps de sa libération.
+
+Les détenus sont informés, au moment de leur libération, du rôle du comité de probation et d'assistance aux libérés de leur résidence.
 
 
 #### Chapitre XI : De différentes catégories de détenus
 
-##### Section 1 : Des condamnés de police
-
-##### Article D488
-
-Conformément à l'article 717, les condamnés à l'emprisonnement de police sont incarcérés dans un quartier distinct de maison d'arrêt. A défaut d'un tel quartier dans les établissements où la distribution des locaux ne se prête pas à son organisation, les dispositions utiles doivent être prises pour qu'ils demeurent séparés dans toute la mesure du possible des autres détenus.
-
-
-##### Article D489
-
-Les condamnés de police sont soumis, sous réserve des dispositions de l'article D. 99, au régime des condamnés.
-
-
-##### Section 2 : Des détenus bénéficiant d'un régime spécial
+##### Section 1 : Des détenus bénéficiant d'un régime spécial
 
 ##### Article D490
 
@@ -17533,7 +17613,7 @@ Bénéficient, pour l'exécution d'une détention provisoire ou d'une peine priv
 
 Les personnes poursuivies ou condamnées pour infractions de presse, sauf si ces infractions constituent des outrages aux bonnes moeurs, ou des actes de chantage ou de provocations au meurtre ;
 
-Les personnes poursuivies ou condamnées pour crimes et délits contre la sûreté de l'Etat.
+Les personnes poursuivies ou condamnées pour atteintes aux intérêts fondamentaux de la Nation.
 
 
 ##### Article D491
@@ -17548,28 +17628,22 @@ Le bénéfice du régime spécial cesse d'être applicable aux détenus qui ne r
 
 ##### Article D493
 
-Les détenus bénéficiaires du régime spécial sont séparés des détenus appartenant aux autres catégories et, dans toute la mesure du possible, sont incarcérés dans un établissement ou un quartier d'établissement particulier.
-
-Les condamnés bénéficiaires du même régime portent leurs vêtements personnels ou, à leur demande, les effets fournis par l'administration. Ils ne sont pas astreints au travail mais peuvent réclamer qu'il leur en soit donné. Dans ce dernier cas, ils sont assujettis aux mêmes règles que les condamnés appartenant à leur catégorie pour l'organisation et la discipline du travail.
+Les détenus bénéficiaires du régime spécial sont séparés des détenus appartenant aux autres catégories dans toute la mesure du possible.
 
 Les détenus qui subissent leur prévention ou leur peine au régime spécial peuvent recevoir des visites tous les jours, dans les seules limites imposées par les nécessités du service et aux heures fixées par le chef d'établissement.
 
 
 ##### Article D494
 
-Les détenus bénéficiaires du régime spécial, même dans les établissements pénitentiaires dont le régime ne comporte pas de telles particularités, et sauf instructions contraires du juge d'instruction en application des articles 116 et D. 56, ont la faculté d'être réunis aux heures de la journée fixées par le chef d'établissement et de recevoir, en présence d'un surveillant, des visites dans un parloir sans dispositif de séparation.
+Les détenus bénéficiaires du régime spécial, même dans les établissements pénitentiaires dont le régime ne comporte pas de telles particularités, et sauf instructions contraires du juge d'instruction en application des articles 145-4 et D. 56, ont la faculté d'être réunis aux heures de la journée fixées par le chef d'établissement.
 
 
 ##### Article D495
 
 Tout détenu bénéficiaire du régime spécial est soumis aux mesures réglementaires prévues pour assurer l'ordre et la sécurité dans les établissements pénitentiaires. Il peut notamment faire l'objet des sanctions disciplinaires prévues au présent titre.
 
-En outre, tout ou partie des avantages visés à l'article D. 494, peut être retiré à titre temporaire ou définitif au détenu qui, par l'usage qu'il en fait, porte atteinte à l'ordre ou à la sécurité de l'établissement.
 
-Cette décision est prise, sur proposition du chef d'établissement, par le ministre de la justice.
-
-
-##### Section 3 : Des détenus de nationalité étrangère
+##### Section 2 : Des détenus de nationalité étrangère
 
 ##### Article D505
 
@@ -17580,7 +17654,7 @@ Des précautions particulières s'imposent néanmoins à leur égard en ce qui c
 
 ##### Article D506
 
-Le recours à un interprète n'a d'objet qu'en cas de nécessité absolue, si le détenu ne parle ou ne comprend la langue française et s'il ne se trouve sur place aucune personne capable d'assurer la traduction.
+Sous réserve de l'application des dispositions du deuxième alinéa de l'article D. 250-4, le recours à un interprète n'a d'objet qu'en cas de nécessité absolue, si le détenu ne parle ou ne comprend la langue française et s'il ne se trouve sur place aucune personne capable d'assurer la traduction.
 
 Les visites et la correspondance des étrangers peuvent s'effectuer dans leur langue, sous réserve des dispositions des articles D. 407 et D. 418.
 
@@ -17589,33 +17663,31 @@ Les visites et la correspondance des étrangers peuvent s'effectuer dans leur la
 
 Les détenus écroués à la suite d'une demande d'extradition émanant d'un gouvernement étranger sont soumis au régime des prévenus.
 
-La délivrance des permis de visite et le contrôle de la correspondance les concernant relèvent du procureur général jusqu'à décision de la chambre de l'instruction et ensuite du ministre de la justice.
+La délivrance des permis de visite et le contrôle de la correspondance les concernant relèvent du procureur général.
 
 
-##### Section 4 : Des détenus appartenant aux forces armées
+##### Section 3 : Des détenus appartenant aux forces armées
 
 ##### Article D508
 
-Les détenus militaires et marins en état de prévention devant un tribunal des forces armées ne doivent pas être placés en commun avec des détenus non militaires.
+Les détenus militaires en état de prévention devant un tribunal des forces armées ne doivent pas être placés en commun avec des détenus non militaires.
 
-Après condamnation, ils sont soumis au même régime que les autres condamnés de leur catégorie, compte tenu des dispositions de l'article 718. Toutefois, les mesures visées aux articles 723 et 723-3 ne peuvent être accordées aux condamnés militaires ou marins qu'avec l'accord préalable de l'autorité militaire ou maritime dont relèvent les intéressés.
+Après condamnation, ils sont soumis au même régime que les autres condamnés de leur catégorie, compte tenu des dispositions de l'article 718. Toutefois, les mesures visées aux articles 723 et 723-3 ne peuvent être accordées aux condamnés militaires qu'avec l'accord préalable de l'autorité militaire dont relèvent les intéressés.
 
 
 ##### Article D509
 
 Les officiers en prévention et ceux qui ont conservé leur grade malgré leur condamnation, sont placés en cellule individuelle, dans toute la mesure du possible, et effectuent leur promenade séparément.
 
-Ils sont par ailleurs dispensés des corvées.
-
 
 ##### Article D510
 
-Les dispositions des articles D. 61 et D. 348 sont applicables aux détenus militaires et marins.
+Les dispositions des articles D. 61 et D. 348 sont applicables aux détenus militaires.
 
 
 ##### Article D511
 
-Pour tous les militaires et marins, des avis d'incarcération, de prévision de levée d'écrou et de libération sont adressés à l'autorité militaire ou maritime.
+Pour tous les militaires, des avis d'incarcération, de prévision de levée d'écrou et de libération sont adressés à l'autorité militaire.
 
 Il en est de même en ce qui concerne les détenus civils soumis à obligations militaires, et pour les jeunes Français âgés de dix-huit à vingt ans.
 
@@ -17632,18 +17704,15 @@ Il en est de même pour les jeunes libérés titulaires d'un ordre d'appel ou d'
 Le médecin militaire désigné par le directeur régional du service de santé ou, à défaut, le médecin militaire de la place, l'assistante sociale de l'armée et les aumôniers militaires ont accès, dans l'exercice de leurs fonctions et pour les besoins de leur service, auprès des détenus militaires.
 
 
-##### Section 5 : Des détenus âgés de moins de vingt et un ans
+##### Section 4 : Des détenus âgés de moins de vingt et un ans
 
 ##### Article D514
 
-Les mineurs relevant des juridictions pour enfants, lorsqu'exceptionnellement ils sont incarcérés, peuvent être détenus en vertu de l'un des titres suivants :
-- une ordonnance motivée du juge d'instruction pour le mineur de treize ans prévenu de crime ;
-- un mandat d'arrêt ou un mandat de dépôt du juge des enfants ou du juge d'instruction pour le mineur de treize à dix-huit ans ;
-- une ordonnance de prise de corps pour le mineur âgé de seize à dix-huit ans accusé de crime ;
-- une ordonnance du juge des enfants pour le mineur faisant l'objet de l'application des articles 28 et 29 de l'ordonnance n° 45-174 du 2 février 1945, modifiée, relative à l'enfance délinquante ;
-- un jugement ou arrêt prononçant une condamnation à l'emprisonnement en application de l'article 2 de l'ordonnance précitée du 2 février 1945.
-
-Les mineurs qui font l'objet d'une mesure de placement prise en application de l'article 15, de l'article 16 ou de l'article 28 de ladite ordonnance peuvent être retenus provisoirement à la maison d'arrêt jusqu'au moment de leur conduite au lieu de placement.
+Les mineurs relevant des juridictions pour enfants, lorsque exceptionnellement ils sont incarcérés, peuvent être détenus en vertu de l'un des titres suivants :
+1. Un mandat d'arrêt ou un mandat de dépôt du juge des enfants ou du juge d'instruction conformément aux dispositions des articles 8, 9 et 11 de l'ordonnance n° 45-174 du 2 février 1945 modifiée relative à l'enfance délinquante ;
+2. Une ordonnance de prise de corps pour le mineur âgé de seize à dix-huit ans accusé de crime ;
+3. Un jugement ou arrêt prononçant une condamnation à une peine privative de liberté en application des articles 2 et 20-2 de l'ordonnance du 2 février 1945 précitée ;
+4. Une ordonnance d'incarcération provisoire en application des articles 741-2 et 744-2.
 
 
 ##### Article D515
@@ -17663,26 +17732,28 @@ Sauf si, pour les prévenus, le magistrat saisi du dossier de l'affaire en dispo
 
 Des dispositions doivent être prises pour que l'emploi du temps réserve une place aussi importante que possible aux activités de plein air, compte tenu des conditions atmosphériques et des nécessités du service.
 
-Les détenus âgés de moins de vingt et un ans doivent être séparés des adultes. Cependant, ils peuvent participer en même temps que les adultes aux offices religieux et, à titre exceptionnel, aux autres activités organisées dans la prison.
+Les détenus âgés de moins de vingt et un ans doivent être séparés des adultes. Cependant, ils peuvent participer en même temps que les adultes aux offices religieux et, à titre exceptionnel, aux autres activités organisées dans l'établissement pénitentiaire.
 
 
 ##### Article D517
 
 Les dispositions des articles D. 61 et D. 348 sont applicables aux détenus âgés de vingt et un ans.
 
-Une tenue de sport peut, en outre, leur être fournie par l'Administration.
+Une tenue de sport peut, en outre, leur être fournie par l'administration.
 
 Leur régime alimentaire est amélioré par rapport à celui des adultes, conformément aux principes de la diététique.
 
 
 ##### Article D518
 
-Les agents des services extérieurs de l'éducation surveillée et les assistants sociaux ou assistantes sociales relevant des juridictions pour enfants sont habilités à visiter les mineurs détenus dans les mêmes conditions que les visiteurs de prison.
+Les agents des services déconcentrés de la protection judiciaire de la jeunesse et les assistants de service social relevant des juridictions pour enfants sont habilités à visiter les mineurs détenus dans les mêmes conditions que les visiteurs de prison.
 
 
 ##### Article D519
 
 Un quartier particulier est aménagé pour les détenus âgés de moins de vingt et un ans dans les maisons d'arrêt desservant les juridictions les plus importantes.
+
+
 
 Le juge de l'application des peines recueille l'avis du juge des enfants chaque fois qu'il exerce, à l'égard d'un mineur pénal, l'une des attributions qui lui sont conférées par l'article 722 du code de procédure pénale.
 
@@ -17698,7 +17769,7 @@ Sont désignées dans le présent titre par le mot détenus, les personnes faisa
 
 Sont désignés par le mot condamnés, uniquement les condamnés ayant fait l'objet d'une décision ayant acquis le caractère définitif. Toutefois, par application des dispositions du deuxième alinéa de l'article 708, le délai d'appel accordé au procureur général par l'article 505 n'est pas pris en considération à cet égard.
 
-Sont indistinctement désignés par le mot prévenus, tous les détenus qui sont sous le coup de poursuites pénales et n'ont pas fait l'objet d'une condamnation définitive au sens précisé ci-dessus, c'est-à-dire aussi bien les inculpés, les prévenus, et les accusés, que les condamnés ayant formé opposition, appel ou pourvoi.
+Sont indistinctement désignés par le mot prévenus, tous les détenus qui sont sous le coup de poursuites pénales et n'ont pas fait l'objet d'une condamnation définitive au sens précisé ci-dessus, c'est-à-dire aussi bien les personnes mises en examen, les prévenus, et les accusés, que les condamnés ayant formé opposition, appel ou pourvoi.
 
 
 ### Article D51
@@ -17744,7 +17815,7 @@ Le comité consultatif de libération conditionnelle est composé ainsi qu'il su
 8. Un juge de l'application des peines, titulaire ou suppléant ;
 
 
-9. Un fonctionnaire ou ancien fonctionnaire du corps des personnels de direction des services extérieurs de l'administration pénitentiaire, titulaire ou suppléant ;
+9. Un fonctionnaire ou ancien fonctionnaire du corps des personnels de direction des services déconcentrés de l'administration pénitentiaire, titulaire ou suppléant ;
 
 
 10. Un membre du barreau, en activité ou honoraire, titulaire ou suppléant ;
@@ -17794,7 +17865,7 @@ En cas de partage, la voix du président est prépondérante.
 
 Les délibérations du comité sont secrètes. Ses membres ainsi que les personnes qui, à un titre quelconque, participent ou assistent à des travaux sont tenus au secret professionnel.
 
-Toutes communications du comité avec les bureaux ou avec les services extérieurs de l'administration pénitentiaire, comme avec tous services ou toutes personnes étrangers à cette administration, ont exclusivement lieu par l'intermédiaire du directeur des affaires criminelles et des grâces, éventuellement avec le concours du directeur de l'administration pénitentiaire, sous l'autorité et d'après les instructions du ministre.
+Toutes communications du comité avec les bureaux ou avec les services déconcentrés de l'administration pénitentiaire, comme avec tous services ou toutes personnes étrangers à cette administration, ont exclusivement lieu par l'intermédiaire du directeur des affaires criminelles et des grâces, éventuellement avec le concours du directeur de l'administration pénitentiaire, sous l'autorité et d'après les instructions du ministre.
 
 
 #### Chapitre II : De l'instruction des propositions de libération conditionnelle
@@ -17824,7 +17895,7 @@ Dès lors qu'il remplit les conditions prévues par l'article 729, tout condamn�
 
 La commission de l'application des peines prévue aux articles D. 116, D. 117-1 et D. 119 est chargée d'émettre un avis destiné à permettre au juge de l'application des peines, selon les distinctions de l'article 730, soit d'accorder la libération conditionnelle à un condamné, soit de proposer ce dernier au bénéfice de la mesure.
 
-Le chef d'établissement doit transmettre les propositions du juge de l'application des peines pour avis au commissaire de la République. Ce commissaire de la République est celui du département où le condamné doit résider ; toutefois, dans les hypothèses visées à l'article D. 535 (3° et 4°), le commissaire de la République consulté est celui du lieu de détention.
+Le chef d'établissement doit transmettre les propositions du juge de l'application des peines pour avis au préfet. Ce préfet est celui du département où le condamné doit résider ; toutefois, dans les hypothèses visées à l'article D. 535 (3° et 4°), le préfet consulté est celui du lieu de détention.
 
 
 #### Article D529
@@ -17838,7 +17909,7 @@ L'instruction générale détermine les modalités de la procédure d'admission 
 
 ##### Article D532
 
-Les mesures d'aide ont pour objet de susciter et de seconder les efforts du condamné en vue de son reclassement social, et notamment de sa réadaptation familiale et professionnelle.
+Les mesures d'aide ont pour objet de susciter et de seconder les efforts du condamné en vue de sa réinsertion sociale, familiale et professionnelle.
 
 Elle s'exerce sous la forme d'aide psychologique et, s'il y a lieu, matérielle apportée par le comité de probation et d'assistance aux libérés, ou sur intervention de celui-ci, par tout organisme d'assistance ou d'aide sociale, et notamment par les oeuvres privées habilitées à cet effet.
 
@@ -17854,9 +17925,13 @@ Les mesures de contrôle auxquelles le condamné doit se soumettre sont les suiv
 
 ##### Article D534
 
-Le juge de l'application des peines peut autoriser le libéré conditionnel à changer de résidence, après avoir consulté le juge de l'application des peines du ressort dans lequel le condamné envisage de s'établir et, dans l'hypothèse prévue au troisième alinéa de l'article 730, le commissaire de la République, si la résidence choisie est située dans un autre département.
+Le juge de l'application des peines peut autoriser le libéré conditionnel à changer de résidence, après avoir consulté le juge de l'application des peines du ressort dans lequel le condamné envisage de s'établir et, dans l'hypothèse prévue au troisième alinéa de l'article 730, le préfet, si la résidence choisie est située dans un autre département.
+
+
 
 Le libéré doit obtenir l'autorisation du juge de l'application des peines préalablement à tout déplacement dont la durée excéderait quinze jours, ainsi que pour tout déplacement à l'étranger.
+
+
 
 L'établissement à l'étranger, s'il n'est pas prévu dans la décision de libération conditionnelle, ne peut être autorisé que par une modification de ladite décision dans les conditions fixées au 4ème alinéa de l'article 732.
 
@@ -17866,9 +17941,9 @@ L'établissement à l'étranger, s'il n'est pas prévu dans la décision de lib�
 ##### Article D535
 
 La décision accordant à un condamné le bénéfice de la libération conditionnelle peut subordonner l'octroi de cette mesure à l'une des conditions suivantes :
-1. Avoir satisfait à une épreuve de semi-liberté dont les modalités sont déterminées par ladite décision ;
-2. Remettre tout ou partie de son pécule au comité de probation et d'assistance aux libérés, à charge par ledit comité de restitution par fractions ;
-3. S'engager dans les armées de terre, de mer ou de l'air dans les cas où la loi l'autorise, ou rejoindre une formation des forces armées s'il s'agit d'un détenu appartenant à un contingent d'âge présent ou appelé sous les drapeaux, ou s'il s'agit d'un militaire ou d'un marin en activité de service ;
+1. Avoir satisfait à une épreuve de semi-liberté ou de placement à l'extérieur sans surveillance dont les modalités sont déterminées par ladite décision ;
+2. Remettre tout ou partie de son compte nominatif au comité de probation et d'assistance aux libérés, à charge par ledit comité de restitution par fractions ;
+3. S'engager dans les armées de terre, de mer ou de l'air dans les cas où la loi l'autorise, ou rejoindre une formation des forces armées s'il s'agit d'un détenu appartenant à un contingent d'âge présent ou appelé sous les drapeaux, ou s'il s'agit d'un militaire en activité de service ;
 4. S'il s'agit d'un étranger, être expulsé du territoire national, reconduit à la frontière ou être extradé, ou quitter le territoire national et n'y plus paraître.
 
 
@@ -17891,14 +17966,14 @@ La décision peut, par ailleurs, subordonner l'octroi et le maintien de la liber
 
 #### Article D530
 
-Les condamnés admis au bénéfice de la libération conditionnelle peuvent être soumis, en vertu de la décision dont ils font l'objet, aux mesures d'aide et de contrôle prévues à la section I du présent chapitre, destinées à faciliter et à vérifier leur reclassement.
+Les condamnés admis au bénéfice de la libération conditionnelle peuvent être soumis, en vertu de la décision dont ils font l'objet, aux mesures d'aide et de contrôle prévues à la section I du présent chapitre, destinées à faciliter et à vérifier leur réinsertion.
 
 L'octroi ou le maintien de la liberté conditionnelle peut être subordonné, en outre, à l'observation des conditions particulières prévues à la section II.
 
 
 #### Article D531
 
-Tout condamné a la faculté de refuser son admission à la libération conditionnelle, en sorte que les mesures et les conditions particulières qu'elle comporte à son égard ne peuvent s'appliquer sans son consentement.
+Tout condamné, sous réserve de l'application des dispositions de l'article 729-2, a la faculté de refuser son admission à la libération conditionnelle, en sorte que les mesures et les conditions particulières qu'elle comporte à son égard ne peuvent s'appliquer sans son consentement.
 
 Ces mesures et conditions doivent en conséquence être portées à la connaissance de l'intéressé avant l'exécution de la décision qui les prescrit.
 
@@ -17971,7 +18046,7 @@ A défaut d'un tel quartier dans les établissements où la distribution des loc
 
 ### Article D570
 
-Les personnes détenues en vertu d'une décision de contrainte par corps sont soumises au même régime que les condamnés, sous réserve des dispositions de l'article D. 99.
+Les personnes détenues en vertu d'une décision de contrainte par corps sont soumises au même régime que les condamnés.
 
 Pour l'admission au bénéfice des mesures prévues aux articles 723 et 723-3, les conditions de délai fixées aux articles D. 119 à D. 145 ne sont pas applicables.
 
@@ -18062,9 +18137,7 @@ Le comité de probation et d'assistance aux libérés assure une permanence pour
 
 #### Article D578
 
-Le comité de probation et d'assistance aux libérés comprend un ou plusieurs agents de probation désignés par le ministre de la justice parmi les assistants sociaux appartenant aux services extérieurs communs du ministère de la justice et les éducateurs des services extérieurs de l'administration pénitentiaire.
-
-
+Le comité de probation et d'assistance aux libérés comprend un ou plusieurs agents de probation désignés par le ministre de la justice parmi les assistants de service social du ministère de la justice et les conseillers d'insertion et de probation des services déconcentrés de l'administration pénitentiaire.
 
 En outre, des délégués vacataires peuvent, en tant que de besoin, être nommés par le directeur régional, sur proposition du juge de l'application des peines, après avis du directeur de probation.
 
@@ -18076,12 +18149,12 @@ Pour compléter l'action du comité de probation, il peut être fait appel à de
 
 #### Article D580
 
-Un ou plusieurs fonctionnaires peuvent être affectés au comité de probation en qualité de chef de service de probation. Ils sont désignés par le ministre de la justice parmi les assistants sociaux chefs appartenant aux services extérieurs communs du ministère de la justice ou les chefs de service éducatif et de probation des services extérieurs de l'administration pénitentiaire.
+Un ou plusieurs fonctionnaires peuvent être affectés au comité de probation en qualité de chef de service de probation. Ils sont désignés par le ministre de la justice parmi les conseillers techniques de service social du ministère de la justice ou les chefs de service d'insertion et de probation des services déconcentrés de l'administration pénitentiaire.
 
 
 #### Article D581
 
-Un directeur de probation est désigné par le ministre de la justice parmi les personnels mentionnés à l'article D. 580 ou, lorsque l'importance du service le justifie, parmi les membres du personnel de direction des services extérieurs de l'administration pénitentiaire ayant une expérience professionnelle dans le domaine socio-éducatif.
+Un directeur de probation est désigné par le ministre de la justice parmi les personnels mentionnés à l'article D. 580 ou, lorsque l'importance du service le justifie, parmi les membres du personnel de direction des services déconcentrés de l'administration pénitentiaire ayant une expérience professionnelle dans le domaine socio-éducatif.
 
 Il exerce l'autorité hiérarchique sur les personnels du comité de probation et d'assistance aux libérés.
 
@@ -18131,12 +18204,12 @@ Le directeur de probation veille à l'harmonisation des méthodes de travail et 
 
 Le directeur de probation rend compte régulièrement au juge de l'application des peines du fonctionnement du comité de probation et de l'exécution de ses missions.
 
-Il établit chaque année un rapport d'activité, qu'il transmet au juge de l'application des peines et au délégué régional à l'action socio-éducative.
+Il établit chaque année un rapport d'activité, qu'il transmet au juge de l'application des peines et au directeur régional des services pénitentiaires.
 
 
 #### Article D586
 
-Dans le cas où il n'est pas affecté de directeur au comité de probation, le juge de l'application des peines exerce la direction du service. Toutefois, le ministre de la justice peut charger un agent de probation des attributions prévues par les articles D. 583 (alinéa 1er, 1° et 4°) et D. 585. Cet agent est désigné sur proposition du juge de l'application des peines, après avis du délégué régional à l'action socio-éducative.
+Dans le cas où il n'est pas affecté de directeur au comité de probation, le juge de l'application des peines exerce la direction du service. Toutefois, le ministre de la justice peut charger un agent de probation des attributions prévues par les articles D. 583 (alinéa 1er, 1° et 4°) et D. 585. Cet agent est désigné sur proposition du juge de l'application des peines, après avis du directeur régional des services pénitentiaires.
 
 
 #### Article D587
@@ -18190,7 +18263,7 @@ Le secrétariat du comité de probation assure notamment la conservation des dos
 
 Les dépenses de matériel, d'entretien et de documentation font partie des dépenses du tribunal de grande instance.
 
-Les règles régissant les personnels des services extérieurs du ministère de la justice sont applicables aux dépenses entraînées par les missions, tournées et transports des agents de probation pour les besoins de leur service.
+Les règles régissant les personnels des services déconcentrés du ministère de la justice sont applicables aux dépenses entraînées par les missions, tournées et transports des agents de probation pour les besoins de leur service.
 
 
 #### Chapitre IV : Dispositions diverses
@@ -18223,12 +18296,12 @@ Le juge de l'application des peines et le directeur de probation visitent chaque
 
 Le juge de l'application des peines est consulté sur les demandes d'agrément formulées conformément à la législation relative à l'aide sociale par les oeuvres hébergeant des libérés.
 
-Ses avis sont transmis par le ministre de la justice au ministre de la santé publique et de la population.
+Ses avis sont transmis par le ministre de la justice au ministre chargé de la santé.
 
 
 #### Article D598
 
-Les modalités du fonctionnement financier et comptable du comité [*de probation et d'assistance aux libérés*] sont fixées par arrêté conjoint du ministre de la justice et du ministre de l'économie et des finances.
+Les modalités du fonctionnement financier et comptable du comité sont fixées par arrêté conjoint du ministre de la justice et du ministre chargé du budget.
 
 
 ### Article D572
