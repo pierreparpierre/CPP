@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 27 février 2002
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20020227)
+- Date de consolidation : 5 mars 2002
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20020305)
 
 
 # Partie législative
@@ -609,7 +609,7 @@ Le procureur de la République procède ou fait procéder à tous les actes néc
 
 A cette fin, il dirige l'activité des officiers et agents de la police judiciaire dans le ressort de son tribunal.
 
-Le procureur de la République contrôle les mesures de garde à vue. Il visite les locaux de garde à vue chaque fois qu'il l'estime nécessaire et au moins une fois par trimestre ; il tient à cet effet un registre répertoriant le nombre et la fréquence des contrôles effectués dans ces différents locaux.
+Le procureur de la République contrôle les mesures de garde à vue. Il visite les locaux de garde à vue chaque fois qu'il l'estime nécessaire et au moins une fois par an ; il tient à cet effet un registre répertoriant le nombre et la fréquence des contrôles effectués dans ces différents locaux.
 
 Il a tous les pouvoirs et prérogatives attachés à la qualité d'officier de police judiciaire prévus par la section II du chapitre Ier du titre Ier du présent livre, ainsi que par des lois spéciales.
 
@@ -896,7 +896,7 @@ Il dresse un procès-verbal de leurs déclarations. Les personnes entendues proc
 
 Les agents de police judiciaire désignés à l'article 20 peuvent également entendre, sous le contrôle d'un officier de police judiciaire, toutes personnes susceptibles de fournir des renseignements sur les faits en cause. Ils dressent à cet effet, dans les formes prescrites par le présent code, des procès-verbaux qu'ils transmettent à l'officier de police judiciaire qu'ils secondent.
 
-Les personnes à l'encontre desquelles il n'existe aucun indice faisant présumer qu'elles ont commis ou tenté de commettre une infraction ne peuvent être retenues que le temps strictement nécessaire à leur audition.
+Les personnes à l'encontre desquelles il n'existe aucune raison plausible de soupçonner qu'elles ont commis ou tenté de commettre une infraction ne peuvent être retenues que le temps strictement nécessaire à leur audition.
 
 
 #### Article 62-1
@@ -906,7 +906,7 @@ Les personnels visés aux articles 16 à 29 concourant à la procédure sont aut
 
 #### Article 63
 
-L'officier de police judiciaire peut, pour les nécessités de l'enquête, placer en garde à vue toute personne à l'encontre de laquelle il existe des indices faisant présumer qu'elle a commis ou tenté de commettre une infraction. Il en informe dès le début de la garde à vue le procureur de la République.
+L'officier de police judiciaire peut, pour les nécessités de l'enquête, placer en garde à vue toute personne à l'encontre de laquelle il existe une ou plusieurs raisons plausibles de soupçonner qu'elle a commis ou tenté de commettre une infraction. Il en informe dès le début de la garde à vue le procureur de la République.
 
 La personne gardée à vue ne peut être retenue plus de vingt-quatre heures. Toutefois, la garde à vue peut être prolongée pour un nouveau délai de vingt-quatre heures au plus, sur autorisation écrite du procureur de la République. Ce magistrat peut subordonner cette autorisation à la présentation préalable de la personne gardée à vue.
 
@@ -917,7 +917,7 @@ Pour l'application du présent article, les ressorts des tribunaux de grande ins
 
 #### Article 63-1
 
-Toute personne placée en garde à vue est immédiatement informée par un officier de police judiciaire, ou, sous le contrôle de celui-ci, par un agent de police judiciaire, de la nature de l'infraction sur laquelle porte l'enquête, des droits mentionnés aux articles 63-2, 63-3 et 63-4 ainsi que des dispositions relatives à la durée de la garde à vue prévues par l'article 63. Les dispositions de l'article 77-2 sont également portées à sa connaissance. La personne gardée à vue est également immédiatement informée qu'elle a le droit de ne pas répondre aux questions qui lui seront posées par les enquêteurs.
+Toute personne placée en garde à vue est immédiatement informée par un officier de police judiciaire, ou, sous le contrôle de celui-ci, par un agent de police judiciaire, de la nature de l'infraction sur laquelle porte l'enquête, des droits mentionnés aux articles 63-2, 63-3 et 63-4 ainsi que des dispositions relatives à la durée de la garde à vue prévues par l'article 63. La personne gardée à vue est également immédiatement informée qu'elle a le choix de faire des déclarations, de répondre aux questions qui lui seront posées ou de se taire.
 
 Mention de cet avis est portée au procès-verbal et émargée par la personne gardée à vue ; en cas de refus d'émargement, il en est fait mention.
 
@@ -925,10 +925,14 @@ Les informations mentionnées au premier alinéa doivent être communiquées à 
 
 Si cette personne est atteinte de surdité et qu'elle ne sait ni lire ni écrire, elle doit être assistée par un interprète en langue des signes ou par toute personne qualifiée maîtrisant un langage ou une méthode permettant de communiquer avec des sourds. Il peut également être recouru à tout dispositif technique permettant de communiquer avec une personne atteinte de surdité.
 
+Si la personne est remise en liberté à l'issue de la garde à vue sans qu'aucune décision n'ait été prise par le procureur de la République sur l'action publique, les dispositions de l'article 77-2 sont portées à sa connaissance.
+
+Sauf en cas de circonstance insurmontable, les diligences résultant pour les enquêteurs de la communication des droits mentionnés aux articles 63-2 et 63-3 doivent intervenir au plus tard dans un délai de trois heures à compter du moment où la personne a été placée en garde à vue.
+
 
 #### Article 63-2
 
-Toute personne placée en garde à vue peut, à sa demande, faire prévenir sans délai, par téléphone, une personne avec laquelle elle vit habituellement ou l'un de ses parents en ligne directe, l'un de ses frères et soeurs ou son employeur de la mesure dont elle est l'objet.
+Toute personne placée en garde à vue peut, à sa demande, faire prévenir dans le délai prévu au dernier alinéa de l'article 63-1, par téléphone, une personne avec laquelle elle vit habituellement ou l'un de ses parents en ligne directe, l'un de ses frères et soeurs ou son employeur de la mesure dont elle est l'objet.
 
 Si l'officier de police judiciaire estime, en raison des nécessités de l'enquête, ne pas devoir faire droit à cette demande, il en réfère sans délai au procureur de la République qui décide, s'il y a lieu, d'y faire droit.
 
@@ -1089,7 +1093,7 @@ Le fait que les opérations prévues au présent article révèlent des infracti
 
 #### Article 77
 
-L'officier de police judiciaire peut, pour les nécessités de l'enquête, garder à sa disposition toute personne à l'encontre de laquelle il existe des indices faisant présumer qu'elle a commis ou tenté de commettre une infraction. Il en informe dès le début de la garde à vue le procureur de la République. La personne gardée à vue ne peut être retenue plus de vingt-quatre heures.
+L'officier de police judiciaire peut, pour les nécessités de l'enquête, garder à sa disposition toute personne à l'encontre de laquelle il existe une ou plusieurs raisons plausibles de soupçonner qu'elle a commis ou tenté de commettre une infraction. Il en informe dès le début de la garde à vue le procureur de la République. La personne gardée à vue ne peut être retenue plus de vingt-quatre heures.
 
 Le procureur de la République peut, avant l'expiration du délai de vingt-quatre heures, prolonger la garde à vue d'un nouveau délai de vingt-quatre heures au plus. Cette prolongation ne peut être accordée qu'après présentation préalable de la personne à ce magistrat. Toutefois, elle peut, à titre exceptionnel, être accordée par décision écrite et motivée sans présentation préalable de la personne. Si l'enquête est suivie dans un autre ressort que celui du siège du procureur de la République saisi des faits, la prolongation peut être accordée par le procureur de la République du lieu d'exécution de la mesure.
 
@@ -1127,7 +1131,7 @@ Lorsque l'enquête n'a pas été menée sous la direction du procureur de la Ré
 
 Les personnes convoquées par un officier de police judiciaire pour les nécessités de l'enquête sont tenues de comparaître. Si elles ne satisfont pas à cette obligation, avis en est donné au procureur de la République qui peut les y contraindre par la force publique.
 
-Les personnes à l'encontre desquelles n'existent pas d'indices faisant présumer qu'elles ont commis ou tenté de commettre une infraction ne peuvent être retenues que le temps strictement nécessaire à leur audition.
+Les personnes à l'encontre desquelles il n'existe aucune raison plausible de soupçonner qu'elles ont commis ou tenté de commettre une infraction ne peuvent être retenues que le temps strictement nécessaire à leur audition.
 
 L'officier de police judiciaire dresse procès-verbal de leurs déclarations. Les agents de police judiciaire désignés à l'article 20 peuvent également, sous le contrôle d'un officier de police judiciaire, entendre les personnes convoquées.
 
@@ -2156,7 +2160,7 @@ Sous réserve des dispositions de l'article 137, la détention provisoire ne peu
 1. La personne mise en examen encourt une peine criminelle ;
 2. La personne mise en examen encourt une peine correctionnelle d'une durée égale ou supérieure à trois ans d'emprisonnement.
 
-Toutefois, la détention provisoire ne peut être ordonnée ou prolongée que si la peine encourue est supérieure ou égale à cinq ans d'emprisonnement, s'il est reproché à la personne mise en examen un délit prévu par le livre III du code pénal et que cette personne n'a pas déjà été condamnée à une peine privative de liberté sans sursis supérieure à un an.
+Toutefois, la détention provisoire ne peut être ordonnée ou prolongée que si la peine encourue est supérieure ou égale à cinq ans d'emprisonnement, s'il est reproché à la personne mise en examen un délit prévu par le livre III du code pénal et que cette personne n'a pas déjà été condamnée à une peine privative de liberté sans sursis supérieure à un an. La détention provisoire peut également être ordonnée ou prolongée à l'égard d'une personne mise en examen pour un délit prévu par le livre III du code pénal et puni d'une peine égale ou supérieure à trois ans d'emprisonnement si, dans les six mois qui précèdent, cette personne a déjà fait l'objet pour un délit puni d'une peine supérieure ou égale à deux ans d'emprisonnement et dans une procédure dont la copie est jointe au dossier de l'information, soit d'une des mesures prévues aux articles 41-1 ou 41-2, soit d'une poursuite pénale qui n'a pas été clôturée par une décision de non-lieu, de relaxe ou d'acquittement.
 
 La détention provisoire peut également être ordonnée dans les conditions prévues à l'article 141-2 lorsque la personne mise en examen se soustrait volontairement aux obligations du contrôle judiciaire.
 
@@ -2238,7 +2242,7 @@ Cette décision est notifiée par tout moyen et sans délai au demandeur. Ce der
 
 ###### Article 145-5
 
-Le placement en détention provisoire ou la prolongation de la détention provisoire d'une personne faisant connaître qu'elle exerce l'autorité parentale sur un enfant de moins de dix ans ayant chez elle sa résidence habituelle ne peut être ordonné sans que l'un des services ou l'une des personnes visés au septième alinéa de l'article 81 ait été au préalable chargé de rechercher et de proposer toutes mesures propres à éviter la détention de l'intéressé ou à y mettre fin.
+Le placement en détention provisoire d'une personne faisant connaître, lors de son interrogatoire par le juge d'instruction préalable à la saisine du juge des libertés et de la détention, qu'elle exerce à titre exclusif l'autorité parentale sur un mineur de seize ans au plus ayant chez elle sa résidence ne peut être ordonné sans que l'un des services ou l'une des personnes visés au septième alinéa de l'article 81 ait été chargé au préalable de rechercher et de proposer toutes mesures propres à éviter que la santé, la sécurité et la moralité du mineur ne soient en danger ou que les conditions de son éducation ne soient gravement compromises.
 
 Les dispositions du présent article ne sont pas applicables en cas de crime, en cas de délit commis contre un mineur ou en cas de non-respect des obligations du contrôle judiciaire.
 
@@ -2446,14 +2450,14 @@ Toutefois, les officiers de police judiciaire ne peuvent pas procéder aux inter
 
 ##### Article 153
 
-Tout témoin cité pour être entendu au cours de l'exécution d'une commission rogatoire est tenu de comparaître, de prêter serment et de déposer. Lorsqu'il n'existe aucun indice faisant présumer qu'il a commis ou tenté de commettre une infraction, il ne peut être retenu que le temps strictement nécessaire à son audition.
+Tout témoin cité pour être entendu au cours de l'exécution d'une commission rogatoire est tenu de comparaître, de prêter serment et de déposer. Lorsqu'il n'existe aucune raison plausible de soupçonner qu'il a commis ou tenté de commettre une infraction, il ne peut être retenu que le temps strictement nécessaire à son audition.
 
-S'il ne satisfait pas à cette obligation, avis en est donné au magistrat mandant qui peut le contraindre à comparaître par la force publique et prendre contre lui les sanctions prévues aux troisième et quatrième alinéas de l'article 109.
+S'il ne satisfait pas à cette obligation, avis en est donné au magistrat mandant qui peut le contraindre à comparaître par la force publique. Le témoin qui ne comparaît pas encourt l'amende prévue par l'article 434-15-1 du code pénal.
 
 
 ##### Article 154
 
-Lorsque l'officier de police judiciaire est amené, pour les nécessités de l'exécution de la commission rogatoire, à garder à sa disposition une personne à l'encontre de laquelle il existe des indices faisant présumer qu'elle a commis ou tenté de commettre une infraction, il en informe dès le début de cette mesure le juge d'instruction saisi des faits. Ce dernier contrôle la mesure de garde à vue. L'officier de police judiciaire ne peut retenir la personne plus de vingt-quatre heures.
+Lorsque l'officier de police judiciaire est amené, pour les nécessités de l'exécution de la commission rogatoire, à garder à sa disposition une personne à l'encontre de laquelle il existe une ou plusieurs raisons plausibles de soupçonner qu'elle a commis ou tenté de commettre une infraction, il en informe dès le début de cette mesure le juge d'instruction saisi des faits. Ce dernier contrôle la mesure de garde à vue. L'officier de police judiciaire ne peut retenir la personne plus de vingt-quatre heures.
 
 La personne doit être présentée avant l'expiration du délai de vingt-quatre heures à ce magistrat ou, si la commission rogatoire est exécutée dans un autre ressort que celui de son siège, au juge d'instruction du lieu d'exécution de la mesure. A l'issue de cette présentation, le juge d'instruction peut accorder l'autorisation écrite de prolonger la mesure d'un nouveau délai, sans que celui-ci puisse excéder vingt-quatre heures. Il peut, à titre exceptionnel, accorder cette autorisation par décision écrite et motivée sans présentation préalable de la personne.
 
@@ -2632,9 +2636,9 @@ Dans les huit jours de la réception du dossier par le greffe de la chambre de l
 
 ##### Article 173-1
 
-Sous peine d'irrecevabilité, la personne mise en examen doit faire état des moyens pris de la nullité des actes accomplis avant son interrogatoire de première comparution ou de cet interrogatoire lui-même dans un délai de six mois à compter de la notification de sa mise en examen, sauf dans le cas où elle n'aurait pu les connaître.
+Sous peine d'irrecevabilité, la personne mise en examen doit faire état des moyens pris de la nullité des actes accomplis avant son interrogatoire de première comparution ou de cet interrogatoire lui-même dans un délai de six mois à compter de la notification de sa mise en examen, sauf dans le cas où elle n'aurait pu les connaître. Il en est de même s'agissant des moyens pris de la nullité des actes accomplis avant chacun de ses interrogatoires ultérieurs.
 
-Il en est de même pour la partie civile à compter de sa première audition.
+Il en est de même pour la partie civile à compter de sa première audition puis de ses auditions ultérieures.
 
 
 ##### Article 174
@@ -3956,6 +3960,8 @@ Lorsque le huis clos a été ordonné, celui-ci s'applique au prononcé des arr�
 
 L'arrêt sur le fond doit toujours être prononcé en audience publique.
 
+Les dispositions du présent article sont applicables devant la cour d'assises des mineurs si la personne poursuivie, mineure au moment des faits, est devenue majeure au jour de l'ouverture des débats et qu'elle en fait la demande, sauf s'il existe un autre accusé qui est toujours mineur ou qui, mineur au moment des faits et devenu majeur au jour de l'ouverture des débats, s'oppose à cette demande.
+
 
 ##### Article 307
 
@@ -4545,16 +4551,6 @@ Les arrêts de condamnation rendus par la cour d'assises en premier ressort peuv
 Cet appel est porté devant une autre cour d'assises désignée par la chambre criminelle de la Cour de cassation et qui procède au réexamen de l'affaire selon les modalités et dans les conditions prévues par les chapitres II à VII du présent titre.
 
 
-##### Article 380-2
-
-La faculté d'appeler appartient :
-1. A l'accusé ;
-2. Au ministère public ;
-3. A la personne civilement responsable, quant à ses intérêts civils ;
-4. A la partie civile, quant à ses intérêts civils ;
-5. En cas d'appel du ministère public, aux administrations publiques, dans les cas où celles-ci exercent l'action publique.
-
-
 ##### Article 380-4
 
 Pendant les délais d'appel et durant l'instance d'appel, il est sursis à l'exécution de l'arrêt sur l'action publique.
@@ -4575,27 +4571,21 @@ Le désistement d'appel est constaté par ordonnance du président de la cour d'
 La caducité de l'appel de l'accusé résulte également de la constatation, par le président de la cour d'assises, que ce dernier a pris la fuite et n'a pas pu être retrouvé avant l'ouverture de l'audience ou au cours de son déroulement.
 
 
-##### Article 380-12
-
-La déclaration d'appel doit être faite au greffe de la cour d'assises qui a rendu la décision attaquée.
-
-Elle doit être signée par le greffier et par l'appelant lui-même, par un avocat, par un avoué près la cour d'appel, ou par un fondé de pouvoir spécial ; dans ce dernier cas, le pouvoir est annexé à l'acte dressé par le greffier. Si l'appelant ne peut signer, il en sera fait mention par le greffier.
-
-Elle est inscrite sur un registre public à ce destiné et toute personne a le droit de s'en faire délivrer une copie.
-
-
-##### Article 380-13
-
-Lorsque l'appelant est détenu, l'appel peut être fait au moyen d'une déclaration auprès du chef de l'établissement pénitentiaire.
-
-Cette déclaration est constatée, datée et signée par le chef de l'établissement pénitentiaire. Elle est également signée par l'appelant ; si celui-ci ne peut signer, il en est fait mention par le chef de l'établissement.
-
-Ce document est adressé sans délai, en original ou en copie, au greffe de la cour d'assises qui a rendu la décision attaquée ; il est transcrit sur le registre prévu par le troisième alinéa de l'article 380-11 et annexé à l'acte dressé par le greffier.
-
-
 #### Chapitre IX : De l'appel des décisions rendues par la cour d'assises en premier ressort
 
 ##### Section 1 : Dispositions générales
+
+##### Article 380-2
+
+La faculté d'appeler appartient :
+1. A l'accusé ;
+2. Au ministère public ;
+3. A la personne civilement responsable, quant à ses intérêts civils ;
+4. A la partie civile, quant à ses intérêts civils ;
+5. En cas d'appel du ministère public, aux administrations publiques, dans les cas où celles-ci exercent l'action publique.
+
+Le procureur général peut également faire appel des arrêts d'acquittement.
+
 
 ##### Article 380-3
 
@@ -4640,6 +4630,26 @@ Toutefois, le délai ne court qu'à compter de la signification de l'arrêt, que
 ##### Article 380-10
 
 En cas d'appel d'une partie, pendant les délais ci-dessus, les autres parties ont un délai supplémentaire de cinq jours pour interjeter appel.
+
+
+##### Article 380-12
+
+La déclaration d'appel doit être faite au greffe de la cour d'assises qui a rendu la décision attaquée.
+
+Elle doit être signée par le greffier et par l'appelant lui-même, par un avocat, par un avoué près la cour d'appel, ou par un fondé de pouvoir spécial ; dans ce dernier cas, le pouvoir est annexé à l'acte dressé par le greffier. Si l'appelant ne peut signer, il en sera fait mention par le greffier.
+
+Elle est inscrite sur un registre public à ce destiné et toute personne a le droit de s'en faire délivrer une copie.
+
+Lorsque l'appel est formé par le procureur général et que le siège de la cour d'assises n'est pas celui de la cour d'appel, la déclaration d'appel, signée par le procureur général, est adressée sans délai, en original ou en copie, au greffe de la cour d'assises ; elle est transcrite sur le registre prévu à l'alinéa précédent et annexée à l'acte dressé par le greffier.
+
+
+##### Article 380-13
+
+Lorsque l'appelant est détenu, l'appel peut être fait au moyen d'une déclaration auprès du chef de l'établissement pénitentiaire.
+
+Cette déclaration est constatée, datée et signée par le chef de l'établissement pénitentiaire. Elle est également signée par l'appelant ; si celui-ci ne peut signer, il en est fait mention par le chef de l'établissement.
+
+Ce document est adressé sans délai, en original ou en copie, au greffe de la cour d'assises qui a rendu la décision attaquée ; il est transcrit sur le registre prévu par le troisième alinéa de l'article 380-12 et annexé à l'acte dressé par le greffier.
 
 
 ##### Section 3 : Désignation de la cour d'assises statuant en appel
@@ -4985,11 +4995,21 @@ En cas de nécessité, cette ordonnance peut être modifiée dans    s les même
 
 Les audiences sont publiques.
 
+
+
 Néanmoins, le tribunal peut, en constatant dans son jugement que la publicité est dangereuse pour l'ordre ou les moeurs, ordonner, par jugement rendu en audience publique, que les débats auront lieu à huis clos.
+
+
 
 Lorsque le huis clos a été ordonné, celui-ci s'applique au prononcé des jugements séparés qui peuvent intervenir sur des incidents ou exceptions ainsi qu'il est dit à l'article 459, alinéa 4.
 
+
+
 Le jugement sur le fond doit toujours être prononcé en audience publique.
+
+
+
+Les dispositions du présent article sont applicables devant le tribunal pour enfants si la personne poursuivie, mineure au moment des faits, est devenue majeure au jour de l'ouverture des débats et qu'elle en fait la demande, sauf s'il existe un autre prévenu qui est toujours mineur ou qui, mineur au moment des faits et devenu majeur au jour de l'audience, s'oppose à cette demande.
 
 
 ##### Article 401
@@ -7080,7 +7100,7 @@ Le réexamen peut être demandé par :
 
 ### Article 626-3
 
-La demande en réexamen est adressée à une commission composée de sept magistrats de la Cour de cassation, désignés par l'assemblée générale de cette juridiction ; chacune des chambres est représentée par un de ses membres, à l'exception de la chambre criminelle qui est représentée par deux magistrats, l'un d'entre eux assurant la présidence de la commission. Les fonctions du ministère public sont exercées par le parquet général de la Cour de cassation.
+La demande en réexamen est adressée à une commission composée de sept magistrats de la Cour de cassation, désignés par l'assemblée générale de cette juridiction ; chacune des chambres est représentée par un de ses membres, à l'exception de la chambre criminelle qui est représentée par deux magistrats, l'un d'entre eux assurant la présidence de la commission. Sept magistrats suppléants sont désignés dans les mêmes conditions. Les fonctions du ministère public sont exercées par le parquet général de la Cour de cassation.
 
 La demande en réexamen doit être formée dans un délai d'un an à compter de la décision de la Cour européenne des droits de l'homme.
 
@@ -7927,6 +7947,20 @@ Lorsqu'ils sont compétents pour la poursuite et l'instruction des infractions e
 La juridiction saisie reste compétente quelles que soient les incriminations retenues lors du règlement ou du jugement de l'affaire sous réserve de l'application des dispositions des articles 181 et 469. Si les faits constituent une contravention, le juge d'instruction prononce le renvoi de l'affaire devant le tribunal de police compétent en application de l'article 522.
 
 
+### Titre XIII bis : De la poursuite, de l'instruction et du jugement des infractions en matière sanitaire
+
+### Article 706-2
+
+I. - La compétence territoriale d'un tribunal de grande instance peut être étendue au ressort d'une ou de plusieurs cours d'appel pour la poursuite, l'instruction et, s'il s'agit de délits, le jugement des infractions définies ci-après dans les affaires relatives à un produit de santé tel que défini par l'article L. 5311-1 du code de la santé publique ou un produit destiné à l'alimentation de l'homme ou de l'animal qui sont ou apparaîtraient d'une grande complexité :
+- atteintes à la personne humaine, au sens du titre II du livre II du code pénal ;
+- infractions prévues par le code de la santé publique ;
+- infractions prévues par le code rural ou le code de la consommation.
+
+Les dispositions des deux derniers alinéas de l'article 704 et de l'article 705 sont applicables aux formations d'instruction et de jugement spécialisées prévues au présent titre.
+
+II. - Dans les conditions prévues par l'article 706, peuvent exercer des fonctions d'assistant spécialisé en matière sanitaire les fonctionnaires de catégorie A ou B relevant des ministres chargés de la santé, de la recherche et de l'agriculture ainsi que les personnes justifiant d'une qualification professionnelle définie par décret et d'une expérience professionnelle minimale de quatre années.
+
+
 ### Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction
 
 ### Article 706-3
@@ -8288,11 +8322,11 @@ Les décisions prévues aux alinéas précédents et celles statuant sur les dem
 Lorsqu'une juridiction de jugement est saisie, la mainlevée de la mesure de fermeture en cours ou son renouvellement, pour une durée de trois mois au plus chaque fois, est prononcée selon les règles fixées par les deuxième à quatrième alinéas de l'article 148-1.
 
 
-### Titre XVII : De la poursuite, de l'instruction et du jugement des infractions en matière de proxénétisme
+### Titre XVII : De la poursuite, de l'instruction et du jugement des infractions en matière de proxénétisme ou de recours à la prostitution des mineurs
 
 ### Article 706-34
 
-Les infractions prévues par les articles 225-5 à 225-10 du code pénal, ainsi que le délit de participation à une association de malfaiteurs prévu par l'article 450-1 du même code lorsqu'il a pour objet de préparer l'une de ces infractions, sont poursuivies, instruites et jugées selon les règles du présent code, sous réserve des dispositions du présent titre.
+Les infractions prévues par les articles 225-5 à 225-12-4 du code pénal, ainsi que le délit de participation à une association de malfaiteurs prévu par l'article 450-1 du même code lorsqu'il a pour objet de préparer l'une de ces infractions, sont poursuivies, instruites et jugées selon les règles du présent code, sous réserve des dispositions du présent titre.
 
 
 ### Article 706-35
@@ -8434,7 +8468,7 @@ Le fait, pour une personne définitivement condamnée pour une des infractions v
 
 ### Article 706-57
 
-Les personnes à l'encontre desquelles il n'existe aucun indice faisant présumer qu'elles ont commis ou tenté de commettre une infraction et qui sont susceptibles d'apporter des éléments de preuve intéressant la procédure peuvent, sur autorisation du procureur de la République ou du juge d'instruction, déclarer comme domicile l'adresse du commissariat ou de la brigade de gendarmerie.
+Les personnes à l'encontre desquelles il n'existe aucune raison plausible de soupçonner qu'elles ont commis ou tenté de commettre une infraction et qui sont susceptibles d'apporter des éléments de preuve intéressant la procédure peuvent, sur autorisation du procureur de la République ou du juge d'instruction, déclarer comme domicile l'adresse du commissariat ou de la brigade de gendarmerie.
 
 L'adresse de ces personnes est alors inscrite sur un registre coté et paraphé, qui est ouvert à cet effet.
 
@@ -8738,6 +8772,21 @@ Les députés et les sénateurs sont autorisés à visiter à tout moment les lo
 En matière correctionnelle, lorsqu'il reste à subir par la personne condamnée une peine d'emprisonnement inférieure ou égale à un an, cette peine peut, pour motif grave d'ordre médical, familial, professionnel ou social et pendant une période n'excédant pas trois ans, être suspendue ou exécutée par fractions, aucune de ces fractions ne pouvant être inférieure à deux jours. La décision est prise par le juge de l'application des peines dans les conditions prévues par l'article 722.
 
 Lorsque l'exécution fractionnée de la peine d'emprisonnement a été décidée par la juridiction de jugement en application de l'article 132-27 du code pénal, cette décision peut être modifiée dans les conditions prévues à l'alinéa précédent.
+
+
+##### Article 720-1-1
+
+La suspension peut également être ordonnée, quelle que soit la nature de la peine ou la durée de la peine restant à subir, et pour une durée qui n'a pas à être déterminée, pour les condamnés dont il est établi qu'ils sont atteints d'une pathologie engageant le pronostic vital ou que leur état de santé est durablement incompatible avec le maintien en détention, hors les cas d'hospitalisation des personnes détenues en établissement de santé pour troubles mentaux.
+
+La suspension ne peut être ordonnée que si deux expertises médicales distinctes établissent de manière concordante que le condamné se trouve dans l'une des situations énoncées à l'alinéa précédent.
+
+Lorsque la peine privative de liberté prononcée est d'une durée inférieure ou égale à dix ans ou que, quelle que soit la peine initialement prononcée, la durée de détention restant à subir est inférieure ou égale à trois ans, cette suspension est ordonnée par le juge de l'application des peines selon les modalités prévues par l'article 722.
+
+Dans les autres cas, elle est prononcée par la juridiction régionale de la libération conditionnelle selon les modalités prévues par l'article 722-1.
+
+Le juge de l'application des peines peut à tout moment ordonner une expertise médicale à l'égard d'un condamné ayant bénéficié d'une mesure de suspension de peine en application du présent article et ordonner qu'il soit mis fin à la suspension si les conditions de celle-ci ne sont plus remplies.
+
+Les dispositions de l'article 720-2 ne sont pas applicables lorsqu'il est fait application des dispositions du présent article.
 
 
 ##### Section 3 : De la période de sûreté
