@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 2 février 1986
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19860202)
+- Date de consolidation : 16 mars 1986
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19860316)
 
 
 # Partie législative
@@ -7892,6 +7892,30 @@ Les dispositions des articles 643 à 647 du nouveau code de procédure civile s'
 
 ## Livre V : Des procédures d'exécution.
 
+### Titre Ier : De l'application des peines.
+
+### Article R50-30
+
+Chaque année, le juge de l'application des peines adresse au ministre de la justice un rapport sur l'application des peines dans son ressort. Ce rapport est également transmis au conseiller chargé de l'application des peines et au procureur général. En outre, le juge de l'application des peines le présente oralement à l'assemblée générale des magistrats du siège et du parquet.
+
+
+### Article R50-31
+
+Le juge de l'application des peines est assisté par le comité de probation et d'assistance aux libérés.
+
+
+### Article R50-32
+
+En cas de nouvelle poursuite exercée contre un condamné placé sous son contrôle, le juge de l'application des peines en est avisé par le procureur de la République. Il communique à ce magistrat les renseignements qui lui paraissent utiles sur le comportement du condamné ; il lui donne notamment son avis sur l'opportunité de toute décision de modification ou de révocation de la mesure dont bénéficie le condamné, qui serait de la compétence de la juridiction de jugement.
+
+
+### Article R50-29
+
+Le premier président désigne, après avis de l'Assemblée générale des magistrats du siège, un ou plusieurs conseillers chargés de suivre l'application des peines et de coordonner l'action des juges de l'application des peines dans le ressort de la cour d'appel.
+
+Il est mis fin à leurs fonctions et pourvu à leur remplacement dans les mêmes formes.
+
+
 ### Titre IV : Du sursis
 
 #### Chapitre Ier
@@ -7934,16 +7958,51 @@ Ces mesures et obligations ne sauraient porter atteinte à la liberté d'opinion
 
 ##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve
 
-##### Article R55
+##### Article R54
 
-[Article abrogé].
+Le juge de l'application des peines convoque le condamné pour lui rappeler les mesures de surveillance auxquelles il est soumis ainsi que, le cas échéant, les obligations particulières imposées par la décision de condamnation. Il lui notifie les obligations particulières qu'il ordonne. Il porte à sa connaissance les conditions dans lesquelles ces mesures et ces obligations seront appliquées et contrôlées.
+
+L'accomplissement de ces formalités est constaté par procès-verbal dont copie est remise à l'intéressé, après émargement.
+
+
+##### Section 3 : Des mesures de surveillance et d'assistance
+
+##### Article R56
+
+Les mesures de surveillance imposées au condamné placé sous le régime de la mise à l'épreuve sont les suivantes :
+1. Répondre aux convocations du juge de l'application des peines ou de l'agent de probation compétent ;
+2. Recevoir les visites de l'agent de probation et lui communiquer les renseignements ou documents de nature à permettre le contrôle de ses moyens d'existence et de l'exécution de ses obligations ;
+3. Prévenir l'agent de probation de ses changements d'emploi ;
+4. Prévenir l'agent de probation des changements de résidence ou de tout déplacement dont la durée excéderait quinze jours, et de son retour ;
+5. Obtenir l'autorisation du juge de l'application des peines pour tout changement d'emploi ou de résidence, lorsqu'il est de nature à mettre obstacle à l'exécution de ses obligations ;
+6. Obtenir l'autorisation préalable du juge de l'application des peines pour tout déplacement à l'étranger.
+
+
+##### Article R57
+
+Les mesures d'aide ont pour objet de favoriser la réinsertion sociale du condamné.
+
+Ces mesures, qui s'exercent sous forme d'une aide à caractère social et, s'il y a lieu, d'une aide matérielle, sont mises en oeuvre par le comité de probation avec la participation, le cas échéant, de tous organismes publics ou privés.
 
 
 ##### Section 4 : Des obligations imposées spécialement par l'arrêt ou le jugement
 
-##### Article R59
+##### Article R58
 
-[Article abrogé].
+L'arrêt ou le jugement plaçant le condamné sous le régime de la mise à l'épreuve peut lui imposer spécialement l'observation de l'une ou plusieurs des obligations suivantes :
+1. Etablir sa résidence en un lieu déterminé ;
+2. S'abstenir de paraître en tous lieux spécialement désignés ;
+3. Exercer une activité professionnelle ou suivre un enseignement ou une formation professionnelle ;
+4. Se soumettre à des mesures d'examen, de contrôle, de traitement ou de soins médicaux, même sous le régime de l'hospitalisation ;
+5. Justifier qu'il contribue aux charges familiales ou acquitte régulièrement les aliments qu'il a été condamné à payer conformément aux décisions judiciaires et aux conventions judiciairement homologuées portant obligation de verser des prestations, subsides ou contributions aux charges du mariage ;
+6. Justifier qu'il acquitte, en fonction de ses facultés contributives, les sommes dues à la victime ou à ses représentants légaux ou ayants droit ;
+7. Justifier qu'il acquitte, en fonction de ses facultés contributives, les sommes dues au Trésor public à la suite de la condamnation ;
+8. Ne pas conduire certains véhicules déterminés par les catégories de permis mentionnées au Code de la route et remettre tous permis concerné au greffe du tribunal ;
+9. Ne pas fréquenter les casinos, maisons de jeu et champs de courses, et ne pas engager de paris, notamment dans les organismes de paris mutuel ;
+10. Ne pas fréquenter les débits de boissons et s'abstenir de tout excès de boissons alcoolisées ;
+11. Ne pas fréquenter certains condamnés, notamment les auteurs ou complices de l'infraction ;
+12. S'abstenir d'entrer en relation avec certaines personnes, notamment la victime de l'infraction, de les recevoir ou de les héberger à son domicile ;
+13. Ne pas détenir ou porter une arme.
 
 
 ##### Section 5 : Dispositions diverses
@@ -8054,6 +8113,16 @@ Les organismes mettant en oeuvre des travaux d'intérêt général adressent cha
 
 ##### Section 1 : De la décision du juge de l'application des peines fixant les modalités d'exécution du travail d'intérêt général
 
+##### Article R61-12
+
+Le juge de l'application des peines fixe les modalités d'exécution du travail d'intérêt général.
+
+Sa décision précise [*mentions*] :
+1. L'organisme au profit duquel le travail sera accompli ;
+2. Le travail ou les travaux que le condamné accomplira ;
+3. Les horaires de travail.
+
+
 ##### Article R61-13
 
 La décision prise en application de l'article R. 61-12 peut être modifiée à tout moment.
@@ -8121,6 +8190,24 @@ En cas de danger immédiat pour le condamné ou pour autrui ou en cas de faute g
 ##### Article R61-26
 
 L'organisme au profit duquel le travail d'intérêt général a été accompli délivre au juge de l'application des peines ou à l'agent de probation ainsi qu'au cOndamné un document attestant que ce travail a été exécuté.
+
+
+##### Section 3 : Des obligations particulières imposées au condamné à une peine d'emprisonnement avec sursis assorti de l'obligation d'accomplir un travail d'intérêt général.
+
+##### Article R61-20
+
+Le condamné à une peine d'emprisonnement avec sursis assorti de l'obligation d'accomplir un travail d'intérêt général doit se soumettre à celles des obligations définies par l'article R. 58 qui lui sont spécialement imposées.
+
+Il peut bénéficier des mesures d'assistance prévues par l'article R. 57.
+
+
+##### Section 4 : Du contrôle de l'exécution du travail d'intérêt général
+
+##### Article R61-21
+
+Le juge de l'application des peines s'assure de l'exécution du travail d'intérêt général soit par lui-même, soit par l'intermédiaire d'un agent de probation.
+
+Si le travail à exécuter est inscrit sur la liste d'un autre ressort, il délègue son pouvoir de contrôle au juge de l'application des peines territorialement compétent.
 
 
 #### Chapitre III : Dispositions applicables aux condamnations prononcées par les juridictions pour mineurs.
@@ -10789,17 +10876,26 @@ Les diligences prévues aux articles D280 et D283 doivent en conséquence être 
 
 ###### Paragraphe 3 : Régime de semi-liberté
 
+###### Article D138
+
+L'octroi ou le maintien de la semi-liberté peut être subordonné à l'une ou plusieurs des conditions énumérées à l'article D536.
+
+
+###### Article D139
+
+Les condamnés admis au régime de semi-liberté s'engagent à respecter les règles générales et spéciales dont ils reçoivent communication.
+
+Les règles générales, qui sont déterminées par le ministre de la justice, concernent les conditions de bonne tenue et d'assiduité au travail, la participation effective à l'activité, et le suivi du traitement médical.
+
+Les règles spéciales, qui sont arrêtées par le juge de l'application des peines, ont trait aux jours et heures de sortie et de retour, aux conditions particulières propres à la nature de l'activité ou du traitement et à la personnalité du condamné ainsi que, s'il y a lieu, aux modalités de versement de son salaire.
+
+
 ###### Article D141
 
 Par exception au principe rappelé à l'article D110, les condamnés admis au régime de semi-liberté relèvent du régime général de la sécurité sociale, ou le cas échéant, du régime applicable aux professions agricoles. Dans les deux cas, la déclaration d'emploi est souscrite à la diligence et sous la responsabilité de l'employeur, conformément aux obligations qui lui incombent selon la nature de son entreprise.
 
 
 ###### Paragraphe 3 : Placement à l'extérieur sans surveillance du personnel pénitentiaire
-
-###### Article D136
-
-[Article abrogé]
-
 
 ###### Paragraphe 4 : Permissions de sortir
 
@@ -10931,6 +11027,15 @@ Si la continuité des tâches qui leur sont confiées le justifie, ils sont rém
 Aucun détenu ne peut être employé aux écritures de la comptabilité générale, au greffe judiciaire ou dans les services médico-sociaux.
 
 
+###### Article D106
+
+Les rémunérations pour tout travail effectué par un détenu sont versées, sous réserve des dispositions du troisième alinéa de l'article D103, à l'administration qui opère le reversement des cotisations sociales aux organismes de recouvrement et procède ensuite à l'inscription et à la répartition de la rémunération nette sur le compte nominatif des détenus, conformément aux dispositions des articles D111 et suivants.
+
+Ces rémunérations sont soumises à cotisations patronales et ouvrières selon les modalités fixées, pour les assurances maladie, maternité et vieillesse, par les articles R381-97 à R381-109 du Code de la sécurité sociale. En outre, pour celles qui sont versées par les entreprises concessionnaires, un prélèvement spécial est effectué au bénéfice du fonds national des allocations familiales dans les conditions prévues par le décret n° 77-946 du 2 août 1977.
+
+Les tarifs de rémunération sont portés à la connaissance des détenus.
+
+
 ###### Article D107
 
 Indépendamment de la garde des détenus, les surveillants assurent le respect des règles de discipline et de sécurité sur les lieux du travail.
@@ -11038,6 +11143,66 @@ Toutefois, à titre exceptionnel, la fiche d'écrou d'un détenu peut être dép
 
 
 ###### Paragraphe 2 : Autres registres et écritures du greffe.
+
+###### Article D152
+
+Indépendamment du registre d'écrou, des registres ou livres prévus par la réglementation comptable, le chef de l'établissement doit tenir ou faire tenir des registres et les fichiers dont la nomenclature suit, sans préjudice de ceux dont la tenue est ou viendrait à être prescrite par décision ministérielle ou dont l'utilité apparaîtrait dans la pratique :
+
+
+- répertoire alphabétique des détenus écroués ;
+
+
+- registre des demandes de mise en liberté et de saisine de la chambre d'accusation ;
+
+
+- registre des déclarations d'opposition ;
+
+
+- registre des déclarations d'appel et de pourvoi ;
+
+
+- registre des libérations par mois ;
+
+
+- fichier des libérations conditionnelles ;
+
+
+- fichier des interdits de séjour ;
+
+
+- registre du contrôle numérique ;
+
+
+- registre des lettres adressées par les détenus aux autorités ;
+
+
+- registre des sanctions disciplinaires ;
+
+
+- registre des mesures d'individualisation de la peine ;
+
+
+- registre des mesures d'isolement ;
+
+
+- registre des inspections et carnet d'ordres de service ;
+
+
+- registre des entrées et sorties ;
+
+
+- registre des mesures visées à l'article 723 ;
+
+
+- fichier des réductions de peine.
+
+
+###### Article D153.
+
+Pour l'application des articles 148-7, 148-8, 490-1, 503, 547 et 577 le chef de l'établissement, ou sous son autorité, le fonctionnaire chargé du greffe, tient dans chaque établissement un registre des déclarations d'appel ou de pourvoi, un registre des déclarations d'opposition et un registre des demandes de mise en liberté ou de saisine de la chambre d'accusation dans lesquels sont conservées les déclarations et demandes qu'il est appelé à recevoir et à transmettre.
+
+Ces registres sont composés de la copie des exemplaires numérotés desdites déclarations.
+
 
 ###### Article D154
 
@@ -11415,6 +11580,13 @@ Notamment, les aumôniers, les médecins, les infirmiers ou infirmières, les tr
 Le personnel des services extérieurs de l'administration pénitentiaire est tenu de parfaire ses connaissances professionnelles dans les conditions qui sont fixées par l'administration centrale.
 
 Il a obligation de participer aux cours et stages de formation ou de perfectionnement assurés à l'école de formation du personnel de l'administration pénitentiaire ou organisés par le centre national d'études et de recherches pénitentiaires ou par tout autre organisme.
+
+
+###### Article D216-1
+
+Le chef d'établissement organise régulièrement des réunions de synthèse afin de coordonner l'action des différents personnels et de faciliter l'échange d'informations sur les modalités d'application des régimes de détention.
+
+A l'occasion de ces réunions, il recueille l'avis des personnels sur les projets de règlement intérieur ou de modification de ce document.
 
 
 ###### Article D217
@@ -11895,6 +12067,15 @@ Outre l'application des dispositions des articles 721 et D253, le comportement d
 
 
 ##### Section 3 : Du règlement intérieur de chaque prison
+
+##### Article D255
+
+Dans chaque prison un règlement intérieur détermine le contenu du régime propre à l'établissement.
+
+Le règlement intérieur établi par le chef d'établissement, ainsi que toute modification apportée à ce document, sont transmis pour approbation au directeur régional, après avoir été soumis pour avis au juge de l'application des peines.
+
+Le règlement intérieur, ainsi que les modifications qui lui sont apportées, sont communiqués à la commission de surveillance.
+
 
 ##### Article D256
 
@@ -13371,6 +13552,15 @@ Les agents de la force publique ou les membres de l'administration pénitentiair
 
 ##### Section 5 : Des renseignements concernant les détenus et de leurs relations avec le monde extérieur
 
+##### Article D427
+
+Au cas où un détenu vient à décéder, à être frappé d'une maladie mettant ses jours en danger, ou victime d'un accident grave, ou à être placé dans un établissement psychiatrique, sa proche famille doit en être immédiatement informée.
+
+A cet effet, chaque prisonnier est invité, lors de son écrou, à indiquer la ou les personnes qui seraient à prévenir.
+
+L'aumonier, le travailleur social et le visiteur de prison qui suivent ce détenu sont également avisés, s'il y a lieu.
+
+
 ##### Article D428
 
 Les renseignements relatifs au lieu d'incarcération, à l'état de santé, à la situation pénale ou à la date de libération d'un détenu, doivent être fournis par les services pénitentiaires exclusivement aux autorités administratives et judiciaires qui sont qualifiées pour en connaître.
@@ -14138,6 +14328,13 @@ Sauf s'il est envisagé d'assortir le bénéfice de la mesure de l'une des condi
 Des éléments d'information complémentaires sont, en tant que de besoin, recueillis par l'intermédiaire du comité de probation du lieu où le condamné souhaite établir sa résidence.
 
 
+#### Article D527
+
+Pour faciliter le contrôle de la situation des condamnés au regard de la libération conditionnelle, un fichier est tenu dans tous les établissements pénitentiaires qui fait apparaître la date de leur libération et la date de l'expiration du délai d'épreuve.
+
+Ce fichier est présenté aux autorités judiciaires et administratives inspectant ces établissements, et spécialement au juge de l'application des peines.
+
+
 #### Article D527-1
 
 Dès lors qu'il remplit les conditions prévues par l'article 729, tout condamné peut, même s'il n'est pas sous écrou, être admis au bénéfice de la libération conditionnelle.
@@ -14166,6 +14363,24 @@ Les mesures d'aide ont pour objet de susciter et de seconder les efforts du cond
 Elle s'exerce sous la forme d'aide psychologique et, s'il y a lieu, matérielle apportée par le comité de probation et d'assistance aux libérés, ou sur intervention de celui-ci, par tout organisme d'assistance ou d'aide sociale, et notamment par les oeuvres privées habilitées à cet effet.
 
 
+##### Article D533
+
+Les mesures de contrôle auxquelles le condamné doit se soumettre sont les suivantes :
+1. Résider au lieu fixé par la décision de libération ;
+2. Répondre aux convocations du juge de l'application des peines ou de l'agent de probation compétent ;
+3. Recevoir les visites de l'agent de probation et lui communiquer les renseignements ou documents de nature à permettre le contrôle de ses moyens d'existence et de l'exécution de ses obligations ;
+4. Prévenir l'agent de probation de ses changements d'emploi et, lorsqu'ils sont de nature à mettre obstacle à l'exécution de ses obligations, obtenir une autorisation préalable du juge de l'application des peines.
+
+
+##### Article D534
+
+Le juge de l'application des peines peut autoriser le libéré conditionnel à changer de résidence, après avoir consulté le juge de l'application des peines du ressort dans lequel le condamné envisage de s'établir et, dans l'hypothèse prévue au troisième alinéa de l'article 730, le commissaire de la République, si la résidence choisie est située dans un autre département.
+
+Le libéré doit obtenir l'autorisation du juge de l'application des peines préalablement à tout déplacement dont la durée excéderait quinze jours, ainsi que pour tout déplacement à l'étranger.
+
+L'établissement à l'étranger, s'il n'est pas prévu dans la décision de libération conditionnelle, ne peut être autorisé que par une modification de ladite décision dans les conditions fixées au 4ème alinéa de l'article 732.
+
+
 ##### Section 2 : Des conditions particulières
 
 ##### Article D535
@@ -14175,6 +14390,23 @@ La décision accordant à un condamné le bénéfice de la libération condition
 2. Remettre tout ou partie de son pécule au comité de probation et d'assistance aux libérés, à charge par ledit comité de restitution par fractions ;
 3. S'engager dans les armées de terre, de mer ou de l'air dans les cas où la loi l'autorise, ou rejoindre une formation des forces armées s'il s'agit d'un détenu appartenant à un contingent d'âge présent ou appelé sous les drapeaux, ou s'il s'agit d'un militaire ou d'un marin en activité de service ;
 4. S'il s'agit d'un étranger, être expulsé du territoire national, reconduit à la frontière ou être extradé, ou quitter le territoire national et n'y plus paraître.
+
+
+##### Article D536
+
+La décision peut, par ailleurs, subordonner l'octroi et le maintien de la liberté conditionnelle à l'observation par le condamné de l'une ou de plusieurs des conditions suivantes :
+1. S'abstenir de paraître en tous lieux spécialement désignés ;
+2. Suivre un enseignement ou une formation professionnelle ;
+3. Se soumettre à des mesures d'examen, de contrôle, de traitement ou de soins médicaux, même sous le régime de l'hospitalisation ;
+4. Justifier qu'il contribue aux charges familiales ou acquitte régulièrement les aliments qu'il a été condamné à payer conformément aux décisions judiciaires et aux conventions judiciairement homologuées portant obligation de verser des prestations, subsides ou contributions aux charges du mariage ;
+5. Payer les sommes dues à la victime de l'infraction, ses représentants légaux ou ses ayants droit ou justifier qu'il les acquitte en fonction de ses facultés contributives ;
+6. Payer les sommes dues au Trésor public à la suite de la condamnation ou justifier qu'il les acquitte en fonction de ses facultés contributives ;
+7. Ne pas conduire certains véhicules déterminés par les catégories de permis mentionnées au Code de la route et remettre tout permis concerné au greffe du tribunal ;
+8. Ne pas fréquenter les casinos, maisons de jeux et champs de courses, et ne pas engager de paris, notamment dans les organismes de pari mutuel ;
+9. Ne pas fréquenter les débits de boissons et s'abstenir de tout excès de boissons alcoolisées ;
+10. Ne pas fréquenter certains condamnés, notamment les auteurs ou complices de l'infraction ;
+11. S'abstenir d'entrer en relation avec certaines personnes, notamment la victime de l'infraction, de les recevoir ou de les héberger à son domicile ;
+12. Ne pas détenir ou porter une arme.
 
 
 #### Article D530
@@ -14189,18 +14421,6 @@ L'octroi ou le maintien de la liberté conditionnelle peut être subordonné, en
 Tout condamné a la faculté de refuser son admission à la libération conditionnelle, en sorte que les mesures et les conditions particulières qu'elle comporte à son égard ne peuvent s'appliquer sans son consentement.
 
 Ces mesures et conditions doivent en conséquence être portées à la connaissance de l'intéressé avant l'exécution de la décision qui les prescrit.
-
-
-#### Chapitre IV : Des comités chargés de la mise en oeuvre des mesures concernant les libérés conditionnels
-
-#### Article D538
-
-[Article abrogé].
-
-
-#### Article D539
-
-[Article abrogé].
 
 
 #### Chapitre V : Dispositions diverses
@@ -14249,122 +14469,7 @@ La décision de la chambre de l'instruction est notifiée immédiatement au proc
 
 ##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve
 
-##### Article D545
-
-[Article abrogé].
-
-
-##### Article D546
-
-[Article abrogé].
-
-
-##### Article D547
-
-[Article abrogé].
-
-
-##### Article D548
-
-[Article abrogé].
-
-
-##### Article D549
-
-[Article abrogé].
-
-
-##### Article D550
-
-[Article abrogé].
-
-
-##### Article D551
-
-[Article abrogé].
-
-
-##### Article D552
-
-[Article abrogé].
-
-
-##### Article D553
-
-[Article abrogé].
-
-
-##### Article D554
-
-[Article abrogé].
-
-
-##### Article D555
-
-[Article abrogé].
-
-
-##### Article D556
-
-[Article abrogé].
-
-
-##### Article D557
-
-[Article abrogé].
-
-
-##### Article D558
-
-[Article abrogé].
-
-
-##### Article D559
-
-[Article abrogé].
-
-
-##### Article D560
-
-[Article abrogé].
-
-
-##### Article D561
-
-[Article abrogé].
-
-
-##### Article D562
-
-[Article abrogé].
-
-
-##### Article D563
-
-[Article abrogé].
-
-
-##### Article D564
-
-[Article abrogé].
-
-
-##### Article D565
-
-[Article abrogé].
-
-
 ##### Article D566
-
-[Article abrogé].
-
-
-##### Article D567
-
-[Article abrogé].
-
-
-##### Article D568
 
 [Article abrogé].
 
@@ -14399,17 +14504,7 @@ Pour l'admission au bénéfice des mesures prévues aux articles 723 et 723-3, l
 
 ### Titre XI : Le comité de probation et d'assistance aux libérés
 
-### Article D572
-
-Le présent code, ainsi que les décrets qui le modifient est applicable aux départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon.
-
-
 ## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion
-
-## Article D573
-
-Des arrêtés du ministre de la justice déterminent, en tant que de besoin, les adaptations jugées nécessaires à l'application des titres II, III, IV et VI du livre V du code de procédure pénale (3° partie : Décrets) dans les départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon.
-
 
 # Partie Arrêtés
 
