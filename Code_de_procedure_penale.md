@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 1er janvier 1973
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19730101)
+- Date de consolidation : 16 mars 1973
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19730316)
 
 
 # Partie législative
@@ -6041,6 +6041,13 @@ Indépendamment des mesures de contrôle auxquelles elle est soumise conforméme
 
 ###### Paragraphe 4 : Exercice des droits de la défense
 
+###### Article D66
+
+Il est interdit au personnel de l'administration pénitentiaire et à toute personne qui apporte sa collaboration à cette administration d'agir de façon directe ou indirecte auprès des détenus pour influer sur leurs moyens de défense et sur le choix de leur défenseur.
+
+Pour l'exercice de ce choix, le tableau des avocats inscrits dans les barreaux du département est affiché au greffe et tenu à la disposition des détenus.
+
+
 ###### Article D67
 
 Conformément aux dispositions des articles 116 et 716, les prévenus peuvent communiquer librement avec leur conseil verbalement ou par écrit, et toutes facilités compatibles avec les exigences de la discipline et de la sécurité de la prison leur sont accordées pour l'exercice de leur défense.
@@ -7471,6 +7478,15 @@ Les jours et heures de visites, ainsi que leur durée et leur fréquence, sont d
 Les prévenus doivent pouvoir être visités au moins trois fois par semaine, et les condamnés au moins une fois par semaine.
 
 
+##### Article D411
+
+Les défenseurs communiquent, dans les conditions visées à l'article D. 68, avec les prévenus et avec les condamnés qu'ils ont assistés au cours de la procédure. Pour ces derniers, ils doivent justifier auprès du chef de l'établissement de ce qu'ils ont personnellement apporté cette assistance. En outre, dans les maisons centrales et centres de détention, la visite a lieu à l'heure et au jour convenus préalablement avec le chef de l'établissement.
+
+Les avocats n'ayant pas assisté le condamné au cours de la procédure, les officiers ministériels et les autres auxiliaires de justice peuvent être autorisés à communiquer avec les détenus dans les conditions fixées aux articles D. 403, D. 406 et D. 410.
+
+Pour le cas où ils désirent bénéficier, en vue de leur entretien, des dispositions particulières prévues à l'article D. 68, ils doivent joindre à leur demande une attestation délivrée par le parquet de leur résidence selon laquelle le secret de la communication paraît justifié par la nature des intérêts en cause.
+
+
 ##### Article D412
 
 Les autres personnes qui justifient d'un intérêt autre que familial pour s'entretenir avec un détenu, notamment les officiers ou agents de police judiciaire, peuvent obtenir un permis de visite dans les conditions indiquées aux articles D. 64 et D. 403.
@@ -7777,13 +7793,39 @@ Les délibérations du comité sont secrètes. Ses membres ainsi que les personn
 Toutes communications du comité avec les bureaux ou avec les services extérieurs de l'administration pénitentiaire, comme avec tous services ou toutes personnes étrangers à cette administration, ont exclusivement lieu par l'intermédiaire du directeur des affaires criminelles et des grâces, éventuellement avec le concours du directeur de l'administration pénitentiaire, sous l'autorité et d'après les instructions du ministre.
 
 
+#### Chapitre II : De l'instruction des propositions de libération conditionnelle
+
+#### Article D529
+
+L'instruction générale détermine les modalités de la procédure d'admission ou de révocation de la libération conditionnelle et d'exécution des décisions prises en cette matière.
+
+
 #### Chapitre III : Des mesures et des obligations auxquelles peuvent être soumis les libérés conditionnels
+
+##### Section 2 : Des conditions particulières
+
+##### Article D537
+
+[Article abrogé].
+
 
 #### Article D531
 
 Tout condamné a la faculté de refuser son admission à la libération conditionnelle, en sorte que les mesures et les conditions particulières qu'elle comporte à son égard ne peuvent s'appliquer sans son consentement.
 
 Ces mesures et conditions doivent en conséquence être portées à la connaissance de l'intéressé avant l'exécution de la décision qui les prescrit.
+
+
+#### Chapitre IV : Des comités chargés de la mise en oeuvre des mesures concernant les libérés conditionnels
+
+#### Article D538
+
+[Article abrogé].
+
+
+#### Article D539
+
+[Article abrogé].
 
 
 #### Chapitre V : Dispositions diverses
