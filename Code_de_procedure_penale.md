@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 5 mars 2002
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20020305)
+- Date de consolidation : 6 mars 2002
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20020306)
 
 
 # Partie législative
@@ -22113,13 +22113,11 @@ Par dérogation aux articles A. 37 à A 37-3, le relevé des contraventions rép
 
 ## Livre IV
 
-### Titre XIX : De la procédure applicable aux infractions de nature sexuelle et aux mineurs victimes
+### Titre XX : Du fichier national automatisé des empreintes génétiques.
 
-#### Chapitre Ier : Du fichier national automatisé des empreintes génétiques
+### Article A38
 
-#### Article A38
-
-La liste des segments d'ADN sur lesquels portent les analyses destinées à l'identification génétique figure dans le tableau ci-après :
+Les segments d'ADN sur lesquels portent les analyses destinées à l'identification génétique figure dans le tableau ci-après :
 
 
 
@@ -22133,13 +22131,25 @@ LOCALISATION
 
 
 
-D21S11
+D3S1358
 
-Chromosome n° 21
+Chromosome n° 3
 
 VWA
 
 Chromosome n° 12
+
+D8S1179
+
+Chromosome n° 8
+
+D21S11
+
+Chromosome n° 21
+
+D18S51
+
+Chromosome n° 18
 
 THO1
 
@@ -22147,23 +22157,63 @@ Chromosome n° 11
 
 FGA
 
-Chromosome n°  4
+Chromosome n° 4
 
-D8S1179
+Amélogénine
 
-Chromosome n°  8
-
-D3S1358
-
-Chromosome n°  3
-
-D18S51
-
-Chromosome n° 18
+Chromosomes X et Y
 
 
 
-Les analyses portent également sur le gène de l'amélogénine.
+Les analyses peuvent également porter sur les segments d'ADN suivants :
+
+
+
+SEGMENTS D'ADN OU loci
+
+selon la nomenclature internationale
+
+LOCALISATION
+
+
+
+D16S539
+
+Chromosome n° 16
+
+D2S1338
+
+Chromosome n° 2
+
+D19S433
+
+Chromosome n° 19
+
+PentaE Chromosome n° 15
+
+D5S818
+
+Chromosome n° 5
+
+D13S317
+
+Chromosome n° 13
+
+D7S820
+
+Chromosome n° 7
+
+CSF1PO
+
+Chromosome n° 5
+
+PentaD
+
+Chromosome n° 21
+
+TPOX
+
+Chromosome n° 2
 
 
 ## Livre V : Des procédures d'exécution
