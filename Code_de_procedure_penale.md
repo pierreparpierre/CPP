@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 8 juin 1980
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19800608)
+- Date de consolidation : 9 juillet 1980
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19800709)
 
 
 # Partie législative
@@ -5047,6 +5047,19 @@ Toute personne qui veut faire rectifier une mention portée à son casier judici
 Mention de la décision est faite en marge du jugement ou de l'arrêt visé par la demande en rectification.
 
 La même procédure est applicable au cas de contestation sur la réhabilitation de droit, ou de difficultés soulevées par l'interprétation d'une loi d'amnistie, dans les termes de l'article 769, alinéa 2.
+
+
+### Article 779
+
+Un décret en Conseil d'Etat détermine les mesures nécessaires à l'exécution des articles 768 à 778, et notamment les conditions dans lesquelles doivent être demandés, établis et délivrés les bulletins n° 1, 2 et 3 du casier judiciaire.
+
+
+
+Ce règlement détermine également les conditions dans lesquelles les informations enregistrées par le casier judiciaire national automatisé peuvent être utilisées pour l'exécution des sentences pénales.
+
+
+
+Le décret en Conseil d'Etat susvisé est pris après avis de la commission nationale de l'informatique et des libertés.
 
 
 ### Article 780
