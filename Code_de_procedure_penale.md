@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 1er janvier 1998
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19980101)
+- Date de consolidation : 12 mai 1998
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19980512)
 
 
 # Partie législative
@@ -7789,6 +7789,15 @@ Les établissements pénitentiaires reçoivent les personnes en détention provi
 Un acte d'écrou est dressé pour toute personne qui est conduite dans un établissement pénitentiaire ou qui s'y présente librement.
 
 Les conditions d'application du présent article sont fixées par décret.
+
+
+#### Article 724-1
+
+Les services pénitentiaires constituent et tiennent à jour pour chaque personne incarcérée un dossier individuel comprenant des informations de nature pénale et pénitentiaire.
+
+Les services pénitentiaires communiquent aux autorités administratives compétentes pour en connaître des informations relatives à l'identité du détenu, à son lieu d'incarcération, à sa situation pénale et à sa date de libération, dès lors que ces informations sont nécessaires à l'exercice des attributions desdites autorités.
+
+Ils communiquent notamment aux services centraux ou déconcentrés du ministère de l'intérieur les informations de cette nature relatives aux étrangers détenus faisant ou devant faire l'objet d'une mesure d'éloignement du territoire.
 
 
 #### Article 725
