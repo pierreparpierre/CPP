@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 27 juin 1983
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19830627)
+- Date de consolidation : 1er septembre 1983
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19830901)
 
 
 # Partie législative
@@ -54,6 +54,11 @@ Toutefois, il est sursis au jugement de cette action exercée devant la juridict
 ## Article 5
 
 La partie qui a exercé son action devant la juridiction civile compétente ne peut la porter devant la juridiction répressive. Il n'en est autrement que si celle-ci a été saisie par le ministère public avant qu'un jugement sur le fond ait été rendu par la juridiction civile.
+
+
+## Article 5-1
+
+Même si le demandeur s'est constitué partie civile devant la juridiction répressive, la juridiction civile, saisie en référé, demeure compétente pour ordonner toutes mesures provisoires relatives aux faits qui sont l'objet des poursuites, lorsque l'existence de l'obligation n'est pas sérieusement contestable.
 
 
 ## Article 6
@@ -874,6 +879,13 @@ L'ordonnance de prise de corps est exécutée si, dûment convoqué par la voie 
 
 ##### Section 2 : De la constitution de la partie civile et de ses effets
 
+##### Article 88
+
+La partie civile qui met en mouvement l'action publique doit, si elle n'a obtenu l'aide judiciaire, consigner au greffe la somme présumée nécessaire pour les frais de procédure.
+
+Le juge d'instruction constate, par ordonnance, le dépôt de la plainte. En fonction des ressources de la partie civile, il fixe le montant de la consignation et le délai dans lequel celle-ci devra être faite sous peine de non-recevabilité de la plainte. Il peut également dispenser de consignation la partie civile dépourvue de ressources suffisantes.
+
+
 ##### Article 91
 
 Quand, après une information ouverte sur constitution de partie civile, une décision de non-lieu a été rendue, l'inculpé et toutes personnes visées dans la plainte, et sans préjudice d'une poursuite pour dénonciation calomnieuse, peuvent, s'ils n'usent de la voie civile, demander des dommages-intérêts au plaignant dans les formes indiquées ci-après :
@@ -999,6 +1011,13 @@ b) Des frais avancés par la partie publique ;
 c) Des amendes.
 
 La décision qui astreint l'inculpé à fournir un cautionnement détermine les sommes affectées à chacune des deux parties de ce cautionnement.
+
+
+###### Article 142-1
+
+Le juge d'instruction peut, avec le consentement de l'inculpé, ordonner que la partie du cautionnement affectée à la garantie des droits de la victime ou du créancier d'une dette alimentaire soit versée à ceux-ci par provision, sur leur demande.
+
+Ce versement peut aussi être ordonné, même sans le consentement de l'inculpé, lorsqu'une décision de justice exécutoire a accordé à la victime ou au créancier une provision à l'occasion des faits qui sont l'objet des poursuites.
 
 
 ###### Article 142-2
@@ -2457,6 +2476,18 @@ Les exceptions tirées de la nullité soit de la citation, soit de la procédure
 La nullité de la citation ne peut être prononcée que dans les conditions prévues à l'article 565.
 
 
+###### Article 385-1
+
+Dans les cas prévus par les articles 388-1 et 388-2, l'exception fondée sur une cause de nullité ou sur une clause du contrat d'assurance et tendant à mettre l'assureur hors de cause est, à peine de forclusion, présentée par celui-ci avant toute défense au fond. Elle n'est recevable que si elle est de nature à exonérer totalement l'assureur de son obligation de garantie à l'égard des tiers.
+
+L'assureur mis en cause dans les conditions prévues par l'article 388-2 qui n'intervient pas au procès pénal est réputé renoncer à toute exception ; toutefois, s'il est établi que le dommage n'est pas garanti par l'assureur prétendu, celui-ci est mis hors de cause par le tribunal.
+
+
+###### Article 385-2
+
+En ce qui concerne les intérêts civils, le tribunal, après avoir mis les parties en demeure de conclure au fond, statue dans un seul et même jugement sur l'exception d'irrecevabilité et sur le fond du litige.
+
+
 ###### Article 386
 
 L'exception préjudicielle est présentée avant toute défense au fond.
@@ -2478,6 +2509,29 @@ Lorsque le tribunal est saisi de plusieurs procédures visant des faits connexes
 ###### Article 388
 
 Le tribunal correctionnel est saisi des infractions de sa compétence soit par la comparution volontaire des parties, soit par la citation, soit par la convocation par procès-verbal, soit par la comparution immédiate, soit enfin par le renvoi ordonné par la juridiction d'instruction.
+
+
+###### Article 388-1
+
+La personne dont la responsabilité civile est susceptible d'être engagée à l'occasion d'une infraction d'homicide ou de blessures involontaires qui a entraîné pour autrui un dommage quelconque pouvant être garanti par un assureur doit préciser le nom et l'adresse de celui-ci, ainsi que le numéro de sa police d'assurance. Il en est de même pour la victime lorsque le dommage qu'elle a subi peut être garanti par un contrat d'assurance. Ces renseignements sont consignés dans les procès-verbaux d'audition.
+
+
+
+Lorsque des poursuites pénales sont exercées, les assureurs appelés à garantir le dommage sont admis à intervenir et peuvent être mis en cause devant la juridiction répressive, même pour la première fois en cause d'appel ; ils doivent se faire représenter par un avocat ou un avoué.
+
+
+
+En ce qui concerne les débats et les voies de recours, les règles concernant les personnes civilement responsables et les parties civiles sont applicables respectivement à l'assureur du prévenu et à celui de la partie civile sous réserve des dispositions de l'alinéa ci-dessus et des articles 385-1, troisième alinéa (1), 388-2 et 509, deuxième alinéa.
+
+
+###### Article 388-2
+
+Dix jours au moins avant l'audience, la mise en cause de l'assureur est faite par toute partie qui y a intérêt au moyen d'un acte d'huissier ou d'une lettre recommandée, avec demande d'avis de réception, qui mentionne la nature des poursuites engagées, l'identité du prévenu, de la partie civile et, le cas échéant, de la personne civilement responsable, le numéro des polices d'assurance, le montant de la demande en réparation ou, à défaut, la nature et l'étendue du dommage, ainsi que le tribunal saisi, le lieu, la date et l'heure de l'audience.
+
+
+###### Article 388-3
+
+La décision concernant les intérêts civils est opposable à l'assureur qui est intervenu au procès ou a été avisé dans les conditions prévues par l'article 388-2.
 
 
 ###### Paragraphe 2 : De la comparution volontaire et de la citation
@@ -2753,6 +2807,15 @@ La déclaration de constitution de partie civile se fait soit avant l'audience a
 Lorsqu'elle est faite avant l'audience, la déclaration de partie civile doit préciser l'infraction poursuivie et contenir élection de domicile dans le ressort du tribunal saisi, à moins que la partie civile n'y soit domiciliée.
 
 Elle est immédiatement transmise par le greffier au ministère public qui cite la partie civile pour l'audience.
+
+
+###### Article 420-1
+
+Par dérogation aux dispositions qui précèdent, toute personne qui se prétend lésée peut se constituer partie civile, directement ou par son conseil, par lettre recommandée avec avis de réception parvenue au tribunal vingt-quatre heures au moins avant la date de l'audience, lorsqu'elle demande soit la restitution d'objets saisis, soit des dommages-intérêts dont le montant n'excède pas le plafond de la compétence de droit commun des tribunaux d'instance en matière civile ; elle joint à sa lettre toutes les pièces justificatives de son préjudice. Cette lettre et ces pièces sont jointes immédiatement au dossier.
+
+La partie civile n'est pas alors tenue de comparaître.
+
+En cas de contestation sur la propriété des objets dont la restitution est demandée, ou si le tribunal ne trouve pas dans la lettre, dans les pièces jointes à celle-ci et dans le dossier, les motifs suffisants pour statuer, la décision sur les seuls intérêts civils est renvoyée à une audience ultérieure à laquelle toutes les parties sont citées à la diligence du ministère public.
 
 
 ###### Article 420-2
@@ -3126,6 +3189,13 @@ La décision sur la peine intervient au plus tard un an après la première déc
 Si le tribunal estime que le fait poursuivi ne constitue aucune infraction à la loi pénale ou que le fait n'est pas établi, ou qu'il n'est pas imputable au prévenu, il renvoie celui-ci des fins de la poursuite.
 
 
+##### Article 470-1
+
+Le tribunal saisi, à l'initiative du ministère public ou sur renvoi d'une juridiction d'instruction, de poursuites exercées pour homicide ou blessures involontaires qui prononce une relaxe demeure compétent, sur la demande de la partie civile ou de son assureur formulée avant la clôture des débats, pour accorder, en application des règles de droit civil, réparation de tous les dommages résultant des faits qui ont fondé la poursuite.
+
+Toutefois, lorsqu'il apparaît que des tiers responsables doivent être mis en cause, le tribunal renvoie l'affaire, par une décision non susceptible de recours, devant la juridiction civile compétente qui l'examine d'urgence selon une procédure simplifiée déterminée par décret en Conseil d'Etat.
+
+
 ##### Article 471
 
 Nonobstant appel, le prévenu détenu qui n'a pas été condamné à une peine d'emprisonnement sans sursis est mis en liberté immédiatement après le jugement.
@@ -3286,6 +3356,17 @@ Les jugements rendus en matière correctionnelle peuvent être attaqués par la 
 L'appel est porté à la cour d'appel.
 
 
+##### Article 497
+
+La faculté d'appeler appartient :
+1. Au prévenu ;
+2. A la personne civilement responsable quant aux intérêts civils seulement ;
+3. A la partie civile, quant à ses intérêts civils seulement ;
+4. Au procureur de la République ;
+5. Aux administrations publiques, dans les cas où celles-ci exercent l'action publique ;
+6. Au procureur général près la cour d'appel.
+
+
 ##### Article 499
 
 Si le jugement est rendu par défaut ou par itératif défaut, le délai d'appel ne court qu'à compter de la signification du jugement, quel qu'en soit le mode.
@@ -3351,6 +3432,13 @@ Si, dans l'intérêt de l'ordre public ou d'une bonne administration de la justi
 La cour doit statuer dans le mois qui suit l'ordonnance du président, sans que puisse être soulevée devant elle une exception tirée de ce que l'appel formé contre la décision entreprise ne serait pas suspensif ; l'exécution du jugement est suspendue dans ce dernier cas jusqu'à ce qu'intervienne l'arrêt de la cour.
 
 
+##### Article 509
+
+L'affaire est dévolue à la cour d'appel dans la limite fixée par l'acte d'appel et par la qualité de l'appelant ainsi qu'il est dit à l'article 515.
+
+L'appel de l'assureur produit effet à l'égard de l'assuré en ce qui concerne l'action civile. Il est, dans un délai de trois jours, notifié à l'assuré par lettre recommandée avec demande d'avis de réception adressée par l'assureur.
+
+
 ##### Section 2 : De la composition de la chambre des appels correctionnels
 
 ##### Article 510
@@ -3392,6 +3480,15 @@ Si la cour estime que l'appel est tardif ou irrégulièrement formé, elle le d�
 Si elle estime que l'appel, bien que recevable, n'est pas fondé, elle confirme le jugement attaqué.
 
 Dans les deux cas, elle condamne l'appelant aux dépens, à moins que l'appel n'émane du ministère public, les dépens étant alors laissés à la charge du Trésor.
+
+
+##### Article 515
+
+La cour peut, sur l'appel du ministère public, soit confirmer le jugement, soit l'infirmer en tout ou en partie dans un sens favorable ou défavorable au prévenu.
+
+La cour ne peut, sur le seul appel du prévenu, du civilement responsable, de la partie civile ou de l'assureur de l'une de ces personnes, aggraver le sort de l'appelant.
+
+La partie civile ne peut, en cause d'appel, former aucune demande nouvelle ; toutefois elle peut demander une augmentation des dommages-intérêts pour le préjudice souffert depuis la décision de première instance.
 
 
 ##### Article 515-1
@@ -3558,6 +3655,11 @@ L'avertissement délivré par le ministère public dispense de citation s'il est
 Il indique l'infraction poursuivie et vise le texte de loi qui la réprime.
 
 
+#### Article 533
+
+Les articles 385-1, 385-2, 388-1, 388-2, 388-3 et 390 à 392 sont applicables devant le tribunal de police.
+
+
 #### Chapitre IV : De l'instruction définitive devant le tribunal de police
 
 #### Article 534
@@ -3608,6 +3710,15 @@ Nonobstant les dispositions de l'alinéa premier de l'article 539, les articles 
 #### Article 540
 
 Si le tribunal de police estime que le fait constitue un crime ou un délit, il se déclare incompétent. Il renvoie le ministère public à se pourvoir ainsi qu'il avisera.
+
+
+#### Article 541
+
+Si le tribunal de police estime que le fait ne constitue aucune infraction à la loi pénale, ou que le fait n'est pas établi, ou qu'il n'est pas imputable au prévenu, il renvoie celui-ci des fins de la poursuite.
+
+
+
+Les dispositions de l'article 470-1 sont applicables.
 
 
 #### Article 542
@@ -4765,6 +4876,27 @@ La Cour de cassation peut, sur la demande du ministère public ou des parties, r
 Dans le cas de crimes ou de délits mentionnés aux articles 697-1 et 702 qui sont de la compétence des juridictions établies sur le territoire de la République, la juridiction territorialement compétente est celle prévue par l'article 697-3. A défaut de toute autre juridiction, la juridiction compétente est celle prévue par cet article siégeant dans le ressort de la cour d'appel de Paris.
 
 
+### Titre XI : Des crimes et des délits en matière militaire et des crimes et délits contre les intérêts fondamentaux de la nation
+
+#### Chapitre III : Des crimes et délits contre les intérêts fondamentaux de la Nation
+
+#### Article 701
+
+En temps de guerre, les crimes et délits contre les intérêts fondamentaux de la Nation et les infractions qui leur sont connexes sont instruits et jugés par les juridictions des forces armées ainsi qu'il est dit au code de justice militaire.
+
+
+
+
+
+Toutefois, le procureur de la République a qualité pour accomplir ou faire accomplir les actes nécessités par l'urgence et requérir à cet effet le juge d'instruction de son siège. Les dispositions des articles 698-1 à 698-5 sont alors applicables.
+
+
+
+
+
+Il doit se dessaisir ou requérir le dessaisissement du juge d'instruction dès que l'urgence a cessé.
+
+
 ### Titre XI : Des crimes et délits en matière militaire et en matière de sûreté de l'Etat
 
 #### Chapitre Ier : De la poursuite, de l'instruction et du jugement des crimes et délits en matière militaire en temps de paix
@@ -4879,6 +5011,13 @@ Lorsque la juridiction statuant sur les intérêts civils a alloué des dommages
 ### Article 706-9
 
 Les indemnités allouées par la commission sont à la charge de l'Etat. Elles sont payées comme frais de justice criminelle. Leurs montants ne peuvent dépasser des maxima fixés, chaque année, par décret.
+
+
+### Article 706-11
+
+L'Etat est subrogé dans les droits de la victime pour obtenir des personnes responsables du dommage causé par l'infraction ou tenues à un titre quelconque d'en assurer la réparation totale ou partielle le remboursement de l'indemnité ou de la provision versée par lui, dans la limite du montant des réparations à la charge desdites personnes.
+
+L'Etat peut exercer ses droits par toutes voies utiles, y compris par voie de constitution de partie civile devant la juridiction répressive et ce, même pour la première fois, en cause d'appel.
 
 
 ### Article 706-12
