@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 1er mars 2003
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20030301)
+- Date de consolidation : 15 mars 2003
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20030315)
 
 
 # Partie législative
@@ -23175,6 +23175,6 @@ L'enquête prévue à l'article D. 81 sur la situation du condamné avant son in
 
 ## Article A57
 
-Les attributions dévolues au directeur régional des services pénitentiaires par le présent code sont exercées, dans le département de la Réunion, par le fonctionnaire assurant les fonctions de directeur des prisons de ce département.
+Dans les départements de la Guadeloupe et de La Réunion, les directeurs des centres pénitentiaires de Baie-Mahault et du Port assurent, dans les limites des délégations de compétences qui leur sont consenties, la gestion de l'ensemble des personnels affectés dans les établissements de leur département respectif.
 
 
