@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 19 décembre 1991
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19911219)
+- Date de consolidation : 20 décembre 1991
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19911220)
 
 
 # Partie législative
@@ -10318,6 +10318,19 @@ Par dérogation à la règle établie à l'article précédent, sont payés conf
 En matière d'aide judiciaire, les frais qui sont exposés dans les instances portées devant les juridictions administratives sont admis en dépense par le ministre de la Justice.
 
 Si au cours de l'instance suivie avec le bénéfice de l'aide judiciaire devant un tribunal administratif, des témoins sont appelés à déposer, l'indemnité qui leur est allouée, après taxation régulière par le président du tribunal administratif, est acquittée provisoirement et sans délai par le comptable direct du Trésor.
+
+
+###### Paragraphe 2 : Procédures suivies en application de la législation sur les incapables
+
+###### Article R217
+
+Si le mineur est solvable, les frais des procédures suivies en matière de tutelle sont à sa charge et le recouvrement en est poursuivi conformément à la loi du 5 septembre 1807.
+
+Le juge des tutelles, ou le tribunal ultérieurement saisi, peut toutefois décider qu'une autre partie en supportera la charge.
+
+Si le mineur ne paraît pas avoir de ressources suffisantes, le juge des tutelles constate cette insuffisance par ordonnance ; les frais sont alors avancés et recouvrés comme en matière d'aide juridictionnelle.
+
+Les mêmes règles sont applicables en matière de régimes de protection des majeurs.
 
 
 ###### Paragraphe 3 : Frais engagés d'office en matière de mesures conservatoires prises après l'ouverture d'une succession.
