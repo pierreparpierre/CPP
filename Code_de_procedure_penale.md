@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 8 septembre 1985
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19850908)
+- Date de consolidation : 1er octobre 1985
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19851001)
 
 
 # Partie législative
@@ -2520,6 +2520,11 @@ Toutefois, les minutes des arrêts rendus par la cour d'assises du département 
 
 ###### Paragraphe 1er : Dispositions générales
 
+###### Article 381
+
+Le tribunal correctionnel connaît des délits.  Sont des délits les infractions que la loi punit d'une peine de plus de deux mois d'emprisonnement ou 10.000 F d'amende.
+
+
 ###### Article 382
 
 Est compétent le tribunal correctionnel du lieu de l'infraction, celui de la résidence du prévenu ou celui du lieu d'arrestation de ce dernier, même lorsque cette arrestation a été opérée pour une autre cause.
@@ -3846,6 +3851,19 @@ Sont également applicables les dispositions des articles 487 et 488 relatives a
 
 
 #### Chapitre VI : De l'appel des jugements de police
+
+#### Article 546
+
+La faculté d'appeler appartient au prévenu, à la personne civilement responsable, au procureur de la République et à l'officier du ministère public près le tribunal de police, lorsque le jugement prononce une peine d'emprisonnement ou lorsque la peine encourue excède cinq jours d'emprisonnement ou 1.300 F d'amende.
+
+Lorsque des dommages et intérêts ont été alloués, la faculté d'appeler appartient également au prévenu et à la personne civilement responsable.
+
+Cette faculté appartient dans tous les cas à la partie civile quant à ses intérêts civils seulement.
+
+Dans les affaires poursuivies à la requête de l'administration des eaux et forêts, l'appel est toujours possible de la part de toutes les parties, quelles que soient la nature et l'importance des condamnations.
+
+Le procureur général peut faire appel de tous les jugements rendus en matière de police.
+
 
 #### Article 547
 
