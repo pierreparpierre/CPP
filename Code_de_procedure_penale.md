@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 26 janvier 1985
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19850126)
+- Date de consolidation : 12 juillet 1985
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19850712)
 
 
 # Partie législative
@@ -5863,6 +5863,11 @@ Le casier judiciaire national automatisé reçoit également les condamnations, 
 ### Article 772
 
 Il est donné connaissance aux autorités militaires, par l'envoi d'une copie de la fiche du casier judiciaire, des condamnations ou des décisions de nature à modifier les conditions d'incorporation des individus soumis à l'obligation du service militaire. Il est donné avis également aux mêmes autorités de toutes modifications apportées à la fiche ou au casier judiciaire en vertu des articles 769 et 770.
+
+
+### Article 773
+
+Le casier judiciaire national automatisé communique à l'Institut national de la statistique et des études économiques l'identité des personnes qui ont fait l'objet d'une décision entraînant la privation de leurs droits électoraux.
 
 
 ### Article 773-1
