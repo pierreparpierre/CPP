@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 3 janvier 2004
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20040103)
+- Date de consolidation : 10 janvier 2004
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20040110)
 
 
 # Partie législative
@@ -12470,9 +12470,9 @@ Après avoir procédé à toute les diligences qu'il juge utiles, le doyen des j
 
 L'assemblée générale des magistrats du siège et du parquet du tribunal ou de la cour d'appel, sur le rapport du magistrat saisi de la demande, statue sur l'habilitation à la majorité de ses membres présents.
 
-
-
 La commission restreinte de l'assemblée générale des magistrats du siège et du parquet, dans les juridictions où sa constitution est obligatoire, exerce les attributions mentionnées à l'alinéa précédent.
+
+La personne morale habilitée passe, avec le premier président et le procureur général de la cour d'appel dans le ressort de laquelle est situé son siège, une convention déterminant ses conditions d'intervention.
 
 
 ##### Article R15-38
@@ -15156,24 +15156,20 @@ Il est alloué à chaque expert régulièrement requis ou commis :
 
 ###### Article R121
 
-En sus du remboursement de leurs frais de déplacement, calculés dans les conditions fixées pour les déplacements des fonctionnaires du groupe II, il est alloué aux personnes habilitées :
+En sus du remboursement de leurs frais de déplacement, calculés dans les conditions fixées pour les déplacements des fonctionnaires du groupe II, il est alloué aux personnes physiques habilitées :
 1. Pour la vérification de la situation matérielle, familiale ou sociale des personnes faisant l'objet d'une enquête prévue par les articles 41 (alinéa 6) et 81 (alinéa 7) : 38,87 euros ;
 2. Pour l'enquête sur la personnalité des personnes mises en examen ainsi que sur leur situation matérielle, familiale ou sociale, prévue par l'article 81 (alinéa 6) : 73,18 euros.
-
-Lorsque la personne habilitée est une association qui a passé une convention avec le premier président et le procureur général de la cour d'appel dans le ressort de laquelle est situé son siège, l'indemnité prévue au 1° ci-dessus est portée à 64,03 euros et l'indemnité prévue au 2° à 152,45 euros.
 
 
 ###### Article R121-1
 
-En sus du remboursement de leurs frais de déplacement, calculés dans les conditions fixées pour les déplacements des fonctionnaires du groupe II, il est alloué aux enquêteurs de personnalité et aux personnes physiques ou représentants des personnes morales mentionnées à l'article R. 16-2 (alinéa 1er) pour la mission de contrôle judiciaire exercée sur chaque personne mise en examen, en application du 6° de l'article 138 (alinéa 2) :
+En sus du remboursement de leurs frais de déplacement, calculés dans les conditions fixées pour les déplacements des fonctionnaires du groupe II, il est alloué aux enquêteurs de personnalité et aux personnes physiques pour la mission de contrôle judiciaire exercée sur chaque personne mise en examen, en application du 6° de l'article 138 (alinéa 2) :
 
 51,83 euros lorsque la mission de contrôle judiciaire dure trois mois ou moins ;
 
 110,53 euros lorsque la mission de contrôle judiciaire dure plus de trois mois sans excéder un an ;
 
 152,45 euros lorsque la mission de contrôle judiciaire dure plus d'un an.
-
-Lorsque cette mission est effectuée par une association qui a passé une convention avec le premier président et le procureur général de la cour d'appel dans le ressort de laquelle est situé son siège social, l'indemnité allouée est portée respectivement à 152, 45 euros, 254,59 euros et 407,04 euros.
 
 
 ###### Article R121-2
@@ -15191,6 +15187,21 @@ b) Pour le contrôle de l'exécution des mesures décidées : 7,62 euros lorsqu'
 Lorsque la personne habilitée est une association qui a passé une convention avec le premier président et le procureur général de la cour d'appel dans le ressort de laquelle est situé son siège, l'indemnité prévue au 1° est portée à 11,43 euros, l'indemnité prévue au 2° à 30,49 euros, l'indemnité prévue au 3° est portée à 76,22 euros lorsque la durée de la mission est inférieure ou égale à un mois, 152,45 euros lorsque cette durée est supérieure à un mois et inférieure ou égale à trois mois et 304,90 euros lorsqu'elle est supérieure à trois mois, et les indemnités prévues au 4° sont respectivement portées à 30,49, 15,24 et 30,49 euros.
 
 Lorsque les mesures prévues aux 1° à 3° ci-dessus concernent un mineur, le délégué ou le Médiateur du procureur qui doit procéder à l'audition des responsables légaux du mineur se voit allouer une indemnité supplémentaire de 7,62 euros.
+
+
+###### Article R121-3
+
+En sus du remboursement des frais de déplacement, qui a lieu dans les conditions prévues par la réglementation applicable aux fonctionnaires de l'Etat, il est alloué à la personne morale habilitée ayant passé la convention prévue au troisième alinéa de l'article R. 15-37 une indemnité fixée comme suit :
+1. Pour la vérification de la situation matérielle, familiale ou sociale d'une personne faisant l'objet d'une enquête, accomplie en application du sixième alinéa de l'article 41 ou du septième alinéa de l'article 81 : 14 unités de base ;
+2. Pour la tenue d'une permanence les samedis, dimanches ou jours fériés, lorsque pendant celle-ci aucune mesure n'a été prescrite en application du sixième alinéa de l'article 41 ou du septième alinéa de l'article 81 : 14 unités de base ;
+3. Pour une enquête sur la personnalité d'une personne mise en examen ainsi que sur sa situation matérielle, familiale ou sociale, menée en application du sixième alinéa de l'article 81 : 222 unités de base ;
+4. Pour une mission de mise en oeuvre d'une des obligations du contrôle judiciaire énumérées au 6° de l'article 138 : 185 unités de base pour les six premiers mois de contrôle judiciaire et 74 unités de base par période de six mois supplémentaires dans la limite de trente-six mois.
+
+L'indemnité est majorée de 10 % pour les mesures ordonnées par une juridiction dans le ressort de laquelle la population, selon les données authentifiées du dernier recensement, est au plus égale à 170 000 habitants.
+
+L'indemnité est réduite de 70 % pour celles des mesures mentionnées aux 3° et 4° ci-dessus qui sont exécutées, pour le compte de la personne morale habilitée, par une personne qui n'est pas salariée par elle.
+
+La valeur de l'unité de base est fixée par arrêté conjoint du ministre chargé du budget et du ministre de la justice.
 
 
 ###### Paragraphe 3 : Des interprètes traducteurs
@@ -15776,7 +15787,7 @@ Les parties prenantes déposent ou adressent leur état ou mémoire au greffe de
 ###### Article R224-1
 
 La procédure de certification est applicable aux frais de justice criminelle, correctionnelle et de police suivants :
-1. Indemnités accordées aux jurés, aux témoins, aux parties civiles, aux interprètes traducteurs et aux personnes mentionnées aux articles R. 121 à R. 121-2 ;
+1. Indemnités accordées aux jurés, aux témoins, aux parties civiles, aux interprètes traducteurs et aux personnes mentionnées aux articles R. 121 à R. 121-3 ;
 2. Frais de vérifications médicales, cliniques et biologiques en matière d'alcoolémie ;
 3. Frais de garde de scellés et de mise en fourrière ;
 4. Emoluments et indemnités alloués aux huissiers de justice ;
