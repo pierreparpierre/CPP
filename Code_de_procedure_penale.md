@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 4 avril 1980
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19800404)
+- Date de consolidation : 8 juin 1980
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19800608)
 
 
 # Partie législative
@@ -1470,6 +1470,11 @@ Si l'accusé est en liberté, il est procédé comme il est dit à l'article 215
 Le président peut déléguer un de ses assesseurs afin de procéder à cet interrogatoire.
 
 Il doit être fait appel à un interprète si l'accusé ne parle ou ne comprend pas la langue française.
+
+
+##### Article 273
+
+Le président interroge l'accusé sur son identité et s'assure que celui-ci a reçu signification de l'arrêt de renvoi.
 
 
 ##### Article 274
