@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 27 mai 2003
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20030527)
+- Date de consolidation : 13 juin 2003
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20030613)
 
 
 # Partie législative
@@ -645,7 +645,7 @@ Le procureur de la République peut également recourir à une association d'aid
 
 S'il lui apparaît qu'une telle mesure est susceptible d'assurer la réparation du dommage causé à la victime, de mettre fin au trouble résultant de l'infraction ou de contribuer au reclassement de l'auteur des faits, le procureur de la République peut, préalablement à sa décision sur l'action publique, directement ou par délégation :
 1. Procéder au rappel auprès de l'auteur des faits des obligations résultant de la loi ;
-2. Orienter l'auteur des faits vers une structure sanitaire, sociale ou professionnelle ;
+2. Orienter l'auteur des faits vers une structure sanitaire, sociale ou professionnelle en cas d'infraction commise à l'occasion de la conduite d'un véhicule terrestre à moteur, cette mesure peut consister dans l'accomplissement, par l'auteur des faits, à ses frais, d'un stage de sensibilisation à la sécurité routière ;
 3. Demander à l'auteur des faits de régulariser sa situation au regard de la loi ou des règlements ;
 4. Demander à l'auteur des faits de réparer le dommage résultant de ceux-ci ;
 5. Faire procéder, avec l'accord des parties, à une mission de médiation entre l'auteur des faits et la victime.
@@ -5145,8 +5145,8 @@ Les décisions prévues au présent article sont des mesures d'administration no
 
 Sont jugés dans les conditions prévues au troisième alinéa de l'article 398 :
 1. Les délits prévus par les articles 66 et 69 du décret-loi du 30 octobre 1935 unifiant le droit en matière de chèques et relatif aux cartes de paiement ;
-2. Les délits prévus par le code de la route ainsi que, lorsqu'ils sont commis à l'occasion de la conduite d'un véhicule, par les articles 222-19, 222-20, 223-1 et 434-10 du code pénal ;
-3. Les délits en matière de coordination des transports ;
+2. Les délits prévus par le code de la route ainsi que, lorsqu'ils sont commis à l'occasion de la conduite d'un véhicule, par les articles 222-19-1, 222-20-1, 223-1 et 434-10 du code pénal ;
+3. Les délits en matière de réglementations relatives aux transports terrestres ;
 4. Les délits prévus par le 2° de l'article 32 du décret-loi du 18 avril 1939 fixant le régime des matériels de guerre, armes et munitions ;
 5. Les délits prévus par les articles 222-11, 222-12 (1° à 10°), 222-13 (1° à 10°), 222-16, 222-17, 222-18, 222-32, 227-3 à 227-11, 311-3, 311-4 (1° à 8°), 313-5, 314-5, 314-6, 321-1, 322-1 à 322-4, 322-12, 322-13, 322-14, 433-3, premier alinéa, 433-5, 433-6 à 433-8, premier alinéa, 433-10, premier alinéa, et 521-1 du code pénal et L. 628 du code de la santé publique ;
 6. Les délits prévus par le code rural en matière de chasse, de pêche et de protection de la faune et de la flore et les délits prévus par le décret-loi du 9 janvier 1852 en matière de pêche maritime ;
@@ -6314,7 +6314,7 @@ Sont des contraventions les infractions que la loi punit d'une peine d'amende n'
 
 Est compétent le tribunal de police du lieu de commission ou de constatation de la contravention ou celui de la résidence du prévenu.
 
-Est également compétent le tribunal de police du siège de l'entreprise détentrice du véhicule en cas de contravention, soit aux règles relatives au chargement ou à l'équipement de ce véhicule, soit aux conditions de travail dans les transports routiers, soit à la coordination des transports.
+Est également compétent le tribunal de police du siège de l'entreprise détentrice du véhicule en cas de contravention, soit aux règles relatives au chargement ou à l'équipement de ce véhicule, soit aux réglementations relatives aux transports terrestres.
 
 Les articles 383 à 387 sont applicables au jugement des infractions de la compétence du tribunal de police.
 
@@ -6413,9 +6413,7 @@ Le montant de l'amende forfaitaire peut être acquitté soit entre les mains de 
 
 ##### Article 529-2
 
-Dans le délai prévu par l'article précédent, le contrevenant doit s'acquitter du montant de l'amende forfaitaire, à moins qu'il ne formule dans le même délai une requête tendant à son exonération auprès du service indiqué dans l'avis de contravention. Cette requête est transmise au ministère public.
-
-
+Dans le délai prévu par l'article précédent, le contrevenant doit s'acquitter du montant de l'amende forfaitaire, à moins qu'il ne formule dans le même délai une requête tendant à son exonération auprès du service indiqué dans l'avis de contravention. Dans les cas prévus par l'article 529-10, cette requête doit être accompagnée de l'un des documents exigés par cet article. Cette requête est transmise au ministère public.
 
 A défaut de paiement ou d'une requête présentée dans le délai de trente jours, l'amende forfaitaire est majorée de plein droit et recouvrée au profit du Trésor public en vertu d'un titre rendu exécutoire par le ministère public.
 
@@ -6468,7 +6466,7 @@ Pour les contraventions au code de la route des deuxième, troisième et quatri�
 
 ##### Article 529-8
 
-Le montant de l'amende forfaitaire minorée peut être acquitté soit entre les mains de l'agent verbalisateur au moment de la constatation de l'infraction, soit dans un délai de trois jours à compter de la constatation de l'infraction ou, si cet avis est ultérieurement envoyé à l'intéressé, dans les sept jours qui suivent cet envoi.
+Le montant de l'amende forfaitaire minorée peut être acquitté soit entre les mains de l'agent verbalisateur au moment de la constatation de l'infraction, soit dans un délai de trois jours à compter de la constatation de l'infraction ou, si l'avis de contravention est ultérieurement envoyé à l'intéressé, dans les sept jours qui suivent cet envoi.
 
 En cas de non-paiement de l'amende forfaitaire minorée dans les conditions prévues ci-dessus, le contrevenant est redevable de l'amende forfaitaire.
 
@@ -6482,15 +6480,33 @@ L'amende forfaitaire doit être versée avant l'expiration de la période de tre
 Les dispositions de l'article 529-2 relatives à la requête aux fins d'exonération et à la majoration de plein droit sont applicables.
 
 
+##### Article 529-10
+
+Lorsque l'avis d'amende forfaitaire concernant une des contraventions mentionnées à l'article L. 121-3 du code de la route a été adressé au titulaire du certificat d'immatriculation ou aux personnes visées aux deuxième et troisième alinéas de l'article L. 121-2 de ce code, la requête en exonération prévue par l'article 529-2 ou la réclamation prévue par l'article 530 n'est recevable que si elle est adressée par lettre recommandée avec demande d'avis de réception et si elle est accompagnée :
+1. Soit de l'un des documents suivants :
+
+a) Le récépissé du dépôt de plainte pour vol ou destruction du véhicule, ou une copie de la déclaration de destruction de véhicule établie conformément aux dispositions du code de la route ;
+
+b) Une lettre signée de l'auteur de la requête ou de la réclamation précisant l'identité, l'adresse, ainsi que la référence du permis de conduire de la personne qui était présumée conduire le véhicule lorsque la contravention a été constatée ;
+2. Soit d'un document démontrant qu'il a été acquitté une consignation préalable d'un montant égal à celui de l'amende forfaitaire dans le cas prévu par le premier alinéa de l'article 529-2, ou à celui de l'amende forfaitaire majorée dans le cas prévu par le deuxième alinéa de l'article 530 ; cette consignation n'est pas assimilable au paiement de l'amende forfaitaire et ne donne pas lieu au retrait des points du permis de conduire prévu par le quatrième alinéa de l'article L. 223-1 du code de la route.
+
+L'officier du ministère public vérifie si les conditions de recevabilité de la requête ou de la réclamation prévues par le présent article sont remplies.
+
+
+##### Article 529-11
+
+L'avis de contravention prévu par les articles 529-1 et 529-8 peut être envoyé à la suite de la constatation d'une contravention au code de la route réalisée grâce à un appareil homologué de contrôle automatique. En cas de réclamation portée devant le tribunal de police, le procès-verbal ou le rapport de l'officier ou de l'agent de police judiciaire faisant état du résultat de ce contrôle est alors dressé.
+
+
 ##### Section 3 : Dispositions communes
 
 ##### Article 530
 
 Le titre mentionné au second alinéa de l'article 529-2 ou au second alinéa de l'article 529-5 est exécuté suivant les règles prévues par le présent code pour l'exécution des jugements de police. La prescription de la peine commence à courir à compter de la signature par le ministère public du titre exécutoire, qui peut être individuel ou collectif.
 
-Dans les trente jours de l'envoi de l'avis invitant le contrevenant à payer l'amende forfaitaire majorée, l'intéressé peut former auprès du ministère public une réclamation motivée qui a pour effet d'annuler le titre exécutoire en ce qui concerne l'amende contestée. Cette réclamation reste recevable tant que la peine n'est pas prescrite, s'il ne résulte pas d'un acte d'exécution ou de tout autre moyen de preuve que l'intéressé a eu connaissance de l'amende forfaitaire majorée.
+Dans les trente jours de l'envoi de l'avis invitant le contrevenant à payer l'amende forfaitaire majorée, l'intéressé peut former auprès du ministère public une réclamation motivée qui a pour effet d'annuler le titre exécutoire en ce qui concerne l'amende contestée. Cette réclamation reste recevable tant que la peine n'est pas prescrite, s'il ne résulte pas d'un acte d'exécution ou de tout autre moyen de preuve que l'intéressé a eu connaissance de l'amende forfaitaire majorée. S'il s'agit d'une contravention au code de la route, la réclamation n'est toutefois plus recevable à l'issue d'un délai de trois mois lorsque l'avis d'amende forfaitaire majorée est envoyé par lettre recommandée à l'adresse figurant sur le certificat d'immatriculation du véhicule, sauf si le contrevenant justifie qu'il a, avant l'expiration de ce délai, déclaré son changement d'adresse au service d'immatriculation des véhicules.
 
-La réclamation doit être accompagnée de l'avis correspondant à l'amende considérée.
+La réclamation doit être accompagnée de l'avis correspondant à l'amende considérée ainsi que, dans le cas prévu par l'article 529-10, de l'un des documents exigés par cet article, à défaut de quoi elle n'a pas pour effet d'annuler le titre exécutoire.
 
 
 ##### Article 530-1
@@ -6499,10 +6515,19 @@ Au vu de la requête faite en application du premier alinéa de l'article 529-2,
 
 En cas de condamnation, l'amende prononcée ne peut être inférieure au montant de l'amende ou de l'indemnité forfaitaire dans les cas prévus par le premier alinéa de l'article 529-2 et le premier alinéa de l'article 529-5, ni être inférieure au montant de l'amende forfaitaire majorée dans les cas prévus par le second alinéa de l'article 529-2 et le second alinéa de l'article 529-5.
 
+Dans les cas prévus par l'article 529-10, en cas de classement sans suite ou de relaxe, s'il a été procédé à la consignation prévue par cet article, le montant de la consignation est reversé, à sa demande, à la personne à qui avait été adressé l'avis de paiement de l'amende forfaitaire ou ayant fait l'objet des poursuites. En cas de condamnation, l'amende prononcée ne peut être inférieure au montant prévu à l'alinéa précédent augmenté d'une somme de 10 %.
+
 
 ##### Article 530-2
 
 Les incidents contentieux relatifs à l'exécution du titre exécutoire et à la rectification des erreurs matérielles qu'il peut comporter sont déférés au tribunal de police, qui statue conformément aux dispositions de l'article 711.
+
+
+##### Article 530-2-1
+
+Lorsque les avis de contravention ou d'amende forfaitaire majorée sont adressés à une personne résidant à l'étranger, les délais prévus par les articles 529-1, 529-2, 529-8, 529-9 et 530 sont augmentés d'un mois.
+
+Les dispositions des articles 529-10 et 530 du présent code et des articles L. 121-2 et L. 121-3 du code de la route relatives aux titulaires du certificat d'immatriculation du véhicule sont applicables aux personnes dont l'identité figure sur les documents équivalents délivrés par des autorités étrangères.
 
 
 ##### Article 530-3
@@ -8878,12 +8903,25 @@ La juridiction de proximité peut également valider, sur délégation donnée p
 
 Pour le jugement des contraventions mentionnées au premier alinéa et relevant des quatre premières classes, les fonctions du ministère public sont exercées par un officier du ministère public, conformément aux dispositions des articles 45 à 48.
 
+Pour le jugement des contraventions mentionnées au premier alinéa, et notamment des contraventions au code de la route, la compétence territoriale des juridictions de proximité est celle des tribunaux de police, y compris des tribunaux d'instance ayant compétence exclusive en matière pénale en application des dispositions de l'article L. 623-2 du code de l'organisation judiciaire.
+
 
 ## Livre V : Des procédures d'exécution
 
 ### Titre Ier : De l'exécution des sentences pénales
 
 #### Chapitre Ier : Dispositions générales
+
+#### Article 708
+
+L'exécution à la requête du ministère public a lieu lorsque la décision est devenue définitive.
+
+Toutefois, le délai d'appel accordé au procureur général par les articles 505 et 548 ne fait point obstacle à l'exécution de la peine.
+
+L'exécution d'une peine de police ou d'une peine correctionnelle non privative de liberté peut être suspendue ou fractionnée pour motifs graves d'ordre médical, familial, professionnel ou social. La décision est prise soit par le ministère public, soit, sur la proposition du ministère public, par le tribunal correctionnel ou de police statuant en chambre du conseil, selon que l'exécution de la peine doit être suspendue pendant moins ou plus de trois mois. La suspension ou le fractionnement de la peine de suspension de permis de conduire n'est toutefois pas possible en cas de délits ou de contraventions pour lesquels la loi ou le règlement prévoit que cette peine ne peut pas être limitée à la conduite en dehors de l'activité professionnelle.
+
+Lorsque l'exécution fractionnée d'une peine d'amende, de jours-amende ou de suspension du permis de conduire a été décidée par la juridiction de jugement en application de l'article 132-28 du code pénal, cette décision peut être modifiée dans les conditions prévues à l'alinéa précédent.
+
 
 #### Article 709
 
@@ -8931,17 +8969,6 @@ Ce magistrat peut déléguer l'un des juges du tribunal qui procède à l'auditi
 Le ministère public et les parties poursuivent l'exécution de la sentence chacun en ce qui le concerne.
 
 Néanmoins, les poursuites pour le recouvrement des amendes et confiscations sont faites au nom du procureur de la République, par le percepteur.
-
-
-### Article 708
-
-L'exécution à la requête du ministère public a lieu lorsque la décision est devenue définitive.
-
-Toutefois, le délai d'appel accordé au procureur général par les articles 505 et 548 ne fait point obstacle à l'exécution de la peine.
-
-L'exécution d'une peine de police ou d'une peine correctionnelle non privative de liberté peut être suspendue ou fractionnée pour motifs graves d'ordre médical, familial, professionnel ou social. La décision est prise soit par le ministère public, soit, sur la proposition du ministère public, par le tribunal correctionnel ou de police statuant en chambre du conseil, selon que l'exécution de la peine doit être suspendue pendant moins ou plus de trois mois.
-
-Lorsque l'exécution fractionnée d'une peine d'amende, de jours-amende ou de suspension du permis de conduire a été décidée par la juridiction de jugement en application de l'article 132-28 du code pénal, cette décision peut être modifiée dans les conditions prévues à l'alinéa précédent.
 
 
 ### Article 713-1
@@ -10016,7 +10043,7 @@ Toutefois, si la durée de la faillite personnelle ou de l'interdiction est sup�
 4. Les dispenses de peines, à l'expiration d'un délai de trois ans à compter du jour où la condamnation est devenue définitive ;
 
 
-5. Les condamnations pour contravention, à l'expiration d'un délai de trois ans à compter du jour où ces condamnations sont devenues définitives ;
+5. Les condamnations pour contravention, à l'expiration d'un délai de trois ans à compter du jour où ces condamnations sont devenues définitives ; ce délai est porté à quatre ans lorsqu'il s'agit d'une contravention dont la récidive constitue un délit ;
 
 
 6. Les mentions relatives à la composition pénale, à l'expiration d'un délai de trois ans à compter du jour où l'exécution de la mesure a été constatée, si la personne n'a pas, pendant ce délai, soit subi de condamnation à une peine criminelle ou correctionnelle, soit exécuté une nouvelle composition pénale.
@@ -10756,7 +10783,7 @@ I. - Dans le territoire de la Polynésie française :
 " Art. 398-1. - Sont jugés dans les conditions prévues au troisième alinéa de l'article 398 :
 1. Les délits prévus par les articles 66 et 69 du décret-loi du 30 octobre 1935 unifiant le droit en matière de chèques et relatif aux cartes de paiement ;
 2. Les délits prévus par les dispositions applicables localement en matière de circulation routière ainsi que, lorsqu'ils sont commis à l'occasion de la conduite d'un véhicule, par les articles 222-19, 222-20, 223-1 et 434-10 du code pénal ;
-3. Les délits prévus par les dispositions applicables localement en matière de coordination des transports ;
+3. Les délits prévus par les dispositions applicables localement en matière de réglementations relatives aux transports terrestres ;
 4. Les délits prévus par les articles 222-11, 222-12 (1° à 10°), 222-13 (1° à 10°), 222-16, 222-17, 222-18, 222-32, 227-3 à 227-11, 311-3, 311-4 (1° à 8°), 313-5, 314-5, 314-6, 321-1, 322-1 à 322-4, 322-12, 322-13, 322-14, 433-5 et 521-1 du code pénal et L. 628 du code de la santé publique ;
 5. Les délits prévus par les dispositions applicables localement en matière de chasse, de pêche, de protection de la faune et de la flore et en matière de pêche maritime ;
 6. Les délits prévus par le code de l'aménagement de la Polynésie française en matière de défaut de permis de construire ou de terrassement ou par la réglementation applicable localement sur les installations classées ;
@@ -10769,7 +10796,7 @@ II. - En Nouvelle-Calédonie et dans le territoire des îles Wallis-et-Futuna :
 " Art. 398-1. - Sont jugés dans les conditions prévues au troisième alinéa de l'article 398 :
 1. Les délits prévus par les articles 66 et 69 du décret-loi du 30 octobre 1935 unifiant le droit en matière de chèques et relatif aux cartes de paiement ;
 2. Les délits prévus par les dispositions applicables localement en matière de circulation routière ainsi que, lorsqu'ils sont commis à l'occasion de la conduite d'un véhicule, par les articles 222-19, 222-20, 223-1 et 434-10 du code pénal ;
-3. Les délits prévus par les dispositions applicables localement en matière de coordination des transports ;
+3. Les délits prévus par les dispositions applicables localement en matière de réglementations relatives aux transports terrestres ;
 4. Les délits prévus par les dispositions applicables localement en matière de chasse, de pêche, de protection de la faune et de la flore et en matière de pêche maritime.
 
 Toutefois, le tribunal statue obligatoirement dans les conditions prévues par le premier alinéa de l'article 398 lorsque le prévenu est en état de détention provisoire lors de sa comparution à l'audience ou lorsqu'il est poursuivi selon la procédure de comparution immédiate. Il statue également dans les conditions prévues par le premier alinéa de l'article 398 pour le jugement des délits prévus au présent article lorsque ces délits sont connexes à d'autres délits non prévus par cet article. "
