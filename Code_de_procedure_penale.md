@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 4 mai 2002
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20020504)
+- Date de consolidation : 5 mai 2002
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20020505)
 
 
 # Partie législative
@@ -11205,7 +11205,7 @@ Les officiers de police judiciaire doivent rendre compte de leurs diverses opér
 
 ##### Article R1
 
-Les officiers de police judiciaire, à l'occasion d'une enquête ou de l'exécution d'une commission rogatoire, ne peuvent, sous réserve des dispositions de l'article 30, solliciter ou recevoir des ordres ou instructions que de l'autorité judiciaire dont ils dépendent.
+Les officiers de police judiciaire, à l'occasion d'une enquête ou de l'exécution d'une commission rogatoire, ne peuvent solliciter ou recevoir des ordres ou instructions que de l'autorité judiciaire dont ils dépendent.
 
 
 ##### Section 2 : Des officiers de police judiciaire
@@ -11518,7 +11518,7 @@ Les catégories de services actifs de la police nationale au sein desquels les o
 3. Les unités autoroutières des compagnies républicaines de sécurité pour les voies de circulation auxquelles elles sont affectées et, pour les infractions visées à l'article L. 23-1 du code de la route, les sections motocyclistes dans les départements du ressort de leur groupement d'affectation ;
 4. La direction des renseignements généraux de la préfecture de police ;
 5. L'inspection générale des services de la préfecture de police, dans les départements de Paris, des Hauts-de-Seine, du Val-de-Marne et de la Seine-Saint-Denis ;
-6. La direction des services techniques de la préfecture de police dans les départements de Paris, des Hauts-de-Seine, du Val-de-Marne et de la Seine-Saint-Denis.
+6. La direction de la logistique de la préfecture de police dans les départements de Paris, des Hauts-de-Seine, du Val-de-Marne et de la Seine-Saint-Denis.
 
 
 ###### Article R15-20
@@ -11832,9 +11832,9 @@ Il l'informe régulièrement de son activité.
 
 Les personnes physiques ainsi que les associations régulièrement déclarées qui ont été habilitées comme délégués du procureur de la République dans les conditions prévues par la présente section peuvent être désignées par ce dernier pour être chargées d'une des missions prévues par les 1° à 4° de l'article 41-1 ou pour intervenir lors de la procédure de composition pénale prévue par les articles 41-2 et 41-3.
 
-Les personnes physiques ainsi que les associations régulièrement déclarées qui ont été habilitées comme médiateurs du procureur de la République dans les conditions prévues par la présente section peuvent être désignées par ce dernier pour effectuer une mission de médiation conformément aux dispositions du 5° de l'article 41-1. Elles peuvent également se voir confier les missions mentionnées à l'alinéa précédent.
 
-Lorsqu'une association habilitée est désignée par le procureur de la République pour exercer une mission de délégué ou de médiateur, seules les personnes physiques qui, au sein de cette association, ont été personnellement habilitées peuvent se voir confier cette mission.
+
+Les personnes physiques ainsi que les associations régulièrement déclarées qui ont été habilitées comme médiateurs du procureur de la République dans les conditions prévues par la présente section peuvent être désignées par ce dernier pour effectuer une mission de médiation conformément aux dispositions du 5° de l'article 41-1. Elles peuvent également se voir confier les missions mentionnées à l'alinéa précédent.
 
 
 ##### Article R15-33-31
@@ -11850,7 +11850,8 @@ La demande présentée par une association comporte notamment :
 3. La liste des établissements de l'association avec indication de leur siège ;
 4. Un exposé indiquant les conditions de fonctionnement de l'association et, le cas échéant, l'organisation et les conditions de fonctionnement des comités locaux ainsi que leurs rapports avec l'association ;
 5. La mention des nom, prénoms, date et lieu de naissance, nationalité, profession et domicile des membres du conseil d'administration et du bureau de l'association ainsi que, le cas échéant, ceux de ses représentants locaux ;
-6. Les pièces financières qui doivent comprendre les comptes du dernier exercice, le budget de l'exercice courant et un bilan ou état de l'actif mobilier et immobilier et du passif.
+6. Les pièces financières qui doivent comprendre les comptes du dernier exercice, le budget de l'exercice courant et un bilan ou état de l'actif mobilier et immobilier et du passif ;
+7. La liste des personnes physiques qui, au sein de l'association, doivent accomplir les missions qui lui sont confiées, avec la mention des nom, prénoms, date et lieu de naissance, nationalité, profession et domicile de chacune d'entre elles.
 
 
 ##### Article R15-33-33
@@ -11861,6 +11862,8 @@ Le Médiateur ou le délégué du procureur de la République doit satisfaire au
 3. Présenter des garanties de compétence, d'indépendance et d'impartialité.
 
 Le Médiateur ou le délégué du procureur de la République appelé à se voir confier des missions concernant des mineurs doit en outre s'être signalé par l'intérêt qu'il porte aux questions de l'enfance.
+
+Lorsqu'une association envisage une modification de la liste mentionnée au 7° de l'article R. 15-33-32 ou de désigner, pour accomplir les missions confiées à l'association, une personne physique n'ayant pas été personnellement habilitée, elle doit en aviser le procureur de la République. Ce dernier lui indique, le cas échéant, les personnes qui, ne remplissant pas les conditions mentionnées aux alinéas précédents, ne peuvent être autorisées à accomplir les missions confiées à l'association.
 
 
 ##### Article R15-33-34
@@ -11935,7 +11938,7 @@ L'accomplissement d'un travail non rémunéré prévu par le 4° de l'article 41
 
 ###### Article R15-33-43
 
-Lorsque la composition pénale intervient à la suite d'un délit prévu par l'article L. 1er du code de la route, le procès-verbal mentionné à l'article R. 15-33-40 comporte une mention informant la personne de la perte de points qui résultera de l'exécution de la composition pénale, de l'existence d'un traitement automatisé de ces points et de la possibilité pour elle d'exercer son droit d'accès.
+Lorsque la composition pénale intervient à la suite d'un délit prévu aux articles L. 234-1 et L. 234-8 du code de la route, le procès-verbal mentionné à l'article R. 15-33-40 comporte une mention informant la personne de la perte de points qui résultera de l'exécution de la composition pénale, de l'existence d'un traitement automatisé de ces points et de la possibilité pour elle d'exercer son droit d'accès.
 
 
 ###### Article R15-33-44
@@ -12019,7 +12022,7 @@ Lorsque la composition pénale comporte l'accomplissement d'un travail non rému
 
 ###### Article R15-33-55
 
-Les dispositions des articles 131-23 et 131-24, 132-55 (1° à 6°), R. 131-23 à R. 131-34 du code pénal sont applicables à l'exécution du travail prévu par le 4° de l'article 41-2 du présent code, les attributions confiées par ces articles au tribunal ou au juge de l'application des peines étant dévolues au procureur de la République ou à la personne par lui désignée.
+Les dispositions des articles 131-23 et 131-24, 132-55, R. 131-23 à R. 131-34 du code pénal et L. 412-8 (5°) du code de la sécurité sociale sont applicables à l'exécution du travail prévu par le 4° de l'article 41-2 du présent code, les attributions confiées par ces articles au tribunal ou au juge de l'application des peines étant dévolues au procureur de la République ou à la personne par lui désignée.
 
 Le service pénitentiaire d'insertion et de probation peut être désigné par le procureur de la République pour exercer les attributions prévues pour l'agent de probation par les articles mentionnés à l'alinéa précédent.
 
@@ -12031,7 +12034,7 @@ Lorsqu'il est fait application des dispositions du sixième alinéa de l'article
 
 ###### Article R15-33-57
 
-Lorsque, pour des motifs graves d'ordre médical, familial, professionnel ou social, la personne n'a pas pu exécuter les mesures décidées dans les délais prescrits, et que ces délais sont inférieurs aux délais maxima prévus aux 1° et 4° de l'article 41-2, le procureur de la République peut prolonger les délais d'exécution de ces mesures, sans pouvoir toutefois dépasser lesdits délais.
+Lorsque, pour des motifs graves d'ordre médical, familial, professionnel ou social, la personne n'a pas pu exécuter les mesures décidées dans les délais prescrits, et que ces délais sont inférieurs aux délais maxima prévus aux 1° et 4° et au sixième alinéa de l'article 41-2, le procureur de la République peut prolonger les délais d'exécution de ces mesures, sans pouvoir toutefois dépasser lesdits délais.
 
 
 ###### Article R15-33-58
@@ -12090,12 +12093,12 @@ Les dispositions du présent article ne sont pas prescrites à peine de nullité
 
 ##### Article R15-34
 
-Lorsqu'il ne procède pas lui-même ou ne fait pas procéder par un officier de police judiciaire à l'enquête de personnalité prévue par l'alinéa 6 de l'article 81, le juge d'instruction saisi de la procédure ou, sur délégation, celui dans le ressort duquel réside l'inculpé peut désigner à cette fin toute personne physique ou morale habilitée comme il est dit ci-après ou, à titre exceptionnel, un contrôleur judiciaire.
+Lorsqu'il ne procède pas lui-même ou ne fait pas procéder par un officier de police judiciaire à l'enquête de personnalité prévue par l'alinéa 6 de l'article 81, le juge d'instruction saisi de la procédure ou, sur délégation, celui dans le ressort duquel réside la personne mise en examen peut désigner à cette fin toute personne physique ou morale habilitée comme il est dit ci-après ou, à titre exceptionnel, un contrôleur judiciaire.
 
 
 ##### Article R15-35
 
-La personne physique ou morale, selon qu'elle désire être habilitée à procéder à des enquêtes de personnalité dans le ressort du tribunal de grande instance ou dans celui de la cour d'appel, en fait la demande au moyen des juges d'instruction ou au président de la chambre de l'instruction.
+La personne physique ou morale, selon qu'elle désire être habilitée à procéder à des enquêtes de personnalité dans le ressort du tribunal de grande instance ou dans celui de la cour d'appel, en fait la demande au doyen des juges d'instruction ou au président de la chambre de l'instruction.
 
 
 
@@ -12117,7 +12120,10 @@ La demande présentée par une association comporte notamment :
 5. La mention des nom, prénoms, date et lieu de naissance, nationalité, profession et domicile des membres du conseil d'administration et du bureau de l'association ainsi que, le cas échéant, ceux de ses représentants locaux ;
 
 
-6. Les pièces financières qui doivent comprendre les comptes du dernier exercice, le budget de l'exercice courant et un bilan ou un état de l'actif mobilier et immobilier et du passif.
+6. Les pièces financières qui doivent comprendre les comptes du dernier exercice, le budget de l'exercice courant et un bilan ou un état de l'actif mobilier et immobilier et du passif ;
+
+
+7. La liste des personnes physiques qui, au sein de l'association, doivent accomplir les missions qui lui sont confiées, avec la mention des nom, prénoms, date et lieu de naissance, nationalité, profession et domicile de chacune d'entre elles.
 
 
 ##### Article R15-36
@@ -12142,6 +12148,8 @@ En cas d'urgence, une habilitation provisoire, valable jusqu'à la décision de 
 ##### Article R15-39
 
 Ne peut être habilitée une personne qui a fait l'objet d'une condamnation, incapacité ou déchéance mentionnée au bulletin n° 2 du casier judiciaire.
+
+Lorsqu'une association envisage une modification de la liste mentionnée au 7° de l'article R. 15-35 ou de désigner, pour accomplir les missions confiées à l'association, une personne physique n'ayant pas été personnellement habilitée, elle doit en aviser le procureur de la République. Ce dernier lui indique, le cas échéant, les personnes qui, suivant les dispositions de l'alinéa précédent, ne peuvent être autorisées à accomplir les missions confiées à l'association.
 
 
 ##### Article R15-40
@@ -12208,16 +12216,16 @@ Ces documents sont remis au détenu à sa libération. Ils lui sont également r
 
 ####### Article R16
 
-Le juge d'instruction saisi de la procédure ou, sur délégation, celui dans le ressort duquel réside l'inculpé, désigne, pour contribuer à l'application du contrôle judiciaire, soit une personne physique ou morale habilitée à cette fin, soit un service de police ou de gendarmerie ou tout service judiciaire ou administratif compétent, soit, à titre exceptionnel, un enquêteur de personnalité.
+Le juge d'instruction saisi de la procédure ou, sur délégation, celui dans le ressort duquel réside la personne mise en examen, désigne, pour contribuer à l'application du contrôle judiciaire, soit une personne physique ou morale habilitée à cette fin, soit un service de police ou de gendarmerie ou tout service judiciaire ou administratif compétent, soit, à titre exceptionnel, un enquêteur de personnalité.
 
 Les contrôleurs judiciaires sont habilités sous les conditions et selon les règles de compétence et de procédure définies par les articles R. 15-35 à R. 15-40.
 
 
 ####### Article R16-1
 
-Les autorités ou personnes chargées de contribuer à l'application du contrôle judiciaire s'assurent que l'inculpé se soumet aux obligations qui lui sont imposées ; à cet effet, elles peuvent le convoquer et lui rendre visite ; elles effectuent toutes démarches et recherches utiles à l'exécution de leur mission.
+Les autorités ou personnes chargées de contribuer à l'application du contrôle judiciaire s'assurent que la personne mise en examen se soumet aux obligations qui lui sont imposées ; à cet effet, elles peuvent la convoquer et lui rendre visite ; elles effectuent toutes démarches et recherches utiles à l'exécution de leur mission.
 
-Elles rendent compte au juge d'instruction, dans les conditions qu'il détermine, du comportement de l'inculpé ; si celui-ci se soustrait aux obligations qui lui sont imposées, elles en avisent le juge sans délai.
+Elles rendent compte au juge d'instruction, dans les conditions qu'il détermine, du comportement de la personne mise en examen ; si celle-ci se soustrait aux obligations qui lui sont imposées, elles en avisent le juge sans délai.
 
 
 ####### Article R16-2
@@ -12236,43 +12244,45 @@ L'application du contrôle judiciaire ne doit pas porter atteinte à la liberté
 
 ####### Article R17-1
 
-Avis est donné aux chefs des services de police ou de gendarmerie du lieu de résidence de l'inculpé de toutes ordonnances soumettant ce dernier à l'une des obligations prévues aux 1°, 2°, 3°, 4°, 8°, 9°, 12° de l'article 138 (alinéa 2), ainsi que de toutes ordonnances portant suppression, modification ou dispense de ces obligations.
+Avis est donné aux chefs des services de police ou de gendarmerie du lieu de résidence de la personne mise en examen de toutes ordonnances soumettant cette derniere à l'une des obligations prévues aux 1°, 2°, 3°, 4°, 8°, 9°, 12° de l'article 138 (alinéa 2), ainsi que de toutes ordonnances portant suppression, modification ou dispense de ces obligations.
 
 
 ####### Article R17-2
 
-Le service ou autorité auquel l'inculpé doit se présenter périodiquement par application du 5° de l'article 138 (alinéa 2) relève les dates auxquelles l'intéressé s'est présenté dans les conditions fixées par le juge d'instruction.
+Le service ou autorité auquel la personne mise en examen doit se présenter périodiquement par application du 5° de l'article 138 (alinéa 2) relève les dates auxquelles l'intéressée s'est présentée dans les conditions fixées par le juge d'instruction.
 
 
 ####### Article R17-3
 
-L'autorité ou la personne qualifiée désignée par le juge d'instruction pour contrôler les activités professionnelles de l'inculpé ou son assiduité à un enseignement, par application du 6° de l'article 138 (alinéa 2) peut se faire présenter par l'inculpé tous documents ou renseignements concernant son travail ou sa scolarité.
+L'autorité ou la personne qualifiée désignée par le juge d'instruction pour contrôler les activités professionnelles de la personne mise en examen ou son assiduité à un enseignement, par application du 6° de l'article 138 (alinéa 2) peut se faire présenter par la personne mise en examen tous documents ou renseignements concernant son travail ou sa scolarité.
 
 
 ####### Article R17-4
 
-Le récépissé remis à l'inculpé en échange des documents visés aux 7° et 8° de l'article 138 (alinéa 2) doit mentionner la nature et les références du document retiré, les nom, prénoms, date de naissance et domicile de l'intéressé ; il doit comporter en outre, lorsqu'il s'agit d'un des documents visés au 7° de l'article 138 (alinéa 2), une photographie récente de l'inculpé et indiquer qu'il vaut justification de l'identité.
+Le récépissé remis à la personne mise en examen en échange des documents visés aux 7° et 8° de l'article 138 (alinéa 2) doit mentionner la nature et les références du document retiré, les nom, prénoms, date de naissance et domicile de l'intéressée ; il doit comporter en outre, lorsqu'il s'agit d'un des documents visés au 7° de l'article 138 (alinéa 2), une photographie récente de la personne mise en examen et indiquer qu'il vaut justification de l'identité.
 
 
 
-Le récépissé doit être remis par l'inculpé lorsque le document retiré lui est restitué.
+Le récépissé doit être remis par la personne mise en examen lorsque le document retiré lui est restitué.
 
 
 ####### Article R17-5
 
-Lorsqu'il est soumis à l'obligation prévue au 10° de l'article 138 (alinéa 2) l'inculpé choisit le praticien ou l'établissement qui assurera l'examen, le traitement ou les soins. Il présente ou fait parvenir au juge toutes les justifications requises.
+Lorsqu'elle est soumise à l'obligation prévue au 10° de l'article 138 (alinéa 2) la personne mise en examen choisit le praticien ou l'établissement qui assurera l'examen, le traitement ou les soins. Elle présente ou fait parvenir au juge toutes les justifications requises.
 
-Dans le cas où les dispositions des articles L. 355-1 et suivants du Code de la santé publique [*alcooliques dangereux pour autrui*] sont applicables, le juge d'instruction peut ordonner à l'inculpé, au titre du contrôle judiciaire, de se soumettre aux mesures de surveillance sanitaire prévues à l'article L. 355-3 dudit code. Avis de l'ordonnance portant placement sous contrôle judiciaire est donné à l'autorité sanitaire.
+
+
+Dans le cas où les dispositions des articles L. 355-1 et suivants du code de la santé publique sont applicables, le juge d'instruction peut ordonner à la personne mise en examen, au titre du contrôle judiciaire, de se soumettre aux mesures de surveillance sanitaire prévues à l'article L. 355-3 dudit code. Avis de l'ordonnance portant placement sous contrôle judiciaire est donné à l'autorité sanitaire.
 
 
 ####### Article R18
 
-Lorsque le juge d'instruction fait application des mesures prévues au 12° de l'article 138 (alinéa 2), avis en est donné s'il y a lieu, soit à l'employeur ou à l'autorité hiérarchique dont relève l'inculpé, soit à l'ordre professionnel auquel il appartient, soit à l'autorité à l'agrément de laquelle est soumis l'exercice de sa profession.
+Lorsque le juge d'instruction fait application des mesures prévues au 12° de l'article 138 (alinéa 2), avis en est donné s'il y a lieu, soit à l'employeur ou à l'autorité hiérarchique dont relève la personne mise en examen, soit à l'ordre professionnel auquel elle appartient, soit à l'autorité à l'agrément de laquelle est soumis l'exercice de sa profession.
 
 
 ####### Article R18-1
 
-Lorsque le juge d'instruction fait application des mesures prévues par le 13° de l'article 138 (alinéa 2), avis en est donné à la succursale ou agence bancaire, à la personne, à l'établissement ou au service qui gèrent le ou les comptes de l'inculpé.
+Lorsque le juge d'instruction fait application des mesures prévues par le 13° de l'article 138 (alinéa 2), avis en est donné à la succursale ou agence bancaire, à la personne, à l'établissement ou au service qui gèrent le ou les comptes de la personne mise en examen.
 
 
 ####### Paragraphe 3 : Du cautionnement
@@ -12315,7 +12325,7 @@ La Caisse des dépôts et consignations, sur les diligences du régisseur de rec
 
 ####### Article R25
 
-Le ministère public, d'office ou à la demande des parties civiles, produit aux services du Trésor qui assurent au titre des produits divers du budget le recouvrement de la fraction du cautionnement acquise à l'Etat dans le cas prévu par l'article 142-2 (alinéa 2), un certificat du greffe établi en double exemplaire constatant la responsabilité encourue par l'inculpé dans ce cas et, éventuellement, un second certificat mentionnant les condamnations prononcées et le numéro de l'extrait du jugement ou d'arrêt dans les cas prévus par les articles 142-3 (alinéa 2) et 372.
+Le ministère public, d'office ou à la demande des parties civiles, produit aux services du Trésor qui assurent au titre des produits divers du budget le recouvrement de la fraction du cautionnement acquise à l'Etat dans le cas prévu par l'article 142-2 (alinéa 2), un certificat du greffe établi en double exemplaire constatant la responsabilité encourue par la personne mise en examen dans ce cas et, éventuellement, un second certificat mentionnant les condamnations prononcées et le numéro de l'extrait du jugement ou d'arrêt dans les cas prévus par les articles 142-3 (alinéa 2) et 372.
 
 La Caisse des dépôts et consignations distribue sans délai, aux ayants droit, les sommes déposées.
 
@@ -12917,6 +12927,55 @@ Le comptable direct du Trésor procède au recouvrement de l'ordonnance pénale 
 
 #### Chapitre II bis : Amende forfaitaire et amende forfaitaire majorée
 
+#### Article R48-1
+
+Les contraventions des quatre premières classes pour lesquelles l'action publique est éteinte par le paiement d'une amende forfaitaire sont les suivantes :
+1. Contraventions réprimées par le code de la route punies uniquement d'une peine d'amende, à l'exclusion de toute peine complémentaire, qu'elles entraînent ou non un retrait des points affectés au permis de conduire sous réserve des dispositions de l'article R. 49-8-5 relatives à l'amende forfaitaire minorée ;
+2. Contraventions en matière de transport et de circulation réprimées par :
+
+a) Les articles R. 211-14 et R. 211-21-5 du code des assurances relatifs à l'assurance obligatoire des véhicules terrestres à moteur et de leurs remorques et semi-remorques ;
+
+b) L'article 80-1 du décret n° 42-730 du 22 mars 1942 sur la police, la sûreté et l'exploitation des voies ferrées d'intérêt général et d'intérêt local, en tant qu'y sont instituées des contraventions aux dispositions des arrêtés préfectoraux concernant la circulation, l'arrêt et le stationnement des véhicules dans les cours de gares ;
+
+c) L'article 3, alinéa 1, du décret n° 86-1130 du 17 octobre 1986 modifié relatif à l'application des dispositions du règlement CEE n° 38-20/85 du Conseil du 20 décembre 1985 relatif à l'harmonisation de certaines dispositions en matière sociale dans le domaine du transport par route et du règlement CEE n° 38-21/85 du Conseil du 20 décembre 1985 concernant l'appareil de contrôle dans le domaine du transport par route ;
+
+d) L'article 22-2 du décret n° 90-200 du 5 mars 1990 modifié relatif à l'exercice de la profession de commissionnaire de transport ;
+
+e) L'article 12 et l'article 13, alinéas 1 et 2, du décret n° 97-608 du 31 mai 1997 modifié relatif à la formation professionnelle initiale et continue des conducteurs salariés du transport routier public de marchandises ;
+
+f) L'article 11 et l'article 12, alinéas 1 et 2, du décret n° 98-1039 du 18 novembre 1998 relatif à la formation professionnelle initiale et continue des conducteurs non salariés du transport routier public de marchandises ;
+
+g) L'article 19-II du décret n° 99-752 du 30 août 1999 modifié relatif aux transports routiers de marchandises ;
+3. Contraventions en matière de protection de l'environnement réprimées par :
+
+a) L'article R. 632-1 du code pénal relatif au dépôt ou à l'abandon de matières, d'ordures ou de déchets dans les bois, forêts et terrains à boiser ;
+
+b) Les articles R. 241-61, R. 241-62 (2°), R. 241-63 (1° et 2°) du code rural relatifs aux parcs nationaux, ainsi que l'article R. 241-66 de ce même code en ce qu'il concerne les faits mentionnés par ces mêmes articles ;
+
+c) L'article R. 322-5 du code forestier relatif à la protection contre l'incendie, l'alinéa premier de l'article R. 331-3 du même code relatif à l'introduction dans les bois, forêts et terrains à boiser de véhicules, bestiaux, animaux de charge ou de monture et l'article R. 133-1-1 du même code relatif à l'aménagement prescrit par l'article L. 133-1 des bois et forêts du domaine de l'Etat ;
+
+d) L'article 10 (deuxième alinéa) du décret n° 2000-1302 du 26 décembre 2000 relatif aux mesures de protection de l'environnement contre les émissions polluantes des moteurs à allumage par compression destinés à équiper les engins mobiles non routiers ;
+4. Contraventions en matière de protection ou de contrôle des animaux domestiques et des animaux sauvages, apprivoisés ou tenus en captivité réprimées par :
+
+a) L'article R. 622-2 du code pénal relatif à la divagation d'animal ;
+
+b) L'article 10 du décret n° 76-352 du 15 avril 1976 fixant les modalités d'application aux équidés de la loi du 28 décembre 1966 sur l'élevage ;
+
+c) L'article 15 du décret n° 80-791 du 1er octobre 1980 pris pour l'application de l'article 276 du code rural ;
+
+d) L'article 6 du décret n° 87-223 du 26 mars 1987 relatif à l'utilisation des animaux dans les spectacles publics et les jeux ;
+
+e) L'article 26 du décret n° 87-848 du 19 octobre 1987 relatif aux expériences pratiquées sur les animaux vertébrés ;
+
+f) L'article 16 du décret n° 91-823 du 28 août 1991 relatif à l'identification des chiens, des chats et autres carnivores domestiques et à la tenue des locaux où se pratiquent de façon habituelle l'élevage en vue de la vente, la commercialisation, le toilettage, le transit ou la garde de ces animaux pris pour l'application des articles 276, 276-2 et 276-3 du code rural ;
+
+g) Les articles 12 et 13 du décret n° 95-1285 du 13 décembre 1995 relatif à la protection des animaux en cours de transport ;
+
+h) L'article 21 (b et c) du décret n° 97-903 du 1er octobre 1997 relatif à la protection des animaux au moment de leur abattage ou de leur mise à mort ;
+
+i) L'article 8 du décret n° 99-1164 du 29 décembre 1999 pris pour l'application du chapitre III du titre II du livre II du code rural, et relatifs à l'application des articles L. 211-14 et L. 211-16 du code rural prévoyant la déclaration en mairie, la vaccination, la stérilisation, l'assurance et les conditions de circulation de certains chiens.
+
+
 #### Article R49
 
 Le montant de l'amende forfaitaire prévue par l'article 529 est fixé ainsi qu'il suit :
@@ -13046,6 +13105,11 @@ L'agent justifie en cas de besoin de l'agrément mentionné au premier alinéa d
 
 #### Chapitre II quater : Dispositions applicables à certaines infractions au code de la route
 
+#### Article R49-8-5
+
+Les dispositions de l'article 529-7 du présent code relatives à l'amende forfaitaire minorée sont applicables aux contraventions des deuxième, troisième et quatrième classes mentionnées à l'article R. 48-1 (1°) à l'exception des contraventions réprimées par les articles R. 417-1 à R. 417-13 et R. 421-7 du code de la route relatives à l'arrêt et au stationnement dangereux, gênant ou abusif.
+
+
 #### Article R49-9
 
 Le montant de l'amende forfaitaire minorée prévue par l'article 529-7 est fixé ainsi qu'il suit :
@@ -13068,7 +13132,7 @@ Le montant de l'amende forfaitaire minorée prévue par l'article 529-7 est fix�
 
 #### Article R49-10
 
-Un avis de contravention et une carte de paiement, dont le modèle est fixé par arrêté du garde des sceaux, ministre de la justice, sont remis au contrevenant au moment de la constatation de l'une des infractions prévues par l'article 529-6.
+Un avis de contravention et une carte de paiement, dont le modèle est fixé par arrêté du garde des sceaux, ministre de la justice, sont remis au contrevenant au moment de la constatation de l'une des infractions prévues par l'article R. 49-8-5.
 
 L'avis mentionne le montant de l'amende forfaitaire minorée, le délai accordé pour la régler, la personne ou le service auprès duquel le paiement doit être effectué.
 
@@ -13093,14 +13157,14 @@ Lorsque le contrevenant n'a pas réglé l'amende forfaitaire minorée, il est re
 
 #### Article R49-13
 
-Les contraventions au code de la route prévues par l'article 529-6 pour lesquelles l'amende forfaitaire minorée n'est pas applicable sont soumises aux dispositions des articles R. 49 à R. 49-8.
+Les contraventions au code de la route prévues par l'article R48-1 pour lesquelles l'amende forfaitaire minorée n'est pas applicable sont soumises aux dispositions des articles R. 49 à R. 49-8.
 
 
 #### Chapitre III : De l'instruction définitive devant le tribunal de police
 
 #### Article R50
 
-Dans le cas prévu par l'alinéa 2 de l'article 470-1, il est procédé comme il est dit à l'article R. 41-1.
+Dans le cas prévu par l'alinéa 2 de l'article 470-1, il est procédé comme il est dit à l'article R. 41-2.
 
 
 #### Chapitre IV
@@ -13353,7 +13417,7 @@ La décision de la commission est notifiée sans délai, par lettre recommandée
 
 ### Article R50-23
 
-Les décisions de la commission et du président de la commission ne peuvent être frappées d'opposition. Elles peuvent être l'objet d'un pourvoi en cassation.
+Les décisions de la commission et du président de la commission ne peuvent être frappées d'opposition. Elles peuvent être frappées d'appel quel que soit le montant de la demande.
 
 
 ### Article R50-24
@@ -14287,7 +14351,7 @@ Dans ce cas, une indemnité kilométrique, fixée chaque année par arrêté du 
 
 ##### Article R98
 
-Lorsque dans le ressort d'une cour d'appel ou d'un tribunal de grande instance ou dans un département, il y a lieu de charger un entrepreneur général d'assurer le transport des prévenus ou accusés, le droit de passer le marché, conformément aux dispositions du décret du 6 avril 1942, n'appartient qu'au ministre de la justice qui peut déléguer ses pouvoirs aux procureurs généraux ou aux procureurs de la République, à charge par eux de soumettre à son approbation préalable le marché s'il est passé de gré à gré, ou ses clauses et conditions s'il y a lieu avec concurrence et publicité.
+Lorsque dans le ressort d'une cour d'appel ou d'un tribunal de grande instance ou dans un département, il y a lieu de charger un entrepreneur général d'assurer le transport des prévenus ou accusés, le droit de passer le marché, conformément aux dispositions du code des marchés publics, n'appartient qu'au ministre de la justice qui peut déléguer ses pouvoirs aux procureurs généraux ou aux procureurs de la République, à charge par eux de soumettre à son approbation préalable le marché s'il est passé de gré à gré, ou ses clauses et conditions s'il y a lieu avec concurrence et publicité.
 
 
 
@@ -14468,7 +14532,7 @@ Pour les échantillons suivants dans la même affaire : 7,17 euros.
 
 ######## Article R116-1
 
-Les tarifs d'honoraires correspondant aux actes d'expertise prévus par les articles R. 117 à R. 120 sont déterminés par référence aux tarifs conventionnels d'honoraires fixés en application des articles L. 262 et L. 267 du Code de la sécurité sociale et sont calculés, pour chacun de ces actes, d'après leur nature et leur valeur relative telles qu'elles résultent des cotations par lettres clés et coefficients mentionnées dans les articles suivants.
+Les tarifs d'honoraires correspondant aux actes d'expertise prévus par les articles R. 117 à R. 120 sont déterminés par référence aux tarifs conventionnels d'honoraires fixés en application de l'article L. 162-15-2 du Code de la sécurité sociale et sont calculés, pour chacun de ces actes, d'après leur nature et leur valeur relative telles qu'elles résultent des cotations par lettres clés et coefficients mentionnées dans les articles suivants.
 
 
 ######## Article R117
@@ -14567,37 +14631,23 @@ Il est alloué à chaque expert régulièrement requis ou commis :
 ###### Article R121
 
 En sus du remboursement de leurs frais de déplacement, calculés dans les conditions fixées pour les déplacements des fonctionnaires du groupe II, il est alloué aux personnes habilitées :
+1. Pour la vérification de la situation matérielle, familiale ou sociale des personnes faisant l'objet d'une enquête prévue par les articles 41 (alinéa 6) et 81 (alinéa 7) : 38,87 euros ;
+2. Pour l'enquête sur la personnalité des personnes mises en examen ainsi que sur leur situation matérielle, familiale ou sociale, prévue par l'article 81 (alinéa 6) : 73,18 euros.
 
-
-1. Pour la vérification de la situation matérielle, familiale ou sociale des personnes faisant l'objet d'une enquête prévue par les articles 41 (alinéa 5) et 81 (alinéa 7) : 255 F ;
-
-
-2. Pour l'enquête sur la personnalité des inculpés ainsi que sur leur situation matérielle, familiale ou sociale, prévue par l'article 81 (alinéa 6) : 480 F.
-
-
-
-Lorsque la personne habilitée est une association qui a passé une convention avec le premier président et le procureur général de la cour d'appel dans le ressort de laquelle est situé son siège, l'indemnité prévue au 1° ci-dessus est portée à 420 F et l'indemnité prévue au 2° à 1 000 F.
+Lorsque la personne habilitée est une association qui a passé une convention avec le premier président et le procureur général de la cour d'appel dans le ressort de laquelle est situé son siège, l'indemnité prévue au 1° ci-dessus est portée à 64,03 euros et l'indemnité prévue au 2° à 152,45 euros.
 
 
 ###### Article R121-1
 
-En sus du remboursement de leurs frais de déplacement, calculés dans les conditions fixées pour les déplacements des fonctionnaires du groupe II, il est alloué aux enquêteurs de personnalité et aux personnes physiques ou représentants des personnes morales mentionnées à l'article R. 16-2 (alinéa 1er) pour la mission de contrôle judiciaire exercée sur chaque inculpé, en application du 6° de l'article 138 (alinéa 2) :
+En sus du remboursement de leurs frais de déplacement, calculés dans les conditions fixées pour les déplacements des fonctionnaires du groupe II, il est alloué aux enquêteurs de personnalité et aux personnes physiques ou représentants des personnes morales mentionnées à l'article R. 16-2 (alinéa 1er) pour la mission de contrôle judiciaire exercée sur chaque personne mise en examen, en application du 6° de l'article 138 (alinéa 2) :
 
+51,83 euros lorsque la mission de contrôle judiciaire dure trois mois ou moins ;
 
+110,53 euros lorsque la mission de contrôle judiciaire dure plus de trois mois sans excéder un an ;
 
-340 F lorsque la mission de contrôle judiciaire dure trois mois ou moins ;
+152,45 euros lorsque la mission de contrôle judiciaire dure plus d'un an.
 
-
-
-725 F lorsque la mission de contrôle judiciaire dure plus de trois mois sans excéder un an ;
-
-
-
-1.000 F lorsque la mission de contrôle judiciaire dure plus d'un an.
-
-
-
-Lorsque cette mission est effectuée par une association qui a passé une convention avec le premier président et le procureur général de la cour d'appel dans le ressort de laquelle est situé son siège social, l'indemnité allouée est portée respectivement à 1.000 F, 1.670 F et 2.670 F.
+Lorsque cette mission est effectuée par une association qui a passé une convention avec le premier président et le procureur général de la cour d'appel dans le ressort de laquelle est situé son siège social, l'indemnité allouée est portée respectivement à 152, 45 euros, 254,59 euros et 407,04 euros.
 
 
 ###### Article R121-2
@@ -14806,48 +14856,32 @@ Mention de ces certifications partielles est faite sur la copie de la notificati
 Lorsqu'un juré se trouve hors d'état de subvenir aux frais de son déplacement, il lui est délivré, s'il le requiert et sur présentation d'une ordonnance rendue par le président du tribunal d'instance de sa résidence un acompte sur l'indemnité qui lui sera due. Le montant de cet acompte est déterminé conformément aux dispositions du deuxième alinéa de l'article R. 134. Le régisseur d'avances, qui paie cet acompte, en fait mention en marge et au bas de la notification délivrée au juré.
 
 
-##### Section 4 : Des frais de garde des scellés, de mise en fourrière et de l'immobilisation décidée en application de l'article 43-3-3° bis du code pénal
+##### Section 4 : Des frais de garde des scellés, de mise en fourrière et de l'immobilisation décidée en application des articles 131-6 (5°) et 131-14 (2°) du code pénal
 
 ##### Article R147
 
 Dans les cas prévus aux articles 54, 56, 97 et 151, il n'est accordé d'indemnité pour la garde des scellés que lorsqu'il n'a pas été jugé à propos de confier cette garde à des habitants de l'immeuble où les scellés ont été apposés.
 
-
-
 Dans ces cas, il est alloué pour chaque jour, pendant le premier mois, au gardien nommé d'office :
 
+A Paris : 0,46 euro ;
 
-
-A Paris : 3 F ;
-
-
-
-Dans les autres localités : 2 F ;
-
-
+Dans les autres localités : 0,30 euro ;
 
 Le premier mois écoulé, ces indemnités sont réduites de moitié.
 
-
-
 Lorsque les scellés sont apposés sur des véhicules automobiles, les tarifs des frais de garde journalière sont fixés ainsi qu'il suit :
 
+Pour les véhicules poids lourds d'un poids total autorisé en charge supérieur à 3,5 tonnes : 6,10 euros ;
 
+Pour les voitures particulières et les autres véhicules poids lourds : 3,20 euros ;
 
-Pour les véhicules poids lourds d'un poids total autorisé en charge supérieur à 3,5 tonnes : 40 F ;
-
-
-
-Pour les voitures particulières et les autres véhicules poids lourds : 21 F ;
-
-
-
-Pour les autres véhicules immatriculés : 16 F.
+Pour les autres véhicules immatriculés : 2,44 euros.
 
 
 ##### Article R147-1
 
-Le tarif des frais de garde entraînés par l'immobilisation d'un véhicule décidée en application des articles 131-6 (5°) et 131-14 (2°) du Code pénal est celui qui est fixé conformément au dernier alinéa de l'article précédent.
+Le tarif des frais de garde entraînés par l'immobilisation d'un véhicule décidée en application des articles 131-6 (5°) et 131-14 (2°) du code pénal est celui qui est fixé conformément au dernier alinéa de l'article précédent.
 
 
 ##### Article R148
@@ -14890,7 +14924,7 @@ Dans le cas de renvoi des accusés, soit devant une autre juridiction d'instruct
 ####### Article R155
 
 En matière criminelle, correctionnelle et de police, hors les cas prévus par l'article 114, il peut être délivré aux parties :
-1. Sur leur demande, expédition de la plainte ou de la dénonciation des ordonnances définitives, des arrêts, des jugements, des ordonnances pénales et des titres exécutoires prévus à l'article L. 27-I, alinéa 2, du Code de la route ;
+1. Sur leur demande, expédition de la plainte ou de la dénonciation des ordonnances définitives, des arrêts, des jugements, des ordonnances pénales et des titres exécutoires prévus à l'article 529-2, alinéa 2, du code de procédure pénale ;
 2. Avec l'autorisation du procureur de la République ou du procureur général selon le cas, expédition de toutes les autres pièces de la procédure, notamment, en ce qui concerne les pièces d'une enquête terminée par une décision de classement sans suite. Toutefois, cette autorisation n'est pas requise lorsque des poursuites ont été engagées ou qu'il est fait application des articles 41-1 à 41-3 et que la copie est demandée pour l'exercice des droits de la défense ou des droits de la partie civile.
 
 
@@ -15050,7 +15084,7 @@ Tout huissier de justice qui refusera d'instrumenter dans une procédure suivie 
 
 Les huissiers de justice ne peuvent, pour quelque cause et sous quelque prétexte que ce soit, exiger d'autres ou de plus forts droits que ceux qui leur sont alloués par le présent titre.
 
-Par dérogation à la règle établie à l'alinéa précédent, sont fixés conformément aux tarifs en matière civile, sauf pour les parties civiles visées à l'article R247, les frais des actes délivrés à la requête des parties civiles après l'extinction de l'action publique et en vue de faire statuer uniquement sur les intérêts civils.
+Par dérogation à la règle établie à l'alinéa précédent, sont fixés conformément aux tarifs en matière civile, les frais des actes délivrés à la requête des parties civiles après l'extinction de l'action publique et en vue de faire statuer uniquement sur les intérêts civils.
 
 Ces frais sont à la charge des intéressés et ne sont pas imputables sur les crédits de la justice criminelle.
 
@@ -15216,7 +15250,7 @@ Les parties prenantes déposent ou adressent leur état ou mémoire au greffe de
 ###### Article R224-1
 
 La procédure de certification est applicable aux frais de justice criminelle, correctionnelle et de police suivants :
-1. Indemnités accordées aux jurés, aux témoins, aux parties civiles, aux interprètes traducteurs et aux personnes mentionnées aux articles R. 121 et R. 121-1 ;
+1. Indemnités accordées aux jurés, aux témoins, aux parties civiles, aux interprètes traducteurs et aux personnes mentionnées aux articles R. 121 à R. 121-2 ;
 2. Frais de vérifications médicales, cliniques et biologiques en matière d'alcoolémie ;
 3. Frais de garde de scellés et de mise en fourrière ;
 4. Emoluments et indemnités alloués aux huissiers de justice ;
