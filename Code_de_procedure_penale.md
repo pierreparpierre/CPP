@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 31 août 1984
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19840831)
+- Date de consolidation : 1er septembre 1984
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19840901)
 
 
 # Partie législative
@@ -7362,6 +7362,11 @@ En cas d'urgence, cet envoi peut être effectué par télécopie.
 
 
 #### Chapitre V : De la délivrance des bulletins n° 2 du casier judiciaire
+
+#### Article R80
+
+Le bulletin n° 2 est réclamé au service du casier judiciaire national automatisé par lettre, télégramme, télétransmission ou support magnétique avec l'indication de l'état civil de la personne dont le bulletin est demandé, de la qualité de l'autorité requérante ainsi que du motif de la demande.
+
 
 #### Article R81
 
