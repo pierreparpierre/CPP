@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 1er avril 2003
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20030401)
+- Date de consolidation : 13 mai 2003
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20030513)
 
 
 # Partie législative
@@ -12480,6 +12480,31 @@ La somme consignée est remise à la partie civile sur simple récépissé lorsq
 
 En cas de condamnation à une amende civile, la somme consignée est employée au paiement de celle-ci.
 
+
+##### Section 3 : Des transports, des perquisitions, des saisies et des interceptions de correspondances émises par la voie des télécommunications
+
+###### Sous-section 1 : Des transports, des perquisitions et des saisies
+
+###### Article R15-41-1
+
+En application des dispositions du deuxième alinéa de l'article 99-2, il est procédé à la vente des biens meubles placés sous main de justice et à la restitution, lorsqu'elle a lieu, du produit de la vente au propriétaire de ces biens selon des modalités déterminées par la présente sous-section.
+
+
+###### Article R15-41-2
+
+Les biens meubles placés sous main de justice sont remis au service des domaines qui procède à leur aliénation dans les formes prévues pour la vente du mobilier de l'Etat. Le produit de la vente est versé à la Caisse des dépôts et consignations.
+
+Ce versement est mentionné dans un registre spécial tenu par le greffe du tribunal de grande instance.
+
+
+###### Article R15-41-3
+
+Dès qu'est devenue définitive une décision de non-lieu, de relaxe ou d'acquittement ou une décision de condamnation n'ayant pas prononcé la peine de confiscation, le procureur de la République de la juridiction devant laquelle s'est déroulée l'instruction informe, par lettre recommandée avec demande d'avis de réception, le propriétaire des biens des modalités de restitution du produit de la vente. Dans les six mois suivant cette notification, la demande de restitution doit être formée auprès du même procureur de la République par déclaration contre récépissé ou par lettre recommandée avec demande d'avis de réception.
+
+Lorsqu'il estime que les conditions prévues par la loi sont remplies, ce magistrat délivre à l'intéressé une attestation au vu de laquelle celui-ci peut demander à la Caisse des dépôts et consignations que les sommes déposées lui soient versées sans délai, augmentées, le cas échéant, des intérêts échus. Dans le cas contraire, la décision du procureur de la République de refuser de délivrer l'attestation mentionnée à l'alinéa précédent peut être contestée dans les conditions prévues par le deuxième alinéa de l'article 41-4.
+
+
+###### Sous-section 2 : Des interceptions de correspondances émises par la voie des télécommunications
 
 ##### Section 4
 
