@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 1er janvier 1979
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19790101)
+- Date de consolidation : 18 janvier 1979
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19790118)
 
 
 # Partie législative
@@ -9672,6 +9672,20 @@ A défaut d'un tel quartier dans les établissements où la distribution des loc
 ### Titre IX
 
 ### Titre X
+
+### Titre XI : Le comité de probation et d'assistance aux libérés
+
+### Article D572
+
+Le présent code, ainsi que les décrets qui le modifient est applicable aux départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon.
+
+
+## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion
+
+## Article D573
+
+Des arrêtés du ministre de la justice déterminent, en tant que de besoin, les adaptations jugées nécessaires à l'application des titres II, III, IV et VI du livre V du code de procédure pénale (3° partie : Décrets) dans les départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon.
+
 
 # Partie Arrêtés
 
