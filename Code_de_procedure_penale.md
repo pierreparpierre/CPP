@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 1er octobre 1991
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19911001)
+- Date de consolidation : 19 décembre 1991
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19911219)
 
 
 # Partie législative
@@ -74,6 +74,11 @@ Toute association régulièrement déclarée depuis au moins cinq ans à la date
 ## Article 2-10
 
 Toute association régulièrement déclarée depuis au moins cinq ans à la date des faits ayant, en vertu de ses statuts, vocation à lutter contre l'exclusion sociale ou culturelle des personnes en état de grande pauvreté ou en raison de leur situation de famille peut exercer les droits reconnus à la partie civile en ce qui concerne les infractions prévues par les articles 187-1, 187-2, 416 et 416-1 du code pénal. Toutefois l'association ne sera recevable dans son action que si elle justifie avoir reçu l'accord de la victime ou, si celle-ci est un mineur ou un majeur protégé, celui de son représentant légal.
+
+
+## Article 2-11
+
+Toute association, régulièrement déclarée depuis au moins cinq ans à la date des faits et inscrite auprès de l'Office national des anciens combattants et victimes de guerre dans des conditions fixées par décret en Conseil d'Etat, qui se propose par ses statuts de défendre les intérêts moraux et l'honneur des anciens combattants et victimes de guerre et des morts pour la France peut exercer les droits reconnus à la partie civile en ce qui concerne les dégradations ou destructions de monuments ou les violations de sépultures, qui ont causé un préjudice direct ou indirect à la mission qu'elle remplit.
 
 
 ## Article 3
