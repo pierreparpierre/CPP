@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 16 avril 1971
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19710416)
+- Date de consolidation : 16 septembre 1971
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19710916)
 
 
 # Partie législative
