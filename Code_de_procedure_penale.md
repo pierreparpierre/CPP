@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 12 décembre 2001
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20011212)
+- Date de consolidation : 16 décembre 2001
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20011216)
 
 
 # Partie législative
@@ -2380,19 +2380,6 @@ La procédure devant le premier président de la cour d'appel et la commission n
 ###### Article 150
 
 La réparation allouée en application de la présente sous-section est à la charge de l'Etat, sauf le recours de celui-ci contre le dénonciateur de mauvaise foi ou le faux témoin dont la faute aurait provoqué la détention ou sa prolongation. Elle est payée comme frais de justice criminelle.
-
-
-###### Sous-section 3 : De l'indemnisation à raison d'une détention provisoire
-
-###### Article 149-1
-
-L'indemnité prévue à l'article précédent est allouée par décision d'une commission qui statue souverainement.
-
-Le bureau de la Cour de cassation peut décider que la commission comportera plusieurs formations.
-
-La commission, ou chacune des formations qu'elle comporte le cas échéant, est composée du premier président de la Cour de cassation, ou de son représentant, qui la préside, et de deux magistrats du siège à la même cour ayant le grade de président de chambre, de conseiller ou de conseiller référendaire, désignés annuellement par le bureau de la cour. Outre ces deux magistrats, ce bureau désigne également, dans les mêmes conditions, trois suppléants.
-
-Les fonctions du ministère public sont remplies par le parquet général près la Cour de cassation.
 
 
 ##### Article 137
