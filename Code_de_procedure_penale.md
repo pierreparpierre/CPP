@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 11 juillet 2000
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20000711)
+- Date de consolidation : 27 juillet 2000
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20000727)
 
 
 # Partie législative
@@ -20079,11 +20079,6 @@ Le montant de la participation des détenus aux frais de leur entretien sur le p
 ###### Article A41-1
 
 La somme prévue à l'article D. 324 du code de procédure pénale à partir de laquelle les dépôts sur livrets de caisse d'épargne doivent être effectués est fixée à 1 500 F.
-
-
-###### Article A41-2
-
-Le plafond des subsides pouvant être reçus chaque mois par les condamnés en application de l'article D 422 est fixé à 1 200 F.
 
 
 ###### Article A42
