@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 25 février 1982
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19820225)
+- Date de consolidation : 30 mars 1982
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19820330)
 
 
 # Partie législative
@@ -9307,6 +9307,13 @@ Une instruction de service détermine les modalités d'application de ces dispos
 Le capital représentatif des rentes d'accidents du travail dont la conversion a été rendue obligatoire par le décret n° 59-734 du 15 juin 1959 est intégralement versé au pécule de libération.
 
 Pendant l'incarcération, le pécule de libération ne peut faire l'objet d'aucune voie d'exécution sous réserve des dispositions prévues à l'article D113.
+
+
+###### Article D325
+
+L'indemnisation des parties civiles est assurée sur la part prévue à l'article D113. A cette fin, le ministère public près la juridiction ayant prononcé la condamnation, dès que cette dernière a acquis un caractère définitif, informe sans délai l'établissement où se trouve incarcéré le ou les détenus de l'existence de parties civiles et du montant de leurs créances.
+
+Cette part ne saurait faire l'objet d'aucun acte de disposition émanant du détenu.
 
 
 ###### Article D326
