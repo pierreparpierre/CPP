@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 12 mai 1998
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19980512)
+- Date de consolidation : 18 juin 1998
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19980618)
 
 
 # Partie législative
@@ -29,12 +29,12 @@ Toute association régulièrement déclarée depuis au moins cinq ans à la date
 
 ## Article 2-2
 
-Toute association régulièrement déclarée depuis au moins cinq ans à la date des faits, dont l'objet statutaire comporte la lutte contre les violences sexuelles ou contre les violences exercées sur un membre de la famille, peut exercer les droits reconnus à la partie civile, en ce qui concerne les atteintes volontaires à la vie et à l'intégrité de la personne, les agressions et autres atteintes sexuelles, l'enlèvement et la séquestration et la violation de domicile réprimés par les articles 221-1 à 221-4, 222-1 à 222-18, 222-23 à 222-33, 224-1 à 224-5, 226-4, 227-25, 227-26, 227-27 et 432-8 du code pénal. Toutefois, l'association ne sera recevable dans son action que si elle justifie avoir reçu l'accord de la victime ou, si celle-ci est mineure, celui du titulaire de l'autorité parentale ou du représentant légal.
+Toute association régulièrement déclarée depuis au moins cinq ans à la date des faits, dont l'objet statutaire comporte la lutte contre les violences sexuelles ou contre les violences exercées sur un membre de la famille, peut exercer les droits reconnus à la partie civile, en ce qui concerne les atteintes volontaires à la vie et à l'intégrité de la personne, les agressions et autres atteintes sexuelles, l'enlèvement et la séquestration et la violation de domicile réprimés par les articles 221-1 à 221-4, 222-1 à 222-18, 222-23 à 222-33, 224-1 à 224-5, 226-4, 227-25, 227-26, 227-27 et 432-8 du code pénal. Toutefois, l'association ne sera recevable dans son action que si elle justifie avoir reçu l'accord de la victime ou, si celle-ci est mineure, celui du titulaire de l'autorité parentale ou du représentant légal ou, à défaut, celui du juge des tutelles saisi en application de l'article 389-3 du code civil. Cette condition n'est toutefois pas exigée lorsque les faits ont été commis à l'étranger et qu'il est fait application des dispositions du second alinéa de l'article 222-22 et de l'article 227-27-1 du code pénal.
 
 
 ## Article 2-3
 
-Toute association, régulièrement déclarée depuis au moins cinq ans à la date des faits, se proposant, par ses statuts, de défendre ou d'assister l'enfance martyrisée, peut exercer les droits reconnus à la partie civile en ce qui concerne les tortures et actes de barbarie, les violences et agressions sexuelles commis sur la personne d'un mineur et les infractions de mise en péril des mineurs réprimés par les articles 222-3 à 222-6, 222-8, 222-10, 222-12, 222-13, 222-14, 222-15, 222-24, 222-25, 222-26, 222-29, 222-30, 227-22, 227-25, 227-26 et 227-27 du code pénal, lorsque l'action publique a été mise en mouvement par le ministère public ou la partie lésée.
+Toute association, régulièrement déclarée depuis au moins cinq ans à la date des faits, se proposant, par ses statuts, de défendre ou d'assister l'enfance martyrisée ou les mineurs victimes d'atteintes sexuelles, peut exercer les droits reconnus à la partie civile en ce qui concerne les tortures et actes de barbarie, les violences et agressions sexuelles commis sur la personne d'un mineur et les infractions de mise en péril des mineurs réprimés par les articles 222-3 à 222-6, 222-8, 222-10, 222-12, 222-13, 222-14, 222-15, 222-24, 222-25, 222-26, 222-29, 222-30, 227-22, 227-25, 227-26 et 227-27 du code pénal, lorsque l'action publique a été mise en mouvement par le ministère public ou la partie lésée.
 
 
 ## Article 2-4
@@ -156,14 +156,16 @@ En matière de crime et sous réserve des dispositions de l'article 213-5 du cod
 
 S'il en a été effectué dans cet intervalle, elle ne se prescrit qu'après dix années révolues à compter du dernier acte. Il en est ainsi même à l'égard des personnes qui ne seraient pas impliquées dans cet acte d'instruction ou de poursuite.
 
-Lorsque la victime est mineure et que le crime a été commis par un ascendant légitime, naturel ou adoptif ou par une personne ayant autorité sur elle, le délai de prescription ne commence à courir qu'à partir de sa majorité.
+Le délai de prescription de l'action publique des crimes commis contre des mineurs ne commence à courir qu'à partir de la majorité de ces derniers.
 
 
 ## Article 8
 
 En matière de délit, la prescription de l'action publique est de trois années révolues ; elle s'accomplit selon les distinctions spécifiées à l'article précédent.
 
-Lorsque la victime est mineure et que le délit a été commis par un ascendant légitime, naturel ou adoptif ou par une personne ayant autorité sur elle, le délai de prescription ne commence à courir qu'à partir de sa majorité.
+Le délai de prescription de l'action publique des délits commis contre des mineurs prévus et réprimés par les articles 222-9, 222-11 à 222-15, 222-27 à 222-30, 225-7, 227-22 et 227-25 à 227-27 du code pénal ne commence à courir qu'à partir de la majorité de ces derniers.
+
+Par dérogation aux dispositions du premier alinéa, le délai de prescription est de dix ans lorsque la victime est mineure et qu'il s'agit de l'un des délits prévus aux articles 222-30 et 227-26 du code pénal.
 
 
 ## Article 9
@@ -495,7 +497,9 @@ Il représente de même, en personne ou par ses substituts, le ministère public
 
 ##### Article 40
 
-Le procureur de la République reçoit les plaintes et les dénonciations et apprécie la suite à leur donner. Il avise le plaignant du classement de l'affaire ainsi que la victime lorsque celle-ci est identifiée.
+Le procureur de la République reçoit les plaintes et les dénonciations et apprécie la suite à leur donner. Il avise le plaignant du classement de l'affaire ainsi que la victime lorsque celle-ci est identifiée. Lorsqu'il s'agit de faits commis contre un mineur et prévus et réprimés par les articles 222-23 à 222-32 et 227-22 à 227-27 du code pénal, l'avis de classement doit être motivé et notifié par écrit.
+
+
 
 Toute autorité constituée, tout officier public ou fonctionnaire qui, dans l'exercice de ses fonctions, acquiert la connaissance d'un crime ou d'un délit est tenu d'en donner avis sans délai au procureur de la République et de transmettre à ce magistrat tous les renseignements, procès-verbaux et actes qui y sont relatifs.
 
@@ -1170,13 +1174,6 @@ La constitution de partie civile peut avoir lieu à tout moment au cours de l'in
 Elle peut être contestée par le procureur de la République ou par une partie.
 
 En cas de contestation, ou s'il déclare irrecevable la constitution de partie civile, le juge d'instruction statue, après communication du dossier au ministère public, par ordonnance motivée dont l'intéressé peut interjeter appel.
-
-
-##### Article 87-1
-
-Le juge d'instruction saisi de faits commis volontairement à l'encontre d'un enfant mineur par les titulaires de l'exercice de l'autorité parentale ou par l'un d'entre eux peut procéder à la désignation d'un administrateur ad hoc pour exercer, s'il y a lieu, au nom de l'enfant les droits reconnus à la partie civile. En cas de constitution de partie civile, le juge fait désigner un avocat d'office pour le mineur s'il n'en a pas déjà été choisi un.
-
-Les dispositions qui précèdent sont applicables à la juridiction de jugement.
 
 
 ##### Article 88
@@ -7378,6 +7375,28 @@ Le représentant de la personne morale poursuivie ne peut, en cette qualité, fa
 Les dispositions particulières applicables à la signification des actes aux personnes morales sont fixées au titre IV du livre II.
 
 
+### Titre XIX : De la procédure applicable aux infractions de nature sexuelle et de la protection des mineurs victimes
+
+### Article 706-47
+
+Les personnes poursuivies pour le meurtre ou l'assassinat d'un mineur précédé ou accompagné d'un viol, de tortures ou d'actes de barbarie ou pour l'une des infractions visées aux articles 222-23 à 222-32 et 227-22 à 227-27 du code pénal doivent être soumises, avant tout jugement sur le fond, à une expertise médicale. L'expert est interrogé sur l'opportunité d'une injonction de soins dans le cadre d'un suivi socio-judiciaire.
+
+Cette expertise peut être ordonnée dès le stade de l'enquête par le procureur de la République.
+
+Cette expertise est communiquée à l'administration pénitentiaire en cas de condamnation à une peine privative de liberté, afin de faciliter le suivi médical et psychologique en détention prévu par l'article 718.
+
+
+### Article 706-54
+
+Il est créé un fichier national automatisé destiné à centraliser les traces génétiques ainsi que les empreintes génétiques des personnes condamnées pour l'une des infractions visées à l'article 706-47 en vue de faciliter l'identification et la recherche des auteurs d'infractions sexuelles.
+
+Ce fichier est placé sous le contrôle d'un magistrat.
+
+Les modalités d'application du présent article, y compris la durée de conservation des informations enregistrées, sont déterminées par décret en Conseil d'Etat après avis de la Commission nationale de l'informatique et des libertés.
+
+Les empreintes génétiques des personnes à l'encontre desquelles il existe des indices graves et concordants de nature à motiver leur mise en examen pour l'une des infractions visées à l'article 706-47 peuvent faire l'objet, à la demande du juge d'instruction ou du procureur de la République, d'un rapprochement avec les données incluses au fichier. Elles ne peuvent toutefois y être conservées.
+
+
 ## Livre V : Des procédures d'exécution
 
 ### Titre Ier : De l'exécution des sentences pénales
@@ -7642,34 +7661,24 @@ Pour l'application du présent article, la situation de chaque condamné est exa
 
 ##### Article 721-1
 
-Après un an de détention, une réduction supplémentaire de la peine peut être accordée aux condamnés qui manifestent des efforts sérieux de réadaptation sociale, notamment en passant avec succès un examen scolaire, universitaire ou professionnel traduisant l'acquisition de connaissances nouvelles ou justifiant de progrès réels dans le cadre d'un enseignement ou d'une formation.
+Après un an de détention, une réduction supplémentaire de la peine peut être accordée aux condamnés qui manifestent des efforts sérieux de réadaptation sociale, notamment en passant avec succès un examen scolaire, universitaire ou professionnel traduisant l'acquisition de connaissances nouvelles ou justifiant de progrès réels dans le cadre d'un enseignement ou d'une formation. Sauf décision du juge de l'application des peines, prise après avis de la commission de l'application des peines, les personnes condamnées à un suivi socio-judiciaire comprenant une injonction de soins, et qui refusent de suivre un traitement pendant leur incarcération, ne sont pas considérées comme manifestant des efforts sérieux de réadaptation sociale.
 
-Cette réduction, accordée par le juge de l'application des peines après avis de la commission de l'application des peines, ne peut excéder, si le condamné est en état de récidive légale, un mois par année d'incarcération ou deux jours par mois lorsque la durée d'incarcération resant à subir est inférieure à une année. Si le condamné n'est pas en état de récidive légale, ces limites sont respectivement portées à deux mois et à quatre jours. Les dispositions du troisième alinéa de l'article 721 sont applicables.
+Cette réduction, accordée par le juge de l'application des peines après avis de la commission de l'application des peines, ne peut excéder, si le condamné est en état de récidive légale, un mois par année d'incarcération ou deux jours par mois lorsque la durée d'incarcération resant à subir est inférieure à une année. Si le condamné n'est pas en état de récidive légale, ces limites sont respectivement portées à deux mois et à quatre jours. Les dispositions du troisième alinéa de l'article 721 sont applicables.    Sauf décision du juge de l'application des peines, prise après avis de la commission de l'application des peines, les dispositions du présent article ne sont pas applicables aux personnes condamnées pour l'une des infractions mentionnées à l'article 706-47 si, lorsque leur condamnation est devenue définitive, le casier judiciaire faisait mention d'une telle condamnation.
 
 
 ##### Section 5 : Des attributions du juge de l'application des peines et de la commission de l'application des peines
 
 ##### Article 722
 
-Auprès de chaque établissement pénitentiaire, le juge de l'application des peines détermine pour chaque condamné les principales modalités du traitement pénitentiaire. Dans les limites et conditions prévues par la loi, il accorde les placements à l'extérieur, la semi-liberté, les réductions, fractionnements et suspensions de peines, les autorisations de sortie sous escorte, les permissions de sortir, la libération conditionnelle, le placement sous surveillance électronique ou il saisit la juridiction compétente pour aménager l'exécution de la peine. Sauf urgence, il statue après avis de la commission de l'application des peines.
+Auprès de chaque établissement pénitentiaire, le juge de l'application des peines détermine pour chaque condamné les principales modalités du traitement pénitentiaire [*pouvoir*]. Dans les limites et conditions prévues par la loi, il accorde les placements à l'extérieur, la semi-liberté, les réductions, fractionnements et suspensions de peines, les autorisations de sortie sous escorte, les permissions de sortir, la libération conditionnelle, le placement sous surveillance électronique ou il saisit la juridiction compétente pour aménager l'exécution de la peine. Sauf urgence, il statue après avis de la commission de l'application des peines.
 
-
-
-Cette commission est réputée avoir rendu son avis si celui-ci n'est pas intervenu dans le délai d'un mois à compter du jour de sa saisine.
-
-
+Cette commission est réputée avoir rendu son avis [*décision implicite*] si celui-ci n'est pas intervenu dans le délai d'un mois à compter du jour de sa saisine.
 
 Le juge de l'application des peines donne en outre son avis, sauf urgence, sur le transfert des condamnés d'un établissement à un autre.
 
+La commission de l'application des peines est présidée par le juge de l'application des peines ; le procureur de la République et le chef de l'établissement en sont membres de droit [*composition*].
 
-
-La commission de l'application des peines est présidée par le juge de l'application des peines ; le procureur de la République et le chef de l'établissement en sont membres de droit.
-
-
-
-Les mesures énumérées au premier alinéa, à l'exception des réductions de peines et des autorisations de sortie sous escorte, ne peuvent être accordées sans une expertise psychiatrique préalable à une personne condamnée pour le meurtre ou l'assassinat d'un mineur de quinze ans précédé ou accompagné d'un viol, de tortures ou d'actes de barbarie, ou condamnée pour l'une des infractions visées aux articles 222-23 à 222-32 et 227-25 à 227-27 du code pénal. L'expertise est réalisée par trois experts lorsque la personne a été condamnée pour le meurtre, l'assassinat ou le viol d'un mineur de quinze ans.
-
-
+Les mesures énumérées au premier alinéa, à l'exception des réductions de peines n'entraînant pas de libération immédiate et des autorisations de sortie sous escorte, ne peuvent être accordées sans une expertise psychiatrique préalable à une personne condamnée pour meurtre ou assassinat d'un mineur précédé ou accompagné d'un viol, de tortures ou d'actes de barbarie, ou condamnée pour l'une des infractions visées aux articles 222-23 à 222-32 et 227-25 à 227-27 du code pénal. L'expertise est réalisée par trois experts lorsque la personne a été condamnée pour le meurtre, l'assassinat ou le viol d'un mineur de quinze ans.
 
 Lorsque ces mesures sont accordées par le juge de l'application des peines en faveur d'une personne visée à l'alinéa précédent, elles peuvent être déférées devant la chambre de l'instruction par le procureur de la République dans les vingt-quatre heures suivant leur notification à celui-ci. L'exécution de la décision du juge de l'application des peines est suspendue jusqu'à l'expiration de ce délai ; le recours formé par le procureur de la République suspend également cette exécution jusqu'à ce que la chambre de l'instruction ait statué.
 
@@ -7974,7 +7983,7 @@ La suspension de la peine ne s'étend pas au paiement des dommages-intérêts.
 
 Elle ne s'étend pas non plus aux incapacités, interdictions et déchéances résultant de la condamnation.
 
-Toutefois, ces incapacités, interdictions et déchéances cesseront d'avoir effet du jour où, par application des dispositions de l'article 132-35 du code pénal, la condamnation aura été réputée non avenue.
+Toutefois, ces incapacités, interdictions et déchéances cesseront d'avoir effet du jour où, par application des dispositions de l'article 132-35 du code pénal, la condamnation aura été réputée non avenue. Cette disposition ne s'applique pas au suivi socio-judiciaire prévu à l'article 131-36-1 du code pénal ou à la peine d'interdiction d'exercer une activité professionnelle ou bénévole impliquant un contact habituel avec des mineurs.
 
 
 #### Chapitre II : Du sursis avec mise à l'épreuve
@@ -8116,7 +8125,7 @@ La suspension de la peine ne s'étend pas au paiement des dommages-intérêts.
 
 Elle ne s'étend pas non plus aux incapacités, interdictions et déchéances résultant de la condamnation.
 
-Toutefois, ces incapacités, interdictions et déchéances cesseront d'avoir effet du jour où, par application des dispositions de l'article 743 ou de l'article 132-52 du code pénal, la condamnation aura été déclarée ou réputée non avenue.
+Toutefois, ces incapacités, interdictions et déchéances cesseront d'avoir effet du jour où, par application des dispositions de l'article 743 ou de l'article 132-52 du code pénal, la condamnation aura été déclarée ou réputée non avenue. Cette disposition ne s'applique pas à la peine d'interdiction d'exercer une activité professionnelle ou bénévole impliquant un contact habituel avec des mineurs.
 
 
 #### Article 747
@@ -8368,6 +8377,87 @@ En aucun cas, les condamnés par défaut ou par contumace dont la peine est pres
 Les condamnations civiles portées par les arrêts ou par les jugements rendus en matière criminelle, correctionnelle et de police, et devenus irrévocables, se prescrivent d'après les règles établies par le Code civil.
 
 
+### Titre VII bis : Du suivi socio-judiciaire
+
+### Article 763-1
+
+La personne condamnée à un suivi socio-judiciaire selon les modalités prévues par les articles 131-36-1 à 131-36-8 du code pénal est placée sous le contrôle du juge de l'application des peines dans le ressort duquel elle a sa résidence habituelle ou, si elle n'a pas en France de résidence habituelle, du juge de l'application des peines du tribunal dans le ressort duquel a son siège la juridiction qui a statué en première instance. Le juge de l'application des peines peut désigner le comité de probation et d'assistance aux libérés pour veiller au respect des obligations imposées au condamné. Les dispositions de l'article 740 sont applicables.
+
+
+### Article 763-2
+
+La personne condamnée à un suivi socio-judiciaire est tenue de justifier, auprès du juge de l'application des peines, de l'accomplissement des obligations qui lui sont imposées.
+
+
+### Article 763-3
+
+Pendant la durée du suivi socio-judiciaire, le juge de l'application des peines peut, après audition du condamné et avis du procureur de la République, modifier ou compléter les mesures prévues aux articles 131-36-2 et 131-36-3 du code pénal.
+
+Sa décision est exécutoire par provision. Elle peut être soumise à l'examen du tribunal correctionnel par le condamné ou le procureur de la République dans les conditions prévues par le troisième alinéa de l'article 739. Le juge de l'application des peines ne peut, à peine de nullité, siéger au sein du tribunal saisi de l'une de ses décisions.
+
+Le juge de l'application des peines peut également, s'il est établi après une expertise médicale ordonnée postérieurement à la décision de condamnation que la personne astreinte à un suivi socio-judiciaire est susceptible de faire l'objet d'un traitement, prononcer une injonction de soins. Cette expertise est réalisée par deux experts en cas de condamnation pour meurtre ou assassinat d'un mineur précédé ou accompagné d'un viol, de tortures ou d'actes de barbarie. Le juge de l'application des peines avertit le condamné qu'aucun traitement ne pourra être entrepris sans son consentement, mais que, s'il refuse les soins qui lui seront proposés, l'emprisonnement prononcé en application du troisième alinéa de l'article 131-36-1 du code pénal pourra être mis à exécution. Les dispositions de l'alinéa précédent sont alors applicables.
+
+
+### Article 763-4
+
+Lorsque la personne condamnée à un suivi socio-judiciaire comprenant une injonction de soins doit exécuter cette mesure à la suite d'une peine privative de liberté, le juge de l'application des peines peut ordonner l'expertise médicale de l'intéressé avant sa libération. Cette expertise est obligatoire si la condamnation a été prononcée plus de deux ans auparavant.
+
+Le juge de l'application des peines peut en outre, à tout moment du suivi socio-judiciaire et sans préjudice des dispositions de l'article 763-6, ordonner, d'office ou sur réquisitions du procureur de la République, les expertises nécessaires pour l'informer sur l'état médical ou psychologique de la personne condamnée.
+
+Les expertises prévues par le présent article sont réalisées par un seul expert, sauf décision motivée du juge de l'application des peines.
+
+
+### Article 763-5
+
+En cas d'inobservation des obligations mentionnées aux articles 131-36-2 et 131-36-3 du code pénal ou de l'injonction de soins, le juge de l'application des peines peut, d'office ou sur réquisitions du procureur de la République, ordonner, par décision motivée, la mise à exécution de l'emprisonnement prononcé par la juridiction de jugement en application du troisième alinéa de l'article 131-36-1 du code pénal. L'exécution peut porter sur tout ou partie de cette peine. Cette décision est prise en chambre du conseil, à l'issue d'un débat contradictoire au cours duquel le juge de l'application des peines entend les réquisitions du procureur de la République et les observations du condamné ainsi que celles de son conseil. Cette décision est exécutoire par provision. Elle peut faire l'objet d'un appel dans les dix jours devant la chambre des appels correctionnels, qui statue dans le délai d'un mois.
+
+En cas d'inobservation des obligations ou de l'injonction de soins, le juge de l'application de peines peut délivrer un mandat d'amener contre le condamné.
+
+Si celui-ci est en fuite ou réside à l'étranger, il peut délivrer un mandat d'arrêt.
+
+Les dispositions des articles 122 à 124 et 126 à 134 sont alors applicables, les attributions du juge d'instruction étant exercées par le juge de l'application des peines.
+
+L'accomplissement de l'emprisonnement pour inobservation des obligations du suivi socio-judiciaire ne dispense pas le condamné de l'exécution du suivi socio-judiciaire. En cas de nouveau manquement par le condamné à ses obligations, le juge de l'application des peines peut de nouveau ordonner la mise à exécution de l'emprisonnement pour une durée qui, cumulée avec la durée de l'emprisonnement exécuté, ne saurait excéder celle fixée par la juridiction de condamnation.
+
+
+### Article 763-6
+
+Toute personne condamnée à un suivi socio-judiciaire peut demander à la juridiction qui a prononcé la condamnation ou, en cas de pluralité de condamnations, à la dernière juridiction qui a statué de la relever de cette mesure. Si la condamnation a été prononcée par une cour d'assises, la juridiction compétente pour statuer sur la demande est la chambre de l'instruction dans le ressort de laquelle la cour d'assises a son siège.
+
+La demande ne peut être portée devant la juridiction compétente qu'à l'issue d'un délai d'un an à compter de la décision de condamnation. En cas de refus opposé à cette première demande, une autre demande ne peut être présentée qu'une année après cette décision de refus. Il en est de même, éventuellement, des demandes ultérieures.
+
+La demande de relèvement est adressée au juge de l'application des peines, qui ordonne une expertise médicale et la transmet à la juridiction compétente avec les conclusions de l'expert ainsi que son avis motivé.
+
+L'expertise est réalisée par deux experts en cas de condamnation pour meurtre ou assassinat d'un mineur précédé ou accompagné d'un viol, de tortures ou d'actes de barbarie.
+
+La juridiction statue dans les conditions prévues par les troisième, quatrième et cinquième alinéas de l'article 703.
+
+La juridiction peut décider de relever le condamné d'une partie seulement de ses obligations.
+
+Ces dispositions ne sont pas applicables lorsque le suivi socio-judiciaire est prononcé comme peine principale.
+
+
+### Article 763-7
+
+Lorsqu'une personne condamnée à un suivi socio-judiciaire comprenant une injonction de soins doit subir une peine privative de liberté, elle exécute cette peine dans un établissement pénitentiaire prévu par le second alinéa de l'article 718 et permettant de lui assurer un suivi médical et psychologique adapté.
+
+Elle est immédiatement informée par le juge de l'application des peines de la possibilité d'entreprendre un traitement. Si elle ne consent pas à suivre un traitement, cette information est renouvelée au moins une fois tous les six mois.
+
+En cas de suspension ou de fractionnement de la peine, de placement à l'extérieur sans surveillance ou de mesure de semi-liberté, les obligations résultant du suivi socio-judiciaire sont applicables.
+
+
+### Article 763-8
+
+Lorsque le suivi socio-judiciaire est prononcé par une juridiction spéciale des mineurs, le juge des enfants, le tribunal pour enfants et la chambre spéciale des mineurs exercent les attributions dévolues par le présent titre au juge de l'application des peines, au tribunal correctionnel et à la chambre des appels correctionnels, jusqu'à la fin de la mesure de suivi socio-judiciaire, sauf si le juge des enfants se dessaisit au profit du juge de l'application des peines.
+
+Le juge des enfants désigne un service du secteur public de la protection judiciaire de la jeunesse pour veiller au respect des obligations imposées au condamné. Lorsque ce dernier a atteint l'âge de sa majorité, le juge des enfants peut désigner à cette fin le comité de probation et d'assistance aux libérés ; il peut également se dessaisir au profit du juge de l'application des peines.
+
+
+### Article 763-9
+
+Un décret en Conseil d'Etat détermine les modalités d'application des dispositions du présent titre.
+
+
 ### Titre VIII : Du casier judiciaire
 
 ### Article 768
@@ -8513,10 +8603,10 @@ Lorsqu'il n'existe pas de fiche au casier judiciaire, le bulletin n° 1 porte la
 ### Article 775
 
 Le bulletin n° 2 est le relevé des fiches du casier judiciaire applicables à la même personne, à l'exclusion de celles concernant les décisions suivantes :
-1. Les décisions prononcées en vertu des articles 2, 8, 15, 16, 18 et 28 de l'ordonnance n. 45-174 du 2 février 1945 modifiée, relative à l'enfance délinquante ;
+1. Les décisions prononcées en vertu des articles 2, 8, 15, 16, 18 et 28 de l'ordonnance n° 45-174 du 2 février 1945 modifiée, relative à l'enfance délinquante ;
 2. Les condamnations dont la mention au bulletin n° 2 a été expressément exclue en application de l'article 775-1 ;
 3. Les condamnations prononcées pour contraventions de police ;
-4. Les condamnations assorties du bénéfice du sursis, avec ou sans mise à l'épreuve, lorsqu'elles doivent être considérées comme non avenues ;
+4. Les condamnations assorties du bénéfice du sursis, avec ou sans mise à l'épreuve, lorsqu'elles doivent être considérées comme non avenues ; toutefois, si a été prononcé le suivi socio-judiciaire prévu par l'article 131-36-1 du code pénal ou la peine d'interdiction d'exercer une activité professionnelle ou bénévole impliquant un contact habituel avec des mineurs, la décision continue de figurer au bulletin n° 2 pendant la durée de la mesure ;
 6. Les condamnations auxquelles sont applicables les dispositions de l'article 361 du code de justice militaire ;
 9. Les dispositions prononçant la déchéance de l'autorité parentale ;
 10. Les arrêtés d'expulsion abrogés ou rapportés ;
@@ -8597,18 +8687,11 @@ Le bulletin n° 2 du casier judiciaire des personnes morales est délivré :
 
 ### Article 777
 
-Le bulletin n. 3 est le relevé des condamnations suivantes prononcées pour crime ou délit, lorsqu'elles ne sont pas exclues du bulletin n° 2 :
-
-
+Le bulletin n° 3 est le relevé des condamnations suivantes prononcées pour crime ou délit, lorsqu'elles ne sont pas exclues du bulletin n° 2 :
 1. Condamnations à des peines privatives de liberté d'une durée supérieure à deux ans qui ne sont assorties d'aucun sursis ou qui doivent être exécutées en totalité par l'effet de révocation du sursis ;
-
-
 2. Condamnations à des peines privatives de liberté de la nature de celles visées au 1° ci-dessus et d'une durée inférieure ou égale à deux ans, si la juridiction en a ordonné la mention au bulletin n° 3 ;
-
-
-3. Condamnations à des interdictions, déchéances ou incapacités prononcées sans sursis, en application des articles 131-6 à 131-11 du Code pénal, pendant la durée des interdictions, déchéances ou incapacités.
-
-
+3. Condamnations à des interdictions, déchéances ou incapacités prononcées sans sursis, en application des articles 131-6 à 131-11 du code pénal, pendant la durée des interdictions, déchéances ou incapacités ;
+4. Décisions prononçant le suivi socio-judiciaire prévu par l'article 131-36-1 du code pénal ou la peine d'interdiction d'exercer une activité professionnelle ou bénévole impliquant un contact habituel avec des mineurs, pendant la durée de la mesure.
 
 Le bulletin n° 3 peut être réclamé par la personne qu'il concerne, il ne doit, en aucun cas, être délivré à un tiers.
 
@@ -9306,6 +9389,13 @@ L'article 763 est ainsi rédigé :
 " Art. 763. - En cas de prescription d'une peine prononcée en matière criminelle, le condamné est soumis de plein droit et à titre définitif à l'interdiction de séjour, dans la circonscription ou subdivision administrative où demeurent la victime du crime ou ses héritiers directs. "
 
 
+#### Article 873-1
+
+Le premier alinéa de l'article 763-7 est ainsi rédigé :
+
+"Lorsqu'une personne condamnée à un suivi socio-judiciaire comprenant une injonction de soins doit subir une peine privative de liberté, elle exécute cette peine dans un établissement pénitentiaire permettant de lui assurer un suivi médical et psychologique adapté."
+
+
 #### Chapitre XIII : Du casier judiciaire.
 
 #### Article 874
@@ -9514,6 +9604,13 @@ Toute personne qui, victime d'un vol, d'une escroquerie ou d'un abus de confianc
 L'article 758 est ainsi rédigé :
 
 " Art. 758. - La contrainte judiciaire est subie dans un établissement pénitentiaire. "
+
+
+#### Article 902
+
+Le premier alinéa de l'article 763-7 est ainsi rédigé :
+
+"Lorsqu'une personne condamnée à un suivi socio-judiciaire comprenant une injonction de soins doit subir une peine privative de liberté, elle exécute cette peine dans un établissement pénitentiaire permettant de lui assurer un suivi médical et psychologique adapté."
 
 
 # Partie réglementaire - Décrets en Conseil d'Etat
