@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 13 juillet 1975
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19750713)
+- Date de consolidation : 7 août 1975
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19750807)
 
 
 # Partie législative
@@ -3898,6 +3898,11 @@ Lorsqu'un membre du Conseil d'Etat, de la Cour de cassation ou de la Cour des co
 La chambre criminelle doit se prononcer dans la huitaine qui suit le jour où la requête lui sera parvenue.
 
 
+### Article 680
+
+Le juge d'instruction désigné conformément aux dispositions de l'article 83 doit procéder personnellement aux auditions, aux interrogatoires et aux confrontations des personnes visées aux articles 679 et 687 en considération desquelles sa désignation a été provoquée.
+
+
 ### Article 682
 
 La chambre d'accusation saisie commet un de ses membres qui prescrit tous actes d'instruction nécessaires dans les formes et conditions prévues par le chapitre Ier du titre III du livre Ier. Ce magistrat a compétence même en dehors des limites prévues par l'article 93.
@@ -3963,6 +3968,19 @@ Est réputée commise sur le territoire de la République toute infraction dont 
 Tout Français qui s'est rendu coupable de délits et contraventions en matière forestière, rurale, de pêche, de douanes, de contributions indirectes, sur le territoire, de l'un des Etats limitrophes, peut être poursuivi et jugé en France, d'après la loi française, si cet Etat autorise la poursuite de ses nationaux pour les mêmes faits commis en France.
 
 La réciprocité sera légalement constatée par des conventions internationales ou par décret.
+
+
+### Titre XIII : De la poursuite, de l'instruction et du jugement des infractions en matière économique et financière
+
+### Article 705
+
+Les tribunaux désignés ainsi qu'il est dit à l'article précédent sont compétents pour connaître des infractions ci-après énumérées et de celles qui leur sont connexes dans les affaires qui sont ou apparaîtraient d'une grande complexité :
+1. Infractions en matière économique y compris les infractions aux dispositions de la section II du chapitre II du titre II du livre troisième du Code pénal ;
+2. Infractions en matière de fraudes et de publicité mensongère ;
+3. Infractions en matière fiscale, douanière ou celles concernant les relations financières avec l'étranger ;
+4. Infractions concernant les banques, les établissements financiers, la bourse et le crédit ;
+5. Les infractions concernant les sociétés civiles et commerciales ainsi que les délits assimilés aux banqueroutes ;
+6. Infractions concernant la construction et l'urbanisme.
 
 
 ## Livre V : Des procédures d'exécution
