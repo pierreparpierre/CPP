@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 19 juillet 1991
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19910719)
+- Date de consolidation : 1er octobre 1991
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19911001)
 
 
 # Partie législative
@@ -901,6 +901,74 @@ Faute par elle d'avoir déclaré une adresse, la partie civile ne peut opposer l
 Dans le cas où le juge d'instruction n'est pas compétent aux termes de l'article 52, il rend, après réquisitions du ministère public, une ordonnance renvoyant la partie civile à se pourvoir devant telle juridiction qu'il appartiendra.
 
 
+##### Section 3 : Des transports, des perquisitions, des saisies et des interceptions de correspondances émises par la voie des télécommunications
+
+###### Sous-section 1 : Des transports, des perquisitions et des saisies
+
+###### Article 92
+
+Le juge d'instruction peut se transporter sur les lieux pour y effectuer toutes constatations utiles ou procéder à des perquisitions. Il en donne avis au procureur de la République, qui a la faculté de l'accompagner.
+
+Le juge d'instruction est toujours assisté d'un greffier.
+
+Il dresse un procès-verbal de ses opérations.
+
+
+###### Article 93
+
+Si les nécessités de l'information l'exigent, le juge d'instruction peut, après en avoir donné avis au procureur de la République de son tribunal, se transporter avec son greffier dans toute l'étendue du territoire national, à effet d'y procéder à tous actes d'instruction, à charge par lui d'aviser, au préalable, le procureur de la République du tribunal dans le ressort duquel il se transporte. Il mentionne sur son procès-verbal les motifs de son transport.
+
+
+###### Article 94
+
+Les perquisitions sont effectuées dans tous les lieux où peuvent se trouver des objets dont la découverte serait utile à la manifestation de la vérité.
+
+
+###### Sous-section 2 : Des interceptions de correspondances émises par la voie des télécommunications
+
+###### Article 100
+
+En matière criminelle et en matière correctionnelle, si la peine encourue est égale ou supérieure à deux ans d'emprisonnement, le juge d'instruction peut, lorsque les nécessités de l'information l'exigent, prescrire l'interception, l'enregistrement et la transcription de correspondances émises par la voie des télécommunications. Ces opérations sont effectuées sous son autorité et son contrôle.
+
+La décision d'interception est écrite. Elle n'a pas de caractère juridictionnel et n'est susceptible d'aucun recours.
+
+
+###### Article 100-1
+
+La décision prise en application de l'article 100 doit comporter tous les éléments d'identification de la liaison à intercepter, l'infraction qui motive le recours à l'interception ainsi que la durée de celle-ci.
+
+
+###### Article 100-2
+
+Cette décision est prise pour une durée maximum de quatre mois. Elle ne peut être renouvelée que dans les mêmes conditions de forme et de durée.
+
+
+###### Article 100-3
+
+Le juge d'instruction ou l'officier de police judiciaire commis par lui peut requérir tout agent qualifié d'un service ou organisme placé sous l'autorité ou la tutelle du ministre chargé des télécommunications ou tout agent qualifié d'un exploitant de réseau ou fournisseur de services de télécommunications autorisé, en vue de procéder à l'installation d'un dispositif d'interception.
+
+
+###### Article 100-4
+
+Le juge d'instruction ou l'officier de police judiciaire commis par lui dresse procès-verbal de chacune des opérations d'interception et d'enregistrement. Ce procès-verbal mentionne la date et l'heure auxquelles l'opération a commencé et celles auxquelles elle s'est terminée.
+
+Les enregistrements sont placés sous scellés fermés.
+
+
+###### Article 100-5
+
+Le juge d'instruction ou l'officier de police judiciaire commis par lui transcrit la correspondance utile à la manifestation de la vérité. Il en est dressé procès-verbal. Cette transcription est versée au dossier.
+
+Les correspondances en langue étrangère sont transcrites en français avec l'assistance d'un interprète requis à cette fin.
+
+
+###### Article 100-6
+
+Les enregistrements sont détruits, à la diligence du procureur de la République ou du procureur général, à l'expiration du délai de prescription de l'action publique.
+
+Il est dressé procès-verbal de l'opération de destruction.
+
+
 ##### Section 4 : Des auditions de témoins
 
 ##### Article 111
@@ -1374,33 +1442,16 @@ L'appel est porté devant la chambre des appels correctionnels statuant dans les
 L'arrêt de la cour d'appel peut être déféré à la Cour de cassation comme en matière pénale.
 
 
-##### Section 3 : Des transports, perquisitions et saisies
+##### Section 3 : Des transports, des perquisitions, des saisies et des interceptions de correspondances émises par la voie des télécommunications
 
-##### Article 92
+###### Sous-section 1 : Des transports, des perquisitions et des saisies
 
-Le juge d'instruction peut se transporter sur les lieux pour y effectuer toutes constatations utiles ou procéder à des perquisitions. Il en donne avis au procureur de la République, qui a la faculté de l'accompagner.
-
-Le juge d'instruction est toujours assisté d'un greffier.
-
-Il dresse un procès-verbal de ses opérations.
-
-
-##### Article 93
-
-Si les nécessités de l'information l'exigent, le juge d'instruction peut, après en avoir donné avis au procureur de la République de son tribunal, se transporter avec son greffier dans toute l'étendue du territoire national, à effet d'y procéder à tous actes d'instruction, à charge à lui d'aviser, au préalable, le procureur de la République du tribunal dans le ressort duquel il se transporte. Il mentionne sur son procès-verbal les motifs de son transport.
-
-
-##### Article 94
-
-Les perquisitions sont effectuées dans tous les lieux où peuvent se trouver des objets dont la découverte serait utile à la manifestation de la vérité.
-
-
-##### Article 95
+###### Article 95
 
 Si la perquisition a lieu au domicile de l'inculpé, le juge d'instruction doit se conformer aux dispositions des articles 57 et 59.
 
 
-##### Article 96
+###### Article 96
 
 Si la perquisition a lieu dans un domicile autre que celui de l'inculpé, la personne chez laquelle elle doit s'effectuer est invitée à y assister. Si cette personne est absente ou refuse d'y assister, la perquisition a lieu en présence de deux de ses parents ou alliés présents sur les lieux, ou à défaut, en présence de deux témoins.
 
@@ -1409,9 +1460,9 @@ Le juge d'instruction doit se conformer aux dispositions des articles 57 (aliné
 Toutefois, il a l'obligation de provoquer préalablement toutes mesures utiles pour que soit assuré le respect du secret professionnel et des droits de la défense.
 
 
-##### Article 97
+###### Article 97
 
-Lorsqu'il y a lieu, en cours d'information, de rechercher des documents et sous réserve des nécessités de l'information et du respect, le cas échéant, de l'obligation stipulée par l'alinéa 3 de l'article précédent, le juge d'instruction ou l'officier de police judiciaire par lui commis a seul le droit d'en prendre connaissance avant de procéder à la saisie.
+Lorsqu'il y a lieu, en cours d'information, de rechercher des documents et sous réserve des nécessités de l'information et du respect, le cas échéant, de l'obligation stipulée par l'alinéa 3 de l'article [*96*] précédent, le juge d'instruction ou l'officier de police judiciaire par lui commis a seul le droit d'en prendre connaissance avant de procéder à la saisie.
 
 Tous les objets et documents placés sous main de justice sont immédiatement inventoriés et placés sous scellés. Cependant, si leur inventaire sur place présente des difficultés, l'officier de police judiciaire procède comme il est dit au quatrième alinéa de l'article 56.
 
@@ -1424,12 +1475,12 @@ Si les nécessités de l'instruction ne s'y opposent pas, copie ou photocopie de
 Si la saisie porte sur des espèces, lingots, effets ou valeurs dont la conservation en nature n'est pas nécessaire à la manifestation de la vérité ou à la sauvegarde des droits des parties, il peut autoriser le greffier à en faire le dépôt à la Caisse des dépôts et consignations ou à la Banque de France.
 
 
-##### Article 98
+###### Article 98
 
-Sous réserve des nécessités de l'information judiciaire, toute communication ou toute divulgation sans autorisation de l'inculpé ou de ses ayants droit ou du signataire ou du destinataire d'un document provenant d'une perquisition, à une personne non qualifiée par la loi pour en prendre connaissance, est punie d'une amende de 1 800 F à 30 000 F et d'un emprisonnement de deux mois à deux ans.
+Sous réserve des nécessités de l'information judiciaire, toute communication ou toute divulgation sans autorisation de l'inculpé ou de ses ayants droit ou du signataire ou du destinataire d'un document provenant d'une perquisition, à une personne non qualifiée par la loi pour en prendre connaissance, est punie d'une amende de 1.800 F à 30.000 F et d'un emprisonnement de deux mois à deux ans.
 
 
-##### Article 99
+###### Article 99
 
 Au cours de l'information, le juge d'instruction est compétent pour décider de la restitution des objets placés sous main de justice.
 
@@ -1443,6 +1494,8 @@ L'ordonnance du juge d'instruction mentionnée au deuxième alinéa du présent 
 
 Le tiers peut, au même titre que les parties, être entendu par la chambre d'accusation en ses observations, mais il ne peut prétendre à la mise à sa disposition de la procédure.
 
+
+###### Sous-section 2 : Des interceptions de correspondances émises par la voie des télécommunications
 
 ##### Section 4 : Des auditions de témoins
 
@@ -15825,6 +15878,13 @@ Les règles de sélection et de préparation des candidats à l'examen technique
 Les membres du juge d'examen, constitué comme il est dit à l'article R. 4, peuvent être répartis, pour la correction des épreuves, en plusieurs sous-commissions.
 
 
+###### Article A9
+
+Dans le mois qui suit l'examen, le président réunit le jury pour l'établissement des normes de correction et pour la répartition des copies entre les correcteurs. L'anonymat des copies est assuré par un coin gommé.
+
+Le président fixe la date à laquelle les copies doivent parvenir corrigées au secrétariat de la commission.
+
+
 ###### Article A10
 
 Le secrétaire de la commission :
@@ -15835,6 +15895,19 @@ Ces copies font l'objet d'une seconde correction par un membre désigné par le 
 Le résultat de ces doubles corrections est soumis à la commission, qui en délibère spécialement lors de la réunion prévue à l'article A. 11 et fixe la note définitive ;
 2. Opère un relevé des notes attribuées pour chaque épreuve par les correcteurs ;
 3. Dresse la liste de tous les candidats, avec les notes et le total des points obtenus par chacun d'eux.
+
+
+###### Article A11
+
+Dans un délai maximum de quatre mois après la date de l'examen, le président réunit la commission aux fins d'arrêter :
+1. La liste par ordre de mérite des gendarmes pour lesquels la commission émet un avis favorable à l'attribution de la qualité d'officier de police judiciaire.
+
+Seuls peuvent être retenus les candidats qui totalisent 24 points au moins pour l'ensemble des deux épreuves.
+2. La liste des gendarmes éliminés ou n'ayant pas obtenu le nombre de points exigés.
+
+Ces listes mentionnent les notes attribuées aux candidats dans chacune des épreuves et le total des points obtenus.
+
+Elles sont adressées à la direction générale de la gendarmerie nationale, accompagnées des copies des candidats et du procès-verbal de séance, où figurent l'avis de la commission sur le nombre des candidats déclarés aptes à recevoir la qualité d'officier de police judiciaire et, éventuellement, toutes propositions et suggestions jugées utiles.
 
 
 ###### Article A12
@@ -15867,26 +15940,6 @@ L'enveloppe renfermant chaque sujet de composition est décachetée, en présenc
 Toutes les compositions sont faites sur des feuilles fournies par la direction de la gendarmerie et de la justice militaire.
 
 L'organisation matérielle des épreuves de l'examen technique est assurée par le chef de corps de gendarmerie conformément aux directives donnée par circulaire.
-
-
-###### Article A9
-
-Dans le mois qui suit l'examen, le président réunit le jury pour l'établissement des normes de correction et pour la répartition des copies. Les en-têtes des copies sont préalablement détachées et celles-ci comportent, aux lieu et place du nom du candidat, un numéro d'ordre inscrit par le secrétariat de la commission.
-
-Le président fixe la date à laquelle les copies doivent parvenir corrigées au secrétariat de la commission.
-
-
-###### Article A11
-
-Dans un délai maximum de trois mois après la date de l'examen, le président réunit la commission aux fins d'arrêter :
-1. La liste par ordre de mérite des gendarmes pour lesquels la commission émet un avis favorable à l'attribution de la qualité d'officier de police judiciaire.
-
-Seuls peuvent être retenus les candidats qui totalisent 24 points au moins pour l'ensemble des deux épreuves ;
-2. La liste des gendarmes éliminés ou n'ayant pas obtenu le nombre de points exigé.
-
-Ces listes font apparaître les numéros de désignation des candidats portés sur les copies et, en regard, la note définitive dans chaque épreuve et le total de points.
-
-Elles sont adressées à la direction de la gendarmerie et de la justice militaire, accompagnées des copies des candidats, et du procès-verbal de séance, où figurent l'avis de la commission sur le nombre des candidats déclarés aptes à recevoir la qualité d'officier de police judiciaire, et, éventuellement, toutes propositions et suggestions jugées utiles.
 
 
 ###### Paragraphe 2 : Désignation des officiers de police judiciaire de la police nationale
