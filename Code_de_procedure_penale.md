@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 8 novembre 1997
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19971108)
+- Date de consolidation : 20 décembre 1997
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19971220)
 
 
 # Partie législative
@@ -7509,29 +7509,31 @@ Toutes communications et toutes facilités compatibles avec les exigences de la 
 
 #### Chapitre II : De l'exécution des peines privatives de liberté
 
-#### Article 716-1
+##### Section 1 : Dispositions générales
+
+##### Article 716-1
 
 La peine d'un jour d'emprisonnement est de vingt-quatre heures. Celle d'un mois est de trente jours. Celle de plus d'un mois se calcule de quantième en quantième.
 
 
-#### Article 716-2
+##### Article 716-2
 
 La durée de toute peine privative de liberté est complétée du jour où le condamné est détenu en vertu d'une condamnation définitive.
 
 
-#### Article 716-3
+##### Article 716-3
 
 Le condamné dont l'incarcération devrait prendre fin un jour de fête légale ou un dimanche sera libéré le jour ouvrable précédent.
 
 
-#### Article 716-4
+##### Article 716-4
 
 Quand il y a eu détention provisoire à quelque stade que ce soit de la procédure, cette détention est intégralement déduite de la durée de la peine prononcée ou, s'il y a lieu, de la durée totale de la peine à subir après confusion.
 
 Les dispositions de l'alinéa précédent sont également applicables à la privation de liberté subie en exécution d'un mandat d'amener ou d'arrêt, à l'incarcération subie hors de France sur la demande d'extradition et à l'incarcération subie en application des articles 741-2 et 741-3.
 
 
-#### Article 717
+##### Article 717
 
 Les condamnés purgent leur peine dans un établissement pour peines ; toutefois, les condamnés à l'emprisonnement d'une durée inférieure ou égale à cinq ans l'exécutent dans un établissement qui leur est spécialement réservé.
 
@@ -7540,7 +7542,7 @@ Les condamnés à des peines inférieures à sept ans peuvent exécuter leur pei
 Les condamnés à l'emprisonnement d'une durée inférieure ou égale à un an peuvent, cependant, à titre exceptionnel, être maintenus en maison d'arrêt et incarcérés, dans ce cas, dans un quartier distinct, lorsque des conditions tenant à la préparation de leur libération, leur situation familiale ou leur personnalité le justifient. Peuvent également, dans les mêmes conditions, être affectés, à titre exceptionnel, en maison d'arrêt, les condamnés auxquels il reste à subir une peine d'une durée inférieure à un an.
 
 
-#### Article 718
+##### Article 718
 
 La répartition des condamnés dans les prisons établies pour peines s'effectue compte tenu de leur catégorie pénale, de leur âge, de leur état de santé et de leur personnalité.
 
@@ -7549,7 +7551,7 @@ La répartition des condamnés dans les prisons établies pour peines s'effectue
 Dans des conditions prévues par décret en Conseil d'Etat, les personnes condamnées pour le meurtre ou l'assassinat d'un mineur de quinze ans précédé ou accompagné d'un viol, de tortures ou d'actes de barbarie ou pour toute infraction visée aux articles 222-23 à 222-32 et 227-25 à 227-27 du code pénal exécutent leur peine dans des établissements pénitentiaires permettant d'assurer un suivi médical et psychologique adapté.
 
 
-#### Article 719
+##### Article 719
 
 Les condamnés sont soumis dans les maisons d'arrêt à l'emprisonnement individuel du jour et de nuit, et dans les établissements pour peines , à l'isolement de nuit seulement, après avoir subi éventuellement une période d'observation en cellule.
 
@@ -7558,32 +7560,38 @@ Les condamnés sont soumis dans les maisons d'arrêt à l'emprisonnement individ
 Il ne peut être dérogé à ce principe qu'en raison de la distribution intérieure des locaux de détention ou de leur encombrement temporaire ou des nécessités d'organisation du travail.
 
 
-#### Article 720
+##### Article 720
 
 Les activités de travail et de formation professionnelle sont prises en compte pour l'appréciation des gages de réinsertion et de bonne conduite des condamnés.
 
-Au sein des établissements pénitentiaires, toutes dispositions sont prises pour assurer une activité professionnelle aux personnes incarcérées qui le souhaitent. Les relations de travail des personnes incarcérées ne font pas l'objet d'un contrat de travail. Il peut être dérogé à cette règle pour les activités exercées à l'extérieur des établissements pénitentiaires.
+Au sein des établissements pénitentiaires, toutes dispositions sont prises pour assurer une activité professionnelle aux personnes incarcérées qui le souhaitent.
+
+Les relations de travail des personnes incarcérées ne font pas l'objet d'un contrat de travail. Il peut être dérogé à cette règle pour les activités exercées à l'extérieur des établissements pénitentiaires.
 
 Les règles relatives à la répartition des produits du travail des détenus sont fixées par décret.
 
 
-#### Article 720-1
+##### Section 2 : De la suspension et du fractionnement des peines privatives de liberté
+
+##### Article 720-1
 
 En matière correctionnelle, lorsqu'il reste à subir par la personne condamnée une peine d'emprisonnement inférieure ou égale à un an, cette peine peut, pour motif grave d'ordre médical, familial, professionnel ou social et pendant une période n'excédant pas trois ans, être suspendue ou exécutée par fractions, aucune de ces fractions ne pouvant être inférieure à deux jours. La décision est prise après avis de l'avocat du condamné et du ministère public soit par le juge de l'application des peines dans le ressort duquel le condamné est détenu, soit, après avis du juge de l'application des peines, par le tribunal correctionnel statuant en chambre du conseil, selon que la durée totale durant laquelle la peine doit être interrompue est ou non inférieure ou égale à trois mois.
 
 Lorsque l'exécution fractionnée de la peine d'emprisonnement a été décidée par la juridiction de jugement en application de l'article 132-27 du code pénal, cette décision peut être modifiée dans les conditions prévues à l'alinéa précédent.
 
 
-#### Article 720-2
+##### Section 3 : De la période de sûreté
+
+##### Article 720-2
 
 Les dispositions concernant la suspension ou le fractionnement de la peine, le placement à l'extérieur, les permissions de sortir, la semi-liberté et la libération conditionnelle ne sont pas applicables pendant la durée de la période de sûreté prévue à l'article 132-23 du code pénal.
 
 Sauf s'il en est décidé autrement par le décret de grâce, la commutation ou la remise d'une peine privative de liberté assortie d'une période de sûreté entraîne de plein droit le maintien de cette période pour une durée globale qui correspond à la moitié de la peine résultant de cette commutation ou remise, sans pouvoir toutefois excéder la durée de la période de sûreté attachée à la peine prononcée.
 
 
-#### Article 720-4
+##### Article 720-4
 
-Lorsque le condamné présente des gages sérieux de réadaptation sociale, le juge de l'application des peines peut, dans les conditions de l'article 722, saisir la juridiction du lieu de détention, de même degré que celle qui a prononcé la condamnation pour qu'il soit mis fin à l'application de tout ou partie des dispositions de l'article 720-2 ou pour que la durée de la période de sûreté soit réduite. Si la condamnation a été prononcée par une cour d'assises, la juridiction compétente pour statuer sur la demande est la chambre de l'instruction dans le ressort de laquelle le condamné est détenu. Toutefois, lorsque la cour d'assises a, en application du dernier alinéa des articles 221-3 et 221-4 du code pénal, décidé de porter la durée de la période de sûreté à trente ans, la chambre de l'instruction ne peut être saisie qu'après que le condamné a subi une incarcération d'une durée au moins égal au deux tiers de la période de sûreté.
+Lorsque le condamné présente des gages sérieux de réadaptation sociale, le juge de l'application des peines peut, à titre exceptionnel et dans les conditions de l'article 722, saisir la juridiction du lieu de détention, de même degré que celle qui a prononcé la condamnation pour qu'il soit mis fin à l'application de tout ou partie des dispositions de l'article 720-2 ou pour que la durée de la période de sûreté soit réduite. Si la condamnation a été prononcée par une cour d'assises, la juridiction compétente pour statuer sur la demande est la chambre de l'instruction dans le ressort de laquelle le condamné est détenu. Toutefois, lorsque la cour d'assises a, en application du dernier alinéa des articles 221-3 et 221-4 du code pénal, décidé de porter la durée de la période de sûreté à trente ans, la chambre de l'instruction ne peut être saisie qu'après que le condamné a subi une incarcération d'une durée au moins égal au deux tiers de la période de sûreté.
 
 Dans le cas où la cour d'assises a décidé qu'aucune des mesures énumérées à l'article 132-23 du code pénal ne pourrait être accordée au condamné à la réclusion criminelle à perpétuité, le juge de l'application des peines peut, à l'expiration d'une période de trente ans suivant la condamnation, saisir un collège de trois experts médicaux désignés par le bureau de la Cour de cassation sur la liste des experts agréés près la cour, qui se prononce sur l'état de dangerosité du condamné.
 
@@ -7592,34 +7600,51 @@ Une commission composée de cinq magistrats de la Cour de cassation détermine, 
 Par dérogation au troisième alinéa de l'article 732, les mesures d'assistance et de contrôle dont se trouverait assortie une décision de libération conditionnelle ultérieure pourront être fixées sans limitation dans le temps.
 
 
-#### Article 720-5
+##### Article 720-5
 
 En cas de condamnation assortie d'une période de sûreté d'une durée supérieure à quinze ans, aucune libération conditionnelle ne pourra être accordée avant que le condamné ait été placé pendant une période d'un an à trois ans sous le régime de la semi-liberté. Le ministre de la justice, sur proposition établie par le juge de l'application des peines après avis de la commission de l'application des peines, décide du placement en semi-liberté et fixe la durée de celle-ci.
 
 
-#### Article 721
+##### Article 720-5
+
+En cas de condamnation assortie d'une période de sûreté d'une durée supérieure à quinze ans, aucune libération conditionnelle ne pourra être accordée avant que le condamné ait été placé pendant une période d'un an à trois ans sous le régime de la semi-liberté. La semi-liberté est alors ordonnée par la juridiction régionale de la libération conditionnelle dans les conditions prévues par l'article 722-1, sauf si la peine restant à subir par le condamné est inférieure à trois ans.
+
+
+##### Section 4 : Des réductions de peines
+
+##### Article 721
 
 Une réduction de peine peut être accordée aux condamnés détenus en exécution d'une ou plusieurs peines privatives de liberté s'ils ont donné des preuves suffisantes de bonne conduite.
 
+
+
 Cette réduction est accordée par le juge de l'application des peines après avis de la commission de l'application des peines, sans qu'elle puisse excéder trois mois par année d'incarcération et sept jours par mois pour une durée d'incarcération moindre.
+
+
 
 Elle est prononcée en une seule fois si l'incarcération est inférieure à une année et par fractions annuelles dans le cas contraire. Toutefois, pour l'incarcération subie sous le régime de la détention provisoire, elle est prononcée, le cas échéant, dans un délai de deux mois à compter de la date à laquelle la condamnation est devenue définitive.
 
+
+
 Dans l'année suivant son octroi, et en cas de mauvaise conduite du condamné en détention, la réduction de peine peut être rapportée en tout ou en partie par le juge de l'application des peines après avis de la commission de l'application des peines.
+
+
 
 Pour l'application du présent article, la situation de chaque condamné est examinée au moins une fois par an.
 
 
-#### Article 721-1
+##### Article 721-1
 
 Après un an de détention, une réduction supplémentaire de la peine peut être accordée aux condamnés qui manifestent des efforts sérieux de réadaptation sociale, notamment en passant avec succès un examen scolaire, universitaire ou professionnel traduisant l'acquisition de connaissances nouvelles ou justifiant de progrès réels dans le cadre d'un enseignement ou d'une formation.
 
 Cette réduction, accordée par le juge de l'application des peines après avis de la commission de l'application des peines, ne peut excéder, si le condamné est en état de récidive légale, un mois par année d'incarcération ou deux jours par mois lorsque la durée d'incarcération resant à subir est inférieure à une année. Si le condamné n'est pas en état de récidive légale, ces limites sont respectivement portées à deux mois et à quatre jours. Les dispositions du troisième alinéa de l'article 721 sont applicables.
 
 
-#### Article 722
+##### Section 5 : Des attributions du juge de l'application des peines et de la commission de l'application des peines
 
-Auprès de chaque établissement pénitentiaire, le juge de l'application des peines détermine pour chaque condamné les principales modalités du traitement pénitentiaire. Dans les limites et conditions prévues par la loi, il accorde les placements à l'extérieur, la semi-liberté, les réductions, fractionnements et suspensions de peines, les autorisations de sortie sous escorte, les permissions de sortir, la libération conditionnelle ou il saisit la juridiction compétente pour aménager l'exécution de la peine. Sauf urgence, il statue après avis de la commission de l'application des peines.
+##### Article 722
+
+Auprès de chaque établissement pénitentiaire, le juge de l'application des peines détermine pour chaque condamné les principales modalités du traitement pénitentiaire. Dans les limites et conditions prévues par la loi, il accorde les placements à l'extérieur, la semi-liberté, les réductions, fractionnements et suspensions de peines, les autorisations de sortie sous escorte, les permissions de sortir, la libération conditionnelle, le placement sous surveillance électronique ou il saisit la juridiction compétente pour aménager l'exécution de la peine. Sauf urgence, il statue après avis de la commission de l'application des peines.
 
 
 
@@ -7642,7 +7667,9 @@ Les mesures énumérées au premier alinéa, à l'exception des réductions de p
 Lorsque ces mesures sont accordées par le juge de l'application des peines en faveur d'une personne visée à l'alinéa précédent, elles peuvent être déférées devant la chambre de l'instruction par le procureur de la République dans les vingt-quatre heures suivant leur notification à celui-ci. L'exécution de la décision du juge de l'application des peines est suspendue jusqu'à l'expiration de ce délai ; le recours formé par le procureur de la République suspend également cette exécution jusqu'à ce que la chambre de l'instruction ait statué.
 
 
-#### Article 723
+##### Section 6 : Du placement à l'extérieur, de la semi-liberté, des permissions de sortir et des autorisations de sortie sous escorte
+
+##### Article 723
 
 Le placement à l'extérieur permet au condamné d'être employé au dehors d'un établissement pénitentiaire à des travaux contrôlés par l'Administration.
 
@@ -7651,12 +7678,12 @@ Le régime de semi-liberté est défini par l'article 132-26 du code pénal.
 Un décret détermine les conditions auxquelles ces diverses mesures sont accordées et appliquées.
 
 
-#### Article 723-1
+##### Article 723-1
 
 Le juge de l'application des peines peut prévoir que la peine s'exécutera sous le régime de la semi-liberté, soit lorsqu'il reste à subir par le condamné une ou plusieurs peines privatives de liberté dont la durée totale n'excède pas un an, soit lorsque le condamné a été admis au bénéfice de la libération conditionnelle, sous la condition d'avoir été soumis à titre probatoire au régime de la semi-liberté.
 
 
-#### Article 723-2
+##### Article 723-2
 
 Lorsqu'il a été fait application des dispositions de l'article 132-25 du code pénal, si les conditions qui ont permis au tribunal de décider que la peine serait subie sous le régime de la semi-liberté ne sont plus remplies, si le condamné ne satisfait pas aux obligations qui lui sont imposées ou s'il fait preuve de mauvaise conduite, le bénéfice de la semi-liberté peut être retiré, sur rapport du juge de l'application des peines, par le tribunal de grande instance. Ce tribunal est celui du lieu d'exécution de la décision, ou, si le condamné est écroué, du lieu de détention.
 
@@ -7669,21 +7696,81 @@ Le juge de l'application des peines peut, si l'urgence l'exige, suspendre l'appl
 Dans ce cas, le tribunal doit statuer dans les cinq jours sur le maintien ou le retrait de ce régime.
 
 
-#### Article 723-3
+##### Article 723-3
 
 La permission de sortir autorise un condamné à s'absenter d'un établissement pénitentiaire pendant une période de temps déterminée qui s'impute sur la durée de la peine en cours d'exécution.
+
+
 
 Elle a pour objet de préparer la réinsertion professionnelle ou sociale du condamné, de maintenir ses liens familiaux ou de lui permettre d'accomplir une obligation exigeant sa présence.
 
 
-#### Article 723-5
+##### Article 723-5
 
 Sans préjudice de l'application de l'article 434-29 du code pénal, en cas de condamnation pour un crime ou un délit volontaire commis à l'occasion d'une permission de sortir, la juridiction peut décider que le condamné perdra le bénéfice des réductions de peine qui lui ont été accordées antérieurement.
 
 
-#### Article 723-6
+##### Article 723-6
 
 Tout condamné peut, dans les conditions de l'article 722, obtenir, à titre exceptionnel, une autorisation de sortie sous escorte.
+
+
+##### Section 7 : Du placement sous surveillance électronique
+
+##### Article 723-7
+
+En cas de condamnation à une ou plusieurs peines privatives de liberté dont la durée totale n'excède pas un an ou lorsqu'il reste à subir par le condamné une ou plusieurs peines privatives de liberté dont la durée totale n'excède pas un an, le juge de l'application des peines peut décider, sur son initiative ou à la demande du procureur de la République ou du condamné, que la peine s'exécutera sous le régime du placement sous surveillance électronique. La décision de recourir au placement sous surveillance électronique ne peut être prise qu'après avoir recueilli le consentement du condamné, donné en présence de son avocat. A défaut de choix par le condamné, un avocat est désigné d'office par le bâtonnier.
+
+Le placement sous surveillance électronique peut également être décidé, selon les modalités prévues à l'alinéa précédent, à titre probatoire de la libération conditionnelle, pour une durée n'excédant pas un an.
+
+Le placement sous surveillance électronique emporte, pour le condamné, interdiction de s'absenter de son domicile ou de tout autre lieu désigné par le juge de l'application des peines en dehors des périodes fixées par celui-ci. Les périodes et les lieux sont fixés en tenant compte : de l'exercice d'une activité professionnelle par le condamné ; du fait qu'il suit un enseignement ou une formation, effectue un stage ou occupe un emploi temporaire en vue de son insertion sociale ; de sa participation à la vie de famille ; de la prescription d'un traitement médical.
+
+
+##### Article 723-8
+
+Le contrôle de l'exécution de la mesure est assuré au moyen d'un procédé permettant de détecter à distance la présence ou l'absence du condamné dans le seul lieu désigné par le juge de l'application des peines pour chaque période fixée. La mise en oeuvre de ce procédé peut conduire à imposer à la personne assignée le port, pendant toute la durée du placement sous surveillance électronique, d'un dispositif intégrant un émetteur.
+
+Le procédé utilisé est homologué à cet effet par le ministre de la justice. La mise en oeuvre doit garantir le respect de la dignité, de l'intégrité et de la vie privée de la personne.
+
+
+##### Article 723-9
+
+La personne sous surveillance électronique est placée sous le contrôle du juge de l'application des peines dans le ressort duquel elle est assignée.
+
+Le contrôle à distance du placement sous surveillance électronique est assuré par des fonctionnaires de l'administration pénitentiaire qui sont autorisés, pour l'exécution de cette mission, à mettre en oeuvre un traitement automatisé de données nominatives.
+
+Dans la limite des périodes fixées dans la décision de placement sous surveillance électronique, les agents chargés du contrôle peuvent se rendre sur le lieu de l'assignation pour demander à rencontrer le condamné. Ils ne peuvent toutefois pénétrer dans les domiciles sans l'accord des personnes chez qui le contrôle est effectué. Sans réponse de la part du condamné à l'invitation de se présenter devant eux, son absence est présumée. Les agents en font aussitôt rapport au juge de l'application des peines.
+
+Les services de police ou de gendarmerie peuvent toujours constater l'absence irrégulière du condamné et en faire rapport au juge de l'application des peines.
+
+
+##### Article 723-10
+
+Le juge de l'application des peines peut également soumettre la personne placée sous surveillance électronique aux mesures prévues par les articles 132-43 à 132-46 du code pénal.
+
+
+##### Article 723-11
+
+Le juge de l'application des peines peut, d'office ou à la demande du condamné, et après avis du procureur de la République, modifier les conditions d'exécution du placement sous surveillance électronique prévues au troisième alinéa de l'article 723-7 ainsi que les mesures prévues à l'article 723-10.
+
+
+##### Article 723-12
+
+Le juge de l'application des peines peut à tout moment désigner un médecin afin que celui-ci vérifie que la mise en oeuvre du procédé mentionné au premier alinéa de l'article 723-8 ne présente pas d'inconvénient pour la santé du condamné. Cette désignation est de droit à la demande du condamné. Le certificat médical est versé au dossier.
+
+
+##### Article 723-13
+
+Le juge de l'application des peines peut, après avoir entendu le condamné en présence de son avocat, retirer la décision de placement sous surveillance électronique soit en cas d'inobservation des conditions d'exécution constatée au cours d'un contrôle au lieu de l'assignation, d'inobservation des mesures prononcées en application de l'article 723-10, de nouvelle condamnation ou de refus par le condamné d'une modification nécessaire des conditions d'exécution, soit à la demande du condamné.
+
+La décision est prise en chambre du conseil à l'issue d'un débat contradictoire au cours duquel le juge de l'application des peines entend les réquisitions du procureur de la République et les observations du condamné ainsi que, le cas échéant, celles de son conseil. Elle est exécutoire par provision. Elle peut faire l'objet d'un appel dans les dix jours devant la chambre des appels correctionnels statuant en matière d'application des peines.
+
+En cas de retrait de la décision de placement sous surveillance électronique, le condamné subit, selon les dispositions de la décision de retrait, tout ou partie de la durée de la peine qui lui restait à accomplir au jour de son placement sous surveillance électronique. Le temps pendant lequel il a été placé sous surveillance électronique compte toutefois pour l'exécution de sa peine.
+
+
+##### Article 723-14
+
+Un décret en Conseil d'Etat détermine les conditions d'application de la présente section.
 
 
 #### Chapitre III : Des dispositions communes aux différents établissements pénitentiaires
@@ -7816,11 +7903,17 @@ Si la révocation n'est pas intervenue avant l'expiration du délai prévu à l'
 Les décisions prises par le juge de l'application des peines sont des mesures d'administration judiciaire.
 
 
-1. Les décisions qui concernent l'une des mesures prévues par les articles 720-1, 723, 723-3 et 730 peuvent, à la requête du procureur de la République, être déférées devant le tribunal correctionnel qui statue en chambre du conseil parès avoir fait procéder à toutes les auditions utiles et entendus en leurs observations, s'ils en ont fait la demande, les conseils du condamné et de la partie civile.
+
+
+1. Les décisions qui concernent l'une des mesures prévues par les articles 720-1, 723, 723-3, 723-7 et 730 peuvent, à la requête du procureur de la République, être déférées devant le tribunal correctionnel qui statue en chambre du conseil parès avoir fait procéder à toutes les auditions utiles et entendus en leurs observations, s'ils en ont fait la demande, les conseils du condamné et de la partie civile.
 
 
 
-Cette requête est formée dans les vingt-quatre heures qui suivent soit la date de la décision prise en présence du procureur de la République, soit, dans les autres cas, la date de notification au procureur de la République. Elle suspend l'exécution de la décision jusqu'à ce que le tribunal ait statué.
+
+
+Cette requête est formée dans les vingt-quatre heures qui suivent soit la date de la décision prise en présence du procureur de la République, soit, dans les autres cas, la date de notification au procureur de la République. Elle suspend l'exécution de la décision  jusqu'à ce que le tribunal ait statué.
+
+
 
 
 
@@ -7828,7 +7921,11 @@ Le juge de l'application des peines ne peut, à peine de nullité, siéger au se
 
 
 
+
+
 L'affaire doit venir devant le tribunal correctionnel à la première audience ou au plus tard dans la huitaine du jour de la requête du procureur de la République, faute de quoi celle-ci est non avenue.
+
+
 
 
 
@@ -7836,7 +7933,11 @@ Si le condamné exécute une peine prononcée par une juridiction pour mineurs e
 
 
 
+
+
 La décision du tribunal correctionnel ou du tribunal pour enfants ne peut faire l'objet, dans les cinq jours, que d'un pourvoi en cassation qui n'est pas suspensif.
+
+
 
 
 2. Les décisions du juge de l'application des peines qui concernent l'une des mesures prévues par les articles 721, 721-1, 723-6, 729-1 et 733 ne peuvent être annulées par le tribunal correctionnel ou le tribunal pour enfants, dans les mêmes formes et conditions, que pour violation de la loi.
