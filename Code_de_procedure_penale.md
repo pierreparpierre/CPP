@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 25 juillet 1998
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19980725)
+- Date de consolidation : 22 août 1998
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19980822)
 
 
 # Partie législative
@@ -8991,11 +8991,11 @@ Un décret en Conseil d'Etat détermine les frais qui doivent être compris sous
 Nonobstant toutes dispositions contraires, les frais de justice criminelle, correctionnelle et de police sont à la charge de l'Etat et sans recours envers les condamnés.
 
 
-## Livre VI : Dispositions applicables dans les territoires de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis-et-Futuna et dans la collectivité territoriale de Mayotte
+## Livre VI : Dispositions relatives aux territoires d'outre mer et aux collectivités territoriales de Mayotte et Saint-Pierre-et-Miquelon
 
 ### Titre Ier : Dispositions applicables dans les territoires de la Nouvelle-Calédonie, de la Polynésie française et dans les îles Wallis-et-Futuna
 
-#### Chapitre Ier : Dispositions générales.
+#### Chapitre Ier : Dispositions générales
 
 #### Article 804
 
@@ -9018,7 +9018,7 @@ De même, les références à des dispositions non applicables dans ces territoi
 Dans les territoires d'outre-mer, les sanctions pécuniaires encourues en vertu du présent code sont prononcées en monnaie locale, compte tenu de la contre-valeur du franc métropolitain dans cette monnaie.
 
 
-#### Chapitre II : De l'action publique et de l'action civile.
+#### Chapitre II : De l'action publique et de l'action civile
 
 #### Article 807
 
@@ -9034,7 +9034,7 @@ Le deuxième alinéa de l'article 2-8 est rédigé comme suit :
 " Toute association régulièrement déclarée depuis au moins cinq ans à la date des faits ayant, en vertu de ses statuts, vocation à défendre ou à assister les personnes handicapées peut également exercer les droits reconnus à la partie civile en ce qui concerne les infractions aux dispositions législatives ou réglementaires applicables localement relatives à l'accessibilité des locaux d'habitation, des lieux de travail ou des établissements et installations recevant du public. "
 
 
-#### Chapitre III : De la police judiciaire.
+#### Chapitre III : De la police judiciaire
 
 #### Article 809
 
@@ -9055,9 +9055,9 @@ Pour l'application du premier alinéa de l'article 46 et de l'article 48, les fo
 Pour l'application du deuxième alinéa de l'article 46, les fonctions du ministère public peuvent être également exercées par le chef de la circonscription ou de la subdivision administrative où siège le tribunal de police.
 
 
-#### Chapitre IV : Des enquêtes.
+#### Chapitre IV : Des enquêtes
 
-#### Chapitre V : Des juridictions d'instruction.
+#### Chapitre V : Des juridictions d'instruction
 
 #### Article 815
 
@@ -9115,9 +9115,9 @@ Ces magistrats sont désignés chaque année par le premier président de la cou
 En cas d'empêchement d'un membre de la chambre de l'instruction, celui-ci est remplacé par un magistrat du siège désigné par le premier président.
 
 
-#### Chapitre VI : De la cour d'assises.
+#### Chapitre VI : De la cour d'assises
 
-#### Chapitre VII : Du jugement des délits.
+#### Chapitre VII : Du jugement des délits
 
 #### Article 835
 
@@ -9217,7 +9217,7 @@ Le délai supplémentaire prévu à l'article 500 est porté à quinze jours pou
 Si l'appelant réside hors de l'île où la juridiction qui a rendu la décision attaquée a son siège, la déclaration d'appel prévue à l'article 502 peut être adressée au greffier de la juridiction par lettre signée de l'appelant. Dès réception de cette lettre, le greffier dresse l'acte d'appel et y annexe la lettre de l'appelant. Dans le délai prévu par les articles 498, 500 et 846, l'appelant est tenu de confirmer son appel à la mairie ou à la gendarmerie la plus proche de sa résidence.
 
 
-#### Chapitre VIII : Du jugement des contraventions.
+#### Chapitre VIII : Du jugement des contraventions
 
 #### Article 848
 
@@ -9253,14 +9253,14 @@ Les dispositions du quatrième alinéa de l'article 546 s'appliquent aux affaire
 Outre les dispositions rendues applicables par les articles 547 et 549, l'article 846 est applicable aux appels formés contre les jugements de police.
 
 
-#### Chapitre IX : Des citations et significations.
+#### Chapitre IX : Des citations et significations
 
 #### Article 854
 
 Le délai prévu par l'article 552 entre le jour où la citation est délivrée et le jour fixé pour la comparution devant la juridiction est d'au moins dix jours si la partie citée réside dans l'île où siège le tribunal. Ce délai est augmenté d'un mois si la partie citée réside dans une autre île de ce territoire ou en tout autre lieu du territoire de la République.
 
 
-#### Chapitre X : Du pourvoi en cassation.
+#### Chapitre X : Du pourvoi en cassation
 
 #### Article 855
 
@@ -9289,7 +9289,7 @@ Le délai prévu à l'article 584 est porté à deux mois si le demandeur en cas
 Le délai et les formes d'opposition à l'arrêt rendu par la Cour de cassation prévus à l'article 589 sont ceux définis aux articles 855 et 856.
 
 
-#### Chapitre XI : De quelques procédures particulières.
+#### Chapitre XI : De quelques procédures particulières
 
 #### Article 860
 
@@ -9304,6 +9304,13 @@ Le délai prévu au troisième alinéa de l'article 662 est de deux mois.
 #### Article 862
 
 Dans le territoire des îles Wallis-et-Futuna, le président du tribunal de première instance exerce les attributions dévolues à la commission mentionnée à l'article 706-4.
+
+relative à la Nouvelle-Calédonie dispose :
+
+"IV. - Dans toutes les dispositions législatives et réglementaires en vigueur :
+1. La référence au territoire de la Nouvelle-Calédonie est remplacée par la référence à la Nouvelle-Calédonie ;
+2. La référence à l'assemblée territoriale de la Nouvelle-Calédonie est remplacée par la référence au congrès de la Nouvelle-Calédonie ;
+3. La référence à l'exécutif de la Nouvelle-Calédonie est remplacée par la référence au gouvernement de la Nouvelle-Calédonie.
 
 
 #### Article 863
@@ -9327,7 +9334,7 @@ Le premier alinéa de l'article 706-14 est ainsi rédigé :
 
 
 
-Toute personne qui, victime d'un vol, d'une escroquerie ou d'un abus de confiance, ne peut obtenir à un titre quelconque une réparation ou une indemnisation effective et suffisante de son préjudice, et se trouve de ce fait dans une situation matérielle grave, peut obtenir une indemnité dans les conditions prévues par les articles 706-3 (troisième et dernier alinéa) (1) à 706-12, lorsque ses ressources sont inférieures au plafond pour bénéficier de l'aide juridictionnelle partielle, affectée le cas échéant de correctif pour charges de famille, prévu par l'article 3 de l'ordonnance n° 92-1147 du 12 octobre 1992 relative à l'aide juridictionnelle en matière pénale dans les territoires d'outre-mer. "
+" Toute personne qui, victime d'un vol, d'une escroquerie ou d'un abus de confiance, ne peut obtenir à un titre quelconque une réparation ou une indemnisation effective et suffisante de son préjudice, et se trouve de ce fait dans une situation matérielle grave, peut obtenir une indemnité dans les conditions prévues par les articles 706-3 (troisième et dernier alinéa) (1) à 706-12, lorsque ses ressources sont inférieures au plafond pour bénéficier de l'aide juridictionnelle partielle, affectée le cas échéant de correctif pour charges de famille, prévu par l'article 3 de l'ordonnance n° 92-1147 du 12 octobre 1992 relative à l'aide juridictionnelle en matière pénale dans les territoires d'outre-mer. "
 
 
 #### Article 865
@@ -9342,7 +9349,7 @@ Le premier alinéa de l'article 706-30 est ainsi rédigé :
 En cas d'information ouverte pour infraction aux articles 222-34 à 222-38 du code pénal et afin de garantir le paiement des amendes encourues ainsi que l'exécution de la confiscation prévue au deuxième alinéa de l'article 222-49 du même code, le président du tribunal de première instance ou un juge délégué par lui, sur requête du procureur de la République, peut ordonner, aux frais avancés du Trésor et selon les modalités prévues par la réglementation applicable localement en matière de procédure civile, des mesures conservatoires sur les biens de la personne mise en examen.
 
 
-#### Chapitre XII : Des procédures d'exécution.
+#### Chapitre XII : Des procédures d'exécution
 
 #### Article 867
 
@@ -9396,7 +9403,7 @@ Le premier alinéa de l'article 763-7 est ainsi rédigé :
 "Lorsqu'une personne condamnée à un suivi socio-judiciaire comprenant une injonction de soins doit subir une peine privative de liberté, elle exécute cette peine dans un établissement pénitentiaire permettant de lui assurer un suivi médical et psychologique adapté."
 
 
-#### Chapitre XIII : Du casier judiciaire.
+#### Chapitre XIII : Du casier judiciaire
 
 #### Article 874
 
@@ -9417,7 +9424,7 @@ L'article 773 est ainsi rédigé :
 
 ### Titre II : Dispositions applicables dans la collectivité territoriale de Mayotte
 
-#### Chapitre Ier : Dispositions générales.
+#### Chapitre Ier : Dispositions générales
 
 #### Article 877
 
@@ -9446,7 +9453,7 @@ Le terme : "département" est remplacé par les termes : "collectivité territor
 
 
 
-Le terme : "préfet" est remplacé par les termes : "représentant du Gouvernement" et les termes : "arrêté préfectoral" par les termes :  "arrêté du représentant du Gouvernement".
+Le terme : "préfet" est remplacé par les termes : "représentant du Gouvernement" et les termes : "arrêté préfectoral" par les termes : "arrêté du représentant du Gouvernement".
 
 
 
@@ -9462,7 +9469,7 @@ Les compétences attribuées aux chefs de cours par le présent code sont exerc�
 Les attributions dévolues par le présent code aux avocats et aux conseils des parties peuvent être exercées par des personnes agréées par le président du tribunal supérieur d'appel. Ces personnes sont dispensées de procuration.
 
 
-#### Chapitre II : Des enquêtes.
+#### Chapitre II : Des enquêtes
 
 #### Article 880
 
@@ -9471,7 +9478,7 @@ Lorsque le déplacement d'un avocat ou d'une personne agréée en application de
 Le fait pour une personne qui a été appelée à intervenir dans les conditions prévues à l'alinéa précédent, de faire état auprès de quiconque de cet entretien dans le but d'entraver le cours de la justice est puni d'un an d'emprisonnement et de 100 000 F d'amende.
 
 
-#### Chapitre III : Des juridictions d'instruction.
+#### Chapitre III : Des juridictions d'instruction
 
 #### Article 881
 
@@ -9493,7 +9500,7 @@ Les délais prévus à l'article 130 sont portés à quinze jours lorsque le tra
 Par dérogation à l'article 193, le tribunal supérieur d'appel, en tant que chambre de l'instruction, se réunit sur la convocation de son président ou à la demande du procureur de la République à chaque fois qu'il est nécessaire.
 
 
-#### Chapitre IV : De la cour criminelle.
+#### Chapitre IV : De la cour criminelle
 
 #### Article 885
 
@@ -9517,7 +9524,7 @@ Le président de la cour criminelle exerce les attributions dévolues à la cour
 La majorité de huit voix prévue par les articles 359 et 362, deuxième alinéa, est remplacée par une majorité de quatre voix.
 
 
-#### Chapitre V : Du jugement des délits.
+#### Chapitre V : Du jugement des délits
 
 #### Article 889
 
@@ -9549,7 +9556,7 @@ Le délai supplémentaire prévu à l'article 500 est porté à quinze jours pou
 Le nombre et le jour des audiences du tribunal supérieur d'appel statuant en tant que chambre des appels correctionnels sont fixés à la fin de chaque année judiciaire pour l'année judiciaire suivante par une ordonnance du président du tribunal supérieur d'appel prise après avis du procureur de la République. Cette décision peut être modifiée dans les mêmes conditions en cours d'année.
 
 
-#### Chapitre VI : Du jugement des contraventions.
+#### Chapitre VI : Du jugement des contraventions
 
 #### Article 895
 
@@ -9561,14 +9568,14 @@ Le délai d'opposition à l'ordonnance pénale prévu par le troisième alinéa 
 Les articles 892 et 893 sont applicables devant le tribunal de police.
 
 
-#### Chapitre VII : Des citations et des significations.
+#### Chapitre VII : Des citations et des significations
 
 #### Article 897
 
 Le délai prévu au premier alinéa de l'article 552 s'applique lorsque la partie citée réside dans la collectivité territoriale. Ce délai est augmenté d'un mois si la partie citée réside en tout autre lieu du territoire de la République.
 
 
-#### Chapitre VIII : De quelques procédures particulières.
+#### Chapitre VIII : De quelques procédures particulières
 
 #### Article 898
 
@@ -9597,7 +9604,7 @@ Le premier alinéa de l'article 706-14 est ainsi rédigé :
 Toute personne qui, victime d'un vol, d'une escroquerie ou d'un abus de confiance ne peut obtenir à un titre quelconque une réparation ou une indemnisation effective et suffisante de son préjudice, et se trouve de ce fait dans une situation matérielle grave, peut obtenir une indemnité dans les conditions prévues par les articles 706-3 (troisième et dernier alinéa) à 706-12, lorsque ses ressources sont inférieures au plafond pour bénéficier de l'aide juridictionnelle partielle, affectées le cas échéant de correctif pour charges de famille, prévu par l'article 3 de l'ordonnance n° 92-1143 du 12 octobre 1992 relative à l'aide juridictionnelle en matière pénale dans la collectivité territoriale de Mayotte.
 
 
-#### Chapitre IX : Des procédures d'exécution.
+#### Chapitre IX : Des procédures d'exécution
 
 #### Article 901
 
@@ -9612,6 +9619,10 @@ Le premier alinéa de l'article 763-7 est ainsi rédigé :
 
 "Lorsqu'une personne condamnée à un suivi socio-judiciaire comprenant une injonction de soins doit subir une peine privative de liberté, elle exécute cette peine dans un établissement pénitentiaire permettant de lui assurer un suivi médical et psychologique adapté."
 
+
+## Livre VI : Dispositions relatives aux territoires d'outre-mer, à la Nouvelle-Calédonie et aux collectivités territoriales de Mayotte et Saint-Pierre-et-Miquelon
+
+### Titre Ier : Dispositions applicables en Nouvelle-Calédonie et dans les territoires de la Polynésie française et dans les îles Wallis-et-Futuna
 
 # Partie réglementaire - Décrets en Conseil d'Etat
 
