@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 14 janvier 1989
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19890114)
+- Date de consolidation : 18 mars 1989
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19890318)
 
 
 # Partie législative
@@ -7892,7 +7892,7 @@ Siège : Carpentras (à titre temporaire).
 - La liste des jurés suppléants prévue par l'article 264 comprend.
 1. Cinq cent cinquante jurés pour la cour d'assises de Paris ;
 2. Deux cents jurés pour la cour d'assises des Bouches-du-Rhône, de l'Essonne, des Hauts-de-Seine, du Nord, du Rhône, de la Seine-Saint-Denis, du Val-de-Marne, du Val-d'Oise et des Yvelines ;
-3. Cent jurés pour les cours d'assises des Alpes-Maritimes, du Finistère, du Gard, de la Gironde, D'Ille-et-Vilaine, de l'Isère, de la Loire-Atlantique, de Meurthe-et-Moselle, du Pas-de-Calais, de la Réunion, de Seine-et-Marne et de Vaucluse ;
+3. Cent jurés pour les cours d'assises des Alpes-Maritimes, du Finistère, du Gard, de la Gironde, de la Haute-Garonne, D'Ille-et-Vilaine, de l'Isère, de la Loire-Atlantique, de Meurthe-et-Moselle, du Pas-de-Calais, de la Réunion, de Seine-et-Marne et de Vaucluse ;
 4. Cinquante jurés pour les autres cours d'assises.
 
 
