@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 16 janvier 1985
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19850116)
+- Date de consolidation : 26 janvier 1985
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19850126)
 
 
 # Partie législative
@@ -5886,6 +5886,23 @@ Lorsqu'il n'existe pas de fiche au casier judiciaire, le bulletin n° 1 porte la
 Le tribunal qui prononce une condamnation peut exclure expressément sa mention au bulletin n. 2 soit dans le jugement de condamnation, soit par jugement rendu postérieurement sur la requête du condamné instruite et jugée selon les règles de compétence et procédure fixées par les articles 55-1 (alinéa 2) du code pénal et 703 du présent code.
 
 L'exclusion de la mention d'une condamnation au bulletin n. 2 emporte relèvement de toutes les interdictions, déchéances ou incapacités de quelque nature qu'elles soient résultant de cette condamnation.
+
+
+### Article 776
+
+Le bulletin n. 2 du casier judiciaire est délivré :
+
+
+1. Aux préfets et aux administrations publiques de l'Etat saisis de demandes d'emplois publics, de propositions relatives à des distinctions honorifiques ou de soumissions pour des adjudications de travaux ou de marchés publics ou en vue de poursuites disciplinaires ou de l'ouverture d'une école privée ;
+
+
+2. Aux autorités militaires pour les appelés des classes et de l'inscription maritime et pour les jeunes qui demandent à contracter un engagement ainsi qu'aux autorités publiques compétentes en cas de contestation sur l'exercice des droits électoraux ou sur l'existence de l'incapacité d'exercer une fonction publique élective prévue par l'article 194 de la loi n. 85-98 du 25 janvier 1985 précitée.
+
+
+3. Aux administrations et personnes morales dont la liste sera déterminée par le décret en Conseil d'Etat prévu à l'article 779 ;
+
+
+4. Aux présidents des tribunaux de commerce pour être joint aux procédures de faillite et de règlement judiciaire, ainsi qu'aux juges commis à la surveillance du registre du commerce à l'occasion des demandes d'inscription audit registre.
 
 
 ### Article 777
