@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 1er janvier 2003
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20030101)
+- Date de consolidation : 1er mars 2003
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20030301)
 
 
 # Partie législative
@@ -10752,6 +10752,11 @@ Le délai prévu au troisième alinéa de l'article 662 est de deux mois.
 #### Article 862
 
 Dans le territoire des îles Wallis-et-Futuna, le président du tribunal de première instance exerce les attributions dévolues à la commission mentionnée à l'article 706-4.
+
+
+#### Article 862-1
+
+Pour l'application de l'article 706-2 en Nouvelle-Calédonie, en Polynésie française et à Wallis-et-Futuna, il est ajouté après les mots : "par l'article L. 5311-1 du code de la santé publique", les mots : "ou par la réglementation applicable localement".
 
 
 #### Article 863
