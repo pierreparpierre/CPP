@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 24 février 2004
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20040224)
+- Date de consolidation : 2 mars 2004
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20040302)
 
 
 # Partie législative
@@ -10597,6 +10597,11 @@ II. - Les agents assermentés des territoires et, en Nouvelle-Calédonie, des pr
 #### Article 809-1
 
 Pour l'application de l'article 41-2, les références aux articles L. 2339-5 et L. 2339-9 du code de la défense et à l'article L. 1er du code de la route (1) sont remplacées par les références aux dispositions applicables localement qui répriment la détention ou le port d'arme et aux dispositions applicables localement en matière de circulation routière qui répriment la conduite sous l'empire d'un état alcoolique ou en état d'ivresse manifeste.
+
+
+#### Article 809-2
+
+En Polynésie française, les fonctionnaires et agents mentionnés à l'article 35 de la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française sont agents de police judiciaire adjoints dans les conditions prévues à l'article 21 du présent code.
 
 
 #### Article 810
