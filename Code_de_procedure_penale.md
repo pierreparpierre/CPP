@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 1er octobre 1988
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19881001)
+- Date de consolidation : 6 octobre 1988
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19881006)
 
 
 # Partie législative
@@ -8897,7 +8897,9 @@ Outre le cas prévus aux 1°, 2° et 4° de l'article 776, le bulletin n° 2 du 
 18. Aux administrations publiques de l'Etat chargées d'instruire les procédures de changement de nom, d'acquisition, de perte ou de déchéance de la nationalité française ;
 19. Aux établissements mentionnés à l'article L. 792 du Code de la santé publique lorsqu'ils sont saisis d'une demande d'emploi ;
 20. A la Commission des opérations de bourse, en ce qui concerne les dirigeants d'entreprises faisant appel public à l'épargne lors de la nomination de ces dirigeants, lors d'une demande de visa formulée par ceux-ci ou du dépôt d'un document d'information en application de l'article 37 de la loi n° 83-1 du 3 janvier 1983 ;
-21. A la commission des marchés à terme de marchandises en ce qui concerne les personnes physiques ou les dirigeants des personnes morales qui sollicitent l'agrément ou l'inscription prévues par les articles 31, 32 et 34 de la loi n° 83-610 du 8 juillet 1983, ainsi que les personnes qui font l'objet d'une procédure disciplinaire sur le fondement des articles 22, 29 ou 41 de cette loi. 22° A l'administration pénitentiaire au titre des autorisations, agréments ou habilitations qu'elle est susceptible de délivrer aux personnes appelées à intervenir dans les établissements pénitentiaires ou pour le recrutement de ses personnels.
+21. A la commission des marchés à terme de marchandises en ce qui concerne les personnes physiques ou les dirigeants des personnes morales qui sollicitent l'agrément ou l'inscription prévues par les articles 31, 32 et 34 de la loi n° 83-610 du 8 juillet 1983, ainsi que les personnes qui font l'objet d'une procédure disciplinaire sur le fondement des articles 22, 29 ou 41 de cette loi;
+22. A l'administration pénitentiaire au titre des autorisations, agréments ou habilitations qu'elle est susceptible de délivrer aux personnes appelées à intervenir dans les établissements pénitentiaires ou pour le recrutement de ses personnels;
+23. Aux juges des enfants à l'occasion de l'instruction des procédures d'habilitation des personnes physiques, établissements, services ou organismes publics ou privés auxquels l'autorité judiciaire confie habituellement des mineurs ainsi que dans le cadre du contrôle que les juges des enfants exercent sur les mêmes personnes, établissements, services ou organismes lorsqu'ils sont habilités.
 
 
 #### Article R80
