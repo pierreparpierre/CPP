@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 30 janvier 1981
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19810130)
+- Date de consolidation : 3 février 1981
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19810203)
 
 
 # Partie législative
@@ -70,6 +70,13 @@ En matière de délit, la prescription de l'action publique est de trois années
 ## Article 9
 
 En matière de contravention, la prescription de l'action publique est d'une année révolue ; elle s'accomplit selon les distinctions spécifiées à l'article 7.
+
+
+## Article 10
+
+L'action civile se prescrit selon les règles du code civil. Toutefois, cette action ne peut plus être engagée devant la juridiction répressive après l'expiration du délai de prescription de l'action publique.
+
+Lorsqu'il a été statué sur l'action publique, les mesures d'instruction ordonnées par le juge pénal sur les seuls intérêts civils obéissent aux règles de la procédure civile.
 
 
 ## Livre Ier : De l'exercice de l'action publique et de l'instruction
@@ -288,6 +295,19 @@ Il représente également en personne ou par ses substituts le ministère public
 Il représente de même, en personne ou par ses substituts, le ministère public auprès du tribunal de police dans les conditions fixées par l'article 45 du présent code.
 
 
+##### Article 41
+
+Le procureur de la République procède ou fait procéder à tous les actes nécessaires à la recherche et à la poursuite des infractions à la loi pénale.
+
+A cette fin, il dirige l'activité des officiers et agents de la police judiciaire dans le ressort de son tribunal.
+
+Il a tous les pouvoirs et prérogatives attachés à la qualité d'officier de police judiciaire prévus par la section II du chapitre Ier du titre Ier du présent livre, ainsi que par des lois spéciales.
+
+En cas d'infractions flagrantes, il exerce les pouvoirs qui lui sont attribués par l'article 68.
+
+Le procureur de la République peut également confier aux personnes habilitées dans les conditions prévues par l'article 81, sixième alinéa, le soin de vérifier la situation matérielle, familiale ou sociale des personnes faisant l'objet d'une enquête.
+
+
 ##### Article 42
 
 Le procureur de la République a, dans l'exercice de ses fonctions, le droit de requérir directement la force publique.
@@ -434,6 +454,29 @@ Les dispositions du dernier alinéa de l'article 64 sont applicables.
 L'officier de police judiciaire avise de ce droit la personne gardée à vue.
 
 
+#### Article 63-1
+
+
+
+
+#### Article 64
+
+Tout officier de police judiciaire doit mentionner sur le procès-verbal d'audition de toute personne gardée à vue la durée des interrogatoires auxquels elle a été soumise et des repos qui ont séparé ces interrogatoires, le jour et l'heure à partir desquels elle a été gardée à vue, ainsi que le jour et l'heure à partir desquels elle a été soit libérée, soit amenée devant le magistrat compétent.
+
+Cette mention doit être spécialement émargée par les personnes intéressées, et, au cas de refus, il en est fait mention. Elle comportera obligatoirement les motifs de la garde à vue.
+
+Elle doit également figurer sur un registre spécial tenu à cet effet dans tout local de police susceptible de recevoir une personne gardée à vue.
+
+S'il l'estime nécessaire, le procureur de la République peut désigner, même à la requête d'un membre de la famille de la personne gardée à vue, un médecin qui examinera cette dernière à n'importe quel moment des délais prévus à l'article 63.
+
+Après vingt-quatre heures, l'examen médical sera de droit si la personne retenue le demande. Elle en sera avisée. Mention de cet avis sera portée au procès-verbal et émargée par la personne intéressée.
+
+
+#### Article 64-1
+
+
+
+
 #### Article 65
 
 Dans les corps ou services où les officiers de police judiciaire sont astreints à tenir un carnet de déclarations, les mentions et émargements prévus à l'article précédent doivent également être portés sur ledit carnet. Seules les mentions sont reproduites au procès-verbal qui est transmis à l'autorité judiciaire.
@@ -468,26 +511,6 @@ Si les nécessités de l'enquête l'exigent, le procureur de la République, ou 
 En cas de crime flagrant et si le juge d'instruction n'est pas encore saisi, le procureur de la République peut décerner mandat d'amener contre toute personne soupçonnée d'avoir participé à l'infraction.
 
 Le procureur de la République interroge sur-le-champ la personne ainsi conduite devant lui. Si elle se présente spontanément, accompagnée d'un défenseur, elle ne peut être interrogée qu'en présence de ce dernier.
-
-
-#### Article 71
-
-
-
-
-#### Article 71-1
-
-
-
-
-#### Article 71-2
-
-
-
-
-#### Article 71-3
-
-
 
 
 #### Article 73
@@ -774,6 +797,13 @@ Dans les cas de renvoi, soit devant le tribunal de police, soit devant le tribun
 Si la juridiction correctionnelle est saisie, le procureur de la République doit faire donner assignation au prévenu pour l'une des plus prochaines audiences, en observant les délais de citation prévus au présent code.
 
 
+##### Article 182
+
+Des ordonnances comportant non-lieu partiel peuvent intervenir en cours d'information.
+
+Peuvent intervenir, dans les mêmes conditions, des ordonnances de renvoi partiel ou de transmission partielle des pièces lorsque, sur l'un ou plusieurs des faits dont le juge d'instruction est saisi, les charges recueillies apparaissent suffisantes.
+
+
 ##### Section 13 : De la reprise de l'information sur charges nouvelles
 
 ##### Article 189
@@ -793,6 +823,36 @@ Il appartient au ministère public seul de décider s'il y a lieu de requérir l
 ##### Article 195
 
 Dans les causes dont sont saisies les juridictions correctionnelles ou de police et jusqu'à l'ouverture des débats, le procureur général, s'il estime que les faits sont susceptibles d'une qualification plus grave que celle dont ils ont été l'objet, ordonne l'apport des pièces, met l'affaire en état et la soumet avec son réquisitoire à la chambre de l'instruction.
+
+
+##### Article 196-1
+
+[*Note : articles 196-1 à 196-6 abrogés, loi 83-466 1983-06-10 art. 17.*]
+
+
+##### Article 196-2
+
+[*Note : articles 196-1 à 196-6 abrogés, loi 83-466 1983-06-10 art. 17.*]
+
+
+##### Article 196-3
+
+[*Note : articles 196-1 à 196-6 abrogés, loi 83-466 1983-06-10 art. 17.*]
+
+
+##### Article 196-4
+
+[*Note : articles 196-1 à 196-6 abrogés, loi 83-466 1983-06-10 art. 17.*]
+
+
+##### Article 196-5
+
+[*Note : articles 196-1 à 196-6 abrogés, loi 83-466 1983-06-10 art. 17.*]
+
+
+##### Article 196-6
+
+[*Note : articles 196-1 à 196-6 abrogés, loi 83-466 1983-06-10 art. 17.*]
 
 
 ##### Article 203
@@ -1044,6 +1104,23 @@ Le juge d'instruction fixe le délai dans lequel les procès-verbaux dressés pa
 
 ##### Section 1 : Dispositions générales
 
+##### Article 191
+
+Chaque cour d'appel comprend au moins une chambre d'accusation.
+
+
+
+Cette juridiction est composée d'un président de chambre exclusivement attaché à ce service, et de deux conseillers qui peuvent, en cas de besoin, assurer le service des autres chambres de la cour.
+
+
+
+Le président et les conseillers composant la chambre d'accusation sont désignés chaque année, pour la durée de l'année judiciaire suivante, par l'assemblée générale de la cour.
+
+
+
+Un décret pourra prévoir que le président de la chambre d'accusation d'une cour d'appel comptant moins de trois chambres assurera à titre exceptionnel le service d'une autre chambre de la même cour.
+
+
 ##### Article 192
 
 Les fonctions du ministère public auprès de la chambre d'accusation sont exercées par le procureur général ou par ses substituts ; celles du greffe par un greffier de la cour d'appel.
@@ -1129,6 +1206,21 @@ L'arrêt de mise en accusation contient, à peine de nullité, l'exposé et la q
 
 
 Il décerne en outre ordonnance de prise de corps contre l'accusé dont il précise l'identité.
+
+
+##### Article 216
+
+Les arrêts de la chambre d'accusation sont signés par le président et par le greffier. Il y est fait mention du nom des juges, du dépôt des pièces et des mémoires, de la lecture du rapport, des réquisitions du ministère public et, s'il y a lieu,
+
+de l'audition des parties ou de leurs conseils.
+
+La chambre d'accusation réserve les dépens si son arrêt n'éteint pas l'action dont elle a eu à connaître.
+
+Dans le cas contraire, elle liquide les dépens et condamne aux frais la partie qui succombe.
+
+Toutefois la partie civile de bonne foi peut être déchargée de la totalité ou d'une partie des frais par décision spéciale et motivée.
+
+Lorsqu'il apparaît inéquitable de laisser à la charge de la partie civile les sommes exposées par elle et non comprises dans les frais et dépens, le juge peut condamner l'auteur de l'infraction à lui payer le montant qu'il détermine.
 
 
 ##### Article 218
@@ -1364,6 +1456,13 @@ Sont incapables d'être jurés :
 8. Les majeurs sous sauvegarde de justice, les majeurs en tutelle, les majeurs en curatelle et ceux qui sont placés dans un établissement d'aliénés en vertu des articles L. 326-1 à L. 355 du Code de la santé publique.
 
 
+###### Article 258
+
+Sont dispensées des fonctions de juré les personnes âgées de plus de soixante-dix ans ou n'ayant pas leur résidence principale dans le département siège de la cour d'assises lorsqu'elles en font la demande à la commission prévue par l'article 262.
+
+Peuvent, en outre, être dispensées de ces fonctions les personnes qui invoquent un motif grave reconnu valable par la commission.
+
+
 ###### Article 258-1
 
 Sont exclus ou rayés de la liste annuelle des jurés et de la liste spéciale des jurés suppléants ceux qui ont rempli les fonctions de juré dans le département depuis moins de cinq ans.
@@ -1380,6 +1479,35 @@ L'inobservation des dispositions du présent article et de l'article précédent
 ###### Article 259
 
 Il est établi, annuellement, dans le ressort de chaque cour d'assises une liste du jury criminel.
+
+
+###### Article 260
+
+Cette liste comprend, pour la cour d'assises de Paris, mille huit cents jurés et, pour les autres ressorts de cour d'assises, un juré pour mille trois cents habitants, sans toutefois que le nombre des jurés puisse être inférieur à deux cents.
+
+Le nombre des jurés pour la liste annuelle est réparti proportionnellement au tableau officiel de la population. Cette répartition est faite par commune ou communes regroupées, par arrêté du préfet au mois d'avril de chaque année. A Paris, elle est faite par arrêté du préfet au mois de juin entre les arrondissements.
+
+
+###### Article 261
+
+Dans chaque commune, le maire, en vue de dresser la liste préparatoire de la liste annuelle, tire au sort publiquement à partir de la liste électorale un nombre de noms triple de celui fixé par l'arrêté préfectoral pour la circonscription. Pour la constitution de cette liste préparatoire, ne sont pas retenues les personnes qui n'auront pas atteint, l'âge de vingt-trois ans au cours de l'année civile qui suit.
+
+Lorsque l'arrêté préfectoral de répartition a prévu un regroupement de communes, le tirage au sort est effectué par le maire de la commune désignée dans l'arrêté du préfet. Il porte sur l'ensemble des listes électorales des communes concernées.
+
+A Paris, le tirage au sort est effectué, dans chaque arrondissement, par l'officier d'état civil désigné par le maire.
+
+
+###### Article 261-1
+
+La liste préparatoire doit être dressée en deux originaux dont l'un est déposé à la mairie, et pour Paris à la mairie annexe, et l'autre transmis avant le 15 juillet au secrétariat-greffe de juridiction siège de la cour d'assises.
+
+Le maire doit avertir les personnes qui ont été tirées au sort. Il leur demande de lui préciser leur profession. Il les informe qu'elles ont la possibilité de demander par lettre simple avant le 1er septembre au président de la commission prévue à l'article 262 le bénéfice des dispositions de l'article 258.
+
+
+
+
+
+Le maire est tenu d'informer le greffier en chef de la cour d'appel ou du tribunal de grande instance siège de la cour d'assises, des inaptitudes légales résultant des articles 255, 256 et 257, qui, à sa connaissance, frapperaient les personnes portées sur la liste préparatoire. Il peut, en outre, présenter des observations sur le cas des personnes qui, pour des motifs graves, ne paraissent pas en mesure d'exercer les fonctions de juré.
 
 
 ###### Article 262
@@ -1738,6 +1866,23 @@ L'arrêt sur le fond doit toujours être prononcé en audience publique.
 Les débats ne peuvent être interrompus et doivent continuer jusqu'à ce que la cause soit terminée par l'arrêt de la cour d'assises.
 
 Ils peuvent être suspendus pendant le temps nécessaire au repos des juges et de l'accusé.
+
+
+##### Article 308
+
+Dès l'ouverture de l'audience, l'emploi de tout appareil d'enregistrement ou de diffusion sonore, de caméra de télévision ou de cinéma, d'appareils photographiques est interdit sous peine d'une amende de 300 F à 120000 F, qui peut être prononcée dans les conditions prévues au titre VIII du livre IV.
+
+Toutefois, le président de la cour d'assises peut ordonner que les débats feront l'objet, sous son contrôle, d'un enregistrement sonore.
+
+Les supports de cet enregistrement sont placés sous scellés et déposés au greffe de la cour d'assises.
+
+L'enregistrement sonore peut être utilisé devant la cour d'assises, jusqu'au prononcé de l'arrêt ; s'il l'est au cours de la délibération, les formalités prévues au troisième alinéa de l'article 347 sont applicables. L'enregistrement sonore peut encore être utilisé devant la Cour de cassation saisie d'une demande en révision, ou, après cassation ou annulation sur demande en révision, devant la juridiction de renvoi, en ce qui concerne les déclarations faites par des personnes qui ne peuvent plus être entendues.
+
+Les scellés sont ouverts par le premier président ou par un magistrat délégué par lui, en présence du condamné assisté de son conseil, ou eux dûment appelés, ou en présence de l'une des personnes visées à l'article 623 (3°), ou elles dûment appelées.
+
+Après présentation des scellés, le premier président fait procéder par un expert à une transcription de l'enregistrement qui est jointe au dossier de la procédure.
+
+Les dispositions ci-dessus ne sont pas prescrites à peine de nullité de la procédure.
 
 
 ##### Article 309
@@ -2190,6 +2335,13 @@ La partie civile dans le cas d'acquittement comme dans celui d'absolution, peut 
 L'accusé qui succombe est condamné aux dépens envers la partie civile.
 
 
+##### Article 375
+
+La partie civile qui a obtenu des dommages intérêts n'est jamais tenue des dépens. Celle qui a succombé n'est condamnée aux dépens que si elle a, elle-même, mis en mouvement l'action publique. Toutefois, même en ce cas, elle peut, eu égard aux circonstances de la cause, être déchargée de la totalité ou d'une partie de ces dépens, par décision spéciale et motivée de la cour.
+
+Lorsqu'il apparaît inéquitable de laisser à la charge de la partie civile les sommes exposées par elle et non comprises dans les frais et dépens, le juge peut condamner l'auteur de l'infraction à lui payer le montant qu'il détermine.
+
+
 ##### Section 3 : De la décision sur l'action civile
 
 ##### Article 371
@@ -2199,7 +2351,17 @@ Après que la cour d'assises s'est prononcée sur l'action publique, la cour, sa
 La cour peut commettre l'un de ses membres pour entendre les parties, prendre connaissance des pièces et faire son rapport à l'audience, où les parties peuvent encore présenter leurs observations et où le ministère public est ensuite entendu.
 
 
+##### Article 375-1
+
+La partie civile est assimilée au témoin en ce qui concerne le paiement des indemnités, sauf décision contraire du tribunal.
+
+
 ##### Section 4 : De l'arrêt et du procès-verbal
+
+##### Article 376
+
+Le greffier écrit l'arrêt ; les textes de lois appliqués y sont indiqués.
+
 
 ##### Article 377
 
@@ -2305,6 +2467,13 @@ Toute personne ayant porté plainte est avisée par le parquet de la date de l'a
 La partie civile, qui cite directement un prévenu devant un tribunal répressif, fait, dans l'acte de citation, élection de domicile dans le ressort du tribunal saisi, à moins qu'elle n'y soit domiciliée.
 
 
+###### Paragraphe 3 : De la convocation par procès-verbal et de la compuration immédiate
+
+###### Article 397-7
+
+*Article abrogé*.
+
+
 ##### Section 2 : De la composition du tribunal et de la tenue des audiences
 
 ##### Article 398
@@ -2357,11 +2526,6 @@ Le président a la police de l'audience et la direction des débats.
 ##### Article 402
 
 Le président peut interdire l'accès de la salle d'audience aux mineurs ou à certains d'entre eux.
-
-
-##### Article 403
-
-[Article abrogé].
 
 
 ##### Article 404
@@ -2497,9 +2661,21 @@ Lorsqu'elle est faite avant l'audience, la déclaration de partie civile doit pr
 Elle est immédiatement transmise par le greffier au ministère public qui cite la partie civile pour l'audience.
 
 
+###### Article 420-2
+
+La décision rendue sur la demande de restitution d'objets saisis ou de dommages-intérêts présentée par lettre produit tous les effets d'une décision contradictoire ; elle est signifiée à la partie civile par exploit d'huissier conformément aux dispositions des articles 550 et suivants.
+
+
 ###### Article 421
 
 A l'audience, la déclaration de partie civile doit, à peine d'irrecevabilité, être faite avant les réquisitions du ministère public sur le fond ou, si le tribunal a ordonné l'ajournement du prononcé de la peine, avant les réquisitions du ministère public sur la peine.
+
+
+###### Article 422
+
+La personne qui s'est constituée partie civile ne peut plus être entendue comme témoin.
+
+Toutefois, la partie civile est assimilée au témoin en ce qui concerne le paiement des indemnités, sauf décision contraire du tribunal.
 
 
 ###### Article 423
@@ -2512,6 +2688,15 @@ L'irrecevabilité peut également être soulevée par le ministère public, le p
 ###### Article 424
 
 La partie civile peut toujours se faire représenter par un avocat ou un avoué. Dans ce cas le jugement est contradictoire à son égard.
+
+
+###### Article 425
+
+La partie civile régulièrement citée qui ne comparaît pas ou n'est pas représentée à l'audience est considérée comme se désistant de sa constitution de partie civile.
+
+En ce cas, et si l'action publique n'a été mise en mouvement que par la citation directe délivrée à la requête de la partie civile, le tribunal ne statue sur ladite action que s'il en est requis par le ministère public ; sauf au prévenu à demander au tribunal des dommages-intérêts pour abus de citation directe, comme il est dit à l'article 472.
+
+Le jugement constatant le désistement présumé de la partie civile lui est signifié par exploit d'huissier, conformément aux dispositions des articles 550 et suivants. Ce jugement est assimilé à un jugement par défaut, et l'opposition est soumise aux dispositions des articles 489 à 495.
 
 
 ###### Article 426
@@ -2744,6 +2929,13 @@ L'instruction à l'audience terminée, la partie civile est entendue en sa deman
 La partie civile et le ministère public peuvent répliquer. Le prévenu ou son conseil auront toujours la parole les derniers.
 
 
+###### Article 460-1
+
+Lorsque la personne qui se prétend lésée s'est constituée partie civile par lettre, le président donne lecture de cette lettre dès que l'instruction à l'audience est terminée. Le ministère public prend ses réquisitions ; le prévenu et, s'il y a lieu, la personne civilement responsable présentent leur défense.
+
+Si le tribunal l'estime nécessaire, il peut ordonner la comparution de la partie civile. En ce cas, les débats sur l'ensemble de l'affaire ou uniquement sur les intérêts civils sont renvoyés à une prochaine audience dont la date est immédiatement fixée. Les parties sont tenues de comparaître sans autre citation à l'audience de renvoi. Il en est de même pour les personnes invitées par le tribunal à rester à sa disposition lorsqu'un avertissement écrit leur est immédiatement délivré.
+
+
 ###### Article 461
 
 Si les débats ne peuvent être terminés au cours de la même audience, le tribunal fixe, par jugement, le jour où ils seront continués.
@@ -2795,6 +2987,11 @@ Si le tribunal régulièrement saisi d'un fait qualifié délit par la loi, esti
 ##### Article 467
 
 Si le fait est une contravention connexe à un délit, le tribunal statue par un seul et même jugement, à charge d'appel sur le tout.
+
+
+##### Article 467-1
+
+En matière correctionnelle ou de police, la réparation volontaire, en tout ou partie, avant le jour de l'audience, des préjudices causés par l'infraction peut être retenue comme une circonstance atténuante compte tenu des facultés contributives du prévenu.
 
 
 ##### Article 468
@@ -2863,6 +3060,11 @@ Toutefois, si le prévenu est acquitté à raison de son état de démence au mo
 La partie civile qui succombe est tenue des frais. Il en est de même dans les cas visés par l'article 425.
 
 Le tribunal peut toutefois, par décision spéciale et motivée, l'en décharger en tout ou partie.
+
+
+##### Article 475-1
+
+Lorsqu'il apparaît inéquitable de laisser à la charge de la partie civile les sommes exposées par elle et non comprises dans les frais et dépens, le juge peut condamner l'auteur de l'infraction à lui payer le montant qu'il détermine.
 
 
 ##### Article 476
@@ -3078,6 +3280,13 @@ Si la cour estime que l'appel est tardif ou irrégulièrement formé, elle le d�
 Si elle estime que l'appel, bien que recevable, n'est pas fondé, elle confirme le jugement attaqué.
 
 Dans les deux cas, elle condamne l'appelant aux dépens, à moins que l'appel n'émane du ministère public, les dépens étant alors laissés à la charge du Trésor.
+
+
+##### Article 515-1
+
+Lorsque le tribunal, statuant sur l'action civile, a ordonné le versement provisoire, en tout ou en partie, des dommages-intérêts alloués, cette exécution provisoire peut être arrêtée, en cause d'appel, par le premier président statuant en référé si elle risque d'entraîner des conséquences manifestement excessives. Le premier président peut subordonner la suspension de l'exécution provisoire à la constitution d'une garantie, réelle ou personnelle, suffisante pour répondre de toutes restitutions ou réparations.
+
+Lorsque l'exécution provisoire a été refusée par le tribunal statuant sur l'action civile ou lorsque l'exécution provisoire n'a pas été demandée, ou si, l'ayant été, le tribunal a omis de statuer, elle peut être accordée, en cas d'appel, par le premier président statuant en référé.
 
 
 ##### Article 516
@@ -4338,6 +4547,15 @@ Soit, si l'infraction retenue à la charge de l'inculpé constitue un crime, le 
 Les arrêts de la chambre d'accusation sont susceptibles de pourvoi dans les conditions déterminées par le titre Ier du livre III. Toutefois, par dérogation à l'article 574, l'arrêt de la chambre d'accusation portant renvoi de l'inculpé devant le tribunal correctionnel peut, dans tous les cas, faire l'objet d'un pourvoi en cassation. L'arrêt de renvoi devenu définitif couvre, s'il en existe, les vices de la procédure antérieure.
 
 
+### Article 687
+
+Lorsqu'un officier de police judiciaire est susceptible d'être inculpé d'un crime ou d'un délit, qui aurait été commis dans la circonscription où il est territorialement compétent, hors ou dans l'exercice de ses fonctions, ou, s'il s'agit d'un maire ou de ses adjoints, lorsque les dispositions de l'article 681 ne leur sont pas applicables, le procureur de la République saisi de l'affaire présente sans délai requête à la chambre criminelle de la Cour de cassation, qui procède et statue comme en matière de règlement de juges et désigne la juridiction chargée de l'instruction ou du jugement de l'affaire.
+
+La Chambre criminelle se prononce dans la huitaine qui suit le jour auquel la requête lui est parvenue.
+
+Les dispositions des articles 680 et 681 (alinéa 5) sont applicables.
+
+
 ### Article 688
 
 Jusqu'à la désignation de la juridiction compétente comme il est dit ci-dessus, la procédure est suivie conformément aux règles de compétence du droit commun.
@@ -4463,6 +4681,13 @@ A défaut de cette indication, la nullité du jugement en ce qui concerne ses di
 ### Article 706-13
 
 En cas d'infraction commise à l'étranger et relevant de la compétence des juridictions françaises, les dispositions du présent titre sont applicables lorsque la personne lésée est de nationalité française.
+
+
+### Article 706-14
+
+Toute personne qui, victime d'un vol, d'une escroquerie ou d'un abus de confiance, ne peut obtenir à un titre quelconque une réparation ou une indemnisation effective et suffisante de son préjudice, et se trouve de ce fait dans une situation matérielle grave, peut également obtenir de l'Etat une indemnité dans les conditions prévues aux articles 706-4 à 706-13 lorsque ses ressources sont inférieures au plafond prévu à l'alinéa 1er de l'article 2 de la loi n. 72-11 du 3 janvier 1972 pour bénéficier de l'aide judiciaire totale.
+
+Cette indemnité sera au maximum égale au triple du montant mensuel de ce plafond de ressources.
 
 
 ## Livre V : Des procédures d'exécution
@@ -4689,6 +4914,15 @@ Dans les prisons établies pour peines, ce régime sera institué en vue de favo
 
 ### Titre III : De la libération conditionnelle
 
+### Article 729
+
+Les condamnés ayant à subir une ou plusieurs peines privatives de liberté peuvent bénéficier d'une libération conditionnelle s'ils présentent des gages sérieux de réadaptation sociale.
+
+La libération conditionnelle peut être accordée aux condamnés ayant accompli la moitié de leur peine. Pour les condamnés en état de récidive légale aux termes des articles 56, 57 ou 58 du code pénal, le temps d'épreuve est porté aux deux tiers de la peine.
+
+Pour les condamnés à la réclusion criminelle à perpétuité, le temps d'épreuve est de quinze années.
+
+
 ### Article 729-2
 
 Dans les formes et conditions prévues par les articles 721, 721-1, et 729-1, mais dans la limite de quarante-cinq jours par année d'incarcération, des réductions du temps d'épreuve nécessaire à l'octroi de la libération conditionnelle peuvent être accordées aux condamnés à la réclusion criminelle à perpétuité. Elles ne sont, le cas échéant, imputables que sur la partie de la peine excédant la période de sûreté prévue à l'article 720-2.
@@ -4743,6 +4977,15 @@ Si la révocation n'est pas intervenue avant l'expiration du délai prévu à l'
 ### Titre IV : Du sursis
 
 #### Chapitre Ier : Du sursis simple
+
+#### Article 735
+
+Si le condamné bénéficiant du sursis simple à l'emprisonnement n'a pas commis, pendant le délai de cinq ans à compter de la condamnation, un crime ou un délit de droit commun suivi d'une nouvelle condamnation, soit à une peine criminelle, soit à une peine correctionnelle d'emprisonnement sans sursis, la condamnation suspendue est considérée comme non avenue. Est également considérée comme non avenue la condamnation à l'amende assortie du sursis lorsque, dans le délai ci-dessus, le condamné n'a pas commis un crime ou un délit suivi d'une condamnation à l'amende ou à l'emprisonnement.
+
+Dans le cas contraire, la première peine est exécutée sans qu'elle puisse se confondre avec la seconde. Toutefois, le tribunal peut, par décision spéciale et motivée, dire que la condamnation qu'il prononce n'entraîne pas la révocation, ou n'entraîne que la révocation partielle, du sursis antérieurement accordé. Si le tribunal n'a pas expressément statué sur la dispense de révocation, le condamné peut ultérieurement en demander le bénéfice ; sa requête est alors instruite et jugée selon les règles de compétence et de procédure fixées par les articles 55-1 (alinéa 2) du code pénal et 703 du présent code.
+
+Lorsque le bénéfice du sursis simple n'a été accordé que pour une partie de la peine, la condamnation est considérée comme non avenue dans tous les éléments si la révocation du sursis n'a pas été encourue dans le délai prévu par l'alinéa premier, l'amende ou la partie de l'amende non assortie du sursis restant due.
+
 
 #### Article 736
 
@@ -4813,6 +5056,16 @@ Les mesures prévues à l'article 741-2 impliquent saisine du tribunal correctio
 L'affaire doit venir à la première audience ou au plus tard dans les cinq jours de l'écrou, faute de quoi le condamné doit être mis en liberté d'office. S'il y a lieu à remise, le tribunal doit statuer par décision motivée sur le maintien en détention du condamné.
 
 
+#### Article 742
+
+Le tribunal correctionnel peut prolonger le délai d'épreuve :
+1. Lorsque le condamné ne satisfait pas aux mesures de surveillance et d'assistance ou aux obligations particulières imposées en application de l'article 739 ;
+2. Lorsqu'il a commis une infraction suivie d'une condamnation à l'occasion de laquelle la révocation du sursis n'a pas été prononcée ;
+3. Lorsqu'il s'est soustrait volontairement à l'obligation de contribuer aux charges familiales, d'acquitter régulièrement des pensions alimentaires, de remettre ses enfants entre les mains de ceux auxquels leur garde a été confiée par décision de justice, ou encore de réparer les dommages causés par l'infraction.
+
+Le tribunal peut aussi, dans les conditions prévues aux articles suivants, ordonner exécution de la peine en totalité ou pour une partie dont il détermine la durée.
+
+
 #### Article 742-1
 
 Lorsque le tribunal correctionnel prolonge le délai d'épreuve, ce délai ne peut au total être supérieur à cinq années. Le tribunal peut, en outre, par décision spéciale et motivée, ordonner l'exécution provisoire de cette mesure.
@@ -4865,6 +5118,15 @@ En cas d'opposition, l'affaire doit venir devant le tribunal à la première aud
 #### Article 744-2
 
 Lorsque le condamné est placé sous le régime de la mise à l'épreuve par une décision d'une juridiction spéciale aux mineurs, le juge des enfants et le tribunal pour enfants dans le ressort desquels le mineur a sa résidence habituelle exercent les attributions dévolues au juge de l'application des peines et au tribunal correctionnel par les articles 739 à 744-1, jusqu'à l'expiration du délai d'épreuve.
+
+
+#### Article 744-3
+
+Si le condamné commet, au cours du délai d'épreuve, un crime ou un délit de droit commun suivi d'une nouvelle condamnation, soit à une peine criminelle, soit à une peine correctionnelle d'emprisonnement, la cour ou le tribunal peut ordonner la révocation de tout ou partie du ou des sursis antérieurement accordés. Dans ce cas, les peines correspondant aux sursis révoqués sont d'abord exécutés sans qu'elles puissent se confondre entre elles ou avec la dernière peine prononcée.
+
+Si le sursis avec mise à l'épreuve a été accordé après une ou plusieurs condamnations déjà prononcées avec le bénéfice de ce sursis, les peines portées par les condamnations correspondantes sont exécutées totalement ou partiellement si la cour ou le tribunal ordonne la révocation, en tout ou en partie, du ou des sursis qui les accompagnent.
+
+Lorsque la révocation du sursis est ordonnée, les dispositions des articles 742-4 et 744-1 sont applicables.
 
 
 #### Article 745
@@ -5123,6 +5385,18 @@ Toute personne condamnée par un tribunal français à une peine criminelle, cor
 ### Article 783
 
 La réhabilitation est soit acquise de plein droit, soit accordée par arrêt de la chambre de l'instruction.
+
+
+### Article 784
+
+Elle est acquise de plein droit au condamné qui n'a, dans les délais ci-après déterminés, subi aucune condamnation nouvelle à une peine criminelle ou correctionnelle :
+1. Pour la condamnation à l'amende après un délai de trois ans à compter du jour du paiement de l'amende, de l'expiration de la contrainte par corps ou de la prescription accomplie ;
+2. Pour la condamnation unique, soit à une peine d'emprisonnement n'excédant pas six mois, soit à une sanction pénale autre que l'emprisonnement ou l'amende prononcée à titre principal, après un délai de cinq ans à compter, soit de l'expiration de la peine ou de la sanction subie, soit de la prescription accomplie ;
+3. Pour la condamnation unique à une peine d'emprisonnement n'excédant pas cinq ans, ou pour les condamnations multiples dont l'ensemble ne dépasse pas deux ans, après un délai de dix ans à compter, soit de l'expiration de la peine subie, soit de la prescription accomplie.
+
+Sont, pour l'application des dispositions qui précèdent, considérés comme constituant une condamnation unique les condamnations dont la confusion a été accordée.
+
+La remise totale ou partielle d'une peine par voie de grâce équivaut à son exécution totale ou partielle.
 
 
 ### Article 785
