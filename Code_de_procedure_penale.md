@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 29 décembre 1975
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19751229)
+- Date de consolidation : 1er janvier 1976
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19760101)
 
 
 # Partie législative
@@ -93,6 +93,25 @@ Lorsqu'une information est ouverte, elle exécute les délégations des juridict
 
 
 ##### Section 2 : Des officiers de police judiciaire
+
+##### Article 16-1
+
+Dans le mois qui suit la notification de la décision de suspension ou de retrait d'habilitation, l'officier de police judiciaire peut demander au procureur général de rapporter cette décision. Le procureur général doit statuer dans un délai d'un mois. A défaut, son silence vaut rejet de la demande.
+
+
+##### Article 16-2
+
+Dans le délai d'un mois à partir du rejet explicite ou implicite de la demande prévue à l'article précédent, l'officier de police judiciaire peut former un recours devant une commission composée de trois magistrats du siège de la Cour de cassation ayant le grade de président de chambre ou de conseiller. Ces magistrats sont désignés annuellement, en même temps que trois suppléants, par le bureau de la Cour de cassation.
+
+Les fonctions du ministère public sont remplies par le parquet général près la Cour de cassation.
+
+
+##### Article 16-3
+
+La commission statue par une décision non motivée. Les débats ont lieu et la décision est rendue en chambre du conseil. Le débat est oral ; le requérant peut être entendu personnellement sur sa demande ou celle de son conseil ; il peut être assisté de son conseil.
+
+La procédure devant la commission est fixée par un décret en Conseil d'Etat.
+
 
 ##### Article 17
 
@@ -433,6 +452,26 @@ En cas de crime flagrant et si le juge d'instruction n'est pas encore saisi, le 
 Le procureur de la République interroge sur-le-champ la personne ainsi conduite devant lui. Si elle se présente spontanément, accompagnée d'un défenseur, elle ne peut être interrogée qu'en présence de ce dernier.
 
 
+#### Article 71
+
+
+
+
+#### Article 71-1
+
+
+
+
+#### Article 71-2
+
+
+
+
+#### Article 71-3
+
+
+
+
 #### Article 73
 
 Dans les cas de crime flagrant ou de délit flagrant puni d'une peine d'emprisonnement, toute personne a qualité pour en appréhender l'auteur et le conduire devant l'officier de police judiciaire le plus proche.
@@ -574,6 +613,11 @@ Il peut se faire accompagner d'une force suffisante pour que l'inculpé ne puiss
 Si l'inculpé ne peut être saisi, un procès-verbal de perquisition et de recherches infructueuses est adressé au magistrat qui a délivré le mandat.
 
 
+##### Article 135-1
+
+
+
+
 ##### Article 136
 
 L'inobservation des formalités prescrites pour les mandats de comparution, d'amener, de dépôt et d'arrêt est sanctionnée par une amende civile de 5 000 francs (50 F) prononcée contre le greffier par le président de la chambre d'accusation ; elle peut donner lieu à des sanctions disciplinaires ou à prise à partie contre le juge d'instruction ou le procureur de la République.
@@ -616,6 +660,20 @@ L'indemnité allouée en application de la présente sous-section est à la char
 
 
 ##### Section 9 : De l'expertise
+
+##### Article 157
+
+Les experts sont choisis parmi les personnes physiques ou morales qui figurent soit sur une liste nationale établie par le bureau de la Cour de cassation, soit sur une des listes dressées par les cours d'appel, le procureur général entendu.
+
+Les modalités d'inscription et de radiation sur ces listes sont fixées par un décret en Conseil d'Etat.
+
+A titre exceptionnel, les juridictions peuvent, par décision motivée, choisir des experts ne figurant sur aucune de ces listes.
+
+
+##### Article 157-1
+
+Si l'expert désigné est une personne morale, son représentant légal soumet à l'agrément de la juridiction le nom de la ou des personnes physiques qui, au sein de celle-ci et en son nom, effectueront l'expertise.
+
 
 ##### Article 158
 
@@ -775,6 +833,11 @@ Le juge d'instruction peut se transporter sur les lieux pour y effectuer toutes 
 Le juge d'instruction est toujours assisté d'un greffier.
 
 Il dresse un procès-verbal de ses opérations.
+
+
+##### Article 93
+
+Si les nécessités de l'information l'exigent, le juge d'instruction peut, après en avoir donné avis au procureur de la République de son tribunal, se transporter avec son greffier dans toute l'étendue du territoire national, à effet d'y procéder à tous actes d'instruction, à charge à lui d'aviser, au préalable, le procureur de la République du tribunal dans le ressort duquel il se transporte. Il mentionne sur son procès-verbal les motifs de son transport.
 
 
 ##### Article 94
@@ -1042,6 +1105,17 @@ Les dispositions des articles 170, 172, alinéas 1er et 3, et 173, relatives aux
 
 
 La régularité des arrêts des chambres d'accusation et celle de la procédure antérieure, lorsque cette chambre a statué sur le règlement d'une procédure, relève du seul contrôle de la Cour de cassation, que le pourvoi soit immédiatement recevable ou qu'il ne puisse être examiné qu'avec l'arrêt sur le fond.
+
+
+##### Section 2 : Pouvoirs propres du président de la chambre d'accusation
+
+##### Article 219
+
+Le président de la chambre d'accusation, et dans les cours où il existe plusieurs chambres d'accusation l'un des présidents spécialement désigné par l'assemblée générale, exerce les pouvoirs propres définis aux articles suivants.
+
+En cas d'empêchement de ce président, ses pouvoirs propres sont attribués, par délibération de l'assemblée générale de la cour d'appel, à un magistrat du siège appartenant à ladite cour.
+
+Le président peut déléguer tout ou partie de ses pouvoirs à un magistrat du siège de la chambre d'accusation et, dans les cours où il existe plusieurs chambres d'accusation, à un magistrat du siège d'une autre chambre d'accusation après accord du président de cette chambre. Il peut également déléguer tout ou partie de ses pouvoirs à un premier vice-président du tribunal de grande instance désigné par le président de ce tribunal.
 
 
 ##### Section 2 : Des pouvoirs propres du président de la chambre d'accusation
@@ -1850,6 +1924,23 @@ Les réponses de la cour d'assises aux questions posées sont irrévocables.
 
 ##### Section 2 : De la décision sur l'action publique
 
+##### Article 366
+
+La cour d'assises rentre ensuite dans la salle d'audience.
+
+Le président fait comparaître l'accusé, donne lecture des réponses faites aux questions, et prononce l'arrêt portant condamnation, absolution ou acquittement.
+
+Les textes de loi dont il est fait application sont lus à l'audience par le président ; il est fait mention de cette lecture dans l'arrêt.
+
+Au cas de condamnation ou d'absolution, l'arrêt condamne l'accusé aux dépens envers l'Etat et se prononce sur la contrainte judiciaire.
+
+Sauf disposition législative contraire, et sous réserve de l'application du deuxième alinéa de l'article 55 du code pénal, la masse des frais et dépens est divisée en autant de parts égales qu'il y a d'accusés condamnés pour le même crime et chacun n'est redevable que de sa part. Toutefois, les frais et dépens qui n'ont été exposés qu'en raison des besoins ou des demandes d'un seul accusé peuvent être mis à sa charge par la cour.
+
+Dand le cas où la condamnation n'intervient pas pour toutes les infractions qui ont fait l'objet de la poursuite, ou n'intervient qu'à raison d'infractions qui ont fait l'objet d'une disqualification soit au cours de l'instruction, soit au moment du prononcé de l'arrêt, comme aussi dans le cas de mise hors de cause de certains des accusés, la cour doit, par une disposition motivée, décharger le condamné de la part des frais de justice qui ne résulte pas directement de l'infraction ayant entraîné la condamnation au fond. La cour fixe elle-même le montant des frais dont doit être déchargé le condamné, ces frais étant laissés, selon les circonstances, à la charge du Trésor ou de la partie civile.
+
+A défaut de décision de la cour sur l'application de l'alinéa précédent, il est statué sur ce point par la chambre d'accusation.
+
+
 ##### Article 367
 
 Si l'accusé est absous ou acquitté, il est mis immédiatement en liberté s'il n'est retenu pour autre cause.
@@ -1927,6 +2018,15 @@ Toutefois, les minutes des arrêts rendus par la cour d'assises du département 
 
 ###### Paragraphe 1er : Dispositions générales
 
+###### Article 382
+
+Est compétent le tribunal correctionnel du lieu de l'infraction, celui de la résidence du prévenu ou celui du lieu d'arrestation de ce dernier, même lorsque cette arrestation a été opérée pour une autre cause.
+
+Le tribunal dans le ressort duquel une personne est détenue, n'est compétent que dans les conditions prévues au titre VI du livre IV.
+
+La compétence du tribunal correctionnel s'étend aux délits et contraventions qui forment avec l'infraction déférée au tribunal un ensemble indivisible ; elle peut aussi s'étendre aux délits et contraventions connexes, au sens de l'article 203.
+
+
 ###### Article 383
 
 La compétence à l'égard d'un prévenu s'étend à tous coauteurs et complices.
@@ -1989,6 +2089,19 @@ La partie civile, qui cite directement un prévenu devant un tribunal répressif
 
 
 ##### Section 2 : De la composition du tribunal et de la tenue des audiences
+
+##### Article 398
+
+Le tribunal correctionnel est composé d'un président et de deux juges.
+
+Lorsqu'un procès paraît de nature à entraîner de longs débats, le président du tribunal de grande instance peut décider qu'un ou plusieurs magistrats du siège supplémentaires assisteront aux débats. Dans le cas où un ou plusieurs magistrats du siège composant le tribunal correctionnel seraient empêchés de suivre les débats jusqu'au prononcé du jugement, ils sont remplacés par le ou les magistrats du siège supplémentaires, dans l'ordre de leur nomination au tribunal de grande instance, en commençant par le plus ancien du rang le plus élevé.
+
+Toutefois, pour le jugement des délits énumérés à l'article 398-1, il peut être composé d'un seul de ces magistrats exerçant les pouvoirs conférés au président lorsqu'il en est ainsi décidé par le président du tribunal de grande instance. Le président du tribunal de grande instance ou le magistrat délégué par lui à cet effet peut toutefois décider, soit de sa propre initiative, soit à la demande du magistrat saisi, qu'une affaire déterminée sera jugée par le tribunal statuant dans les conditions prévues à l'alinéa 1er.
+
+La désignation des magistrats du tribunal correctionnel appelés à statuer dans les conditions prévues à l'alinéa 3 est faite par le président du tribunal de grande instance selon les modalités fixées pour la répartition des juges entre les diverses chambres de ce tribunal ; s'il y a lieu, le président du tribunal correctionnel répartit les affaires entre ces magistrats.
+
+Les décisions prévues au présent article sont des mesures d'administration non susceptibles de recours.
+
 
 ##### Article 398-1
 
@@ -2165,6 +2278,11 @@ La déclaration de constitution de partie civile se fait soit avant l'audience a
 Lorsqu'elle est faite avant l'audience, la déclaration de partie civile doit préciser l'infraction poursuivie et contenir élection de domicile dans le ressort du tribunal saisi, à moins que la partie civile n'y soit domiciliée.
 
 Elle est immédiatement transmise par le greffier au ministère public qui cite la partie civile pour l'audience.
+
+
+###### Article 421
+
+A l'audience, la déclaration de partie civile doit, à peine d'irrecevabilité, être faite avant les réquisitions du ministère public sur le fond ou, si le tribunal a ordonné l'ajournement du prononcé de la peine, avant les réquisitions du ministère public sur la peine.
 
 
 ###### Article 423
@@ -2474,6 +2592,27 @@ Si le fait déféré au tribunal correctionnel sous la qualification de délit e
 Il peut, le ministère public entendu, décerner, par la même décision, mandat de dépôt ou d'arrêt contre le prévenu.
 
 
+##### Article 469-1
+
+Nonobstant les dispositions de l'alinéa premier de l'article 464, le tribunal peut, après avoir déclaré le prévenu coupable, soit le dispenser de peine, soit ajourner le prononcé de celle-ci. Il statue s'il y a lieu sur l'action civile.
+
+
+##### Article 469-2
+
+Le tribunal peut dispenser de peine lorsqu'il apparaît que le reclassement du prévenu est acquis, que le dommage causé est réparé et que le trouble résultant de l'infraction a cessé. La dispense de peine exclut l'application des dispositions prévoyant des interdictions, déchéances ou incapacités de quelque nature qu'elles soient qui résulteraient d'une condamnation.
+
+
+##### Article 469-3
+
+Le tribunal peut ajourner le prononcé de la peine lorsqu'il apparaît que le reclassement du prévenu est en voie d'être acquis, que le dommage causé est en voie d'être réparé, compte tenu des ressources du prévenu, et que le trouble résultant de l'infraction va cesser.
+
+Dans ce cas, il fixe dans son jugement le jour où il sera statué sur la peine. L'ajournement ne peut être ordonné qu'en présence du prévenu.
+
+A l'audience de renvoi, le tribunal peut, soit dispenser le prévenu de peine, soit prononcer la sanction prévue par la loi, soit ajourner une nouvelle fois le prononcé de la peine dans les conditions prévues à l'alinéa précédent.
+
+La décision sur la peine intervient au plus tard un an après la première décision d'ajournement.
+
+
 ##### Article 470
 
 Si le tribunal estime que le fait poursuivi ne constitue aucune infraction à la loi pénale ou que le fait n'est pas établi, ou qu'il n'est pas imputable au prévenu, il renvoie celui-ci des fins de la poursuite.
@@ -2482,6 +2621,17 @@ Si le tribunal estime que le fait poursuivi ne constitue aucune infraction à la
 ##### Article 472
 
 Dans le cas prévu par l'article 470, lorsque la partie civile a elle-même mis en mouvement l'action publique, le tribunal statue par le même jugement sur la demande en dommages-intérêts formée par la personne acquittée contre la partie civile pour abus de constitution de partie civile.
+
+
+##### Article 473
+
+Tout jugement de condamnation rendu contre le prévenu et éventuellement contre la partie civilement responsable les condamne aux frais et dépens envers l'Etat. Il se prononce à l'égard du prévenu sur la durée de la contrainte judiciaire.
+
+Sauf disposition législative contraire, et sous réserve de l'application du deuxième alinéa de l'article 55 du code pénal, la masse des frais et dépens est divisée en autant de parts égales qu'il y a de prévenus condamnés pour le même délit et chacun n'est redevable que de sa part. Toutefois, les frais et dépens qui n'ont été exposés qu'en raison des besoins ou des demandes d'un seul prévenu peuvent être mis à sa charge par le tribunal.
+
+Il en est de même au cas de transaction ayant éteint l'action publique, conformément à l'article 6, et au cas d'absolution, sauf si le tribunal, par décision spéciale et motivée, décharge le prévenu et la personne civilement responsable de tout ou partie des frais.
+
+La partie civile dont l'action a été déclarée recevable n'est pas tenue des frais dès lors que l'individu contre lequel elle s'est constituée a été reconnu coupable d'une infraction.
 
 
 ##### Article 474
@@ -2894,6 +3044,11 @@ Si le tribunal de police estime que le fait constitue une contravention, il pron
 Il statue s'il y a lieu sur l'action civile conformément aux dispositions de l'article 464, alinéas 2 et 3.
 
 
+#### Article 539-1
+
+Nonobstant les dispositions de l'alinéa premier de l'article 539, les articles 469-1 à 469-3 peuvent être appliqués par le tribunal de police.
+
+
 #### Article 540
 
 Si le tribunal de police estime que le fait constitue un crime ou un délit, il se déclare incompétent. Il renvoie le ministère public à se pourvoir ainsi qu'il avisera.
@@ -3097,6 +3252,11 @@ Les arrêts de la chambre de l'instruction et les arrêts et jugements rendus en
 
 
 Le recours est porté devant la chambre criminelle de la Cour de cassation.
+
+
+#### Article 567-1
+
+Si le président de la chambre criminelle constate qu'il a été formé un pourvoi contre une décision qui n'est pas susceptible de voie de recours en application des articles 186, alinéa 8, 706 et 706-2, il rend une ordonnance de non-admission du pourvoi. Sa décision n'est pas susceptible de recours.
 
 
 #### Article 568
@@ -3954,6 +4114,20 @@ Jusqu'à la désignation de la juridiction compétente comme il est dit ci-dessu
 
 ### Titre X : Des infractions commises à l'étranger
 
+### Article 689
+
+Tout citoyen français qui en dehors du territoire de la République s'est rendu coupable d'un fait qualifié crime puni par la loi française peut être poursuivi et jugé par les juridictions françaises.
+
+Tout citoyen français qui en dehors du territoire de la République s'est rendu coupable d'un fait qualifié délit par la loi française peut être poursuivi et jugé par les juridictions françaises si le fait est puni par la législation du pays où il a été commis.
+
+Les dispositions des alinéas 1er et 2 sont applicables à l'auteur du fait qui n'a acquis la qualité de citoyen français que postérieurement au fait qui lui est imputé.
+
+
+### Article 689-1
+
+Tout étranger qui, hors du territoire de la République, s'est rendu coupable d'un crime, soit comme auteur, soit comme complice, peut être poursuivi et jugé d'après les dispositions des lois françaises, lorsque la victime de ce crime est de nationalité française.
+
+
 ### Article 690
 
 Quiconque s'est, sur le territoire de la République, rendu complice d'un crime ou d'un délit commis à l'étranger peut être poursuivi et jugé par les juridictions françaises [*compétence pénale internationale*] si le fait est puni à la fois par la loi étrangère et par la loi française, à la condition que le fait qualifié crime ou délit ait été constaté par une décision définitive de la juridiction étrangère.
@@ -3974,6 +4148,15 @@ Dans les cas visés aux articles précédents, qu'il s'agisse d'un crime ou d'un
 Est réputée commise sur le territoire de la République toute infraction dont un acte caractérisant un de ses éléments constitutifs a été accompli en France.
 
 
+### Article 694
+
+Tout étranger qui, hors du territoire de la République, s'est rendu coupable, soit comme auteur, soit comme complice, d'un crime ou d'un délit attentatoire à la sûreté de l'Etat ou de contrefaçon du sceau de l'Etat, de monnaies nationales ayant cours ou de crime contre des agents ou des locaux diplomatiques ou consulaires français est jugé d'après les dispositions des lois françaises s'il est arrêté en France ou si le Gouvernement obtient son extradition. Les poursuites peuvent être engagées à ces fins.
+
+Lorsqu'un citoyen français s'est rendu coupable, hors du territoire de la République, soit comme auteur, soit comme complice, d'une infraction visée ci-dessus, cette infraction est punissable comme l'infraction commise sur ce territoire.
+
+Quiconque s'est rendu coupable comme complice, sur le territoire de la République, d'une infraction visée à l'alinéa 1er commise à l'étranger est punissable comme le complice visé à l'alinéa 1er.
+
+
 ### Article 695
 
 Tout Français qui s'est rendu coupable de délits et contraventions en matière forestière, rurale, de pêche, de douanes, de contributions indirectes, sur le territoire, de l'un des Etats limitrophes, peut être poursuivi et jugé en France, d'après la loi française, si cet Etat autorise la poursuite de ses nationaux pour les mêmes faits commis en France.
@@ -3981,7 +4164,31 @@ Tout Français qui s'est rendu coupable de délits et contraventions en matière
 La réciprocité sera légalement constatée par des conventions internationales ou par décret.
 
 
+### Titre XII : Des demandes présentées en vue d'être relevé des interdictions, déchéances, incapacités ou mesures de publication
+
+### Article 703
+
+Toute demande présentée par un condamné en vue d'être relevé d'une interdiction, d'une déchéance, d'une incapacité ou d'une mesure de publication, formée en application des dispositions de l'article 55-1 (alinéa 2) du code pénal précise la date de la condamnation ainsi que les lieux où a résidé le requérant depuis sa condamnation ou sa libération.
+
+Elle est adressée, selon le cas, au procureur de la République ou au procureur général qui s'entoure de tous les renseignements utiles, prend, s'il y a lieu, l'avis du juge de l'application des peines et saisit la juridiction compétente.
+
+La juridiction saisie statue en chambre du conseil sur les conclusions du ministère public, le requérant ou son conseil entendus ou dûment convoqués. S'il paraît nécessaire d'entendre un condamné qui se trouve détenu, il peut être procédé conformément aux dispositions de l'article 712 du présent code.
+
+La décision est signifiée à la requête du ministère public lorsqu'elle est rendue hors de la présence du requérant ou de son conseil. Elle peut être, selon le cas, frappée d'appel ou déférée à la Cour de cassation.
+
+En cas de rejet de la demande, le requérant est tenu au paiement des frais. La juridiction peut toutefois, par décision spéciale et motivée, l'en décharger en tout ou en partie.
+
+Mention de la décision par laquelle un condamné est relevé totalement ou partiellement d'une interdiction, déchéance, incapacité ou d'une mesure de publication est faite en marge du jugement ou de l'arrêt de condamnation et au casier judiciaire.
+
+
 ### Titre XIII : De la poursuite, de l'instruction et du jugement des infractions en matière économique et financière
+
+### Article 706-2
+
+Les ordonnances prévues par les articles 706 et 706-1 ne sont pas susceptibles de voies de recours, à l'exception du pourvoi en cassation qui n'est pas suspensif.
+
+La juridiction saisie en application des mêmes articles reste compétente quelles que soient les incriminations retenues lors du règlement ou du jugement de l'affaire sous réserve de l'application des dispositions des articles 181 ou 469. Si les faits constituent une contravention, le juge d'instruction prononce le renvoi de l'affaire devant le tribunal de police compétent en application de l'article 522.
+
 
 ### Article 705
 
@@ -4028,6 +4235,15 @@ Ce magistrat peut déléguer l'un des juges du tribunal qui procède à l'auditi
 Le ministère public et les parties poursuivent l'exécution de la sentence chacun en ce qui le concerne.
 
 Néanmoins, les poursuites pour le recouvrement des amendes et confiscations sont faites au nom du procureur de la République, par le percepteur.
+
+
+### Article 708
+
+L'exécution à la requête du ministère public a lieu lorsque la décision est devenue définitive.
+
+Toutefois, le délai d'appel accordé au procureur général par les articles 505 et 548 ne fait point obstacle à l'exécution de la peine.
+
+L'exécution d'une peine correctionnelle ou de police non privative de liberté peut être suspendue ou fractionnée pour motifs graves d'ordre médical, familial, professionnel ou social. La décision est prise soit par le ministère public, soit, sur la proposition du ministère public, par le tribunal correctionnel ou de police statuant en chambre du conseil, selon que l'exécution de la peine doit être suspendue pendant moins ou plus de trois mois.
 
 
 ### Article 709-1
@@ -4122,6 +4338,11 @@ Les condamnés à des peines privatives de liberté pour des faits qualifiés cr
 
 
 Les règles relatives à la répartition des produits du travail des détenus sont fixées par décret.
+
+
+#### Article 720-1
+
+L'exécution d'une peine d'emprisonnement correctionnelle ou de police peut être suspendue provisoirement ou fractionnée pour motif grave d'ordre médical, familial, professionnel ou social. La décision est prise après avis de l'avocat de l'inculpé et du ministère public par le juge de l'application des peines dans le ressort duquel il est détenu. Toutefois la décision est prise sur la proposition du juge de l'application des peines par le tribunal correctionnel ou de police statuant en chambre du conseil lorsque l'exécution de la peine doit être interrompue pendant plus de trois mois.
 
 
 #### Article 723-2
@@ -4241,7 +4462,21 @@ Elle ne s'étend pas non plus aux peines accessoires et aux incapacités résult
 Toutefois, les peines accessoires et les incapacités cesseront d'avoir effet du jour où, par application des dispositions de l'article 735, la condamnation aura été réputée non avenue.
 
 
+#### Article 737
+
+Le président de la cour ou du tribunal doit, après avoir prononcé la condamnation assortie du sursis simple, avertir  le condamné que, s'il commet une nouvelle infraction, il pourra faire l'objet d'une condamnation qui sera susceptible d'entraîner l'exécution de la première peine sans confusion avec la seconde et qu'il encourra les peines de la récidive dans les termes des articles 57 et 58 du Code pénal.
+
+
 #### Chapitre II : Du sursis avec mise à l'épreuve
+
+#### Article 738
+
+Le sursis avec mise à l'épreuve est applicable aux condamnations à l'emprisonnement prononcées pour crime ou délit de droit commun. La condamnation peut être déclarée exécutoire par provision.
+
+Le tribunal fixe le délai d'épreuve qui ne peut être inférieur à trois années ni supérieur à cinq années.
+
+Il peut décider que le sursis ne s'appliquera à l'exécution de l'emprisonnement que pour une part dont il détermine la durée.
+
 
 #### Article 739
 
@@ -4341,6 +4576,13 @@ En cas d'opposition, l'affaire doit venir devant le tribunal à la première aud
 Lorsque le condamné est placé sous le régime de la mise à l'épreuve par une décision d'une juridiction spéciale aux mineurs, le juge des enfants et le tribunal pour enfants dans le ressort desquels le mineur a sa résidence habituelle exercent les attributions dévolues au juge de l'application des peines et au tribunal correctionnel par les articles 739 à 744-1, jusqu'à l'expiration du délai d'épreuve.
 
 
+#### Article 745
+
+Si le condamné n'a pas commis, au cours du délai d'épreuve, une nouvelle infraction ou un manquement aux mesures de surveillance ou d'assistance, ou aux obligations particulières imposées en application de l'article 739, suivis soit d'une décision de condamnation ordonnant la révocation du sursis, soit d'une décision ordonnant l'exécution de la totalité de la peine, la condamnation assortie du sursis avec mise à l'épreuve est considérée comme non avenue.
+
+Lorsque le bénéfice du sursis avec mise à l'épreuve n'a été accordé que pour une partie de la peine, la condamnation est considérée comme non avenue dans tous ses éléments si la révocation du sursis n'a pas été encourue dans le délai prévu à l'alinéa qui précède.
+
+
 #### Article 745-1
 
 Si le sursis avec mise à l'épreuve a été accordé après une première condamnation déjà prononcée sous le même bénéfice, cette première condamnation est comme non avenue si la seconde vient elle-même à être déclarée ou réputée non avenue dans les conditions et délais prévus aux articles 743 ou 745.
@@ -4353,6 +4595,11 @@ La suspension de la peine ne s'étend pas au paiement des frais du procès et de
 Elle ne s'étend pas non plus aux peines accessoires et aux incapacités résultant de la condamnation.
 
 Toutefois, les peines accessoires et les incapacités cesseront d'avoir effet du jour où, par application des dispositions des articles 743 et 745, la condamnation aura été déclarée ou réputée non avenue.
+
+
+#### Article 747
+
+Le président de la cour ou du tribunal doit, après avoir prononcé la condamnation assortie du sursis avec mise à l'épreuve, avertir le condamné que, s'il commet une nouvelle infraction, il pourra faire l'objet d'une condamnation qui sera susceptible d'entraîner l'exécution des peines antérieures, sans confusion entre elles ou avec la dernière peine prononcée et qu'il encourra les peines de la récidive dans les termes des articles 57 et 58 du code pénal. Le président doit également informer le condamné des sanctions dont celui-ci serait passible s'il venait à se soustraire aux mesures ordonnées, et de la possibilité qu'il aurait, à l'inverse, de voir déclarer sa condamnation non avenue en observant une parfaite conduite.
 
 
 ### Article 734
@@ -4471,11 +4718,35 @@ Dans le cas prévu à l'alinéa qui précède, la suppression du casier judiciai
 Il est donné connaissance aux autorités militaires, par l'envoi d'une copie de la fiche du casier judiciaire, des condamnations ou des décisions de nature à modifier les conditions d'incorporation des individus soumis à l'obligation du service militaire. Il est donné avis également aux mêmes autorités de toutes modifications apportées à la fiche ou au casier judiciaire en vertu des articles 769 et 770.
 
 
+### Article 774
+
+Le relevé intégral des fiches du casier judiciaire applicables à la même personne est porté sur un bulletin appelé bulletin n° 1.
+
+Le bulletin n° 1 n'est délivré qu'aux autorités judiciaires.
+
+Lorsqu'il n'existe pas de fiche au casier judiciaire, le bulletin n° 1 porte la mention "néant".
+
+
 ### Article 775-1
 
 Le tribunal qui prononce une condamnation peut exclure expressément sa mention au bulletin n. 2 soit dans le jugement de condamnation, soit par jugement rendu postérieurement sur la requête du condamné instruite et jugée selon les règles de compétence et procédure fixées par les articles 55-1 (alinéa 2) du code pénal et 703 du présent code.
 
 L'exclusion de la mention d'une condamnation au bulletin n. 2 emporte relèvement de toutes les interdictions, déchéances ou incapacités de quelque nature qu'elles soient résultant de cette condamnation.
+
+
+### Article 777
+
+Le bulletin n° 3 est le relevé des condamnations suivantes prononcées pour crime ou délit, lorsqu'elles ne sont pas exclues du bulletin n° 2 :
+1. Condamnations à des peines privatives de liberté d'une durée supérieure à deux ans qui ne sont assorties d'aucun sursis ou qui doivent être exécutées en totalité par l'effet de révocation du sursis ;
+2. Condamnations à des peines privatives de liberté de la nature de celles visées au 1° ci-dessus et d'une durée inférieure ou égale à deux ans, si la juridiction en a ordonné la mention au bulletin n° 3 ;
+3. Condamnations à des interdictions, déchéances ou incapacités prononcées sans sursis, en application des articles 43-1 à 43-5 du Code pénal, pendant la durée des interdictions, déchéances ou incapacités.
+
+Le bulletin n° 3 peut être réclamé par la personne qu'il concerne, il ne doit, en aucun cas, être délivré à un tiers.
+
+
+### Article 777-1
+
+La mention d'une condamnation au bulletin n° 3 peut être exclue dans les conditions fixées par l'alinéa 1er de l'article 775-1.
 
 
 ### Article 778
@@ -4516,6 +4787,22 @@ Toute personne condamnée par un tribunal français à une peine criminelle, cor
 La réhabilitation est soit acquise de plein droit, soit accordée par arrêt de la chambre de l'instruction.
 
 
+### Article 785
+
+La réhabilitation ne peut être demandée en justice, du vivant du condamné, que par celui-ci, ou, s'il est interdit, par son représentant légal ; en cas de décès et si les conditions légales sont remplies, la demande peut être suivie par son conjoint ou par ses ascendants ou descendants et même formée par eux, mais dans le délai d'une année seulement à dater du décès.
+
+La demande doit porter sur l'ensemble des condamnations prononcées qui n'ont pas été effacées par une réhabilitation antérieure.
+
+
+### Article 786
+
+La demande en réhabilitation ne peut être formée qu'après un délai de cinq ans pour les condamnés à une peine criminelle, de trois ans pour condamnés à une peine correctionnelle et d'un an pour les condamnés à une peine contraventionnelle.
+
+Ce délai part, pour les condamnés à une amende, du jour où la condamnation est devenue irrévocable et, pour les condamnés à une peine privative de liberté, du jour de leur libération définitive ou, conformément aux dispositions de l'article 733, quatrième alinéa, du jour de leur libération conditionnelle lorsque celle-ci n'a pas été suivie de révocation et, pour les condamnés soumis à la tutelle pénale, du jour où celle-ci a pris fin.
+
+A l'égard des condamnés à une sanction pénale autre que l'emprisonnement ou l'amende, prononcée à titre principal, ce délai part de l'expiration de la sanction subie.
+
+
 ### Article 787
 
 Les condamnés qui sont en état de récidive légale, ceux qui, après avoir obtenu la réhabilitation, ont encouru une nouvelle condamnation, ceux qui, condamnés contradictoirement ou par contumace à une peine criminelle, ont prescrit contre l'exécution de la peine, ne sont admis à demander leur réhabilitation qu'après un délai de dix ans écoulés depuis leur libération ou depuis la prescription.
@@ -4527,9 +4814,37 @@ Sont également admis à demander la réhabilitation, après un délai de six an
 Les condamnés contradictoirement, les condamnés par contumace ou par défaut, qui ont prescrit contre l'exécution de la peine, sont tenus, outre les conditions qui vont être énoncées, de justifier qu'ils n'ont encouru, pendant les délais de la prescription, aucune condamnation pour faits qualifiés crimes ou délits et qu'ils ont eu une conduite irréprochable.
 
 
+### Article 788
+
+Le condamné doit, sauf le cas de prescription, justifier du paiement des frais de justice, de l'amende et des dommages-intérêts ou de la remise qui lui en est faite.
+
+A défaut de cette justification, il doit établir qu'il a subi le temps de contrainte judiciaire déterminé par la loi ou que le Trésor a renoncé à ce moyen d'exécution.
+
+S'il est condamné pour banqueroute frauduleuse, il doit justifier du paiement du passif de la faillite en capital,
+
+intérêts et frais ou de la remise qui lui en est faite.
+
+Néanmoins, si le condamné justifie qu'il est hors d'état de se libérer des frais de justice, il peut être réhabilité même dans le cas où ces frais n'auraient pas été payés ou ne l'auraient été qu'en partie.
+
+En cas de condamnation solidaire, la cour fixe la part des dommages-intérêts ou du passif qui doit être payée par le demandeur.
+
+Si la partie lésée ne peut être retrouvée, ou si elle refuse de recevoir la somme due, celle-ci est versée à la Caisse des dépôts et consignations comme en matière d'offres de paiement et de consignation. Si la partie ne se présente pas dans un délai de cinq ans pour se faire attribuer la somme consignée,
+
+cette somme est restituée au déposant sur sa simple demande.
+
+
 ### Article 789
 
 Si depuis l'infraction le condamné a rendu des services éminents au pays, la demande de réhabilitation n'est soumise à aucune condition de temps ni d'exécution de peine. En ce cas, la cour peut accorder la réhabilitation même si les frais, l'amende et les dommages-intérêts n'ont pas été payés.
+
+
+### Article 790
+
+Le condamné adresse la demande en réhabilitation au procureur de la République de sa résidence actuelle ou, s'il demeure à l'étranger, au procureur de la République de sa dernière résidence en France ou, à défaut, à celui du lieu de condamnation.
+
+Cette demande précise :
+1. La date de la condamnation ;
+2. Les lieux où le condamné a résidé depuis sa libération.
 
 
 ### Article 791
@@ -4574,6 +4889,15 @@ Dans le cas visé à l'article 789, le pourvoi en cassation formé contre l'arr�
 ### Article 797
 
 En cas de rejet de la demande, une nouvelle demande ne peut être formée avant l'expiration d'un délai de deux années, à moins que le rejet de la première ait été motivé par l'insuffisance des délais d'épreuve. En ce cas, la demande peut être renouvelée dès l'expiration de ces délais.
+
+
+### Article 798
+
+Mention de l'arrêt prononçant la réhabilitation est faite en marge des jugements de condamnation et au casier judiciaire.
+
+Dans ce cas, les bulletins n° 2 et n° 3 du casier judiciaire ne doivent pas mentionner la condamnation.
+
+Le réhabilité peut se faire délivrer sans frais une expédition de l'arrêt de réhabilitation et un extrait de casier judiciaire.
 
 
 ### Article 799
