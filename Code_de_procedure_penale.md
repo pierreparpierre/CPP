@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 30 juin 1972
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19720630)
+- Date de consolidation : 9 juillet 1972
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19720709)
 
 
 # Partie législative
@@ -1002,7 +1002,21 @@ Il peut saisir la chambre d'accusation, afin qu'il soit par elle statué sur le 
 
 ### Titre Ier : De la cour d'assises
 
+#### Chapitre Ier : De la compétence de la cour d'assises
+
+#### Article 231
+
+La cour d'assises a plénitude de juridiction pour juger les individus renvoyés devant elle par l'arrêt de mise en accusation.
+
+Elle ne peut connaître d'aucune autre accusation.
+
+
 #### Chapitre II : De la tenue des assises
+
+#### Article 232
+
+Il est tenu des assises à Paris et dans chaque département.
+
 
 #### Article 233
 
@@ -4948,6 +4962,22 @@ S'ils ne doivent ou ne peuvent être restitués, ils sont mis en vente, et les f
 Dans le cas de renvoi des accusés, soit devant une autre juridiction d'instruction, soit devant une autre Cour d'assises, s'ils ont déjà reçu la copie des pièces prescrites à l'article 279, il ne peut leur être délivré une nouvelle copie payée sur les frais généraux de justice criminelle, correctionnelle et de police. Mais tout accusé, renvoyé devant la Cour d'assises, peut se faire délivrer à ses frais une expédition des pièces de la procédure, même de celles qui ne sont pas comprises dans la copie délivrée gratuitement. Le même droit appartient à la partie civile et aux personnes civilement responsables.
 
 
+####### Article R155
+
+En matière criminelle, correctionnelle ou de police, et sans préjudice, le cas échéant, de l'application des dispositions des articles 91 et D. 32, il peut être délivré aux parties et à leurs frais :
+1. Sur leur demande, expédition de la plainte ou de la dénonciation des ordonnances définitives, des arrêts, des jugements, des ordonnances pénales et des titres exécutoires prévus à l'article L. 27-I, alinéa 2, du Code de la route ;
+2. Avec l'autorisation du procureur de la République ou du procureur général selon le cas, expédition de toutes les autres pièces de la procédure, notamment, en ce qui concerne les pièces d'une enquête terminée par une décision de classement sans suite.
+
+
+####### Article R156
+
+En matière criminelle, correctionnelle ou de police, aucune expédition autre que celle des arrêts, jugements, ordonnances pénales définitifs et titres exécutoires ne peut être délivrée à un tiers sans une autorisation du procureur de la République ou du procureur général, selon le cas, notamment en ce qui concerne les pièces d'une enquête terminée par une décision de classement sans suite.
+
+Toutefois, dans les cas prévus au présent article et à l'article précédent, l'autorisation doit être donnée par le procureur général lorsqu'il s'agit de pièces déposées au greffe de la cour ou faisant partie d'une procédure close par une décision de non-lieu ou d'une affaire dans laquelle le huis clos a été ordonné.
+
+Dans les cas prévus au présent article et à l'article précédent si l'autorisation n'est pas accordée, le magistrat compétent pour la donner doit notifier sa décision en la forme administrative et faire connaître les motifs du refus.
+
+
 ####### Article R157
 
 Toutes les fois qu'une procédure en matière criminelle, correctionnelle ou de police est transmise à quelque cour ou tribunal que ce soit, ou au ministère de la Justice, la procédure et les pièces sont envoyées en minutes, à moins que le ministre de la Justice ne désigne des pièces pour être expédiées par copies ou par extraits.
@@ -4956,6 +4986,11 @@ Toutes les fois qu'une procédure en matière criminelle, correctionnelle ou de 
 ####### Article R158
 
 Dans tous les cas où il y a envoi des pièces d'une procédure, le greffier est tenu d'y joindre un inventaire, qu'il dresse sans frais, ainsi qu'il est prescrit à l'article 586.
+
+
+####### Article R159
+
+Sont seuls expédiés dans la forme exécutoire les arrêts, jugements, ordonnances pénales et ordonnances de justice que les parties ou le ministère public demandent dans cette forme.
 
 
 ####### Article R160
