@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 27 août 2003
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20030827)
+- Date de consolidation : 3 septembre 2003
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20030903)
 
 
 # Partie législative
@@ -13327,6 +13327,8 @@ b) Les articles R. 241-61, R. 241-62 (2°), R. 241-63 (1° et 2°) du code rural
 c) L'article R. 322-5 du code forestier relatif à la protection contre l'incendie, l'alinéa premier de l'article R. 331-3 du même code relatif à l'introduction dans les bois, forêts et terrains à boiser de véhicules, bestiaux, animaux de charge ou de monture et l'article R. 133-1-1 du même code relatif à l'aménagement prescrit par l'article L. 133-1 des bois et forêts du domaine de l'Etat ;
 
 d) L'article 10 (deuxième alinéa) du décret n° 2000-1302 du 26 décembre 2000 relatif aux mesures de protection de l'environnement contre les émissions polluantes des moteurs à allumage par compression destinés à équiper les engins mobiles non routiers ;
+
+e) L'article L. 322-10-2 du code de l'environnement relatif aux contraventions constatées par la garderie du domaine du Conservatoire de l'espace littoral et des rivages lacustres et les agents visés à l'article L. 322-20 du même code.
 4. Contraventions en matière de protection ou de contrôle des animaux domestiques et des animaux sauvages, apprivoisés ou tenus en captivité réprimées par :
 
 a) L'article R. 622-2 du code pénal relatif à la divagation d'animal ;
