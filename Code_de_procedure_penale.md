@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 7 avril 1973
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19730407)
+- Date de consolidation : 6 février 1974
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19740206)
 
 
 # Partie législative
@@ -4986,9 +4986,13 @@ Les frais de rédaction et de dépôt du rapport, ainsi que, le cas échéant, d
 Aucune indemnité n'est allouée pour la prestation de serment de l'expert devant la cour d'appel lors de sa première inscription ni, le cas échéant, lors d'une nouvelle inscription après radiation ou non-réinscription.
 
 
-####### Article R108
+####### Article R107
 
-[Article abrogé].
+Lorsque le montant prévu de ses frais et honoraires dépasse 1.000 F, l'expert désigné doit, avant de commencer ses travaux, en informer la juridiction qui l'a commis.
+
+
+
+Au-dessus de ce montant et sauf cas d'urgence, la demande de l'expert est communiquée au ministère public qui peut, dans le délai de trois jours, présenter ses observations. S'il n'en est pas tenu compte, le ministère public peut saisir, par l'intermédiaire du procureur général, le président de la chambre d'accusation ou le président de la chambre de contrôle de l'instruction de la Cour de sûreté de l'Etat. La décision de ce magistrat doit intervenir dans les huit jours [*délai*] et elle ne peut faire l'objet de recours.
 
 
 ####### Article R109
@@ -5035,6 +5039,14 @@ Les experts ont droit, sur la production de pièces justificatives, au rembourse
 ###### Paragraphe 1er : Des témoins
 
 ####### A : Règles générales
+
+####### Article R123
+
+Il peut être accordé aux témoins, s'ils le requièrent :
+1. Une indemnité de comparution ;
+2. Des frais de voyage ;
+3. Une indemnité journalière de séjour.
+
 
 ####### Article R124
 
@@ -5120,6 +5132,14 @@ Les indemnités de voyage et de séjour prévues aux articles R. 133 et suivants
 
 ###### Paragraphe 2 : Des membres du jury criminel
 
+###### Article R139
+
+Il est accordé aux membres du jury criminel, s'ils le requièrent et quand il y a lieu :
+1. Une indemnité de session ;
+2. Des frais de voyage ;
+3. Une indemnité journalière de séjour.
+
+
 ###### Article R140
 
 Il est accordé aux jurés, pendant la durée de la session, une indemnité journalière déterminée par la formule suivante :
@@ -5149,6 +5169,13 @@ Pour le calcul des taux journaliers, les jurés sont assimilés aux fonctionnair
 Les indemnités de session et de séjour pendant la durée de la session sont dues pour chaque journée où le juré titulaire ou supplémentaire a été présent à l'appel pour concourir à la formation du jury de jugement.
 
 Les jurés complémentaires n'ont droit à l'indemnité de session que s'ils ont été inscrits sur la liste de service.
+
+
+###### Article R145
+
+Le président de la Cour d'assises délivre, jour par jour, aux membres du jury criminel qui en font la demande, les ordonnances de taxe correspondant aux indemnités journalières auxquelles ils ont droit.
+
+Mention de ces ordonnances de taxe partielle est faite sur la copie de la notification délivrée aux jurés en exécution de l'article 267 pour être ensuite déduite de l'ordonnance de taxe définitive.
 
 
 ##### Section 4 : Des frais de garde des scellés, de mise en fourrière et de l'immobilisation décidée en application de l'article 43-3-3° bis du code pénal
@@ -5230,6 +5257,13 @@ Sont seuls expédiés dans la forme exécutoire les arrêts, jugements, ordonnan
 Ne doivent pas être insérés dans la rédaction des arrêts et jugements les réquisitoires ou plaidoyers prononcés soit par le ministère public, soit par les défenseurs des prévenus ou accusés, mais seulement leurs conclusions.
 
 
+####### c) Expéditions délivrées par les surveillants chefs des maisons d'arrêt.
+
+####### Article R166
+
+Il est alloué un droit fixe de 0,50 F au surveillant chef de la maison d'arrêt pour l'expédition de l'acte d'écrou qui doit être jointe au dossier, soit dans le cas prévu à l'article 583, soit pour assurer l'exécution des dispositions de la loi du 17 juillet 1970 relative à la tutelle pénale.
+
+
 ###### C : Droits forfaitaires
 
 ###### Article R168
@@ -5284,11 +5318,6 @@ Lorsqu'un acte ou jugement a été remis en expédition au ministère public, la
 Les copies de tous actes, jugements et pièces à signifier sont toujours faites par les huissiers de justice ou leurs clercs.
 
 
-###### Article R186
-
-[*Article abrogé*].
-
-
 ###### Article R187
 
 Sauf disposition spéciale des lois et règlements il n'est alloué aucune taxe aux agents de la force publique à raison des citations, notifications et significations dont ils peuvent être chargés par les officiers de police judiciaire et par le ministère public.
@@ -5310,6 +5339,52 @@ Il n'y a pas lieu de distinguer, au point de vue du droit à l'allocation, suiva
 La gratification la plus élevée est seule accordée si le prévenu, accusé ou condamné était sous le coup de plusieurs mandats, ordonnances de prise de corps, arrêts ou jugements de condamnations.
 
 
+###### Article R190
+
+Il est alloué aux personnes mentionnées à l'article R188, pour l'exécution des mandats d'amener ou des mesures de contrainte exercées contre les témoins défaillants en vertu des articles 109, 110 et 153, une prime de 5 F.
+
+
+###### Article R191
+
+Il est alloué aux personnes mentionnées à l'article R. 188, pour capture ou saisie de la personne, en exécution :
+
+
+1. D'un jugement de police ou d'un jugement ou arrêt correctionnel prononçant une peine d'emprisonnement n'excédant pas dix jours : 5 F.
+
+
+2. D'un mandat d'arrêt ou d'un jugement ou arrêt en matière correctionnelle emportant peine d'emprisonnement de plus de dix jours : 7 F.
+
+
+3. D'une ordonnance de prise de corps ou d'un arrêt de condamnation à une peine de réclusion criminelle à temps n'excédant pas dix ans : 10 F.
+
+
+4. D'un arrêt de condamnation à une peine de réclusion criminelle à temps excédant dix ans ou à une peine plus forte : 20 F.
+
+
+###### Paragraphe 4 : Exécution des arrêts de contumace
+
+###### Article R192
+
+Pour les affiches de l'ordonnance qui, aux termes des articles 627 et 628, doit être rendue et publiée contre les contumax, y compris le procès-verbal de la publication, il est alloué aux huissiers de justice une indemnité de 7,50 F.
+
+
+###### Article R193
+
+Il est alloué aux huissiers de justice pour l'apposition de chacun des trois extraits de l'arrêt de condamnation par contumace qui doit être affiché, conformément à l'article 634, et pour la rédaction du procès-verbal constatant l'accomplissement de cette formalité, un droit de 3,75 F.
+
+
+###### Paragraphe 5 : Frais de voyage et de séjour
+
+###### Article R194
+
+Il est alloué aux huissiers de justice, qui se transportent hors de la commune de leur résidence, l'indemnité prévue à l'article R110. Les huissiers de justice titulaires de permis de circulation ou jouissant à titre personnel ou en raison de leur emploi, de réductions de tarifs, n'ont pas droit au remboursement des frais de transport pour la partie correspondant à l'exonération dont ils bénéficient. Les demandes de remboursement de frais de transport doivent être obligatoirement accompagnées d'une déclaration des intéressés certifiant qu'ils ne bénéficient pas, à quelque titre que ce soit, d'avantages de tarifs, ou dans le cas contraire, qu'ils ne bénéficient pas d'autres avantages que ceux dont il est fait état dans la demande. Il n'est dû aucun transport dans les limites des villes ou chefs-lieux de commune, telles qu'elles sont actuellement fixées.
+
+
+###### Article R195
+
+Il est alloué, à compter du second jour, une indemnité de 30 F par jour aux huissiers de justice retenus en dehors de leur résidence soit par l'accomplissement de leurs fonctions, soit en raison de la durée du déplacement, soit par un cas de force majeure dûment constatée.
+
+
 ###### Paragraphe 6 : Dispositions générales
 
 ###### Article R196
@@ -5325,6 +5400,15 @@ Les procureurs généraux et les procureurs de la République examinent en même
 ###### Article R198
 
 Tout huissier de justice qui refusera d'instrumenter dans une procédure suivie à la requête du ministère public ou de faire le service auquel il est tenu près la cour ou le tribunal et qui, après injonction à lui faite par le procureur général ou le procureur de la République, persistera dans son refus, sera destitué, sans préjudice de tous dommages-intérêts et des autres peines qu'il aura encourues.
+
+
+###### Article R199
+
+Les huissiers de justice ne peuvent, pour quelque cause et sous quelque prétexte que ce soit, exiger d'autres ou de plus forts droits que ceux qui leur sont alloués par le présent titre.
+
+Par dérogation à la règle établie à l'alinéa précédent, sont fixés conformément aux tarifs en matière civile, sauf pour les parties civiles visées à l'article R247, les frais des actes délivrés à la requête des parties civiles après l'extinction de l'action publique et en vue de faire statuer uniquement sur les intérêts civils.
+
+Ces frais sont à la charge des intéressés et ne sont pas imputables sur les crédits de la justice criminelle.
 
 
 ##### Section 7 : Indemnités de transport et de séjour accordées aux magistrats et aux greffiers
@@ -5462,6 +5546,72 @@ Tout état ou mémoire fait au nom de deux ou plusieurs parties prenantes doit �
 Les frais de justice criminelle, correctionnelle et de police, sont payés sur les états ou mémoires des parties prenantes.
 
 
+###### Article R223
+
+Sous peine de rejet, les états ou mémoires sont dressés conformément aux modèles arrêtés par le ministre de la Justice.
+
+
+###### Article R224
+
+Les parties prenantes dressent leurs états ou mémoires de frais de justice en un exemplaire sur papier non timbré.
+
+Tout état ou mémoire fait au nom de deux ou plusieurs parties prenantes doit être signé par chacune d'elles ; le paiement ne peut être fait que sur leur acquit individuel ou sur celui de la personne qu'elles ont autorisée, spécialement et par écrit, à toucher le montant de l'état ou mémoire. Cette autorisation est mise au bas de l'état et ne donne lieu à la perception d'aucun droit.
+
+
+###### Article R225
+
+La partie prenante dépose ou adresse son état ou mémoire au parquet près la juridiction compétente.
+
+Lorsque le mémoire porte sur des frais devant une juridiction de l'ordre judiciaire autre que le tribunal de grande instance, le parquet compétent est celui du ressort dans lequel la juridiction a son siège.
+
+Le magistrat du ministère public transmet l'état ou mémoire, assorti de ses réquisitions, au magistrat taxateur.
+
+
+###### Article R227
+
+Lorsque les réquisitions du ministère public tendent à ce que la demande de la partie prenante soit accueillie sans modification, l'ordonnance de taxe n'est susceptible d'aucun recours si le montant de la somme allouée est conforme à ladite demande.
+
+Sous réserve des dispositions de l'article R. 232, alinéa 1er, le mémoire taxé est adressé avec la mention " taxe définitive " à la partie prenante par le secrétaire-greffier.
+
+
+###### Article R228
+
+Lorsque la taxe diffère soit de la demande de la partie prenante, soit des réquisitions du ministère public, un exemplaire de l'ordonnance de taxe est notifié par le secrétaire-greffier au parquet et notifié en la forme administrative ou par lettre recommandée à la partie prenante.
+
+Le ministère public et la partie prenante disposent d'un délai de dix jours à compter de cette notification pour former un recours contre l'ordonnance de taxe.
+
+Ces recours sont formés par déclaration au greffe du magistrat taxateur ou par lettre recommandée adressée à ce greffe.
+
+La partie prenante est informée du recours du procureur de la République en la forme administrative ou par lettre recommandée.
+
+Les recours sont portés devant la chambre de l'instruction quelle que soit la juridiction à laquelle appartient le magistrat taxateur ou, si les frais ont été exposés devant la Cour de sûreté de l'Etat, devant la chambre de contrôle de l'instruction.
+
+Le pourvoi en cassation est ouvert dans tous les cas sous réserve des dispositions du premier alinéa de l'article 46 de la loi n° 63-23 du 15 janvier 1963.
+
+
+###### Article R229
+
+Les dispositions des articles R222 à R228 ne sont pas applicables à la taxe :
+1. Des indemnités des témoins, des jurés et des interprètes ;
+2. Des dépenses de toute nature inférieures à un maximum fixé par les instructions du ministre de la Justice.
+
+Dans ces cas, la taxe du magistrat compétent est apposée sans réquisitoire du parquet sur les réquisitions, convocations ou copies de citation, états ou mémoires des parties prenantes.
+
+
+###### Article R229-1
+
+Dans les cas prévus à l'article R. 229, lorsque la taxe diffère de la demande de la partie prenante, cette dernière peut, dans les dix jours de la perception de la somme qui lui a été allouée adresser une simple réclamation au magistrat du ministère public qui saisit de ses réquisitions le magistrat taxateur.
+
+
+
+Il est procédé conformément aux dispositions des articles R. 227 et R. 228.
+
+
+###### Article R231
+
+Les contestations relatives à la liquidation des dépens en matière d'ordonnance pénale sont portées devant le juge qui a prononcé la condamnation, dans les conditions prévues aux articles 710 et suivants du Code de procédure pénale.
+
+
 ###### Paragraphe 2 : Paiement.
 
 ###### Article R234
@@ -5470,6 +5620,17 @@ Les frais de justice criminelle, correctionnelle et de police, sont payés sur l
 
 
 ##### Section 2 : De la consignation par la partie civile pour frais de procédure
+
+##### Article R236
+
+En matière criminelle, correctionnelle ou de police, et sans préjudice en ce qui concerne l'instruction des dispositions de l'article 88, la partie qui n'a pas obtenu l'aide judiciaire est tenue, sous peine de non-recevabilité, de déposer au greffe la somme présumée nécessaire pour les frais de la procédure toutes les fois que, devant une juridiction d'instruction ou de jugement, son action n'est pas jointe à l'action préalable du ministère public.
+
+En cas de citation directe devant le tribunal ou en cas d'appel, la juridiction saisie fixe le montant de la consignation à la première audience où l'affaire est portée.
+
+Un supplément de consignation peut être exigé au cours des poursuites, soit pendant l'instruction, soit devant la juridiction de jugement, dès que le reliquat paraît insuffisant pour assurer le paiement de tous les frais, y compris l'enregistrement du jugement.
+
+Il ne peut être exigé aucune rétribution pour la garde de ce dépôt, à peine de concussion.
+
 
 ##### Article R237
 
@@ -5482,6 +5643,45 @@ Les frais de justice criminelle, correctionnelle et de police, sont payés sur l
 
 
 ##### Section 3 : De la liquidation et du recouvrement des frais
+
+###### Paragraphe 1er : Liquidation des frais
+
+###### Article R242
+
+Il est dressé pour chaque affaire criminelle ou de police, un état de liquidation des frais autres que ceux qui sont à la charge de l'Etat sans recours envers les condamnés.
+
+Au cours de l'instruction, cet état est dressé par le greffier d'instruction au fur et à mesure des frais comme il est dit à l'article 81, alinéa 2.
+
+Cette liquidation doit être insérée soit dans l'ordonnance, soit dans l'arrêt, le jugement ou l'ordonnance pénale qui prononce la condamnation aux frais.
+
+Lorsque cette insertion ne peut être faite, le juge décerne exécutoire contre qui de droit, au bas de l'état même de liquidation.
+
+
+###### Article R243
+
+Pour faciliter la liquidation, les officiers de police judiciaire et les juges d'instruction, aussitôt qu'ils ont terminé leurs fonctions relativement à chaque affaire, doivent joindre aux pièces un relevé des frais auxquels ont donné lieu les actes dont ils ont été chargés.
+
+
+###### Article R244
+
+Le greffier doit remettre au trésorier-payeur général, dès que la condamnation est devenue définitive, un extrait de l'ordonnance, jugement ou arrêt, pour ce qui concerne la liquidation et la condamnation au remboursement des frais ou une copie de l'état de liquidation rendu exécutoire.
+
+
+###### Paragraphe 2 : Personnes contre lesquelles le recouvrement des frais peut être poursuivi
+
+###### Article R246
+
+En matière criminelle, correctionnelle et de police, et sans préjudice des dispositions de l'article 177, alinéa 4, la partie civile qui n'a pas succombé n'est jamais tenue des frais, sauf de ceux occasionnés par elle et qui ont été déclarés frustratoires.
+
+Le montant de la consignation par elle effectuée lui est restitué dans les conditions prévues aux articles R239 et R240.
+
+
+###### Article R247
+
+Sont assimilés aux parties civiles, sauf en ce qui concerne la consignation préalable :
+1. Toute administration publique, relativement aux procès suivis, soit à sa requête, soit d'office et dans son intérêt ;
+2. Les départements, les communes et les établissements publics dans les procès instruits à leur requête ou d'office pour les délits commis contre leurs domaines publics ou privés.
+
 
 ###### Paragraphe 3 : Régularisation des dépenses - Recouvrement
 
