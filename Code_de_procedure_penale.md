@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 1er janvier 1997
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19970101)
+- Date de consolidation : 28 mars 1997
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19970328)
 
 
 # Partie législative
@@ -12362,7 +12362,7 @@ Les offices centraux de police judiciaire relevant de l'article R. 15-18 sont le
 2. Office central pour la répression du trafic illicite des stupéfiants ;
 3. Office central pour la répression de la traite des êtres humains ;
 4. Office central pour la répression du banditisme ;
-5. Office central pour la répression du vol d'oeuvres et objets d'art ;
+5. Office central de lutte contre le trafic des biens culturels ;
 6. Office central pour la répression du trafic des armes, des munitions, des produits explosifs et des matières nucléaires, biologiques et chimiques ;
 7. Office central pour la répression de la grande délinquance financière ;
 8. Office central pour la répression de l'immigration irrégulière et de l'emploi d'étrangers sans titre.
