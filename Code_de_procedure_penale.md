@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 3 février 1995
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19950203)
+- Date de consolidation : 5 février 1995
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19950205)
 
 
 # Partie législative
@@ -137,18 +137,16 @@ Elle peut, en outre, s'éteindre par transaction lorsque la loi en dispose expre
 
 En matière de crime et sous réserve des dispositions de l'article 213-5 du code pénal, l'action publique se prescrit par dix années révolues à compter du jour où le crime a été commis si, dans cet intervalle, il n'a été fait aucun acte d'instruction ou de poursuite.
 
-
-
 S'il en a été effectué dans cet intervalle, elle ne se prescrit qu'après dix années révolues à compter du dernier acte. Il en est ainsi même à l'égard des personnes qui ne seraient pas impliquées dans cet acte d'instruction ou de poursuite.
 
-
-
-Lorsque la victime est mineure et que le crime a été commis par un ascendant légitime, naturel ou adoptif ou par une personne ayant autorité sur elle, le délai de prescription est réouvert ou court à nouveau à son profit, pour la même durée à partir de sa majorité.
+Lorsque la victime est mineure et que le crime a été commis par un ascendant légitime, naturel ou adoptif ou par une personne ayant autorité sur elle, le délai de prescription ne commence à courir qu'à partir de sa majorité.
 
 
 ## Article 8
 
 En matière de délit, la prescription de l'action publique est de trois années révolues ; elle s'accomplit selon les distinctions spécifiées à l'article précédent.
+
+Lorsque la victime est mineure et que le délit a été commis par un ascendant légitime, naturel ou adoptif ou par une personne ayant autorité sur elle, le délai de prescription ne commence à courir qu'à partir de sa majorité.
 
 
 ## Article 9
