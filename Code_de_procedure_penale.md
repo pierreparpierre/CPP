@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 19 octobre 1988
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19881019)
+- Date de consolidation : 1er janvier 1989
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19890101)
 
 
 # Partie législative
@@ -2287,11 +2287,6 @@ Les débats ne peuvent s'ouvrir moins de cinq jours après l'interrogatoire par 
 L'accusé ne cesse pas de pouvoir communiquer librement avec son conseil.
 
 Le conseil peut prendre sur place communication de toutes les pièces du dossier sans que cette communication puisse provoquer un retard dans la marche de la procédure.
-
-
-##### Article 279
-
-Il est délivré gratuitement à chacun des accusés copie des procès-verbaux constatant l'infraction, des déclarations écrites des témoins et des rapports d'expertise.
 
 
 ##### Article 280
@@ -5907,16 +5902,6 @@ Les tribunaux désignés ainsi qu'il est dit à l'article précédent sont comp�
 
 ### Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction
 
-### Article 706-3
-
-Toute personne ayant subi un préjudice résultant de faits volontaires ou non qui présentent le caractère matériel d'une infraction peut obtenir de l'Etat une indemnité lorsque sont réunies les conditions suivantes :
-1. Ces faits soit ont causé un dommage corporel et ont entraîné la mort, une incapacité permanente ou une incapacité totale de travail personnel pendant plus d'un mois, soit sont prévus et réprimés par les articles 331 à 331-1 du Code pénal ;
-2. Le préjudice consiste en un trouble grave dans les conditions de vie résultant d'une perte ou d'une diminution de revenus, d'un accroissement de charges, d'une inaptitude à exercer une activité professionnelle ou d'une atteinte à l'intégrité soit physique, soit mentale ;
-3. La personne lésée ne peut obtenir, à un titre quelconque, la réparation ou une indemnisation effective et suffisante de ce préjudice.
-
-Toutefois, l'indemnité peut être refusée, ou son montant réduit, en raison du comportement de la personne lésée lors de l'infraction ou de ses relations avec l'auteur des faits.
-
-
 ### Article 706-4
 
 L'indemnité est allouée par une commission instituée dans le ressort de chaque tribunal de grande instance. Cette commission a le caractère d'une juridiction civile qui se prononce en premier et dernier ressort.
@@ -5928,41 +5913,6 @@ Les membres de la commission et leurs suppléants sont désignés pour une duré
 Les fonctions du ministère public sont exercées par le procureur de la République ou l'un de ses substituts.
 
 Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
-
-
-### Article 706-5
-
-A peine de forclusion, la demande d'indemnité doit être présentée dans le délai d'un an à compter de la date de l'infraction. Lorsque des poursuites pénales sont exercées, ce délai est prorogé et n'expire qu'un an après la décision de la juridiction qui a statué définitivement sur l'action publique ou sur l'action civile engagée devant la juridiction répressive. Toutefois, la commission relève le requérant de la forclusion lorsqu'il n'a pas été en mesure de faire valoir ses droits dans les délais requis ou lorsqu'il a subi une aggravation de son préjudice ou pour tout autre motif légitime.
-
-
-### Article 706-6
-
-La commission ou son président peut procéder ou faire procéder à toutes auditions et investigations utiles, sans que puisse leur être opposé le secret professionnel. Ils peuvent notamment se faire communiquer copie des procès-verbaux constatant l'infraction ou de toutes les pièces de la procédure pénale, même en cours. Ils peuvent également requérir :
-1. De toute personne ou administration, la communication de renseignements sur la situation professionnelle, financière, fiscale ou sociale des personnes ayant à répondre du dommage causé par l'infraction ou du requérant ;
-2. De tout service de l'Etat, collectivité publique, organisme de sécurité sociale, organisme assurant la gestion des prestations sociales ou compagnies d'assurance susceptibles de réparer tout ou partie du préjudice, la communication des renseignements relatifs à l'exécution de leurs obligations éventuelles.
-
-Les renseignements ainsi recueillis ne peuvent être utilisés à d'autres fins que l'instruction de la demande d'indemnité et leur divulgation est interdite.
-
-Des provisions peuvent être accordées par le président. Lorsqu'une provision est demandée, dès le dépôt de la requête en indemnisation, le président statue dans le délai d'un mois ; dans ce cas, elle ne peut excéder le quart du maximum fixé en application de l'article 706-9.
-
-
-### Article 706-7
-
-Lorsque des poursuites pénales ont été engagées, la décision de la commission peut intervenir avant qu'il ait été statué sur l'action publique.
-
-La commission peut surseoir à statuer jusqu'à décision définitive de la juridiction répressive dans les cas visés au dernier alinéa de l'article 706-3 ; elle doit, dans les mêmes cas et conditions, surseoir à statuer à la demande de la victime.
-
-Les débats ont lieu et la décision est rendue en chambre du conseil.
-
-
-### Article 706-8
-
-Lorsque la juridiction statuant sur les intérêts civils a alloué des dommages-intérêts d'un montant supérieur à l'indemnité accordée par la commission, la victime peut demander un complément d'indemnité dans la limite des maxima visés à l'article 706-9. Elle doit présenter sa demande dans le délai d'un an après que la décision statuant sur les intérêts civils est devenue définitive.
-
-
-### Article 706-9
-
-Les indemnités allouées par la commission sont à la charge de l'Etat. Elles sont payées comme frais de justice criminelle. Leurs montants ne peuvent dépasser des maxima fixés, chaque année, par décret.
 
 
 ### Article 706-10
@@ -5987,13 +5937,6 @@ A défaut de cette indication, la nullité du jugement en ce qui concerne ses di
 ### Article 706-13
 
 En cas d'infraction commise à l'étranger et relevant de la compétence des juridictions françaises, les dispositions du présent titre sont applicables lorsque la personne lésée est de nationalité française.
-
-
-### Article 706-14
-
-Toute personne qui, victime d'un vol, d'une escroquerie ou d'un abus de confiance, ne peut obtenir à un titre quelconque une réparation ou une indemnisation effective et suffisante de son préjudice, et se trouve de ce fait dans une situation matérielle grave, peut également obtenir de l'Etat une indemnité dans les conditions prévues aux articles 706-4 à 706-13 lorsque ses ressources sont inférieures au plafond prévu à l'alinéa 1er de l'article 2 de la loi n. 72-11 du 3 janvier 1972 pour bénéficier de l'aide judiciaire totale.
-
-Cette indemnité sera au maximum égale au triple du montant mensuel de ce plafond de ressources.
 
 
 ### Article 706-15
