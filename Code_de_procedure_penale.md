@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 24 décembre 1980
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19801224)
+- Date de consolidation : 23 janvier 1981
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19810123)
 
 
 # Partie législative
@@ -8590,6 +8590,15 @@ Des instructions de service déterminent les conditions dans lesquelles doivent 
 - les fiches d'identité judiciaire destinées à permettre l'identification anthropométrique de chaque détenu ;
 - les bulletins individuels destinés à renseigner les services de police sur l'entrée, la sortie et le transfèrement éventuel de chaque détenu ;
 - les notes individuelles prévues à l'article R69 concernant les dates de l'expiration des peines corporelles et l'exécution de la contrainte judiciaire, destinées au casier judiciaire.
+
+
+##### Article D288
+
+Au moment de la levée d'écrou, il est obligatoirement délivré à chaque libéré un billet de sortie.
+
+Cette pièce contient, outre les indications relatives à l'état civil de l'intéressé, la mention de son numéro d'immatriculation à la sécurité sociale et les mentions visées à l'article D480.
+
+L'attention du détenu doit être appelée sur l'importance qui s'attache pour lui à ne pas perdre ni détériorer le billet de sortie qui justifie la régularité de sa libération.
 
 
 ##### Article D289
