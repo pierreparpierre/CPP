@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 27 novembre 1977
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19771127)
+- Date de consolidation : 1er janvier 1978
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19780101)
 
 
 # Partie législative
@@ -383,6 +383,11 @@ En cas d'impossibilité, l'officier de police judiciaire aura l'obligation de l'
 Le procès-verbal de ces opérations, dressé ainsi qu'il est dit à l'article 66, est signé par les personnes visées au présent article ; au cas de refus, il en est fait mention au procès-verbal.
 
 
+#### Article 58
+
+Sous réserve des nécessités des enquêtes, toute communication ou toute divulgation sans l'autorisation de l'inculpé ou de ses ayants droit ou du signataire ou du destinataire d'un document provenant d'une perquisition à une personne non qualifiée par la loi pour en prendre connaissance est punie d'une amende de 1.800 à 30.000 F et d'un emprisonnement de deux mois à deux ans.
+
+
 #### Article 59
 
 Sauf réclamations faites de l'intérieur de la maison ou exceptions prévues par la loi, les perquisitions et les visites domiciliaires ne peuvent être commencées avant 6 heures et après 21 heures.
@@ -549,6 +554,11 @@ Dans le cas où le juge d'instruction n'est pas compétent aux termes de l'artic
 
 
 ##### Section 4 : Des auditions de témoins
+
+##### Article 111
+
+Toute personne qui déclare publiquement connaître les auteurs d'un crime ou d'un délit et qui refuse de répondre aux questions qui lui sont posées à cet égard par le juge d'instruction sera punie d'un emprisonnement de onze jours à un an et d'une amende de 375 F. à 20.000 F.
+
 
 ##### Section 5 : Des interrogatoires et confrontations
 
@@ -857,6 +867,11 @@ Si la perquisition a lieu dans un domicile autre que celui de l'inculpé, la per
 Le juge d'instruction doit se conformer aux dispositions des articles 57 (alinéa 2) et 59.
 
 Toutefois, il a l'obligation de provoquer préalablement toutes mesures utiles pour que soit assuré le respect du secret professionnel et des droits de la défense.
+
+
+##### Article 98
+
+Sous réserve des nécessités de l'information judiciaire, toute communication ou toute divulgation sans autorisation de l'inculpé ou de ses ayants droit ou du signataire ou du destinataire d'un document provenant d'une perquisition, à une personne non qualifiée par la loi pour en prendre connaissance, est punie d'une amende de 1 800 F à 30 000 F et d'un emprisonnement de deux mois à deux ans.
 
 
 ##### Section 4 : Des auditions de témoins
