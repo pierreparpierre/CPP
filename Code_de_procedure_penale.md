@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 1er mars 1994
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19940301)
+- Date de consolidation : 5 août 1994
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19940805)
 
 
 # Partie législative
@@ -93,6 +93,11 @@ Toutefois, l'association ne sera recevable dans son action que si elle justifie 
 ## Article 2-13
 
 Toute association régulièrement déclarée depuis au moins cinq ans à la date des faits et dont l'objet statutaire est la défense et la protection des animaux peut exercer les droits reconnus à la partie civile en ce qui concerne les infractions réprimant les sévices graves ou actes de cruauté et les mauvais traitements envers les animaux ainsi que les atteintes volontaires à la vie d'un animal prévus par le code pénal.
+
+
+## Article 2-14
+
+Toute association régulièrement déclarée se proposant par ses statuts la défense de la langue française et agréée dans les conditions fixées par décret en Conseil d'Etat peut exercer les droits reconnus à la partie civile en ce qui concerne les infractions aux dispositions des textes pris pour l'application des articles 2, 3, 4, 6, 7 et 10 de la loi n° 94-665 du 4 août 1994 relative à l'emploi de la langue française.
 
 
 ## Article 3
