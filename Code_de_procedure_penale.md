@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 1er novembre 2002
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20021101)
+- Date de consolidation : 7 décembre 2002
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20021207)
 
 
 # Partie législative
@@ -11783,7 +11783,7 @@ Les membres de la commission et, le cas échéant, leurs suppléants sont nommé
 
 ###### Article R15-33-3
 
-Pour pouvoir être désignés aux fins d'être chargés de certaines missions de police judiciaire, les agents des douanes doivent justifier d'au moins deux ans de services effectifs dans leur corps en qualité de titulaire et avoir satisfait aux épreuves d'un examen technique.
+Pour pouvoir être désignés aux fins d'être chargés de certaines missions de police judiciaire, les agents des douanes doivent justifier d'au moins deux ans de services effectifs en qualité de titulaire dans un corps de catégorie A ou B de la direction générale des douanes et droits indirects et avoir satisfait aux épreuves d'un examen technique.
 
 Les modalités d'organisation de cet examen et le programme des épreuves sont fixés par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé des douanes.
 
@@ -11809,9 +11809,9 @@ Un arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre
 
 ###### Article R15-33-7
 
-Les agents des douanes ne peuvent être habilités à effectuer des missions de police judiciaire que lorsqu'ils sont affectés à la direction nationale du renseignement et des enquêtes douanières.
+Les agents des douanes ne peuvent être habilités à effectuer des missions de police judiciaire que lorsqu'ils sont affectés au service national de douane judiciaire rattaché au directeur général des douanes et droits indirects.
 
-Pour chacun de ces agents, une demande d'habilitation est adressée, sur proposition du chef de la direction nationale du renseignement et des enquêtes douanières, au procureur général près la cour d'appel de Paris par le magistrat délégué aux missions judiciaires de la douane.
+Pour chacun de ces agents, une demande d'habilitation est adressée au procureur général près la cour d'appel de Paris par le magistrat délégué aux missions judiciaires de la douane.
 
 
 ###### Article R15-33-8
@@ -11821,7 +11821,7 @@ Le procureur général près la cour d'appel de Paris accorde ou refuse l'habili
 
 ###### Article R15-33-9
 
-Le procureur général près la cour d'appel de Paris prononce le retrait ou la suspension, pour une durée n'excédant pas deux ans, de l'habilitation à effectuer des missions de police judiciaire, par arrêté pris soit d'office, soit sur proposition du magistrat délégué aux missions judiciaires de la douane ou du chef de la direction nationale du renseignement et des enquêtes douanières.
+Le procureur général près la cour d'appel de Paris prononce le retrait ou la suspension, pour une durée n'excédant pas deux ans, de l'habilitation à effectuer des missions de police judiciaire, par arrêté pris soit d'office, soit sur proposition du magistrat délégué aux missions judiciaires de la douane.
 
 Il entend préalablement l'agent des douanes, qui peut prendre connaissance du dossier relatif aux faits qui lui sont reprochés et se faire assister d'un conseil de son choix.
 
@@ -11829,7 +11829,7 @@ L'agent des douanes dont l'habilitation a été suspendue recouvre de plein droi
 
 Après un retrait, l'habilitation ne peut être rétablie que dans les formes prévues pour son attribution initiale.
 
-L'affectation en dehors de la direction nationale du renseignement et des enquêtes douanières entraîne la perte de l'habilitation.
+L'affectation en dehors du service national de douane judiciaire entraîne la perte de l'habilitation.
 
 
 ###### Paragraphe 3 : Direction administrative des agents des douanes chargés de certaines missions de police judiciaire
@@ -11852,7 +11852,7 @@ Il fait des propositions à l'autorité judiciaire sur les types de missions de 
 
 ###### Article R15-33-12
 
-Le magistrat délégué aux missions judiciaires de la douane ou, en cas d'empêchement, l'adjoint qu'il délègue à cet effet reçoit les réquisitions aux fins d'enquête du procureur de la République et les commissions rogatoires du juge d'instruction dans les matières mentionnées à l'article 28-1. Il les transmet sans délai au chef de la direction nationale du renseignement et des enquêtes douanières qui désigne l'agent des douanes habilité chargé d'assurer l'exécution de ces réquisitions ou commissions rogatoires.
+Le magistrat délégué aux missions judiciaires de la douane ou, en cas d'empêchement, l'adjoint qu'il délègue à cet effet reçoit les réquisitions aux fins d'enquête du procureur de la République et les commissions rogatoires du juge d'instruction dans les matières mentionnées à l'article 28-1.
 
 
 ###### Article R15-33-13
@@ -11899,7 +11899,7 @@ Si l'activité de l'agent des douanes habilité est demeurée inconnue de l'auto
 
 ###### Article R15-33-17
 
-La notation établie par le procureur général près la cour d'appel de Paris est portée directement à la connaissance de l'agent des douanes habilité qui peut présenter des observations par écrit dans un délai de quinze jours, délai à l'issue duquel la notation définitive est transmise au magistrat délégué aux missions judiciaires de la douane. Elle est communiquée immédiatement au chef de la direction nationale du renseignement et des enquêtes douanières, qui la prend en compte dans le cadre de la notation administrative annuelle de l'agent des douanes intéressé.
+La notation établie par le procureur général près la cour d'appel de Paris est portée directement à la connaissance de l'agent des douanes habilité qui peut présenter des observations par écrit dans un délai de quinze jours, délai à l'issue duquel la notation définitive est transmise au magistrat délégué aux missions judiciaires de la douane. Elle est prise en compte pour la notation administrative annuelle de l'agent des douanes intéressé.
 
 
 ###### Paragraphe 5 : Modalités d'exercice des missions de police judiciaire par les agents des douanes habilités
