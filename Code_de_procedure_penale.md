@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 1er septembre 1995
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19950901)
+- Date de consolidation : 27 octobre 1995
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19951027)
 
 
 # Partie législative
@@ -17820,12 +17820,20 @@ Les candidats ayant échoué à quatre sessions ne peuvent plus être autorisés
 
 ###### Article A13
 
-Pour l'application de l'article R. 10 du Code de procédure pénale, et aux fins de constater l'aptitude à la fonction d'officier de police judiciaire des élèves inspecteurs de la police nationale, il est inclus dans l'examen de fin de scolarité de l'école supérieure des inspecteurs de police le groupe d'épreuves suivant :
-1. Une épreuve écrite, de caractère pratique, en droit pénal général et droit pénal spécial ;
-2. Une épreuve écrite, de caractère pratique, en procédure pénale et police judiciaire ;
-3. Une épreuve orale en droit administratif, libertés publiques et procédure pénale.
+Pour l'application de l'article R. 10 du code de procédure pénale et aux fins de constater l'aptitude à la fonction d'officier de police judiciaire des élèves lieutenants de police, il est inclus dans la scolarité de l'Ecole nationale supérieure des officiers de police un examen, sous forme d'un contrôle continu des connaissances, comportant le groupe d'épreuves suivant :
+1. Deux épreuves écrites de caractère pratique, en droit pénal général et droit pénal spécial ;
+2. Deux épreuves écrites de caractère pratique, en procédure pénale et police judiciaire ;
+3. Une épreuve orale en libertés publiques et procédure pénale.
 
-Chacune de ces épreuves, notée de 0 à 20, est affectée du coefficient 8. Toute note égale ou inférieure à 5 sur 20 est éliminatoire. Nul ne peut être considéré comme ayant satisfait à ce groupe d'épreuves s'il n'y a obtenu au moins 240 points.
+Ces épreuves sont notées de 0 à 20. Toute moyenne des notes obtenues aux épreuves visées au 1° ou aux épreuves visées au 2° égale ou inférieure à 5 est éliminatoire.
+
+Ces épreuves sont affectées d'un coefficient 4 pour chacune des épreuves écrites prévues aux 1° et 2°, 8 pour l'épreuve orale prévue au 3°.
+
+Nul ne pourra être considéré comme ayant satisfait à ce groupe d'épreuves s'il n'a obtenu au moins 240 points.
+
+Dans l'hypothèse où l'élève lieutenant de police a été éliminé ou n'a pas obtenu 240 points, il est admis à se présenter à une session spéciale de rattrapage comportant une épreuve orale. Cette épreuve, notée de 0 à 20, porte sur les matières visées aux 1°, 2° et 3° pour la ou lesquelles l'élève n'a pas obtenu une note moyenne égale ou supérieure à 10.
+
+Nul ne pourra être considéré comme ayant satisfait à l'examen s'il n'a obtenu à cette session une note égale ou supérieure à 10 sur 20.
 
 
 ###### Article A14
@@ -17852,6 +17860,8 @@ La nullité des actes de procédure.
 
 La procédure pénale applicable aux mineurs.
 
+Les juridictions judiciaires pénales.
+
 L'exécution des décisions de justice pénale.
 
 Droit pénal général
@@ -17860,148 +17870,153 @@ A. - Généralités sur la législation pénale.
 
 B. - L'infraction pénale :
 
-Les principes généraux de la responsabilité pénale.
+Les principes généraux de la responsabilité pénale ;
 
-La classification des infractions et l'organisation judiciaire en matière pénale.
+La classification des infractions et l'organisation judiciaire en matière pénale ;
 
-Les éléments constitutifs de l'infraction.
+Les éléments constitutifs de l'infraction ;
 
-La tentative.
+La tentative ;
 
-La complicité.
+La complicité ;
+
+La responsabilité pénale des personnes morales ;
 
 Les faits justificatifs légaux.
 
-C. - Les problèmes internationaux et européens de la législation pénale.
+C. - La sanction :
 
-D. - La sanction :
+Notions générales (classification des sanctions et des mesures de sûreté) ;
 
-Notions générales (classification des sanctions et des mesures de sûreté).
-
-Modalités de mise en oeuvre des sanctions (périodes de sûreté ; causes d'atténuation, d'exemption, d'aggravation, de suspension et d'extinction de la sanction).
+Modalités de mise en oeuvre des sanctions (période de sûreté ; causes d'atténuation, d'exemption, d'aggravation, de suspension et d'extinction de la sanction).
 
 Droit pénal spécial
-1. Crimes et délits contre les biens :
-- le vol ;
-- l'escroquerie et les infractions en matière de chèques ;
-- l'abus de confiance ;
-- les filouteries ;
-- le chantage et les extorsions ;
-- les faux en écriture ;
-- le recel ;
-- les destructions, dégradations et dommages ;
-- l'immunité familiale.
-2. L'association de malfaiteurs.
-3. Les crimes et délits contre les personnes :
-- les menaces ;
-- le meurtre ;
-- l'assassinat ;
-- le parricide ;
-- l'infanticide ;
-- l'empoisonnement ;
-- les coups et blessures volontaires ;
-- l'homicide et les coups et blessures involontaires.
-4. Les infractions contre les moeurs :
-- l'outrage aux bonnes moeurs ;
-- l'outrage public à la pudeur ;
-- les attentats à la pudeur ;
-- le viol ;
-- le proxénétisme.
-5. Les infractions contre la famille :
-- crimes et délits envers l'enfant ;
-- l'enlèvement de mineurs ;
-- la non-représentation d'enfant ;
-- l'abandon de famille.
-6. Les crimes et délits commis par ou contre les fonctionnaires.
-7. Les arrestations et séquestrations arbitraires ; la prise d'otage.
-8. L'usage et le trafic de stupéfiants.
 
-Libertés publiques et droit administratif
+A. - Infractions contre les personnes :
 
-A. - Libertés publiques :
+Les atteintes volontaires à la vie (meurtre, assassinat, empoisonnement, circonstances aggravantes) ;
 
-Introduction générale aux libertés publiques ; sources, régime juridique, garanties et protections des libertés publiques.
+Les atteintes involontaires à la vie (homicide involontaire) ;
+
+Les atteintes volontaires à l'intégrité de la personne (tortures et actes de barbarie, violences, menaces) ;
+
+Les atteintes involontaires à l'intégrité de la personne ;
+
+Les agressions sexuelles (viol, autres agressions sexuelles, harcèlement sexuel) ;
+
+L'usage et le trafic de stupéfiants ;
+
+La mise en danger de la personne (risques causés à autrui, délaissement de la personne hors d'état de se protéger, entraves aux mesures d'assistance, omission de porter secours, expérimentation sur la personne, interruption illégale de la grossesse, provocation au suicide) ;
+
+Les atteintes à la liberté de la personne (enlèvement et séquestration) ;
+
+Les atteintes à la dignité de la personne (proxénétisme, conditions de travail et d'hébergement contraires à la dignité de la personne, le respect dû aux morts) ;
+
+Les atteintes aux mineurs et à la famille (délaissement du mineur, abandon de famille, atteintes à l'exercice de l'autorité parentale, atteintes à la filiation, les délits de mise en péril des mineurs).
+
+B. - Infractions contre les biens :
+
+Le vol ;
+
+L'escroquerie ;
+
+L'abus frauduleux de l'état d'ignorance ;
+
+Les détournements (abus de confiance, détournement de gage, organisation de l'insolvabilité) ;
+
+Les abus de biens sociaux ;
+
+La filouterie ;
+
+L'extorsion ;
+
+Le chantage ;
+
+Le recel ;
+
+L'immunité familiale ;
+
+Les menaces ;
+
+Les destructions, dégradations et détériorations ;
+
+Les atteintes aux systèmes de traitement automatisé de données.
+
+C. - Infractions contre la nation, l'Etat et la paix publique :
+
+L'association de malfaiteurs ;
+
+Les faux ;
+
+Les crimes et délits commis par ou contre un fonctionnaire (rébellion, outrages, corruption, trafic d'influence, concussion).
+
+D. - Les infractions à la police de la circulation routière.
+
+E. - Les problèmes internationaux et européens de la législation pénale.
+
+Libertés publiques
+
+Introduction générale aux libertés publiques (sources, régime juridique, garanties et protection des libertés publiques).
 
 Les libertés individuelles et la vie privée :
-- la sûreté ou liberté individuelle ;
-- la liberté d'aller et venir ;
-- le respect de la vie privée, du domicile et des correspondances ;
-- le respect de la personne et les lois antidiscriminatoires.
+
+La sûreté ou liberté individuelle ;
+
+La liberté d'aller et venir ;
+
+Le respect de la vie privée, du domicile et des correspondances ;
+
+Le respect de la personne et les lois antidiscriminatoires.
 
 Les libertés d'expression collective :
-- la liberté d'association ;
-- la liberté de réunion ;
-- le régime des manifestations ;
-- le régime des attroupements.
+
+La liberté d'association ;
+
+La liberté de réunion ;
+
+Le régime des manifestations ;
+
+Le régime des attroupements ;
 
 La liberté de la presse.
 
 Les libertés à contenu économique et social :
-- la liberté syndicale ;
-- le droit de grève ;
-- la liberté du commerce et de l'industrie.
+
+La liberté syndicale ;
+
+Le droit de grève.
 
 Les libertés contemporaines :
-- la motivation des décisions administratives ;
-- l'accès aux documents administratifs ;
-- l'informatique et les libertés.
 
-B. - Droit administratif.
+La motivation des décisions administratives ;
 
-La hiérarchie des normes de droit.
+L'accès aux documents administratifs ;
 
-La loi et le règlement (élaboration et contrôle).
-
-L'organisation institutionnelle en France :
-- la séparation des pouvoirs ;
-- le Gouvernement ;
-- le Parlement ;
-- les rapports entre le Gouvernement et le Parlement ;
-- le Conseil constitutionnel.
-
-L'organisation juridictionnelle :
-- les juridictions de l'ordre judiciaire (juridiction de droit commun et juridictions d'exception) ;
-- les juridictions de l'ordre administratif (notions de procédure
-
-contentieuse) ;
-- le tribunal des conflits ;
-- les voies de recours.
-
-L'organisation territoriale :
-- les notions de décentralisation et de déconcentration ;
-- les collectivités territoriales (commune, département, région) ;
-- la représentation de l'Etat dans chaque collectivité territoriale ;
-- le préfet (art. 30 du code de procédure pénale).
+L'informatique et les libertés.
 
 
 ###### Article A15
 
-Les sujets des épreuves écrites sont choisis par le président du jury prévu par l'article R. 11 du Code de procédure pénale, sur proposition du directeur du personnel et des écoles de la police.
+Les sujets des épreuves écrites sont choisis par le président du jury prévu par l'article R. 11 du code de procédure pénale, sur proposition du directeur de l'administration de la police nationale.
 
 
 ###### Article A16
 
-Le secrétariat du jury et l'organisation matérielle des épreuves qui se déroulent à l'école supérieure des inspecteurs de police sont assurés par la direction du personnel et des écoles de la police.
+Le secrétariat du jury et l'organisation matérielle des épreuves qui se déroulent à l'Ecole nationale supérieure des officiers de police sont assurés par la direction de l'administration de la police nationale.
 
 
 ###### Article A17
 
-Il est interdit aux candidats, sous peine d'exclusion, d'avoir par-devers eux des documents imprimés ou manuscrits ou des codes annotés et commentés article par article par des praticiens du droit. Toutefois, ils peuvent consulter des codes ou recueils de lois et décrets ; ces derniers peuvent comporter des références à des textes législatifs ou réglementaires ainsi qu'à des articles de doctrine ou des décisions de jurisprudence.
-
-
+Il est interdit aux candidats, sous peine d'exclusion, d'avoir par-devers eux des documents imprimés ou manuscrits ou des codes annotés et commentés article par article par des praticiens du droit ; toutefois, ils peuvent consulter des codes ou recueils de lois, décrets et circulaires : ces derniers peuvent comporter des références à des textes législatifs ou réglementaires ainsi qu'à des articles de doctrine ou des décisions de jurisprudence.
 
 Toute fraude ou tentative de fraude dans l'une quelconque des épreuves écrites entraîne l'exclusion immédiate de l'examen, prononcée sans délai et sans appel.
-
-
-
-
 
 L'enveloppe renfermant chaque sujet d'épreuve écrite est décachetée en présence des candidats à l'ouverture de la séance affectée à l'épreuve.
 
 
 ###### Article A18
 
-Dès la fin des épreuves écrites, le président réunit le jury pour l'établissement des normes de correction et pour la répartition des copies entre les correcteurs. Il fixe la date à laquelle les copies corrigées doivent être remises au secrétariat de la commission.
+Le président réunit le jury pour l'établissement des normes de correction et pour la répartition des copies entre les correcteurs. Il fixe la date à laquelle les copies corrigées doivent être remises au secrétariat de la commission.
 
 L'anonymat des copies est assuré par un coin gommé.
 
@@ -18014,7 +18029,7 @@ Les modalités pratiques de déroulement de l'épreuve orale sont fixées, sur p
 ###### Article A20
 
 Le secrétariat de la commission :
-1. Soumet au président les copies pour lesquelles est proposée une note égale ou inférieure à 5 sur 20. Ces copies font l'objet d'une seconde correction par un membre désigné par le président et appartenant à une autre formation (magistrature, police nationale) que celle dont fait partie le premier correcteur. Le résultat de ces doubles corrections est soumis à la commission qui en délibère spécialement et fixe la note définitive ;
+1. Soumet au président les copies des épreuves visées au 1° ou 2° de l'article A. 13 pour lesquelles est proposée une note moyenne égale ou inférieure à 5 sur 20. Ces copies font l'objet d'une seconde correction par un membre désigné par le président et appartenant à une autre formation (magistrature, police nationale) que celle dont fait partie le premier correcteur. Le résultat de ces doubles corrections est soumis à la commission qui en délibère spécialement et fixe la note définitive ;
 2. Opère un relevé des notes attribuées pour chaque épreuve par les examinateurs ;
 3. Dresse la liste des candidats ayant obtenu le nombre de points exigé pour le groupe d'épreuves.
 
@@ -18022,159 +18037,6 @@ Le secrétariat de la commission :
 ###### Article A21
 
 A l'issue des épreuves, le jury établit la liste des candidats reconnus aptes à la qualité d'officier de police judiciaire. Cette liste mentionne les notes attribuées aux candidats dans chacune des épreuves et le total des points obtenus. Elle est remise au secrétariat du jury en vue de la prise en compte des points dans le classement des élèves à l'examen de fin de scolarité de l'école.
-
-
-###### Article A22
-
-Pour l'application de l'article R. 10 du Code de procédure pénale et aux fins de constater l'aptitude à la fonction d'officier de police judiciaire en ce qui concerne les infractions prévues à l'article L. 23-1 du Code de la route des fonctionnaires du corps des commandants et officiers de paix de la police nationale, l'examen technique comporte les épreuves suivantes :
-1. Une épreuve écrite, de caractère pratique, en droit pénal général et droit pénal spécial ;
-2. Une épreuve écrite, de caractère pratique, en procédure pénale et police judiciaire ;
-3. Une épreuve orale en droit administratif, libertés publiques et procédure pénale.
-
-Chacune de ces épreuves est notée de 0 à 20. Toute note égale ou inférieure à 5 sur 20 est éliminatoire. Nul ne peut être déclaré admis à cet examen s'il n'a obtenu au moins 30 points.
-
-
-###### Article A23
-
-Le programme des épreuves de l'examen prévu par l'article qui précède est le suivant :
-
-Procédure pénale
-
-L'action publique et l'action civile.
-
-Le ministère public.
-
-Les juridictions d'instruction.
-
-La police administrative et la police judiciaire.
-
-Les officiers et agents de police judiciaire.
-
-Le contrôle de la mission de police judiciaire.
-
-La procédure applicable aux crimes et délits flagrants.
-
-L'enquête préliminaire.
-
-La force probante des actes de police judiciaire.
-
-Les actes de police judiciaire et l'article L. 23-1 du code de la route.
-
-La procédure applicable aux contraventions.
-
-Les commissions rogatoires.
-
-Les mandats de justice.
-
-Les règles particulières de procédure applicables aux mineurs.
-
-L'organisation judiciaire en matière pénale : cour d'assises, cour d'appel, tribunal correctionnel, tribunal de police.
-
-Droit pénal
-
-L'infraction en général (éléments constitutifs ; classification en crimes, délits et contraventions ; intérêts de cette distinction).
-
-La tentative punissable (commencement d'exécution et désistement volontaire).
-
-La responsabilité pénale.
-
-Les causes de non-imputabilité.
-
-Les faits justificatifs.
-
-Les excuses absolutoires et les excuses atténuantes.
-
-Les circonstances aggravantes et les circonstances atténuantes.
-
-La complicité.
-
-Le concours d'infractions.
-
-La récidive.
-
-Le casier judiciaire.
-
-Le sursis.
-
-Les peines, leur exécution, la libération conditionnelle.
-
-L'extinction des peines.
-
-Les infractions prévues par les articles 319, 320 et R. 40 (4°) du code pénal.
-
-Les infractions à la police de la circulation routière.
-
-Libertés publiques
-
-Introduction générale aux libertés publiques (sources, régime juridique, garanties et protection des libertés publiques).
-
-Les libertés individuelles et la vie privée :
-- la sûreté ou liberté individuelle ;
-- la liberté d'aller et venir ;
-- le respect de la vie privée, du domicile et des correspondances ;
-- le respect de la personne et les lois antidiscriminatoires.
-
-Les libertés d'expression collective :
-- la liberté d'association ;
-- la liberté de réunion ;
-- le régime des manifestations ;
-- le régime des attroupements.
-
-La liberté de la presse.
-
-Les libertés à contenu économique et social :
-- la liberté syndicale ;
-- le droit de grève ;
-- la liberté du commerce et de l'industrie.
-
-Les libertés contemporaines :
-- la motivation des décisions administratives ;
-- l'accès aux documents administratifs ;
-- l'informatique et les libertés.
-
-Droit administratif.
-
-La hiérarchie des normes de droit.
-
-La loi et le règlement (élaboration et contrôle).
-
-L'organisation juridictionnelle :
-- les juridictions de l'ordre judiciaire (juridictions de droit commun et juridictions d'exception) ;
-- les juridictions de l'ordre administratif (notions de procédure contentieuse) ;
-- le tribunal des conflits ;
-- les voies de recours.
-
-L'organisation territoriale :
-- notions de décentralisation et déconcentration ;
-- les collectivités territoriales (commune, département, région) ;
-- la représentation de l'Etat dans chaque collectivité territoriale ;
-- le préfet.
-
-
-###### Article A24
-
-La date de l'examen et les sujets des épreuves écrites sont fixés par le président du jury prévu par l'article R. 11 du Code de procédure pénale, sur proposition du directeur et des écoles de la police.
-
-Les épreuves écrites de l'examen se déroulent dans les centres fixés par le directeur du personnel et des écoles de la police. Leur organisation matérielle est assurée, le cas échéant, par les secrétariats généraux pour l'administration de la police.
-
-Les dispositions des articles A. 15 et A. 17 à A. 20 ci-dessus sont applicables à l'examen prévu à l'article A. 22.
-
-
-###### Article A25
-
-Nul ne peut se présenter plus de trois fois à cet examen.
-
-
-###### Article A26
-
-A l'issue des épreuves, le jury établit la liste des candidats pour lesquels il émet un avis favorable à l'attribution de la qualité d'officier de police judiciaire. Cette liste mentionne les notes attribuées aux candidats dans chacune des épreuves et le total des points obtenus. Elle est adressée au ministre de l'intérieur, accompagnée éventuellement de toutes propositions ou suggestions jugées utiles.
-
-
-###### Article A27
-
-Une session de l'examen prévu à l'article A. 22 ci-dessus est organisée chaque année dans le cadre de l'examen de fin de scolarité de l'école supérieure des officiers de paix aux fins de constater l'aptitude à la qualité d'officier de police judiciaire des élèves officiers de paix.
-
-Les dispositions de l'article A. 21 sont applicables à cette session.
 
 
 ## Livre V : Des procédures d'exécution
