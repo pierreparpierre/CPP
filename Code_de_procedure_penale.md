@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 10 mai 2001
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20010510)
+- Date de consolidation : 12 mai 2001
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20010512)
 
 
 # Partie législative
@@ -10638,33 +10638,19 @@ En aucun cas, l'attribution de la qualité d'officier de police judiciaire ne pe
 
 ####### Article R8
 
-La commission prévue à l'article 16 (3°) dont l'avis conforme est requis pour la désignation des fonctionnaires du corps des inspecteurs de la police nationale ayant la qualité d'officier de police judiciaire et du corps des commandants et officiers de paix de la police nationale auxquels est attribuée, aux termes de l'article L. 23-1 du code de la route, la qualité d'officier de police judiciaire, est composée comme suit :
-
-
+La commission prévue à l'article 16 (3° et 4°), dont l'avis conforme est requis pour la désignation des fonctionnaires du corps de commandement et d'encadrement et du corps de maîtrise et d'application de la police nationale auxquels est attribuée la qualité d'officier de police judiciaire, est composée comme suit :
 1. Le procureur général près la Cour de cassation ou son délégué choisi par lui parmi le premier avocat général et les avocats généraux près la Cour de cassation, président ;
-
-
-2. Sept magistrats dont quatre au plus peuvent être des magistrats honoraires ou en retraite ;
-
-
+2. Douze magistrats en activité ou honoraires ;
 3. Le directeur général de la police nationale ou son représentant ;
+4. Le directeur, chef de l'inspection générale de la police nationale ou son représentant ;
+5. Le directeur de la formation de la police nationale ou son représentant ;
+6. Neuf fonctionnaires de la police nationale ayant au moins rang de commissaire principal.
 
+Toutefois l'effectif des magistrats et celui des fonctionnaires de la police nationale prévus aux 2° et 6° peut être augmenté en nombre égal, sans pouvoir respectivement excéder quinze et douze, par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre de l'intérieur, si le nombre de candidats à l'examen technique prévu à l'article R. 10 le justifie.
 
-4. Le directeur du personnel et des écoles de la police ou son représentant ;
+Les membres de la commission mentionnés aux 2° et 6° ci-dessus sont nommés pour une durée de quatre ans renouvelable une fois, et ont chacun un suppléant désigné dans les mêmes conditions.
 
-
-5. Le directeur, chef de l'inspection générale de la police nationale ou son représentant ;
-
-
-6. Quatre fonctionnaires de la police nationale ayant au moins rang de commissaire principal.
-
-
-
-Le secrétariat de la commission est assuré par la direction du personnel et des écoles de la police.
-
-
-
-Les membres de la commission désignés ci-dessus aux 2° et 6° ont chacun un suppléant.
+Le secrétariat de la commission est assuré par la direction de la formation de la police nationale.
 
 
 ####### Article R9
@@ -10674,11 +10660,11 @@ Les membres de la commission et leurs suppléants sont nommés par arrêté conj
 
 ####### Article R10
 
-La qualité d'officier de police judiciaire peut être attribuée aux fonctionnaires du corps des inspecteurs de la police nationale et, en ce qui concerne les infractions prévues à l'article L. 23-1 du Code de la route, aux fonctionnaires du corps des commandants et officiers de paix de la police nationale. Les fonctionnaires de ces deux catégories doivent compter au moins deux ans de services effectifs dans leur corps en qualité de titulaire et avoir satisfait aux épreuves d'un examen technique.
+La qualité d'officier de police judiciaire peut être attribuée aux fonctionnaires du corps de commandement et d'encadrement de la police nationale ayant satisfait aux épreuves d'un examen technique.
 
+Elle peut être attribuée dans les mêmes conditions aux fonctionnaires du corps de maîtrise et d'application de la police nationale comptant au moins trois ans de services dans ce corps. Ceux-ci doivent avoir exercé au moins deux ans de services dans ce corps au 1er janvier de l'année de l'examen pour être autorisés à subir les épreuves.
 
-
-Les modalités d'organisation de cet examen et le programme des épreuves sont fixés par arrêté conjoint du garde des sceaux, ministre de la Justice, et du ministre de l'Intérieur.
+Les modalités d'organisation de l'examen technique et le programme des épreuves sont fixés par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre de l'intérieur.
 
 
 ####### Article R11
@@ -10858,7 +10844,7 @@ La décision de la commission peut être déférée à la Cour de cassation pour
 
 ##### Article R15-17
 
-La qualité d'agent de police judiciaire est attribuée par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre de l'intérieur aux enquêteurs de 2e classe et aux gardiens de la paix de la police nationale visés par le 5° de l'article 20 qui ont satisfait aux épreuves d'un examen technique portant sur le droit pénal, la procédure pénale et les libertés publiques, après avoir reçu une formation spécifique.
+La qualité d'agent de police judiciaire est attribuée par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre de l'intérieur aux gardiens de la paix qui, en application de l'article 20 (4° et 5°), ont satisfait à un examen technique portant sur le droit pénal, la procédure pénale et les libertés publiques, après avoir reçu une formation spécifique.
 
 
 
@@ -10876,7 +10862,7 @@ Une ou plusieurs commissions d'examen, dont les membres sont nommés par arrêt�
 
 
 
-Le secrétariat de chaque commission d'examen est assuré par la direction du personnel et de la formation de la police.
+Le secrétariat de chaque commission d'examen est assuré par la direction de la formation de la police nationale.
 
 
 ##### Section 4 : Des services et unités visés à l'article 15-1
