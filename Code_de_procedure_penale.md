@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 14 avril 1974
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19740414)
+- Date de consolidation : 28 mai 1974
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19740528)
 
 
 # Partie législative
@@ -4881,6 +4881,13 @@ Les bulletins n° 1 établis par le casier judiciaire central sont délivrés gr
 Les bulletins n° 2 du casier judiciaire sont délivrés gratuitement.
 
 
+#### Article R90
+
+Les fiches du casier judiciaire, les copies de ces fiches destinées à l'échange international ou au recrutement de l'armée ainsi que les bulletins n° 1, n° 2 et n° 3 et les déclarations de perte de pièces d'identité prévues au premier alinéa de l'article précédent sont établis conformément aux modèles fixés par le garde des sceaux, ministre de la justice.
+
+Les copies de fiches destinées à la vérification de la capacité électorale sont établies selon un modèle fixé par l'Institut national de la statistique et des études économiques.
+
+
 ### Titre IX
 
 ### Titre X : Des frais de justice
@@ -5032,6 +5039,13 @@ Lorsque les experts justifient qu'ils se sont trouvés, par suite de circonstanc
 ####### Article R114
 
 Les experts ont droit, sur la production de pièces justificatives, au remboursement des frais de transport des pièces à conviction et de tous autres débours reconnus indispensables.
+
+
+####### Article R115
+
+Les magistrats commettants peuvent autoriser les experts à percevoir au cours de la procédure des acomptes provisionnels soit lorsqu'ils ont fait des travaux d'ine importance exceptionnelle, soit lorsqu'ils ont été dans la nécessité de faire des transports coûteux ou des avances personnelles.
+
+Toutefois, le montant total des acomptes ne pourra pas dépasser le tiers du montant des frais et honoraires prévu.
 
 
 ##### Section 3 : Des indemnités qui peuvent être accordées aux témoins et aux jurés
