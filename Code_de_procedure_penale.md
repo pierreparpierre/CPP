@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 25 août 1987
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19870825)
+- Date de consolidation : 26 septembre 1987
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19870926)
 
 
 # Partie législative
@@ -8653,7 +8653,11 @@ Lorsque la condamnation à un travail d'intérêt général ou à une peine d'em
 
 #### Article R61-28
 
-Pour l'habilitation des associations désirant mettre en oeuvre des travaux d'intérêt général spécifiquement adaptés aux mineurs, le juge des enfants, avant de communiquer la demande au président du tribunal, saisit le directeur départemental de la protection judiciaire de la jeunesse. Celui-ci fait connaître par écrit son avis sur les garanties offertes par l'association.
+Pour l'habilitation des associations désirant mettre en oeuvre des travaux d'intérêt général spécifiquement adaptés aux mineurs, le juge des enfants, avant de communiquer la demande au président du tribunal, saisit le directeur départemental de l'éducation surveillée. Celui-ci fait connaître par écrit son avis sur les garanties offertes par l'association.
+
+
+
+Le directeur départemental de l'éducation surveillée peut également recueillir toute demande d'habilitation, qu'il transmet au juge des enfants, assortie de l'avis prévu à l'alinéa précédent.
 
 
 #### Article R61-29
@@ -8668,19 +8672,14 @@ La décision du juge des enfants fixant les modalités d'exécution du travail d
 
 #### Article R61-31
 
-Le jeune condamné au travail d'intérêt général doit se soumettre aux mesures de contrôles suivantes.
-1. Répondre aux convocations du juge des enfants ;
-2. Se soumettre à l'examen médical prévu par l'article R. 61-18 ;
+Le jeune condamné au travail d'intérêt général doit se soumettre aux mesures de contrôles suivantes [*obligations*].
+1. Répondre aux convocations du juge des enfants et de l'éducateur ou du service désigné conformément à l'article R. 61-32.    2° Se soumettre à l'examen médical prévu par l'article R. 61-18 ;
 3. Informer le juge des enfants de tout changement d'emploi ou de résidence ou de tout déplacement qui ferait obstacle à l'exécution de travaux d'intérêt général selon les modalités fixées.
 
 
 #### Article R61-32
 
-Le juge des enfants s'assure de l'exécution du travail d'intérêt général.
-
-Il peut demander à un éducateur ou à une structure éducative de l'éducation surveillée d'apprécier si le travail effectué conserve son caractère formateur ou de nature à permettre l'insertion sociale du jeune condamné et s'il demeure adapté à la personnalité de celui-ci.
-
-Lorsque le mineur est condamné à une peine d'emprisonnement avec sursis assortie de l'obligation d'accomplir un travail d'intérêt général, le juge des enfants peut faire application des dispositions de l'article R. 60.
+Le juge des enfants s'assure de l'exécution du travail d'intérêt général soit par lui-même, soit par l'intermédiaire d'un éducateur ou d'un service de l'éducation surveillée qu'il désigne, qui rend compte au juge des enfants du déroulement de la mesure en vérifiant, notamment, si le travail effectué conserve un caractère formateur ou de nature à permettre l'insertion sociale du jeune condamné et s'il demeure adapté à la personnalité de celui-ci.
 
 
 ### Titre VI
