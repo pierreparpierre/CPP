@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 1er janvier 2005
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20050101)
+- Date de consolidation : 27 janvier 2005
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20050127)
 
 
 # Partie législative
@@ -7055,6 +7055,17 @@ Il indique l'infraction poursuivie et vise le texte de loi qui la réprime.
 #### Article 533
 
 Les articles 388-1, 388-2, 388-3 et 390 à 392-1 sont applicables devant le tribunal de police.
+
+
+#### Chapitre IV : De l'instruction définitive devant le tribunal de police et la juridiction de proximité
+
+#### Article 535
+
+Les dispositions des articles 400 à 405, 406 à 408, sont applicables à la procédure devant le tribunal de police et devant la juridiction de proximité.
+
+
+
+Toutefois, les sanctions prévues par l'article 404, alinéa 2, ne peuvent être prononcées que par le tribunal correctionnel, saisi par le ministère public, au vu du procès-verbal dressé par le juge du tribunal de police ou par le juge de proximité relatant l'incident.
 
 
 #### Chapitre IV : De l'instruction définitive devant le tribunal de police
