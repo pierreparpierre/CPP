@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 1er octobre 1992
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19921001)
+- Date de consolidation : 5 novembre 1992
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19921105)
 
 
 # Partie législative
@@ -9486,7 +9486,7 @@ Le Trésor public fait l'avance des frais énumérés aux articles R. 92 et R. 9
 Les frais de justice criminelle, correctionnelle et de police sont :
 1. Les frais de translation des prévenus ou accusés, les frais de translation des condamnés pour se rendre au lieu où ils sont appelés en témoignage lorsque cette translation ne peut être effectuée par les voitures cellulaires du service pénitentiaire, les frais de transport des procédures et des pièces à conviction.
 2. Les frais d'extradition des prévenus, accusés ou condamnés ; les frais de commission rogatoire et autres frais de procédure pénale en matière internationale.
-3. Les honoraires et indemnités qui peuvent être accordés aux experts, aux interprètes-traducteurs ainsi qu'aux personnes chargées des enquêtes sociales ou de personnalité, ou contribuant au contrôle judiciaire dans les conditions prévues aux articles R. 121 et R. 121-1 du présent code.
+3. Les honoraires et indemnités qui peuvent être accordés aux experts, aux interprètes-traducteurs ainsi qu'aux personnes chargées des enquêtes sociales ou de personnalité ou d'une mission de médiation ou tendant à favoriser la réparation du dommage préalablement à la décision du procureur de la République sur les poursuites ou contribuant au contrôle judiciaire dans les conditions prévues aux articles R. 121 et R. 121-1 du présent code.
 4. Les indemnités qui peuvent être accordées aux témoins, aux jurés par application des articles R. 123 à R. 146 et aux parties civiles par application des articles 375-1 et 422.
 5. Les frais de saisie ou de mise sous séquestre ou en fourrière, les frais en matière de scellés et ceux de l'immobilisation décidée en application de l'article 43-3 (3° bis) du code pénal.
 6. Les frais d'enquête sociale et d'expertise engagés en matière d'exécution ou d'application des peines et en matière de grâces.
@@ -9807,10 +9807,11 @@ Pour une expertise ordonnée dans les mêmes conditions, par les juridictions de
 ###### Article R121
 
 En sus du remboursement de leurs frais de déplacement, calculés dans les conditions fixées pour les déplacements des fonctionnaires du groupe II, il est alloué aux personnes habilitées :
+1. Pour la vérification de la situation matérielle, familiale ou sociale des personnes faisant l'objet d'une enquête prévue par les articles 41 (alinéa 5) et 81 (alinéa 7) : 255 F ;
+2. Pour l'enquête sur la personnalité des inculpés ainsi que sur leur situation matérielle, familiale ou sociale, prévue par l'article 81 (alinéa 6) : 480 F ;
+3. Pour une mission de médiation ou une mission tendant à favoriser la réparation du dommage préalablement à la décision du procureur de la République sur les poursuites : 255 F.
 
-Pour la vérification de la situation matérielle, familiale ou sociale des personnes faisant l'objet d'une enquête prévue par les articles 41 (alinéa 5) et 81 (alinéa 7) ainsi que pour l'information sur les mesures propres à favoriser l'insertion sociale des intéressés : 255 F.
-
-Pour l'enquête sur la personnalité des inculpés ainsi que sur leur situation matérielle, familiale ou sociale, prévue par l'article 81 (alinéa 6) : 383 F..
+Lorsque la personne habilitée est une association qui a passé une convention avec le ministère de la justice, l'indemnité prévue au 1° ci-dessus est portée à 420 F, l'indemnité prévue au 2° à 1 000 F et l'indemnité prévue au 3° à 500 F lorsque la durée de la mission est inférieure ou égale à un mois, 1 000 F lorsque cette durée est supérieure à un mois et inférieure ou égale à trois mois, 2 000 F lorsqu'elle est supérieure à trois mois.
 
 
 ###### Article R121-1
@@ -9828,6 +9829,10 @@ En sus du remboursement de leurs frais de déplacement, calculés dans les condi
 
 
 1.000 F lorsque la mission de contrôle judiciaire dure plus d'un an.
+
+
+
+Lorsque cette mission est effectuée par une association qui a passé une convention avec le ministère de la justice, l'indemnité allouée est portée respectivement à 1 000 F, 1 670 F et 2 670 F.
 
 
 ###### Paragraphe 3 : Des interprètes traducteurs
