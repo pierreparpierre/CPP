@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 5 septembre 1977
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19770905)
+- Date de consolidation : 27 novembre 1977
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19771127)
 
 
 # Partie législative
@@ -8895,6 +8895,13 @@ Une bibliothèque composée d'ouvrages religieux peut être aménagée par l'aum
 
 
 ##### Section 2 : De l'action socio-culturelle
+
+##### Article D444
+
+Les détenus peuvent se procurer, par l'intermédiaire de l'administration, et dans les conditions déterminées par une instruction de service, les journaux, les périodiques et les livres français et étrangers de leur choix n'ayant pas fait l'objet d'une saisie dans les trois derniers mois.
+
+Toutefois, les publications contenant des menaces précises contre la sécurité des personnes ou celles des établissements pénitentiaires peuvent être, à la demande des chefs d'établissement, retenues sur décision du garde des sceaux.
+
 
 ##### Article D447
 
