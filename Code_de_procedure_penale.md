@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 31 décembre 1986
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19861231)
+- Date de consolidation : 23 juin 1987
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19870623)
 
 
 # Partie législative
@@ -882,7 +882,7 @@ Le juge d'instruction interroge immédiatement l'inculpé qui fait l'objet d'un 
 
 Il est procédé dans les mêmes conditions à l'interrogatoire de l'inculpé arrêté en vertu d'un mandat d'amener ; toutefois, si l'interrogatoire ne peut être immédiat, l'inculpé est conduit dans la maison d'arrêt où il ne peut être détenu plus de vingt-quatre heures.
 
-A l'expiration de ce délai, il est conduit d'office par les soins du surveillant-chef, devant le procureur de la République qui requiert le juge d'instruction, ou à son défaut le président du tribunal ou un juge désigné par celui-ci, de procéder immédiatement à l'interrogatoire, à défaut de quoi l'inculpé est mis en liberté.
+A l'expiration de ce délai, il est conduit d'office par les soins du chef d'établissement, devant le procureur de la République qui requiert le juge d'instruction, ou à son défaut le président du tribunal ou un juge désigné par celui-ci, de procéder immédiatement à l'interrogatoire, à défaut de quoi l'inculpé est mis en liberté.
 
 
 ##### Article 126
@@ -930,7 +930,7 @@ Si l'inculpé est en fuite ou s'il réside hors du territoire de la République,
 
 L'inculpé saisi en vertu d'un mandat d'arrêt est conduit sans délai dans la maison d'arrêt indiquée sur le mandat, sous réserve des dispositions de l'article 133, alinéa 2.
 
-Le surveillant-chef délivre à l'agent chargé de l'exécution une reconnaissance de la remise de l'inculpé.
+Le chef d'établissement délivre à l'agent chargé de l'exécution un reconnaissance de la remise de l'inculpé.
 
 
 ##### Article 133
@@ -6153,9 +6153,7 @@ Lorsque, en application d'une convention ou d'un accord internationaux, une pers
 
 ### Article 713-2
 
-Dès son arrivée sur le sol français, le condamné détenu est présenté au procureur de la République du lieu d'arrivée, qui procède à son interrogatoire d'identité et en dresse procès-verbal. Toutefois, si l'interrogatoire ne peut être immédiat, le condamné est conduit à la maison d'arrêt où il ne peut être détenu plus de vingt-quatre heures. A l'expiration de ce délai, il est conduit d'office devant le procureur de la République, par les soins du surveillant-chef.
-
-
+Dès son arrivée sur le sol français, le condamné détenu est présenté au procureur de la République du lieu d'arrivée, qui procède à son interrogatoire d'identité et en dresse procès-verbal. Toutefois, si l'interrogatoire ne peut être immédiat, le condamné est conduit à la maison d'arrêt où il ne peut être détenu plus de vingt-quatre heures. A l'expiration de ce délai, il est conduit d'office devant le procureur de la République, par les soins du chef d'établissement.
 
 Au vu des pièces constatant l'accord des Etats sur le transfèrement et le consentement de l'intéressé ainsi que de l'original ou d'une expédition du jugement étranger de condamnation, accompagnés, le cas échéant, d'une traduction officielle, le procureur de la République requiert l'incarcération immédiate du condamné.
 
@@ -6221,19 +6219,11 @@ Toutes communications et toutes facilités compatibles avec les exigences de la 
 
 #### Article 717
 
-Les condamnés à la réclusion criminelle à perpétuité ou à temps purgent leur peine dans une maison centrale. Il en est de même des condamnés à l'emprisonnement auxquels il reste à subir une peine d'une durée supérieure à un an, ou plusieurs peines dont le total est supérieur à un an, après le moment où leur condamnation, ou la dernière de leurs condamnations, est devenue définitive.
+Les condamnés purgent leur peine dans un établissement pour peines ; toutefois, les condamnés à l'emprisonnement d'une durée inférieure ou égale à trois ans l'exécutent dans un établissement qui leur est spécialement réservé.
 
+Les condamnés à des peines inférieures à cinq ans peuvent exécuter leur peine dans les établissements prévus à l'alinéa précédent si le reliquat de peine leur restant à purger après leur condamnation est inférieur à trois ans.
 
-
-Les autres condamnés à l'emprisonnement correctionnel sont détenus dans une maison de correction.
-
-
-
-Les condamnés à l'emprisonnement de police sont incarcérés dans un quartier distinct de la maison d'arrêt.
-
-
-
-Un même établissement peut servir à la fois de maison d'arrêt et de maison de correction.
+Les condamnés à l'emprisonnement d'une durée inférieure ou égale à un an peuvent, cependant, à titre exceptionnel, être maintenus en maison d'arrêt et incarcérés, dans ce cas, dans un quartier distinct, lorsque des conditions tenant à la préparation de leur libération, leur situation familiale ou leur personnalité le justifient. Peuvent également, dans les mêmes conditions, être affectés, à titre exceptionnel, en maison d'arrêt, les condamnés auxquels il reste à subir une peine d'une durée inférieure à un an.
 
 
 #### Article 718
@@ -6249,7 +6239,7 @@ Les condamnés malades et les psychopathes peuvent être hospitalisés dans des 
 
 #### Article 719
 
-Les condamnés sont soumis dans les maisons de correction à l'emprisonnement individuel du jour et de nuit, et dans les maisons centrales, à l'isolement de nuit seulement, après avoir subi éventuellement une période d'observation en cellule.
+Les condamnés sont soumis dans les maisons d'arrêt à l'emprisonnement individuel du jour et de nuit, et dans les établissements pour peines , à l'isolement de nuit seulement, après avoir subi éventuellement une période d'observation en cellule.
 
 
 
@@ -6258,9 +6248,11 @@ Il ne peut être dérogé à ce principe qu'en raison de la distribution intéri
 
 #### Article 720
 
-Les condamnés à des peines privatives de liberté pour des faits qualifiés crimes ou délits de droit commun sont astreints au travail.
+Les activités de travail et de formation professionnelle sont prises en compte pour l'appréciation des gages de réinsertion et de bonne conduite des condamnés.
 
+Au sein des établissements pénitentiaires, toutes dispositions sont prises pour assurer une activité professionnelle aux personnes incarcérées qui le souhaitent.
 
+Les relations de travail des personnes incarcérées ne font pas l'objet d'un contrat de travail.
 
 Les règles relatives à la répartition des produits du travail des détenus sont fixées par décret.
 
@@ -6403,10 +6395,6 @@ Les condamnés peuvent continuer à communiquer dans les mêmes conditions que l
 #### Article 728
 
 Un décret détermine l'organisation et le régime intérieur des établissements pénitentiaires.
-
-
-
-Dans les prisons établies pour peines, ce régime sera institué en vue de favoriser l'amendement des condamnés et de préparer leur reclassement social.
 
 
 ### Titre III : De la libération conditionnelle
