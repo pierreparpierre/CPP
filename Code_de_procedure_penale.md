@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 3 janvier 1976
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19760103)
+- Date de consolidation : 4 mars 1977
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19770304)
 
 
 # Partie législative
@@ -4199,6 +4199,39 @@ Les tribunaux désignés ainsi qu'il est dit à l'article précédent sont comp�
 4. Infractions concernant les banques, les établissements financiers, la bourse et le crédit ;
 5. Les infractions concernant les sociétés civiles et commerciales ainsi que les délits assimilés aux banqueroutes ;
 6. Infractions concernant la construction et l'urbanisme.
+
+
+### Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction
+
+### Article 706-7
+
+Lorsque des poursuites pénales ont été engagées, la décision de la commission peut intervenir avant qu'il ait été statué sur l'action publique.
+
+La commission peut surseoir à statuer jusqu'à décision définitive de la juridiction répressive dans les cas visés au dernier alinéa de l'article 706-3 ; elle doit, dans les mêmes cas et conditions, surseoir à statuer à la demande de la victime.
+
+Les débats ont lieu et la décision est rendue en chambre du conseil.
+
+
+### Article 706-8
+
+Lorsque la juridiction statuant sur les intérêts civils a alloué des dommages-intérêts d'un montant supérieur à l'indemnité accordée par la commission, la victime peut demander un complément d'indemnité dans la limite des maxima visés à l'article 706-9. Elle doit présenter sa demande dans le délai d'un an après que la décision statuant sur les intérêts civils est devenue définitive.
+
+
+### Article 706-9
+
+Les indemnités allouées par la commission sont à la charge de l'Etat. Elles sont payées comme frais de justice criminelle. Leurs montants ne peuvent dépasser des maxima fixés, chaque année, par décret.
+
+
+### Article 706-12
+
+Si la victime ou ses ayants droit se constituent partie civile devant la juridiction répressive ou engagent une action contre les personnes responsables du dommage, ils doivent indiquer, en tout état de la procédure, s'ils ont saisi la commission instituée par l'article 706-4 et si, le cas échéant, celle-ci leur a accordé une indemnité.
+
+A défaut de cette indication, la nullité du jugement en ce qui concerne ses dispositions civiles pourra être demandée par toute personne intéressée pendant deux ans à compter de la date à partir de laquelle ledit jugement est devenu définitif.
+
+
+### Article 706-13
+
+En cas d'infraction commise à l'étranger et relevant de la compétence des juridictions françaises, les dispositions du présent titre sont applicables lorsque la personne lésée est de nationalité française.
 
 
 ## Livre V : Des procédures d'exécution
