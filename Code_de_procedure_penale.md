@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 5 janvier 1975
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19750105)
+- Date de consolidation : 8 février 1975
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19750208)
 
 
 # Partie législative
@@ -5082,6 +5082,19 @@ Les experts ont droit, sur la production de pièces justificatives, au rembourse
 Les magistrats commettants peuvent autoriser les experts à percevoir au cours de la procédure des acomptes provisionnels soit lorsqu'ils ont fait des travaux d'ine importance exceptionnelle, soit lorsqu'ils ont été dans la nécessité de faire des transports coûteux ou des avances personnelles.
 
 Toutefois, le montant total des acomptes ne pourra pas dépasser le tiers du montant des frais et honoraires prévu.
+
+
+###### Paragraphe 2 : Des personnes chargées des enquêtes sociales et de personnalité ou contribuant au contrôle judiciaire
+
+###### Article R121-1
+
+En sus du remboursement de leurs frais de déplacement, il est alloué aux enquêteurs de personnalité et aux personnes physiques ou représentants des personnes morales mentionnées à l'article R. 16-2 (alinéa 1er) pour la mission de contrôle judiciaire exercée sur chaque inculpé en application du 6° de l'article 138 (alinéa 2) :
+
+300 F lorsque la mission de contrôle judiciaire dure trois mois ou moins ;
+
+600 F lorsque la mission de contrôle judiciaire dure plus de trois mois sans excéder un an ;
+
+900 F lorsque la mission de contrôle judiciaire dure plus d'un an.
 
 
 ##### Section 3 : Des indemnités qui peuvent être accordées aux témoins et aux jurés
