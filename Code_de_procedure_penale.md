@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 4 novembre 2000
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20001104)
+- Date de consolidation : 26 novembre 2000
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20001126)
 
 
 # Partie législative
@@ -11270,7 +11270,49 @@ Le montant de l'amende forfaitaire majorée est fixé ainsi qu'il suit :
 L'officier du ministère public saisi d'une réclamation recevable informe sans délai le comptable direct du Trésor de l'annulation du titre exécutoire en ce qui concerne l'amende contestée.
 
 
-#### Chapitre II ter : Dispositions applicables à certaines infractions au code de la route
+#### Chapitre II ter : Dispositions applicables à certaines infractions à la police des services publics de transports terrestres
+
+#### Article R49-8-1
+
+L'exploitant d'un service public de transport terrestre mentionné à l'article 529-3 qui entend faire agréer ses agents pour procéder au relevé d'identité des voyageurs dépourvus de titres réguliers de transport, prévu au II de l'article 529-4, doit :
+
+I. - Assurer une formation de ses agents portant sur :
+- les contrôles, vérifications et relevés d'identité ;
+- les conditions de leur mise en oeuvre ;
+- les personnes habilitées à y procéder.
+
+II. - Mettre en place les modalités d'une liaison permanente entre ses agents et les officiers de police judiciaire territorialement compétents, et doter ses agents de moyens de transmission leur permettant une communication immédiate avec ceux-ci.
+
+
+#### Article R49-8-2
+
+I. - L'exploitant d'un service public de transport terrestre soumet au représentant de l'Etat dans le département dans lequel il a son siège et à Paris, au préfet de police, un dossier décrivant les modalités de la formation et de l'organisation prévues à l'article R. 49-8-1.
+
+Ce dossier comprend les renseignements suivants :
+1. La dénomination de l'organisme ou de la personne dispensant la formation ;
+2. Le contenu et la durée de la formation ;
+3. La description des modalités de la liaison permanente mentionnée au II de l'article R. 49-8-1 ;
+4. L'inventaire et la description des moyens de transmission dont sont dotés les agents.
+
+II. - Le représentant de l'Etat dans le département et à Paris le préfet de police approuve par arrêté le contenu du dossier mentionné au I ci-dessus s'il estime que les dispositions qu'il prévoit garantissent le bon déroulement des relevés d'identité.
+
+
+#### Article R49-8-3
+
+I. - Le procureur de la République compétent pour délivrer l'agrément mentionné au premier alinéa du II de l'article 529-4 est le procureur près le tribunal de grande instance dans le ressort duquel est situé le siège de l'exploitant.
+
+II. - Le procureur de la République se prononce au vu du dossier présenté par l'exploitant. Ce dossier comprend les renseignements suivants :
+1. L'arrêté mentionné au II de l'article R. 49-8-2 ;
+2. L'identité de l'agent concerné ;
+3. La justification de la formation suivie par cet agent.
+
+
+#### Article R49-8-4
+
+L'agent justifie en cas de besoin de l'agrément mentionné au premier alinéa du II de l'article 529-4.
+
+
+#### Chapitre II quater : Dispositions applicables à certaines infractions au code de la route
 
 #### Article R49-9
 
