@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 27 novembre 2003
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20031127)
+- Date de consolidation : 23 décembre 2003
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20031223)
 
 
 # Partie législative
@@ -9894,31 +9894,9 @@ En cas de prescription d'une peine prononcée en matière criminelle, le condamn
 
 ### Titre VII : De la prescription de la peine
 
-### Article 764
-
-Les peines portées par un arrêt ou jugement rendu en matière correctionnelle se prescrivent par cinq années révolues, à compter de la date où cet arrêt ou jugement est devenu définitif, sous réserve des dispositions de l'article 738, alinéa 3.
-
-
-### Article 765
-
-Les peines portées par un arrêt ou jugement rendu pour contravention de police se prescrivent par deux années révolues, à compter de la date où cet arrêt ou jugement est devenu définitif.
-
-Toutefois, les peines prononcées pour une contravention de police connexe à un délit se prescrivent selon les dispositions de l'article 764.
-
-
 ### Article 765-1
 
 Pour le recouvrement des amendes en matière criminelle, correctionnelle et de police, la prescription est interrompue par un commandement notifié au condamné ou une saisie signifiée à celui-ci.
-
-
-### Article 766
-
-En aucun cas, les condamnés par défaut ou par contumace dont la peine est prescrite ne peuvent être admis à se présenter pour purger le défaut ou la contumace.
-
-
-### Article 767
-
-Les condamnations civiles portées par les arrêts ou par les jugements rendus en matière criminelle, correctionnelle et de police, et devenus irrévocables, se prescrivent d'après les règles établies par le Code civil.
 
 
 ### Titre VII bis : Du suivi socio-judiciaire
@@ -16160,6 +16138,7 @@ Les offices centraux de police judiciaire relevant de l'article R. 15-18 sont le
 8. Office central pour la répression de l'immigration irrégulière et de l'emploi d'étrangers sans titre ;
 9. Office central de lutte contre la criminalité liée aux technologies de l'information et de la communication ;
 10. Office central chargé des disparitions inquiétantes de personnes.
+11. Office central chargé des personnes recherchées ou en fuite.
 
 
 ##### Article D8-2
