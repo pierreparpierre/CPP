@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 1er décembre 1987
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19871201)
+- Date de consolidation : 31 décembre 1987
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19871231)
 
 
 # Partie législative
@@ -1193,7 +1193,7 @@ Le procureur général notifie par lettre recommandée à chacune des parties et
 
 Un délai minimum de quarante-huit heures en matière de détention provisoire, et de cinq jours en toute autre matière, doit être observé entre la date d'envoi de la lettre recommandée et celle de l'audience.
 
-Pendant ce délai, le dossier, comprenant les réquisitions du procureur général, est déposé au greffe de la chambre d'accusation et tenu à la disposition des conseils des inculpés et des parties civiles.
+Pendant ce délai, le dossier est déposé au greffe de la chambre d'accusation et tenu à la disposition des conseils des inculpés et des parties civiles.
 
 Copie leur en est délivrée sans délai, à leurs frais, sur simple requête écrite. Ces copies ne peuvent être rendues publiques.
 
@@ -1350,7 +1350,9 @@ Le tiers peut, au même titre que les parties, être entendu par la chambre d'ac
 
 ##### Article 104
 
-Toute personne nommément visée par une plainte assortie d'une constitution de partie civile peut refuser d'être entendue comme témoin. Le juge d'instruction, l'en avertit après lui avoir donné connaissance de la plainte. Mention en est faite au procés-verbal. En cas de refus, il ne peut l'entendre que comme inculpé.
+Toute personne nommément visée par une plainte assortie d'une constitution de partie civile a droit, sur sa demande, lorsqu'elle est entendue comme témoin, au bénéfice des dispositions prévues par les troisième et quatrième alinéas de l'article 114 et les articles 117 et 118. Le juge d'instruction l'en avertit lors de sa première audition après lui avoir donné connaissance de la plainte. Mention de cet avertissement est faite au procès-verbal.
+
+Les dispositions de l'article 120 sont applicables au conseil désigné par le témoin.
 
 
 ##### Section 5 : Des interrogatoires et confrontations
@@ -1626,7 +1628,7 @@ L'inculpé reste libre sauf, à raison des nécessités de l'instruction ou à t
 
 Les magistrats ou officiers de police judiciaire commis pour l'exécution exercent, dans les limites de la commission rogatoire, tous les pouvoirs du juge d'instruction.
 
-Toutefois, les officiers de police judiciaire ne peuvent procéder aux interrogatoires et aux confrontations de l'inculpé. Il ne peuvent procéder aux auditions de la partie civile qu'à la demande de celle-ci.
+Ils ne peuvent procéder aux auditions de la partie civile et du témoin bénéficiant des dispositions de l'article 104 qu'à la demande de ceux-ci.
 
 
 ##### Article 153
@@ -1662,15 +1664,11 @@ Elle peut même, en cas d'urgence, être diffusée par tous moyens ; chaque diff
 
 Chaque cour d'appel comprend au moins une chambre d'accusation.
 
+Cette juridiction est composée d'un président de chambre, exclusivement attaché à ce service, et de deux conseillers qui peuvent, en cas de besoin, assurer le service des autres chambres de la cour.
 
+Le président de la chambre d'accusation est désigné par décret, après avis du Conseil supérieur de la magistrature. En cas d'absence ou d'empêchement du président de la chambre d'accusation, le premier président désigne pour le remplacer à titre temporaire un autre président de chambre ou un conseiller.
 
-Cette juridiction est composée d'un président de chambre exclusivement attaché à ce service, et de deux conseillers qui peuvent, en cas de besoin, assurer le service des autres chambres de la cour.
-
-
-
-Le président et les conseillers composant la chambre d'accusation sont désignés chaque année, pour la durée de l'année judiciaire suivante, par l'assemblée générale de la cour.
-
-
+Les conseillers composant la chambre d'accusation sont désignés chaque année, pour la durée de l'année judiciaire suivante, par l'assemblée générale de la cour.
 
 Un décret pourra prévoir que le président de la chambre d'accusation d'une cour d'appel comptant moins de trois chambres assurera à titre exceptionnel le service d'une autre chambre de la même cour.
 
@@ -1815,6 +1813,11 @@ Le président de la chambre d'accusation, et dans les cours où il existe plusie
 En cas d'empêchement de ce président, ses pouvoirs propres sont attribués, par délibération de l'assemblée générale de la cour d'appel, à un magistrat du siège appartenant à ladite cour.
 
 Le président peut déléguer tout ou partie de ses pouvoirs à un magistrat du siège de la chambre d'accusation et, dans les cours où il existe plusieurs chambres d'accusation, à un magistrat du siège d'une autre chambre d'accusation après accord du président de cette chambre. Il peut également déléguer tout ou partie de ses pouvoirs à un premier vice-président du tribunal de grande instance désigné par le président de ce tribunal.
+
+
+##### Article 221-1
+
+Lorsqu'un délai de quatre mois s'est écoulé depuis la date du dernier acte d'instruction nécessaire à la manifestation de la vérité, le président de la chambre d'accusation peut, par requête, saisir cette juridiction. La chambre d'accusation peut, dans l'intérêt d'une bonne administration de la justice, soit évoquer et procéder dans les conditions prévues par les articles 201, 202, 204 et 205, soit renvoyer le dossier au juge d'instruction ou à tel autre afin de poursuivre l'information.
 
 
 ##### Section 2 : Des pouvoirs propres du président de la chambre d'accusation
@@ -3305,9 +3308,9 @@ Les fonctions du ministère public près le tribunal correctionnel sont exercée
 
 ##### Article 399
 
-Le nombre des audiences correctionnelles est déterminé à la fin de chaque année judiciaire pour l'année judiciaire suivante par l'assemblée générale du tribunal.
+Le nombre et le jour des audiences correctionnelles sont fixés à la fin de chaque année judiciaire pour l'année judiciaire suivante par une ordonnance du président du tribunal de grande instance prise après avis de l'assemblée générale du tribunal.
 
-Il peut être modifié dans les mêmes conditions en cours d'année, suivant les nécessités.
+En cas de nécessité, cette ordonnance peut être modifiée dans    s les mêmes conditions en cours d'année.
 
 
 ##### Section 3 : De la publicité et de la police de l'audience
@@ -4223,9 +4226,9 @@ Les fonctions du ministère public sont exercées par le procureur général ou 
 
 ##### Article 511
 
-Le nombre des audiences correctionnelles est déterminé à la fin de chaque année judiciaire pour l'année judiciaire suivante par l'assemblée générale de la cour.
+Le nombre et le jour des audiences correctionnelles sont fixés à la fin de chaque année judiciaire pour l'année judiciaire suivante par ordonnance du premier président prise après avis de l'assemblée générale de la cour d'appel.
 
-Il peut être modifié dans les mêmes conditions en cours d'année, suivant les nécessités.
+Cette ordonnance peut être modifiée dans les mêmes conditions en cours d'année, suivant les nécessités.
 
 
 ##### Section 3 : De la procédure devant la chambre des appels correctionnels
@@ -6148,7 +6151,7 @@ L'exécution d'une peine correctionnelle ou de police non privative de liberté 
 
 Dans chaque tribunal de grande instance, un ou plusieurs magistrats du siège sont chargés des fonctions de juge de l'application des peines.
 
-Ces magistrats sont désignés, pour une durée de trois années renouvelables, par décret pris après avis du Conseil supérieur de la magistrature. Il peut être mis fin à leurs fonctions dans les mêmes formes.
+Ces magistrats sont désignés par décret pris après avis du Conseil supérieur de la magistrature. Il peut être mis fin à leurs fonctions dans les mêmes formes.
 
 Si un juge de l'application des peines est temporairement empêché d'exercer ses fonctions, le tribunal de grande instance désigne un autre magistrat pour le remplacer.
 
