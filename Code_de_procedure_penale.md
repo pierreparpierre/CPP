@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 31 décembre 2000
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20001231)
+- Date de consolidation : 1er janvier 2001
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20010101)
 
 
 # Partie législative
@@ -220,7 +220,7 @@ La police judiciaire est exercée, sous la direction du procureur de la Républi
 
 ##### Article 13
 
-Elle est placée, dans chaque ressort de cour d'appel, sous la surveillance du procureur général et sous le contrôle de la chambre d'accusation conformément aux articles 224 et suivants.
+Elle est placée, dans chaque ressort de cour d'appel, sous la surveillance du procureur général et sous le contrôle de la chambre de l'instruction conformément aux articles 224 et suivants.
 
 
 ##### Article 14
@@ -246,6 +246,11 @@ Les catégories de services ou unités dans lesquels les officiers et agents de 
 ##### Article 15-2
 
 Les enquêtes administratives relatives au comportement d'un officier ou d'un agent de police judiciaire dans l'exercice d'une mission de police judiciaire associent l'inspection générale des services judiciaires au service d'enquête compétent. Elles peuvent être ordonnées par le ministre de la justice et sont alors dirigées par un magistrat.
+
+
+##### Article 15-3
+
+La police judiciaire est tenue de recevoir les plaintes déposées par les victimes d'infractions à la loi pénale et de les transmettre, le cas échéant, au service ou à l'unité de police judiciaire territorialement compétent.
 
 
 ##### Section 2 : Des officiers de police judiciaire
@@ -475,7 +480,7 @@ La décision d'habilitation est prise par le procureur général près la cour d
 
 Dans le mois qui suit la notification de la décision de suspension ou de retrait de l'habilitation, l'agent concerné peut demander au procureur général de rapporter cette décision. Le procureur général doit statuer dans un délai d'un mois. A défaut, son silence vaut rejet de la demande. Dans un délai d'un mois à partir du rejet de la demande, l'agent concerné peut former un recours devant la commission prévue à l'article 16-2. La procédure applicable devant cette commission est celle prévue par l'article 16-3 et ses textes d'application.
 
-V. - Pour l'exercice des missions mentionnées aux I et II, les agents des douanes sont placés sous la direction du procureur de la République, sous la surveillance du procureur général et sous le contrôle de la chambre d'accusation du siège de leur fonction dans les conditions prévues par les articles 224 à 230.
+V. - Pour l'exercice des missions mentionnées aux I et II, les agents des douanes sont placés sous la direction du procureur de la République, sous la surveillance du procureur général et sous le contrôle de la chambre de l'instruction du siège de leur fonction dans les conditions prévues par les articles 224 à 230.
 
 VI. - Lorsque, sur réquisition du procureur de la République, les agents des douanes mentionnés aux I et II procèdent à des enquêtes judiciaires, il est fait application des articles 54 (deuxième et troisième alinéas), 56, 57 à 62, 63 à 67, 75 à 78, 706-28, 706-29 et 706-32.
 
@@ -587,7 +592,7 @@ Le procureur de la République procède ou fait procéder à tous les actes néc
 
 A cette fin, il dirige l'activité des officiers et agents de la police judiciaire dans le ressort de son tribunal.
 
-Le procureur de la République contrôle les mesures de garde à vue.
+Le procureur de la République contrôle les mesures de garde à vue. Il visite les locaux de garde à vue chaque fois qu'il l'estime nécessaire et au moins une fois par trimestre ; il tient à cet effet un registre répertoriant le nombre et la fréquence des contrôles effectués dans ces différents locaux.
 
 Il a tous les pouvoirs et prérogatives attachés à la qualité d'officier de police judiciaire prévus par la section II du chapitre Ier du titre Ier du présent livre, ainsi que par des lois spéciales.
 
@@ -760,6 +765,11 @@ Est qualifié crime ou délit flagrant, le crime ou le délit qui se commet actu
 L'enquête de flagrance menée à la suite de la constatation d'un crime ou d'un délit flagrant ne peut se poursuivre pendant plus de huit jours.
 
 
+#### Article 53-1
+
+Les officiers et les agents de police judiciaire informent les victimes de leur droit d'obtenir réparation du préjudice subi et d'être aidées par un service relevant d'une ou plusieurs collectivités publiques ou une association conventionnée d'aide aux victimes.
+
+
 #### Article 54
 
 En cas de crime flagrant, l'officier de police judiciaire qui en est avisé, informe immédiatement le procureur de la République, se transporte sans délai sur le lieu du crime et procède à toutes constatations utiles.
@@ -865,6 +875,8 @@ Il dresse un procès-verbal de leurs déclarations. Les personnes entendues proc
 
 Les agents de police judiciaire désignés à l'article 20 peuvent également entendre, sous le contrôle d'un officier de police judiciaire, toutes personnes susceptibles de fournir des renseignements sur les faits en cause. Ils dressent à cet effet, dans les formes prescrites par le présent code, des procès-verbaux qu'ils transmettent à l'officier de police judiciaire qu'ils secondent.
 
+Les personnes à l'encontre desquelles il n'existe aucun indice faisant présumer qu'elles ont commis ou tenté de commettre une infraction ne peuvent être retenues que le temps strictement nécessaire à leur audition.
+
 
 #### Article 62-1
 
@@ -877,11 +889,9 @@ L'adresse des personnes ayant bénéficié des dispositions du premier alinéa e
 
 #### Article 63
 
-L'officier de police judiciaire peut, pour les nécessités de l'enquête, garder à sa disposition une ou plusieurs des personnes visées aux articles 61 et 62. Il en informe dans les meilleurs délais le procureur de la République. Les personnes gardées à vue ne peuvent être retenues plus de vingt-quatre heures.
+L'officier de police judiciaire peut, pour les nécessités de l'enquête, placer en garde à vue toute personne à l'encontre de laquelle il existe des indices faisant présumer qu'elle a commis ou tenté de commettre une infraction. Il en informe dès le début de la garde à vue le procureur de la République.
 
-Toutefois, les personnes à l'encontre desquelles il n'existe aucun indice faisant présumer qu'elles ont commis ou tenté de commettre une infraction ne peuvent être retenues que le temps nécessaire à leur déposition.
-
-La garde à vue des personnes à l'encontre desquelles il existe des indices faisant présumer qu'elles ont commis ou tenté de commettre une infraction peut être prolongée d'un nouveau délai de vingt-quatre heures au plus, par autorisation écrite du procureur de la République. Ce magistrat peut subordonner cette autorisation à la présentation préalable de la personne gardée à vue.
+La personne gardée à vue ne peut être retenue plus de vingt-quatre heures. Toutefois, la garde à vue peut être prolongée pour un nouveau délai de vingt-quatre heures au plus, sur autorisation écrite du procureur de la République. Ce magistrat peut subordonner cette autorisation à la présentation préalable de la personne gardée à vue.
 
 Sur instructions du procureur de la République, les personnes à l'encontre desquelles les éléments recueillis sont de nature à motiver l'exercice de poursuites sont, à l'issue de la garde à vue, soit remises en liberté, soit déférées devant ce magistrat.
 
@@ -890,16 +900,18 @@ Pour l'application du présent article, les ressorts des tribunaux de grande ins
 
 #### Article 63-1
 
-Toute personne placée en garde à vue est immédiatement informée par un officier de police judiciaire, ou, sous le contrôle de celui-ci, par un agent de police judiciaire, des droits mentionnés aux articles 63-2, 63-3 et 63-4 ainsi que des dispositions relatives à la durée de la garde à vue prévues par l'article 63.
+Toute personne placée en garde à vue est immédiatement informée par un officier de police judiciaire, ou, sous le contrôle de celui-ci, par un agent de police judiciaire, de la nature de l'infraction sur laquelle porte l'enquête, des droits mentionnés aux articles 63-2, 63-3 et 63-4 ainsi que des dispositions relatives à la durée de la garde à vue prévues par l'article 63. Les dispositions de l'article 77-2 sont également portées à sa connaissance. La personne gardée à vue est également immédiatement informée qu'elle a le droit de ne pas répondre aux questions qui lui seront posées par les enquêteurs.
 
 Mention de cet avis est portée au procès-verbal et émargée par la personne gardée à vue ; en cas de refus d'émargement, il en est fait mention.
 
 Les informations mentionnées au premier alinéa doivent être communiquées à la personne gardée à vue dans une langue qu'elle comprend.
 
+Si cette personne est atteinte de surdité et qu'elle ne sait ni lire ni écrire, elle doit être assistée par un interprète en langue des signes ou par toute personne qualifiée maîtrisant un langage ou une méthode permettant de communiquer avec des sourds. Il peut également être recouru à tout dispositif technique permettant de communiquer avec une personne atteinte de surdité.
+
 
 #### Article 63-2
 
-Toute personne placée en garde à vue peut, à sa demande, faire prévenir, par téléphone, une personne avec laquelle elle vit habituellement ou l'un de ses parents en ligne directe, l'un de ses frères et soeurs ou son employeur de la mesure dont elle est l'objet.
+Toute personne placée en garde à vue peut, à sa demande, faire prévenir sans délai, par téléphone, une personne avec laquelle elle vit habituellement ou l'un de ses parents en ligne directe, l'un de ses frères et soeurs ou son employeur de la mesure dont elle est l'objet.
 
 Si l'officier de police judiciaire estime, en raison des nécessités de l'enquête, ne pas devoir faire droit à cette demande, il en réfère sans délai au procureur de la République qui décide, s'il y a lieu, d'y faire droit.
 
@@ -919,28 +931,35 @@ Les dispositions du présent article ne sont pas applicables lorsqu'il est proc�
 
 #### Article 63-4
 
-Lorsque vingt heures se sont écoulées depuis le début de la garde à vue, la personne peut demander à s'entretenir avec un avocat. Si elle n'est pas en mesure d'en désigner un ou si l'avocat choisi ne peut être contacté, elle peut demander qu'il lui en soit commis un d'office par le bâtonnier.
+Dès le début de la garde à vue ainsi qu'à l'issue de la vingtième heure, la personne peut demander à s'entretenir avec un avocat. Si elle n'est pas en mesure d'en désigner un ou si l'avocat choisi ne peut être contacté, elle peut demander qu'il lui en soit commis un d'office par le bâtonnier.
 
 Le bâtonnier est informé de cette demande par tous moyens et sans délai.
 
-L'avocat désigné peut communiquer avec la personne gardée à vue dans des conditions qui garantissent la confidentialité de l'entretien. Il est informé par l'officier de police judiciaire ou, sous le contrôle de celui-ci, par un agent de police judiciaire de la nature de l'infraction recherchée.
+L'avocat désigné peut communiquer avec la personne gardée à vue dans des conditions qui garantissent la confidentialité de l'entretien. Il est informé par l'officier de police judiciaire ou, sous le contrôle de celui-ci, par un agent de police judiciaire de la nature et de la date présumée de l'infraction sur laquelle porte l'enquête.
 
 A l'issue de l'entretien dont la durée ne peut excéder trente minutes, l'avocat présente, le cas échéant, des observations écrites qui sont jointes à la procédure.
 
 L'avocat ne peut faire état de cet entretien auprès de quiconque pendant la durée de la garde à vue.
 
-Le délai mentionné au premier alinéa est porté à trente-six heures lorsque l'enquête a pour objet la participation à une association de malfaiteurs prévue par l'article 450-1 du code pénal, les infractions de proxénétisme ou d'extorsion de fonds aggravés prévues par les articles 225-7, 225-9, 312-2 à 312-5 et 312-7 du code pénal ou une infraction commise en bande organisée prévue par les articles 224-3, 225-8, 311-9, 312-6, 322-8 du code pénal.
+Lorsque la garde à vue fait l'objet d'une prolongation, la personne peut également demander à s'entretenir avec un avocat à l'issue de la douzième heure de cette prolongation, dans les conditions et selon les modalités prévues aux alinéas précédents.
+
+L'entretien avec un avocat prévu au premier alinéa ne peut intervenir qu'à l'issue d'un délai de trente-six heures lorsque l'enquête a pour objet la participation à une association de malfaiteurs prévue par l'article 450-1 du code pénal, les infractions de proxénétisme ou d'extorsion de fonds aggravés prévues par les articles 225-7, 225-9, 312-2 à 312-5 et 312-7 du code pénal ou une infraction commise en bande organisée prévue par les articles 224-3, 225-8, 311-9, 312-6, 322-8 du code pénal.
 
 Le procureur de la République est, dans les meilleurs délais, informé par l'officier de police judiciaire qu'il est fait application des dispositions de l'alinéa précédent.
 
 (Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 93-326 DC du 11 août 1993).
 
-Le délai mentionné au premier alinéa est porté à soixante-douze heures lorsque la garde à vue est soumise à des règles particulières de prolongation.
+L'entretien avec un avocat prévu au premier alinéa ne peut intervenir qu'à l'issue d'un délai de soixante-douze heures lorsque la garde à vue est soumise à des règles particulières de prolongation.
+
+
+#### Article 63-5
+
+Lorsqu'il est indispensable pour les nécessités de l'enquête de procéder à des investigations corporelles internes sur une personne gardée à vue, celles-ci ne peuvent être réalisées que par un médecin requis à cet effet.
 
 
 #### Article 64
 
-Tout officier de police judiciaire doit mentionner sur le procès-verbal d'audition de toute personne gardée à vue la durée des interrogatoires auxquels elle a été soumise et des repos qui ont séparé ces interrogatoires, le jour et l'heure à partir desquels elle a été gardée à vue, ainsi que le jour et l'heure à partir desquels elle a été soit libérée, soit amenée devant le magistrat compétent. Il mentionne également au procès-verbal les demandes faites en application des articles 63-2, 63-3 et 63-4 et la suite qui leur a été donnée.
+Tout officier de police judiciaire doit mentionner sur le procès-verbal d'audition de toute personne gardée à vue la durée des interrogatoires auxquels elle a été soumise et des repos qui ont séparé ces interrogatoires, les heures auxquelles elle a pu s'alimenter, le jour et l'heure à partir desquels elle a été gardée à vue, ainsi que le jour et l'heure à partir desquels elle a été soit libérée, soit amenée devant le magistrat compétent. Il mentionne également au procès-verbal les demandes faites en application des articles 63-2, 63-3 et 63-4 et la suite qui leur a été donnée.
 
 
 
@@ -1014,6 +1033,8 @@ Les officiers de police judiciaire et, sous le contrôle de ceux-ci, les agents 
 
 Ces opérations relèvent de la surveillance du procureur général.
 
+Ils informent les victimes de leur droit d'obtenir réparation du préjudice subi et d'être aidées par un service relevant d'une ou plusieurs collectivités publiques ou une association conventionnée d'aide aux victimes.
+
 
 #### Article 75-1
 
@@ -1042,7 +1063,7 @@ Les formes prévues par les articles 56 et 59 (premier alinéa) sont applicables
 
 #### Article 77
 
-L'officier de police judiciaire peut, pour les nécessités de l'enquête, garder à sa disposition toute personne à l'encontre de laquelle il existe des indices faisant présumer qu'elle a commis ou tenté de commettre une infraction. Il en informe dans les meilleurs délais le procureur de la République. La personne gardée à vue ne peut être retenue plus de vingt-quatre heures.
+L'officier de police judiciaire peut, pour les nécessités de l'enquête, garder à sa disposition toute personne à l'encontre de laquelle il existe des indices faisant présumer qu'elle a commis ou tenté de commettre une infraction. Il en informe dès le début de la garde à vue le procureur de la République. La personne gardée à vue ne peut être retenue plus de vingt-quatre heures.
 
 Le procureur de la République peut, avant l'expiration du délai de vingt-quatre heures, prolonger la garde à vue d'un nouveau délai de vingt-quatre heures au plus. Cette prolongation ne peut être accordée qu'après présentation préalable de la personne à ce magistrat. Toutefois, elle peut, à titre exceptionnel, être accordée par décision écrite et motivée sans présentation préalable de la personne. Si l'enquête est suivie dans un autre ressort que celui du siège du procureur de la République saisi des faits, la prolongation peut être accordée par le procureur de la République du lieu d'exécution de la mesure.
 
@@ -1058,6 +1079,22 @@ Les dispositions des articles 63-1, 63-2, 63-3, 63-4, 64 et 65 sont applicables 
 S'il y a lieu de procéder à des constatations ou à des examens techniques ou scientifiques, le procureur de la République ou, sur autorisation de celui-ci, l'officier de police judiciaire, a recours à toutes personnes qualifiées.
 
 Les dispositions des deuxième, troisième et quatrième alinéas de l'article 60 sont applicables.
+
+
+#### Article 77-2
+
+Toute personne placée en garde à vue au cours d'une enquête préliminaire ou de flagrance qui, à l'expiration d'un délai de six mois à compter de la fin de la garde à vue, n'a pas fait l'objet de poursuites, peut interroger le procureur de la République dans le ressort duquel la garde à vue s'est déroulée sur la suite donnée ou susceptible d'être donnée à la procédure. Cette demande est adressée par lettre recommandée avec demande d'avis de réception.
+
+Dans le mois suivant la réception de la demande, le procureur de la République compétent doit soit engager des poursuites contre l'intéressé, soit engager l'une des mesures prévues aux articles 41-1 à 41-3, soit lui notifier le classement sans suite de la procédure à son égard, soit, s'il estime que l'enquête doit se poursuivre, saisir le juge des libertés et de la détention. A défaut de saisine de ce magistrat, il ne peut être procédé contre l'intéressé, à peine de nullité, à aucun acte d'enquête postérieurement au délai d'un mois à compter de la réception de la demande.
+
+Lorsque le juge des libertés et de la détention est saisi en application des dispositions du précédent alinéa, il entend, au cours d'un débat contradictoire, les observations du procureur de la République et de la personne intéressée, assistée le cas échéant par son avocat. A l'issue de ce débat, le juge des libertés et de la détention décide si l'enquête peut être poursuivie. En cas de réponse négative, le procureur de la République doit, dans les deux mois, soit engager des poursuites contre l'intéressé, soit lui notifier le classement sans suite de la procédure à son égard, soit engager l'une des mesures prévues aux articles 41-1 à 41-4. Si le juge des libertés et de la détention autorise la continuation de l'enquête, il fixe un délai qui ne peut être supérieur à six mois, à l'issue duquel la personne intéressée peut, le cas échéant, faire à nouveau application des dispositions du présent article.
+
+Si la personne intéressée en fait la demande, le débat contradictoire prévu à l'alinéa précédent se déroule en audience publique, sauf si la publicité est de nature à entraver les investigations nécessitées par l'enquête, à nuire à la dignité de la personne ou aux intérêts d'un tiers. Le juge des libertés et de détention statue sur cette demande par une décision motivée qui n'est pas susceptible de recours.
+
+
+#### Article 77-3
+
+Lorsque l'enquête n'a pas été menée sous la direction du procureur de la République du tribunal de grande instance dans le ressort duquel la garde à vue a été réalisée, celui-ci adresse sans délai la demande mentionnée au premier alinéa de l'article 77-2 au procureur de la République qui dirige l'enquête. Le délai fixé au deuxième alinéa du même article court à compter de la réception de la demande par le procureur de la République du lieu de la garde à vue.
 
 
 #### Article 78
@@ -1198,11 +1235,27 @@ En cas de plainte avec constitution de partie civile, il est procédé comme il 
 
 ##### Article 80-1
 
-Le juge d'instruction a le pouvoir de mettre en examen toute personne à l'encontre de laquelle il existe des indices laissant présumer qu'elle a participé, comme auteur ou complice, aux faits dont il est saisi.
+A peine de nullité, le juge d'instruction ne peut mettre en examen que les personnes à l'encontre desquelles il existe des indices graves ou concordants rendant vraisemblable qu'elles aient pu participer, comme auteur ou comme complice, à la commission des infractions dont il est saisi.
 
-La mise en examen résulte de l'interrogatoire de première comparution prévu par l'article 116 ou la délivrance de l'un des mandats prévus par les articles 122 à 136. Toutefois, la personne à l'encontre de laquelle a été délivré un mandat d'amener ou d'arrêt ne bénéficie des droits reconnus aux personnes mises en examen qu'à compter de sa première comparution.
+Il ne peut procéder à cette mise en examen qu'après avoir préalablement entendu les observations de la personne ou l'avoir mise en mesure de les faire, en étant assistée par son avocat, soit dans les conditions prévues par l'article 116 relatif à l'interrogatoire de première comparution, soit en tant que témoin assisté conformément aux dispositions des articles 113-1 à 113-8.
 
-Le juge d'instruction peut également procéder à la mise en examen d'une personne par l'envoi d'une lettre recommandée. Cette lettre donne connaissance à la personne des faits pour lesquels elle est mise en examen et de la qualification juridique de ces faits. Elle lui précise qu'elle a le droit d'être assistée d'un avocat de son choix ou commis d'office et que le nom de l'avocat choisi ou la demande de désignation d'un avocat commis d'office doit être communiqué au greffe du juge d'instruction. Vaut également mise en examen la notification à une personne, par un officier de police judiciaire agissant sur les instructions du juge d'instruction, des mentions prévues par le présent alinéa. Cette notification est constatée par un procès-verbal signé par la personne qui en reçoit copie.
+
+
+Le juge d'instruction ne peut procéder à la mise en examen de la personne que s'il estime ne pas pouvoir recourir à la procédure de témoin assisté.
+
+
+##### Article 80-2
+
+Le juge d'instruction peut informer une personne par lettre recommandée qu'elle est convoquée, dans un délai qui ne peut être inférieur à dix jours ni supérieur à un mois, pour qu'il soit procédé à sa première comparution dans les conditions prévues par l'article 116. Cette lettre indique la date et l'heure de la convocation. Elle donne connaissance à la personne de chacun des faits dont ce magistrat est saisi et pour lesquels la mise en examen est envisagée, tout en précisant leur qualification juridique. Elle fait connaître à la personne qu'elle a le droit de choisir un avocat ou de demander qu'il lui en soit désigné un d'office, ce choix ou cette demande devant être adressé au greffe du juge d'instruction. Elle précise que la mise en examen ne pourra intervenir qu'à l'issue de la première comparution de la personne devant le juge d'instruction.
+
+Le juge d'instruction peut également faire notifier cette convocation par un officier de police judiciaire. Cette notification comprend les mentions prévues à l'alinéa précédent ; elle est constatée par un procès-verbal signé par la personne qui en reçoit copie.
+
+L'avocat choisi ou désigné est convoqué dans les conditions prévues par l'article 114 ; il a accès au dossier de la procédure dans les conditions prévues par cet article.
+
+
+##### Article 80-3
+
+Dès le début de l'information, le juge d'instruction doit avertir la victime d'une infraction de l'ouverture d'une procédure, de son droit de se constituer partie civile et des modalités d'exercice de ce droit. Si la victime est mineure, l'avis est donné à ses représentants légaux.
 
 
 ##### Article 81
@@ -1231,7 +1284,7 @@ Le juge d'instruction procède ou fait procéder, soit par des officiers de poli
 
 
 
-Le juge d'instruction peut également commettre, suivant les cas, le comité de probation et d'assistance aux libérés, le service compétent de l'éducation surveillée ou toute personne habilitée en application de l'alinéa qui précède à l'effet de vérifier la situation matérielle, familiale et sociale d'une personne mise en examen et de l'informer sur les mesures propres à favoriser l'insertion sociale de l'intéressée. A moins qu'elles n'aient été déjà prescrites par le ministère public, ces diligences doivent être prescrites par le juge d'instruction chaque fois qu'il envisage de placer en détention provisoire un majeur âgé de moins de vingt et un ans au moment de la commission de l'infraction lorsque la peine encourue n'excède pas cinq ans d'emprisonnement.
+Le juge d'instruction peut également commettre, suivant les cas, le service pénitentiaire d'insertion et de probation, le service compétent de la protection judiciaire de la jeunesse ou toute association habilitée en application de l'alinéa qui précède à l'effet de vérifier la situation matérielle, familiale et sociale d'une personne mise en examen et de l'informer sur les mesures propres à favoriser l'insertion sociale de l'intéressée.A moins qu'elles n'aient été déjà prescrites par le ministère public, ces diligences doivent être prescrites par le juge d'instruction chaque fois qu'il envisage de placer en détention provisoire un majeur âgé de moins de vingt et un ans au moment de la commission de l'infraction lorsque la peine encourue n'excède pas cinq ans d'emprisonnement.
 
 
 
@@ -1247,7 +1300,7 @@ La demande mentionnée à l'alinéa précédent doit faire l'objet d'une déclar
 
 
 
-Faute par le juge d'instruction d'avoir statué dans le délai d'un mois, la partie peut saisir directement le président de la chambre d'accusation, qui statue et procède conformément aux troisième, quatrième et cinquième alinéas de l'article 186-1.
+Faute par le juge d'instruction d'avoir statué dans le délai d'un mois, la partie peut saisir directement le président de la chambre de l'instruction, qui statue et procède conformément aux troisième, quatrième et cinquième alinéas de l'article 186-1.
 
 
 ##### Article 81-1
@@ -1257,24 +1310,38 @@ Le juge d'instruction peut, d'office, sur réquisition du parquet ou à la deman
 
 ##### Article 82
 
-Dans son réquisitoire introductif, et à toute époque de l'information par réquisitoire supplétif, le procureur de la République peut requérir du magistrat instructeur tous actes lui paraissant utiles à la manifestation de la vérité et toutes mesures de sûreté nécessaires.
+Dans son réquisitoire introductif, et à toute époque de l'information par réquisitoire supplétif, le procureur de la République peut requérir du magistrat instructeur tous actes lui paraissant utiles à la manifestation de la vérité et toutes mesures de sûreté nécessaires. Il peut également demander à assister à l'accomplissement des actes qu'il requiert.
 
-Il peut, à cette fin, se faire communiquer la procédure, à charge de la rendre dans les vingt-quatre heures [*délai*].
+Il peut, à cette fin, se faire communiquer la procédure, à charge de la rendre dans les vingt-quatre heures.
 
 S'il requiert le placement ou le maintien en détention provisoire de la personne mise en examen, ses réquisitions doivent être écrites et motivées par référence aux seules dispositions de l'article 144.
 
 Si le juge d'instruction ne suit pas les réquisitions du procureur de la République, il doit, sauf dans les cas prévus par le second alinéa de l'article 137, rendre une ordonnance motivée dans les cinq jours de ces réquisitions.
 
-A défaut d'ordonnance du juge d'instruction, le procureur de la République peut, dans les dix jours, saisir directement la chambre d'accusation.
+A défaut d'ordonnance du juge d'instruction, le procureur de la République peut, dans les dix jours, saisir directement la chambre de l'instruction.
 
 
 ##### Article 82-1
 
-Les parties peuvent, au cours de l'information, saisir le juge d'instruction d'une demande écrite et motivée tendant à ce qu'il soit procédé à leur audition ou à leur interrogatoire, à l'audition d'un témoin, à une confrontation ou à un transport sur les lieux, ou à ce qu'il soit ordonné la production par l'une d'entre elles d'une pièce utile à l'information. Cette demande doit être formée conformément aux dispositions du dixième alinéa de l'article 81.
+Les parties peuvent, au cours de l'information, saisir le juge d'instruction d'une demande écrite et motivée tendant à ce qu'il soit procédé à leur audition ou à leur interrogatoire, à l'audition d'un témoin, à une confrontation ou à un transport sur les lieux, à ce qu'il soit ordonné la production par l'une d'entre elles d'une pièce utile à l'information, ou à ce qu'il soit procédé à tous autres actes qui leur paraissent nécessaires à la manifestation de la vérité. A peine de nullité, cette demande doit être formée conformément aux dispositions du dixième alinéa de l'article 81 ; elle doit porter sur des actes déterminés et, lorsqu'elle concerne une audition, préciser l'identité de la personne dont l'audition est souhaitée.
 
 Le juge d'instruction doit, s'il n'entend pas y faire droit, rendre une ordonnance motivée au plus tard dans le délai d'un mois à compter de la réception de la demande. Les dispositions du dernier alinéa de l'article 81 sont applicables.
 
-A l'expiration d'un délai de quatre mois depuis sa dernière comparution ou, s'il a été fait application du dernier alinéa de l'article 80-1, de l'envoi de la lettre prévue par cet alinéa, la personne mise en examen qui en fait la demande écrite doit être entendue par le juge d'instruction. Le juge d'instruction procède à son interrogatoire dans les trente jours de la réception de la demande, qui doit être formée conformément aux dispositions du dixième alinéa de l'article 81.
+A l'expiration d'un délai de quatre mois depuis sa dernière comparution, la personne mise en examen qui en fait la demande écrite doit être entendue par le juge d'instruction. Le juge d'instruction procède à son interrogatoire dans les trente jours de la réception de la demande, qui doit être formée conformément aux dispositions du dixième alinéa de l'article 81.
+
+
+##### Article 82-2
+
+Lorsque la personne mise en examen saisit le juge d'instruction, en application des dispositions de l'article 82-1, d'une demande tendant à ce que ce magistrat procède à un transport sur les lieux, à l'audition d'un témoin, d'une partie civile ou d'une autre personne mise en examen, elle peut demander que cet acte soit effectué en présence de son avocat.
+
+La partie civile dispose de ce même droit s'agissant d'un transport sur les lieux, de l'audition d'un témoin ou d'une autre partie civile ou de l'interrogatoire de la personne mise en examen.
+
+Le juge d'instruction statue sur ces demandes conformément aux dispositions du deuxième alinéa de l'article 82-1. S'il fait droit à la demande, le juge d'instruction convoque l'avocat au plus tard dans les deux jours ouvrables avant la date du transport, de l'audition ou de l'interrogatoire, au cours desquels celui-ci peut intervenir dans les conditions prévues à l'article 120.
+
+
+##### Article 82-3
+
+Lorsque le juge d'instruction conteste le bien-fondé d'une demande des parties tendant à constater la prescription de l'action publique, il doit rendre une ordonnance motivée dans le délai d'un mois à compter de la réception de la demande.
 
 
 ##### Article 83
@@ -1283,7 +1350,7 @@ Lorsqu'il existe dans un tribunal plusieurs juges d'instruction, le président d
 
 Lorsque la gravité ou la complexité de l'affaire le justifie, le président du tribunal ou, en cas d'empêchement, le magistrat qui le remplace peut adjoindre au juge d'instruction chargé de l'information un ou plusieurs juges d'instruction qu'il désigne, soit dès l'ouverture de l'information, soit sur la demande du juge chargé de l'information, à tout moment de la procédure.
 
-Le juge chargé de l'information coordonne le déroulement de celle-ci ; il a seul qualité pour statuer en matière de détention provisoire et pour rendre l'ordonnance de règlement.
+Le juge chargé de l'information coordonne le déroulement de celle-ci ; il a seul qualité pour saisir le juge des libertés et de la détention, pour ordonner une mise en liberté d'office et pour rendre l'ordonnance de règlement.
 
 Les désignations prévues au présent article sont des mesures d'administration judiciaire non susceptibles de recours.
 
@@ -1360,9 +1427,11 @@ Faute par elle d'avoir déclaré une adresse, la partie civile ne peut opposer l
 
 ##### Article 89-1
 
-Lors de sa première audition, la partie civile est avisée de son droit de formuler une demande d'acte ou de présenter une requête en annulation sur le fondement des articles 81, neuvième alinéa, 82-1, 156, premier alinéa, et 173, troisième alinéa, durant le déroulement de l'information et au plus tard le vingtième jour suivant l'envoi de l'avis prévu par le premier alinéa de l'article 175.
+Lors de sa première audition, la partie civile est avisée de son droit de formuler une demande d'acte ou de présenter une requête en annulation sur le fondement des articles 81, neuvième alinéa, 82-1, 156, premier alinéa, et 173, troisième alinéa, durant le déroulement de l'information et au plus tard le vingtième jour suivant l'envoi de l'avis prévu par le premier alinéa de l'article 175, sous réserve des dispositions de l'article 173-1.
 
-L'avis prévu à l'alinéa précédent peut également être fait par lettre recommandée.
+S'il estime que le délai prévisible d'achèvement de l'information est inférieur à un an en matière correctionnelle ou à dix-huit mois en matière criminelle, le juge d'instruction donne connaissance de ce délai à la partie civile et l'avise qu'à l'expiration dudit délai elle pourra demander la clôture de la procédure en application des dispositions de l'article 175-1. Dans le cas contraire, il indique à la partie civile qu'elle pourra demander, en application de ce même article, la clôture de la procédure à l'expiration d'un délai d'un an en matière correctionnelle ou de dix-huit mois en matière criminelle.
+
+Les avis prévus au présent article peuvent également être faits par lettre recommandée.
 
 
 ##### Article 90
@@ -1458,28 +1527,15 @@ Sous réserve des nécessités de l'information judiciaire, toute communication 
 
 Au cours de l'information, le juge d'instruction est compétent pour décider de la restitution des objets placés sous main de justice.
 
-Il statue, par ordonnance motivée, soit sur réquisitions du procureur de la République, soit, après avis de ce dernier, d'office ou sur requête de la personne mise en examen de la partie civile ou de toute autre personne qui prétend avoir droit sur l'objet.
+Il statue, par ordonnance motivée, soit sur réquisitions du procureur de la République, soit, après avis de ce dernier, d'office ou sur requête de la personne mise en examen, de la partie civile ou de toute autre personne qui prétend avoir droit sur l'objet.
 
 Il peut également, avec l'accord du procureur de la République, décider d'office de restituer ou de faire restituer à la victime de l'infraction les objets placés sous main de justice dont la propriété n'est pas contestée.
 
 Il n'y a pas lieu à restitution lorsque celle-ci est de nature à faire obstacle à la manifestation de la vérité ou à la sauvegarde des droits des parties ou lorsqu'elle présente un danger pour les personnes ou les biens. Elle peut être refusée lorsque la confiscation de l'objet est prévue par la loi.
 
-L'ordonnance du juge d'instruction mentionnée au deuxième alinéa du présent article est notifiée soit au requérant en cas de rejet de la demande, soit au ministère public et à toute autre partie intéressée en cas de décision de restitution. Elle peut être déférée à la chambre d'accusation, sur simple requête déposée au greffe du tribunal, dans le délai et selon les modalités prévus par le quatrième alinéa de l'article 186. Ce délai est suspensif.
+L'ordonnance du juge d'instruction mentionnée au deuxième alinéa du présent article est notifiée soit au requérant en cas de rejet de la demande, soit au ministère public et à toute autre partie intéressée en cas de décision de restitution. Elle peut être déférée à la chambre de l'instruction, sur simple requête déposée au greffe du tribunal, dans le délai et selon les modalités prévus par le quatrième alinéa de l'article 186. Ce délai est suspensif.
 
-Le tiers peut, au même titre que les parties, être entendu par la chambre d'accusation en ses observations, mais il ne peut prétendre à la mise à sa disposition de la procédure.
-
-
-###### Article 99-1
-
-Lorsque, au cours d'une procédure judiciaire ou des contrôles mentionnés à l'article 283-5 du code rural, il a été procédé à la saisie ou au retrait, à quelque titre que ce soit, d'un ou plusieurs animaux vivants, le procureur de la République près le tribunal de grande instance du lieu de l'infraction ou, lorsqu'il est saisi, le juge d'instruction peut placer l'animal dans un lieu de dépôt prévu à cet effet et qu'il désigne, jusqu'à ce qu'il ait été statué sur l'infraction.
-
-Lorsque les conditions du placement sont susceptibles de rendre l'animal dangereux ou de mettre sa santé en péril, le juge d'instruction, lorsqu'il est saisi, ou le président du tribunal de grande instance ou un magistrat du siège délégué par lui peut, par ordonnance motivée prise sur les réquisitions du procureur de la République et après avis d'un vétérinaire, ordonner qu'il sera cédé à titre onéreux ou confié à un tiers ou qu'il sera procédé à son euthanasie.
-
-Cette ordonnance est notifiée au propriétaire s'il est connu, qui peut la déférer soit au premier président de la cour d'appel du ressort ou à un magistrat de cette cour désigné par lui, soit, lorsqu'il s'agit d'une ordonnance du juge d'instruction, à la chambre de l'instruction dans les conditions prévues aux cinquième et sixième alinéas de l'article 99.
-
-Le produit de la vente de l'animal est consigné pendant une durée de cinq ans. Lorsque l'instance judiciaire qui a motivé la saisie se conclut par un non-lieu ou par une décision de relaxe, le produit de la vente est restitué à la personne qui était propriétaire de l'animal au moment de la saisie si celle-ci en fait la demande. Dans le cas où l'animal a été confié à un tiers, son propriétaire peut saisir le magistrat désigné au deuxième alinéa d'une requête tendant à la restitution de l'animal.
-
-Les frais exposés pour la garde de l'animal dans le lieu de dépôt sont à la charge du propriétaire, sauf décision contraire du magistrat désigné au deuxième alinéa saisi d'une demande d'exonération ou du tribunal statuant sur le fond. Cette exonération peut également être accordée en cas de non-lieu ou de relaxe.
+Le tiers peut, au même titre que les parties, être entendu par la chambre de l'instruction en ses observations, mais il ne peut prétendre à la mise à sa disposition de la procédure.
 
 
 ###### Article 99-1
@@ -1499,11 +1555,11 @@ Les frais exposés pour la garde de l'animal dans le lieu de dépôt sont à la 
 
 Lorsque, au cours de l'instruction, la restitution des biens meubles placés sous main de justice et dont la conservation n'est plus nécessaire à la manifestation de la vérité s'avère impossible, soit parce que le propriétaire ne peut être identifié, soit parce que le propriétaire ne réclame pas l'objet dans un délai de deux mois à compter d'une mise en demeure adressée à son domicile, le juge d'instruction peut ordonner, sous réserve des droits des tiers, la destruction de ces biens ou leur remise au service des domaines aux fins d'aliénation.
 
-Le juge d'instruction peut également ordonner, sous réserve des droits des tiers, de remettre au service des domaines, en vue de leur aliénation, des biens meubles placés sous main de justice appartenant aux personnes poursuivies, dont la conservation n'est plus nécessaire à la manifestation de la vérité et dont la confiscation est prévue par la loi, lorsque le maintien de la saisie serait de nature à diminuer la valeur du bien. S'il est procédé à la vente du bien, le produit de celle-ci est consigné pendant une durée de dix ans. En cas de non-lieu, de relaxe ou d'acquittement, ou lorsque la peine de confiscation n'est pas prononcée, ce produit est restitué au propriétaire des objets s'il en fait la demande.
+Le juge d'instruction peut également ordonner, sous réserve des droits des tiers, de remettre au service des domaines, en vue de leur aliénation, des biens meubles placés sous main de justice appartenant aux personnes poursuivies, dont la conservation n'est plus nécessaire à la manifestation de la vérité et dont la confiscation est prévue par la loi, lorsque le maintien de la saisie serait de nature à diminuer la valeur du bien.S'il est procédé à la vente du bien, le produit de celle-ci est consigné pendant une durée de dix ans. En cas de non-lieu, de relaxe ou d'acquittement, ou lorsque la peine de confiscation n'est pas prononcée, ce produit est restitué au propriétaire des objets s'il en fait la demande.
 
 Le juge d'instruction peut également ordonner la destruction des biens meubles placés sous main de justice dont la conservation n'est plus nécessaire à la manifestation de la vérité, lorsqu'il s'agit d'objets qualifiés par la loi de dangereux ou de nuisibles, ou dont la détention est illicite.
 
-Les décisions prises en application du présent article font l'objet d'une ordonnance motivée. Cette ordonnance est prise soit sur réquisitions du procureur de la République, soit d'office après avis de ce dernier. Elle est notifiée au ministère public, aux parties intéressées et, s'ils sont connus, au propriétaire ainsi qu'aux tiers ayant des droits sur le bien, qui peuvent la déférer à la chambre d'accusation dans les conditions prévues aux cinquième et sixième alinéas de l'article 99.
+Les décisions prises en application du présent article font l'objet d'une ordonnance motivée. Cette ordonnance est prise soit sur réquisitions du procureur de la République, soit d'office après avis de ce dernier. Elle est notifiée au ministère public, aux parties intéressées et, s'ils sont connus, au propriétaire ainsi qu'aux tiers ayant des droits sur le bien, qui peuvent la déférer à la chambre de l'instruction dans les conditions prévues aux cinquième et sixième alinéas de l'article 99.
 
 Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
 
@@ -1564,9 +1620,131 @@ Les formalités prévues par le présent article sont prescrites à peine de nul
 
 ##### Section 4 : Des auditions de témoins
 
-##### Article 104
+###### Sous-section 1 : Dispositions générales
 
-Toute personne nommément visée par une plainte avec constitution de partie civile peut, sur sa demande, lorsqu'elle est entendue comme témoin, bénéficier des droits reconnus aux personnes mises en examen par les articles 114, 115 et 120. Le juge d'instruction l'en avertit lors de sa première audition après lui avoir donné connaissance de la plainte. Mention de cet avertissement est faite au procès-verbal.
+###### Article 101
+
+Le juge d'instruction fait citer devant lui, par un huissier ou par un agent de la force publique, toutes les personnes dont la déposition lui paraît utile. Une copie de cette citation leur est délivrée.
+
+Les témoins peuvent aussi être convoqués par lettre simple, par lettre recommandée ou par la voie administrative ; ils peuvent en outre comparaître volontairement.
+
+Lorsqu'il est cité ou convoqué, le témoin est avisé que, s'il ne comparaît pas ou s'il refuse de comparaître, il pourra y être contraint par la force publique en application des dispositions de l'article 109.
+
+
+###### Article 102
+
+Ils sont entendus séparément, et hors la présence de la personne mise en examen, par le juge d'instruction assisté de son greffier ; il est dressé procès-verbal de leurs déclarations.
+
+Le juge d'instruction peut faire appel à un interprète majeur, à l'exclusion de son greffier et des témoins. L'interprète, s'il n'est pas assermenté, prête serment d'apporter son concours à la justice en son honneur et en sa conscience.
+
+Si le témoin est atteint de surdité, le juge d'instruction nomme d'office pour l'assister lors de son audition un interprète en langue des signes ou toute personne qualifiée maîtrisant un langage ou une méthode permettant de communiquer avec les sourds. Celui-ci, s'il n'est pas assermenté, prête serment d'apporter son concours à la justice en son honneur et en sa conscience. Il peut également être recouru à tout dispositif technique permettant de communiquer avec le témoin. Si le témoin atteint de surdité sait lire et écrire, le juge d'instruction peut également communiquer avec lui par écrit.
+
+
+###### Article 103
+
+Les témoins prêtent serment de dire toute la vérité, rien que la vérité. Le juge leur demande leurs nom, prénoms, âge, état, profession, demeure, s'ils sont parents ou alliés des parties et à quel degré ou s'ils sont à leur service. Il est fait mention de la demande et de la réponse.
+
+
+###### Article 105
+
+Les personnes à l'encontre desquelles il existe des indices graves et concordants d'avoir participé aux faits dont le juge d'instruction est saisi ne peuvent être entendues comme témoins.
+
+
+###### Article 106
+
+Chaque page des procès-verbaux est signée du juge, du greffier et du témoin. Ce dernier est alors invité à relire sa déposition telle qu'elle vient d'être transcrite, puis à la signer s'il déclare y persister. Si le témoin ne sait pas lire, lecture lui en est faite par le greffier. Si le témoin ne veut ou ne peut signer, mention en est portée sur le procès-verbal. Chaque page est également signée par l'interprète s'il y a lieu.
+
+
+###### Article 107
+
+Les procès-verbaux ne peuvent comporter aucun interligne. Les ratures et les renvois sont approuvés par le juge d'instruction, le greffier et le témoin et, s'il y a lieu, par l'interprète. A défaut d'approbation, ces ratures et ces renvois sont non avenus.
+
+
+
+Il en est de même du procès-verbal qui n'est pas régulièrement signé.
+
+
+###### Article 108
+
+Les enfants au-dessous de l'âge de 16 ans sont entendus sans prestation de serment.
+
+
+###### Article 109
+
+Toute personne citée pour être entendue comme témoin est tenue de comparaître, de prêter serment et de déposer sous réserve des dispositions des articles 226-13 et 226-14 du code pénal.
+
+
+
+Tout journaliste, entendu comme témoin sur des informations recueillies dans l'exercice de son activité, est libre de ne pas en révéler l'origine.
+
+
+
+Si le témoin ne comparaît pas ou refuse de comparaître, le juge d'instruction peut, sur les réquisitions du procureur de la République, l'y contraindre par la force publique.
+
+
+###### Article 110
+
+La mesure de contrainte dont fait l'objet le témoin défaillant est prise par voie de réquisition. Le témoin est conduit directement et sans délai devant le magistrat qui prescrit la mesure.
+
+
+###### Article 112
+
+Si un témoin est dans l'impossibilité de comparaître, le juge d'instruction se transporte pour l'entendre, ou délivre à cette fin commission rogatoire dans les formes prévues à l'article 151.
+
+
+###### Article 113
+
+Si le témoin entendu dans les conditions prévues à l'article précédent n'était pas dans l'impossibilité de comparaître sur la citation, le juge d'instruction peut prononcer contre ce témoin l'amende prévue à l'article 109.
+
+
+###### Sous-section 2 : Du témoin assisté
+
+###### Article 113-1
+
+Toute personne nommément visée par un réquisitoire introductif et qui n'est pas mise en examen ne peut être entendue que comme témoin assisté.
+
+
+###### Article 113-2
+
+Toute personne nommément visée par une plainte ou mise en cause par la victime peut être entendue comme témoin assisté. Lorsqu'elle comparaît devant le juge d'instruction, elle est obligatoirement entendue en cette qualité si elle en fait la demande.
+
+Toute personne mise en cause par un témoin ou contre laquelle il existe des indices rendant vraisemblable qu'elle ait pu participer, comme auteur ou complice, à la commission des infractions dont le juge d'instruction est saisi peut être entendue comme témoin assisté.
+
+
+###### Article 113-3
+
+Le témoin assisté bénéficie du droit d'être assisté par un avocat qui est avisé préalablement des auditions et a accès au dossier de la procédure, conformément aux dispositions des articles 114 et 114-1. Il peut également demander au juge d'instruction, selon les modalités prévues par l'article 82-1, à être confronté avec la ou les personnes qui le mettent en cause. Cet avocat est choisi par le témoin assisté ou désigné d'office par le bâtonnier si l'intéressé en fait la demande.
+
+Lors de sa première audition comme témoin assisté, la personne est informée de ses droits par le juge d'instruction.
+
+
+###### Article 113-4
+
+Lors de la première audition du témoin assisté, le juge d'instruction constate son identité, lui donne connaissance du réquisitoire introductif, de la plainte ou de la dénonciation, l'informe de ses droits et procède aux formalités prévues aux deux derniers alinéas de l'article 116. Mention de cette information est faite au procès-verbal.
+
+Le juge d'instruction peut, par l'envoi d'une lettre recommandée, faire connaître à une personne qu'elle sera entendue en qualité de témoin assisté. Cette lettre comporte les informations prévues à l'alinéa précédent. Elle précise que le nom de l'avocat choisi ou la demande de désignation d'un avocat commis d'office doit être communiqué au greffier du juge d'instruction.
+
+
+###### Article 113-5
+
+Le témoin assisté ne peut être placé sous contrôle judiciaire ou en détention provisoire, ni faire l'objet d'une ordonnance de renvoi ou de mise en accusation.
+
+
+###### Article 113-6
+
+A tout moment de la procédure, le témoin assisté peut, à l'occasion de son audition ou par lettre recommandée avec demande d'avis de réception, demander au juge d'instruction à être mis en examen ; la personne est alors considérée comme mise en examen et elle bénéficie de l'ensemble des droits de la défense dès sa demande ou l'envoi de la lettre recommandée avec avis de réception.
+
+Les dispositions de l'article 105 ne sont pas applicables au témoin assisté.
+
+
+###### Article 113-7
+
+Le témoin assisté ne prête pas serment.
+
+
+###### Article 113-8
+
+S'il apparaît au cours de la procédure que des indices graves ou concordants justifient la mise en examen du témoin assisté, le juge d'instruction ne peut procéder à cette mise en examen en faisant application des dispositions du septième alinéa de l'article 116 qu'après avoir informé la personne de son intention, le cas échéant par lettre recommandée, et l'avoir mise en mesure de faire connaître ses observations. Il peut également procéder à cette mise en examen en adressant à la personne, en même temps que l'avis de fin d'information prévu par l'article 175, une lettre recommandée précisant chacun des faits qui lui sont reprochés ainsi que leur qualification juridique, et l'informant de son droit de formuler des demandes d'actes ou des requêtes en annulation sur le fondement des articles 81, 82-1, 82-2, 156 et 173 pendant une durée de vingt jours. La personne est également informée que si elle demande à être à nouveau entendue par le juge celui-ci est tenu de procéder à son interrogatoire.
 
 
 ##### Section 5 : Des interrogatoires et confrontations
@@ -1589,11 +1767,11 @@ L'avocat doit donner connaissance au juge d'instruction, par déclaration à son
 
 Le juge d'instruction dispose d'un délai de cinq jours ouvrables à compter de la réception de la demande pour s'opposer à la remise de tout ou partie de ces reproductions par une ordonnance spécialement motivée au regard des risques de pression sur les victimes, les personnes mises en examen, leurs avocats, les témoins, les enquêteurs, les experts ou toute autre personne concourant à la procédure.
 
-Cette décision est notifiée par tout moyen et sans délai à l'avocat. A défaut de réponse du juge d'instruction notifiée dans le délai imparti, l'avocat peut communiquer à son client la reproduction des pièces ou actes dont il avait fourni la liste. Il peut, dans les deux jours de sa notification, déférer la décision du juge d'instruction au président de la chambre d'accusation, qui statue dans un délai de cinq jours ouvrables par une décision écrite et motivée, non susceptible de recours. A défaut de réponse notifiée dans le délai imparti, l'avocat peut communiquer à son client la reproduction des pièces ou actes mentionnés sur la liste.
+Cette décision est notifiée par tout moyen et sans délai à l'avocat. A défaut de réponse du juge d'instruction notifiée dans le délai imparti, l'avocat peut communiquer à son client la reproduction des pièces ou actes dont il avait fourni la liste. Il peut, dans les deux jours de sa notification, déférer la décision du juge d'instruction au président de la chambre de l'instruction, qui statue dans un délai de cinq jours ouvrables par une décision écrite et motivée, non susceptible de recours. A défaut de réponse notifiée dans le délai imparti, l'avocat peut communiquer à son client la reproduction des pièces ou actes mentionnés sur la liste.
 
 Les modalités selon lesquelles ces documents peuvent être remis par son avocat à une personne détenue et les conditions dans lesquelles cette personne peut détenir ces documents sont déterminées par décret en Conseil d'Etat.
 
-Par dérogation aux dispositions des huitième et neuvième alinéas, l'avocat d'une partie civile dont la recevabilité fait l'objet d'une contestation ne peut transmettre à son client une reproduction des pièces ou actes de la procédure sans l'autorisation préalable du juge d'instruction, qui peut lui être notifiée par tout moyen. En cas de refus du juge d'instruction ou à défaut de réponse de ce dernier dans les cinq jours ouvrables, l'avocat peut saisir le président de la chambre d'accusation, qui statue dans un délai de cinq jours ouvrables, par une décision écrite et motivée non susceptible de recours. En l'absence d'autorisation préalable du président de la chambre d'accusation, l'avocat ne peut transmettre la reproduction de pièces ou actes de la procédure à son client.
+Par dérogation aux dispositions des huitième et neuvième alinéas, l'avocat d'une partie civile dont la recevabilité fait l'objet d'une contestation ne peut transmettre à son client une reproduction des pièces ou actes de la procédure sans l'autorisation préalable du juge d'instruction, qui peut lui être notifiée par tout moyen. En cas de refus du juge d'instruction ou à défaut de réponse de ce dernier dans les cinq jours ouvrables, l'avocat peut saisir le président de la chambre de l'instruction, qui statue dans un délai de cinq jours ouvrables, par une décision écrite et motivée non susceptible de recours. En l'absence d'autorisation préalable du président de la chambre de l'instruction, l'avocat ne peut transmettre la reproduction de pièces ou actes de la procédure à son client.
 
 
 ##### Article 114-1
@@ -1610,22 +1788,23 @@ Lorsque la personne mise en examen est détenue, le choix de son avocat peut ré
 
 ##### Article 116
 
-Lors de la première comparution, le juge d'instruction constate l'identité de la personne et lui fait connaître expressément chacun des faits dont il est saisi et pour lesquels elle est mise en examen, ainsi que la qualification juridique de ces faits. Mention de ces faits et de leur qualification juridique est portée au procès-verbal.
+Lorsqu'il envisage de mettre en examen une personne qui n'a pas déjà été entendue comme témoin assisté, le juge d'instruction procède à sa première comparution selon les modalités prévues par le présent article.
 
-Lorsque la personne mise en examen a déjà demandé l'assistance d'un avocat et que celui-ci a été dûment convoqué, le juge d'instruction procède ensuite à son interrogatoire.
+Le juge d'instruction constate l'identité de la personne et lui fait connaître expressément, en précisant leur qualification juridique, chacun des faits dont il est saisi et pour lesquels la mise en examen est envisagée. Mention de ces faits et de leur qualification juridique est portée au procès-verbal.
 
-Dans les autres cas, le juge d'instruction avise la personne mise en examen de son droit de choisir un avocat ou de demander qu'il lui en soit désigné un d'office. L'avocat choisi ou, dans le cas d'une demande de commission d'office, le bâtonnier de l'ordre des avocats en est informé par tout moyen et sans délai. L'avocat peut consulter sur-le-champ le dossier et communiquer librement avec la personne mise en examen. Le juge d'instruction avertit ensuite la personne qu'elle ne peut être interrogée immédiatement qu'avec son accord. Cet accord ne peut être recueilli qu'en présence de son avocat. Toutefois, si la personne désire faire des déclarations, celles-ci sont immédiatement reçues par le juge d'instruction. Mention de l'avertissement prévu au présent alinéa est faite au procès-verbal.
+Lorsqu'il a été fait application des dispositions de l'article 80-2 et que la personne est assistée d'un avocat, le juge d'instruction procède à son interrogatoire ; l'avocat de la personne peut présenter ses observations au juge d'instruction.
 
-Après avoir, le cas échéant, procédé à l'interrogatoire de la personne, le juge d'instruction l'avise de son droit de formuler une demande d'acte ou présenter une requête en annulation, sur le fondement des articles 81, neuvième alinéa, 82-1, 156, premier alinéa, et 173, troisième alinéa, durant le déroulement de l'information et au plus tard le vingtième jour suivant l'envoi de l'avis prévu par le premier alinéa de l'article 175.
+Dans les autres cas, le juge d'instruction avise la personne de son droit de choisir un avocat ou de demander qu'il lui en soit désigné un d'office. L'avocat choisi ou, dans le cas d'une demande de commission d'office, le bâtonnier de l'ordre des avocats en est informé par tout moyen et sans délai. Si l'avocat choisi ne peut être contacté ou ne peut se déplacer, la personne est avisée de son droit de demander qu'il lui en soit désigné un d'office pour l'assister au cours de la première comparution. L'avocat peut consulter sur-le-champ le dossier et communiquer librement avec la personne. Le juge d'instruction avertit ensuite la personne qu'elle a le choix soit de se taire, soit de faire des déclarations, soit d'être interrogée. Mention de cet avertissement est faite au procès-verbal. L'accord pour être interrogé ne peut être donné qu'en présence d'un avocat. L'avocat de la personne peut également présenter ses observations au juge d'instruction.
 
-A l'issue de la première comparution, la personne mise en examen doit déclarer au juge d'instruction son adresse personnelle. Elle peut toutefois lui substituer l'adresse d'un tiers chargé de recevoir les actes qui lui sont destinés, si elle produit l'accord de ce dernier. L'adresse déclarée doit être située, si l'information se déroule en métropole, dans un département métropolitain ou, si l'information se déroule dans un département d'outre-mer, dans ce département.
+Après avoir, le cas échéant, recueilli les déclarations de la personne ou procédé à son interrogatoire et entendu les observations de son avocat, le juge d'instruction lui notifie :
+- soit qu'elle n'est pas mise en examen ; le juge d'instruction informe alors la personne qu'elle bénéficie des droits du témoin assisté ;
+- soit qu'elle est mise en examen ; le juge d'instruction porte alors à la connaissance de la personne les faits ou la qualification juridique des faits qui lui sont reprochés, si ces faits ou ces qualifications diffèrent de ceux qui lui ont déjà été notifiés ; il l'informe de ses droits de formuler des demandes d'actes ou des requêtes en annulation sur le fondement des articles 81, 82-1, 82-2, 156 et 173 durant le déroulement de l'information et au plus tard le vingtième jour suivant l'avis prévu par le dernier alinéa de l'article 175, sous réserve des dispositions de l'article 173-1.
 
-La personne est avisée qu'elle doit signaler au juge d'instruction jusqu'au règlement de l'information, par nouvelle déclaration ou par lettre recommandée avec demande d'avis de réception, tout changement de l'adresse déclarée. Elle est également avisée que toute notification ou signification faite à la dernière adresse déclarée sera réputée faite à sa personne. Mention de cet avis, ainsi que de la déclaration d'adresse, est portée au procès-verbal.
+S'il estime que le délai prévisible d'achèvement de l'information est inférieur à un an en matière correctionnelle ou à dix-huit mois en matière criminelle, le juge d'instruction donne connaissance de ce délai prévisible à la personne et l'avise qu'à l'expiration dudit délai, elle pourra demander la clôture de la procédure en application des dispositions de l'article 175-1. Dans le cas contraire, il indique à la personne qu'elle pourra demander, en application de ce même article, la clôture de la procédure à l'expiration d'un délai d'un an en matière correctionnelle ou de dix-huit mois en matière criminelle.
 
+A l'issue de la première comparution, la personne doit déclarer au juge d'instruction son adresse personnelle. Elle peut toutefois lui substituer l'adresse d'un tiers chargé de recevoir les actes qui lui sont destinés si elle produit l'accord de ce dernier. L'adresse déclarée doit être située, si l'information se déroule en métropole, dans un département métropolitain ou, si l'information se déroule dans un département d'outre-mer, dans ce département. Cette déclaration est faite devant le juge des libertés et de la détention lorsque ce magistrat, saisi par le juge d'instruction, décide de ne pas placer la personne en détention.
 
-##### Article 116-1
-
-Lorsque la personne mise en examen en fait la demande écrite, il doit être procédé à la première comparution. Le juge d'instruction accomplit cet acte dans les quinze jours de la réception de la demande.
+La personne est avisée qu'elle doit signaler au juge d'instruction jusqu'au règlement de l'information, par nouvelle déclaration ou par lettre recommandée avec demande d'avis de réception, tout changement de l'adresse déclarée. Elle est également avisée que toute notification ou signification faite à la dernière adresse déclarée sera réputée faite à sa personne. Mention de cet avis, ainsi que de la déclaration d'adresse, est portée au procès-verbal. Ces avis sont donnés par le juge des libertés et de la détention lorsque celui-ci décide de ne pas placer la personne en détention.
 
 
 ##### Article 117
@@ -1660,14 +1839,18 @@ Il peut, en outre, à tout moment, se faire délivrer, dans les mêmes condition
 
 Le procureur de la République peut assister aux interrogatoires et confrontations de la personne mise en examen et aux auditions de la partie civile.
 
-Chaque fois que le procureur de la République a fait connaître au juge d'instruction son intention d'y assister, le greffier du juge d'instruction doit, sous peine d'une amende civile de 10 francs prononcée par le président de la chambre d'accusation, l'avertir par simple note, au plus tard, l'avant-veille de l'interrogatoire.
+Chaque fois que le procureur de la République a fait connaître au juge d'instruction son intention d'y assister, le greffier du juge d'instruction doit, sous peine d'une amende civile de 10 francs prononcée par le président de la chambre de l'instruction, l'avertir par simple note, au plus tard, l'avant-veille de l'interrogatoire.
 
 
 ##### Article 120
 
-Le procureur de la République et les avocats des parties ne peuvent prendre la parole que pour poser des questions après y avoir été autorisés par le juge d'instruction.
+Le juge d'instruction dirige les interrogatoires, confrontations et auditions. Le procureur de la République et les avocats des parties peuvent poser des questions ou présenter de brèves observations.
 
-Si cette autorisation leur est refusée, le texte des questions sera reproduit ou joint au procès-verbal.
+Le juge d'instruction détermine, s'il y a lieu, l'ordre des interventions et peut y mettre un terme lorsqu'il s'estime suffisamment informé. Il peut s'opposer aux questions de nature à nuire au bon déroulement de l'information ou à la dignité de la personne.
+
+Mention de ce refus est portée au procès-verbal.
+
+Les conclusions déposées par le procureur de la République ou les avocats des parties afin de demander acte d'un désaccord avec le juge d'instruction sur le contenu du procès-verbal sont, par le juge d'instruction, versées au dossier.
 
 
 ##### Article 121
@@ -1676,16 +1859,20 @@ Les procès-verbaux d'interrogatoire et de confrontation sont établis dans les 
 
 S'il est fait appel à un interprète, les dispositions de l'article 102 sont applicables.
 
+Si la personne mise en examen est atteinte de surdité, le juge d'instruction nomme d'office pour l'assister lors de l'information un interprète en langue des signes ou toute personne qualifiée maîtrisant un langage ou une méthode permettant de communiquer avec les sourds. Celui-ci, s'il n'est pas assermenté, prête serment d'apporter son concours à la justice en son honneur et en sa conscience. Il peut être également recouru à tout dispositif technique permettant de communiquer avec la personne mise en examen. Si la personne mise en examen sait lire et écrire, le juge d'instruction peut également communiquer avec elle par écrit.
+
 
 ##### Section 6 : Des mandats et de leur exécution
 
 ##### Article 122
 
-Le juge d'instruction peut, selon les cas décerner mandat de comparution, d'amener, de dépôt ou d'arrêt.    Le mandat de comparution a pour objet de mettre la personne à l'encontre de laquelle il est décerné en demeure de se présenter devant le juge à la date et à l'heure indiquées par ce mandat.
+Le juge d'instruction peut, selon les cas, décerner mandat de comparution, d'amener ou d'arrêt. Le juge des libertés et de la détention peut décerner mandat de dépôt.
+
+Le mandat de comparution a pour objet de mettre la personne à l'encontre de laquelle il est décerné en demeure de se présenter devant le juge à la date et à l'heure indiquées par ce mandat.
 
 Le mandat d'amener est l'ordre donné par le juge à la force publique de conduire immédiatement la personne à l'encontre de laquelle il est décerné devant lui.
 
-Le mandat de dépôt est l'ordre donné par le juge au chef de l'établissement pénitentiaire de recevoir et de détenir la personne à l'encontre de laquelle il est décerné. Ce mandat permet également de rechercher ou de transférer la personne lorsqu'il lui a été précédemment notifié.
+Le mandat de dépôt est l'ordre donné par le juge des libertés et de la détention au chef de l'établissement pénitentiaire de recevoir et de détenir la personne mise en examen à l'encontre de laquelle il a rendu une ordonnance aux fins de placement en détention provisoire. Ce mandat permet également de rechercher ou de transférer la personne lorsqu'il lui a été précédemment notifié.
 
 Le mandat d'arrêt est l'ordre donné à la force publique de rechercher la personne à l'encontre de laquelle il est décerné et de la conduire à la maison d'arrêt indiquée sur le mandat, où elle sera reçue et détenue.
 
@@ -1788,31 +1975,25 @@ L'agent chargé de l'exécution d'un mandat d'amener ou d'arrêt ne peut s'intro
 
 Il peut se faire accompagner d'une force suffisante pour que la personne ne puisse se soustraire à la loi. La force est prise dans le lieu le plus proche de celui où le mandat doit s'exécuter et elle est tenue de déférer aux réquisitions contenues dans ce mandat.
 
-Si la personne ne peut être saisie, un procès-verbal de perquisition et de recherches infructueuses est adressé au magistrat qui a délivré le mandat.
+Si la personne ne peut être saisie, un procès-verbal de perquisition et de recherches infructueuses est adressé au magistrat qui a délivré le mandat. La personne est alors considérée comme mise en examen pour l'application de l'article 176.
 
 
 ##### Article 135
 
-Le juge d'instruction ne peut délivrer un mandat de dépôt qu'après interrogatoire et si l'infraction comporte une peine d'emprisonnement correctionnelle ou une autre peine plus grave.
-
 En matière criminelle et en matière correctionnelle, les mandats de dépôt ne peuvent être décernés qu'en exécution de l'ordonnance prévue à l'article 145.
+
+
 
 L'agent chargé de l'exécution du mandat de dépôt remet l'intéressé au chef de l'établissement pénitentiaire, lequel lui délivre une reconnaissance de cette remise.
 
 
 ##### Article 136
 
-L'inobservation des formalités prescrites pour les mandats de comparution, d'amener, de dépôt et d'arrêt est sanctionnée par une amende civile de 50 francs prononcée contre le greffier par le président de la chambre d'accusation ; elle peut donner lieu à des sanctions disciplinaires ou à prise à partie contre le juge d'instruction ou le procureur de la République.
-
-
+L'inobservation des formalités prescrites pour les mandats de comparution, d'amener, de dépôt et d'arrêt est sanctionnée par une amende civile de 50 francs prononcée contre le greffier par le président de la chambre de l'instruction ; elle peut donner lieu à des sanctions disciplinaires contre le juge d'instruction, le juge des libertés et de la détention ou le procureur de la République.
 
 Ces dispositions sont étendues, sauf application de peines plus graves, s'il y a lieu, à toute violation des mesures protectrices de la liberté individuelle prescrites par les articles 56, 57, 59, 96, 97, 138 et 139.
 
-
-
 Dans les cas visés aux deux alinéas précédents et dans tous les cas d'atteinte à la liberté individuelle, le conflit ne peut jamais être élevé par l'autorité administrative et les tribunaux de l'ordre judiciaire sont toujours exclusivement compétents.
-
-
 
 Il en est de même dans toute instance civile fondée sur des faits constitutifs d'une atteinte à la liberté individuelle ou à l'inviolabilité du domicile prévue par les articles 432-4 à 432-6 et 432-8 du code pénal, qu'elle soit dirigée contre la collectivité publique ou contre ses agents.
 
@@ -1823,20 +2004,20 @@ Il en est de même dans toute instance civile fondée sur des faits constitutifs
 
 ###### Article 138
 
-Le contrôle judiciaire peut être ordonné par le juge d'instruction si la personne mise en examen encourt une peine d'emprisonnement correctionnel ou une peine plus grave.
+Le contrôle judiciaire peut être ordonné par le juge d'instruction ou par le juge des libertés et de la détention si la personne mise en examen encourt une peine d'emprisonnement correctionnel ou une peine plus grave.
 
 Ce contrôle astreint la personne concernée à se soumettre, selon la décision du juge d'instruction, à une ou plusieurs des obligations ci-après énumérées :
 1. Ne pas sortir des limites territoriales déterminées par le juge d'instruction ;
 2. Ne s'absenter de son domicile ou de la résidence fixée par le juge d'instruction qu'aux conditions et pour les motifs déterminés par ce magistrat ;
 3. Ne pas se rendre en certains lieux ou ne se rendre que dans les lieux déterminés par le juge d'instruction ;
 4. Informer le juge d'instruction de tout déplacement au-delà de limites déterminées ;
-5. Se présenter périodiquement aux services ou autorités désignés par le juge d'instruction qui sont tenus d'observer la plus stricte discrétion sur les faits reprochés à la personne mise en examen ;
-6. Répondre aux convocations de toute autorité ou de toute personne qualifiée désignée par le juge d'instruction et se soumettre, le cas échéant, aux mesures de contrôle portant sur ses activités professionnelles ou sur son assiduité à un enseignement ;
+5. Se présenter périodiquement aux services, associations habilitées ou autorités désignés par le juge d'instruction qui sont tenus d'observer la plus stricte discrétion sur les faits reprochés à la personne mise en examen ;
+6. Répondre aux convocations de toute autorité, de toute association ou de toute personne qualifiée désignée par le juge d'instruction et se soumettre, le cas échéant, aux mesures de contrôle portant sur ses activités professionnelles ou sur son assiduité à un enseignement ainsi qu'aux mesures socio-éducatives destinées à favoriser son insertion sociale et à prévenir la récidive ;
 7. Remettre soit au greffe, soit à un service de police ou à une brigade de gendarmerie tous documents justificatifs de l'identité, et notamment le passeport, en échange d'un récépissé valant justification de l'identité ;
 8. S'abstenir de conduire tous les véhicules ou certains véhicules et, le cas échéant, remettre au greffe son permis de conduire contre récépissé ; toutefois, le juge d'instruction peut décider que la personne mise en examen pourra faire usage de son permis de conduire pour l'exercice de son activité professionnelle ;
 9. S'abstenir de recevoir ou de rencontrer certaines personnes spécialement désignées par le juge d'instruction, ainsi que d'entrer en relation avec elles, de quelque façon que ce soit ;
 10. Se soumettre à des mesures d'examen, de traitement ou de soins, même sous le régime de l'hospitalisation, notamment aux fins de désintoxication ;
-11. Fournir un cautionnement dont le montant et les délais de versement, en une ou plusieurs fois, sont fixés par le juge d'instruction, compte tenu notamment des ressources de la personne mise en examen ;
+11. Fournir un cautionnement dont le montant et les délais de versement, en une ou plusieurs fois, sont fixés par le juge d'instruction, compte tenu notamment des ressources et des charges de la personne mise en examen ;
 12. Ne pas se livrer à certaines activités de nature professionnelle ou sociale, à l'exclusion de l'exercice des mandats électifs et des responsabilités syndicales, lorsque l'infraction a été commise dans l'exercice ou à l'occasion de l'exercice de ces activités et lorsqu'il est à redouter qu'une nouvelle infraction soit commise. Lorsque l'activité concernée est celle d'un avocat, le conseil de l'ordre, saisi par le juge d'instruction, a seul le pouvoir de prononcer cette mesure à charge d'appel, dans les conditions prévues aux articles 23 et 24 de la loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques ; le conseil de l'ordre statue dans les quinze jours ;
 13. Ne pas émettre de chèques autres que ceux qui permettent exclusivement le retrait de fonds par le tireur auprès du tiré ou ceux qui sont certifiés et, le cas échéant, remettre au greffe les formules de chèques dont l'usage est ainsi prohibé ;
 14. Ne pas détenir ou porter une arme et, le cas échéant, remettre au greffe contre récépissé les armes dont elle est détentrice ;
@@ -1859,7 +2040,7 @@ La mainlevée du contrôle judiciaire peut être ordonnée à tout moment par le
 
 Le juge d'instruction statue sur la demande de la personne dans un délai de cinq jours, par ordonnance motivée.
 
-Faute par le juge d'instruction d'avoir statué dans ce délai, la personne peut saisir directement de sa demande la chambre d'accusation qui, sur les réquisitions écrites et motivées du procureur général, se prononce dans les vingt jours de sa saisine. A défaut, la mainlevée du contrôle judiciaire est acquise de plein droit, sauf si des vérifications concernant la demande de la personne ont été ordonnées.
+Faute par le juge d'instruction d'avoir statué dans ce délai, la personne peut saisir directement de sa demande la chambre de l'instruction qui, sur les réquisitions écrites et motivées du procureur général, se prononce dans les vingt jours de sa saisine. A défaut, la mainlevée du contrôle judiciaire est acquise de plein droit, sauf si des vérifications concernant la demande de la personne ont été ordonnées.
 
 
 ###### Article 141-1
@@ -1869,14 +2050,19 @@ Les pouvoirs conférés au juge d'instruction par les articles 139 et 140 appart
 
 ###### Article 141-2
 
-Si la personne mise en examen se soustrait volontairement aux obligations du contrôle judiciaire, le juge d'instruction peut, quelle que soit la durée de la peine d'emprisonnement encourue, décerner à son encontre mandat d'arrêt ou de dépôt en vue de sa détention provisoire.
+Si la personne mise en examen se soustrait volontairement aux obligations du contrôle judiciaire, le juge d'instruction peut décerner à son encontre mandat d'arrêt ou d'amener. Il peut également, dans les conditions prévues au quatrième alinéa de l'article 137-1, saisir le juge des libertés et de la détention aux fins de placement en détention provisoire. Quelle que soit la peine d'emprisonnement encourue, le juge des libertés et de la détention peut décerner, à l'encontre de cette personne, un mandat de dépôt en vue de sa détention provisoire, sous réserve des dispositions de l'article 141-3.
 
-Les mêmes droits appartiennent en tout état de cause à la juridiction qui est compétente selon les distinctions de l'article 148-1. Toutefois, à l'encontre de l'accusé, il n'y a pas lieu à délivrance d'un mandat et l'ordonnance de prise de corps est exécutée sur l'ordre du président de la cour d'assises ou, dans l'intervalle des sessions, du président de la chambre de l'instruction.
+Les mêmes droits appartiennent en tout état de cause à la juridiction qui est compétente selon les distinctions de l'article 148-1. Toutefois, à l'encontre de l'accusé, il n'y a pas lieu à délivrance d'un mandat et l'ordonnance de prise de corps est exécutée sur ordre du président de la chambre de l'instruction, ou, pendant la session d'assises au cours de laquelle la personne doit être jugée, par le président de la cour d'assises.
+
+
+###### Article 141-3
+
+Lorsque la détention provisoire est ordonnée à la suite d'une révocation du contrôle judiciaire à l'encontre d'une personne antérieurement placée en détention provisoire pour les mêmes faits, la durée cumulée des détentions ne peut excéder de plus de quatre mois la durée maximale de la détention prévue respectivement aux articles 145-1 et 145-2. Lorsque la peine encourue est inférieure à celle mentionnée à l'article 143-1, la durée totale des détentions ne peut excéder quatre mois.
 
 
 ###### Article 142
 
-Lorsque la personne mise en examen est astreinte à fournir un cautionnement, ce cautionnement garantit :
+Lorsque la personne mise en examen est astreinte à fournir un cautionnement ou à constituer des sûretés, ce cautionnement ou ces sûretés garantissent :
 1. La représentation de la personne mise en examen, du prévenu ou de l'accusé à tous les actes de la procédure et pour l'exécution du jugement, ainsi que, le cas échéant, l'exécution des autres obligations qui lui ont été imposées ;
 2. Le paiement dans l'ordre suivant :
 
@@ -1884,7 +2070,7 @@ a) De la réparation des dommages causés par l'infraction et des restitutions, 
 
 b) Des amendes.
 
-La décision qui astreint la personne mise en examen à fournir un cautionnement détermine les sommes affectées à chacune des deux parties de ce cautionnement.
+La décision du juge d'instruction détermine les sommes affectées à chacune des deux parties du cautionnement ou des sûretés. Le juge d'instruction peut toutefois décider que les sûretés garantiront dans leur totalité les droits des victimes.
 
 
 ###### Article 142-1
@@ -1896,11 +2082,9 @@ Ce versement peut aussi être ordonné, ou décidé, même sans le consentement 
 
 ###### Article 142-2
 
-La première partie du cautionnement est restituée si la personne mise en examen, le prévenu ou l'accusé s'est présenté à tous les actes de la procédure, a satisfait aux obligations du contrôle judiciaire et s'est soumis à l'exécution du jugement.
+La première partie du cautionnement est restituée ou la première partie des sûretés est levée si la personne mise en examen, le prévenu ou l'accusé s'est présenté à tous les actes de la procédure, a satisfait aux obligations du contrôle judiciaire et s'est soumis à l'exécution du jugement.
 
-Elle est acquise à l'Etat dans le cas contraire, sauf motif légitime d'excuse.
-
-Elle est néanmoins toujours restituée en cas de non-lieu, d'exemption de peine ou d'acquittement.
+Dans le cas contraire, sauf motif légitime d'excuse ou décision de non-lieu, de relaxe, d'acquittement ou d'exemption de peine, la première partie du cautionnement est acquise à l'Etat, ou il est procédé au recouvrement de la créance garantie par la première partie des sûretés.
 
 
 ###### Article 142-3
@@ -1908,6 +2092,8 @@ Elle est néanmoins toujours restituée en cas de non-lieu, d'exemption de peine
 Le montant affecté à la deuxième partie du cautionnement qui n'a pas été versé à la victime de l'infraction ou au créancier d'une dette alimentaire est restitué en cas de non-lieu et, sauf s'il est fait application de l'article 372, en cas d'absolution ou d'acquittement.
 
 En cas de condamnation, il est employé conformément aux dispositions du 2° de l'article 142. Le surplus est restitué lorsque la condamnation est définitive.
+
+La deuxième partie des sûretés est levée ou il est procédé au recouvrement des créances que cette partie garantit selon les distinctions prévues aux deux alinéas précédents.
 
 Les conditions d'application du présent article sont fixées par un décret en Conseil d'Etat.
 
@@ -1919,62 +2105,70 @@ Lorsqu'une juridiction de jugement est appelée à statuer dans les cas prévus 
 
 ###### Sous-section 2 : De la détention provisoire
 
+###### Article 143-1
+
+Sous réserve des dispositions de l'article 137, la détention provisoire ne peut être ordonnée ou prolongée que dans l'un des cas ci-après énumérés :
+1. La personne mise en examen encourt une peine criminelle ;
+2. La personne mise en examen encourt une peine correctionnelle d'une durée égale ou supérieure à trois ans d'emprisonnement.
+
+Toutefois, la détention provisoire ne peut être ordonnée ou prolongée que si la peine encourue est supérieure ou égale à cinq ans d'emprisonnement, s'il est reproché à la personne mise en examen un délit prévu par le livre III du code pénal et que cette personne n'a pas déjà été condamnée à une peine privative de liberté sans sursis supérieure à un an.
+
+La détention provisoire peut également être ordonnée dans les conditions prévues à l'article 141-2 lorsque la personne mise en examen se soustrait volontairement aux obligations du contrôle judiciaire.
+
+
 ###### Article 144
 
-En matière criminelle et en matière correctionnelle, si la peine encourue est égale ou supérieure soit à un an d'emprisonnement en cas de délit flagrant, soit à deux ans d'emprisonnement dans les autres cas et si les obligations du contrôle judiciaire sont insuffisantes au regard des fonctions définies à l'article 137, la détention provisoire peut, à titre exceptionnel, être ordonnée ou prolongée :
-
-
-1. Lorsque la détention provisoire de la personne mise en examen est l'unique moyen de conserver les preuves ou les indices matériels ou d'empêcher soit une pression sur les témoins ou les victimes, soit une concertation frauduleuse entre personnes mises en examen et complices ;
-
-
-2. Lorsque cette détention est l'unique moyen de protéger la personne mise en examen, de garantir son maintien à la disposition de la justice, de mettre fin à l'infraction ou de prévenir son renouvellement ;
-
-
-3. Lorsque l'infraction, en raison de sa gravité, des circonstances de sa commission ou de l'importance du préjudice qu'elle a causé, a provoqué un trouble exceptionnel et persistant à l'ordre public, auquel la détention est l'unique moyen de mettre fin.
-
-
-
-La détention provisoire peut également être ordonnée, dans les conditions prévues par l'article 141-2, lorsque la personne mise en examen se soustrait volontairement aux obligations du contrôle judiciaire.
+La détention provisoire ne peut être ordonnée ou prolongée que si elle constitue l'unique moyen :
+1. De conserver les preuves ou les indices matériels ou d'empêcher soit une pression sur les témoins ou les victimes, soit une concertation frauduleuse entre personnes mises en examen et complices ;
+2. De protéger la personne mise en examen, de garantir son maintien à la disposition de la justice, de mettre fin à l'infraction ou de prévenir son renouvellement ;
+3. De mettre fin à un trouble exceptionnel et persistant à l'ordre public provoqué par la gravité de l'infraction, les circonstances de sa commission ou l'importance du préjudice qu'elle a causé. Toutefois, ce motif ne peut justifier la prolongation de la détention provisoire, sauf en matière criminelle ou lorsque la peine correctionnelle encourue est supérieure ou égale à dix ans d'emprisonnement.
 
 
 ###### Article 144-1
 
 La détention provisoire ne peut excéder une durée raisonnable, au regard de la gravité des faits reprochés à la personne mise en examen et de la complexité des investigations nécessaires à la manifestation de la vérité.
 
-Le juge d'instruction doit ordonner la mise en liberté immédiate de la personne placée en détention provisoire, selon les modalités prévues par l'article 147, dès que les conditions prévues à l'article 144 et au présent article ne sont plus remplies.
+Le juge d'instruction ou, s'il est saisi, le juge des libertés et de la détention doit ordonner la mise en liberté immédiate de la personne placée en détention provisoire, selon les modalités prévues par l'article 147, dès que les conditions prévues à l'article 144 et au présent article ne sont plus remplies.
+
+
+###### Article 144-2
+
+Lorsqu'elle est prononcée, la détention provisoire peut être effectuée, sur décision du juge des libertés et de la détention d'office ou sur demande de l'intéressé ou du juge d'instruction, avec l'accord de l'intéressé, selon les modalités prévues aux articles 723-7 et suivants. Le juge des libertés et de la détention prend en considération la situation familiale de l'intéressé, notamment lorsque celui-ci exerce l'autorité parentale à l'égard d'un enfant ayant sa résidence habituelle chez lui et dont l'âge est inférieur à dix ans. Pour l'exécution de cette mesure, le juge des libertés et de la détention exerce les compétences attribuées au juge de l'application des peines.
 
 
 ###### Article 145
 
-En toute matière, le placement en détention provisoire est prescrit par une ordonnance spécialement motivée qui doit comporter l'énoncé des considérations de droit et de fait sur le caractère insuffisant des obligations du contrôle judiciaire et le motif de la détention par référence aux seules dispositions de l'article 144. Cette ordonnance est notifiée verbalement à la personne qui en reçoit copie intégrale contre émargement au dossier de la procédure.
+Le juge des libertés et de la détention saisi par une ordonnance du juge d'instruction tendant au placement en détention de la personne mise en examen fait comparaître cette personne devant lui, assistée de son avocat si celui-ci a déjà été désigné, et procède conformément aux dispositions du présent article.
 
-Le juge d'instruction qui envisage de placer en détention la personne mise en examen l'avise de son droit de disposer d'un délai pour préparer sa défense.
+Au vu des éléments du dossier et après avoir, s'il l'estime utile, recueilli les observations de l'intéressé, ce magistrat fait connaître à la personne mise en examen s'il envisage de la placer en détention provisoire.
+
+S'il n'envisage pas de la placer en détention provisoire, ce magistrat, après avoir le cas échéant ordonné le placement de la personne sous contrôle judiciaire, procède conformément aux deux derniers alinéas de l'article 116 relatifs à la déclaration d'adresse.
+
+S'il envisage d'ordonner la détention provisoire de la personne, il l'informe que sa décision ne pourra intervenir qu'à l'issue d'un débat contradictoire et qu'elle a le droit de demander un délai pour préparer sa défense.
 
 Si cette personne n'est pas déjà assistée d'un avocat, il l'avise qu'elle a droit à l'assistance d'un avocat de son choix ou commis d'office. L'avocat choisi ou, dans le cas d'une demande de commission d'office, le bâtonnier de l'ordre des avocats en est avisé par tout moyen et sans délai ; mention de cette formalité est faite au procès-verbal.
 
-Le juge d'instruction statue en audience de cabinet, après un débat contradictoire au cours duquel il entend le ministère public qui développe ses réquisitions prises conformément au troisième alinéa de l'article 82 puis les observations de la personne mise en examen et, le cas échéant, celles de son avocat.
+Le juge des libertés et de la détention statue en audience de cabinet, après un débat contradictoire au cours duquel il entend le ministère public qui développe ses réquisitions prises conformément au troisième alinéa de l'article 82 puis les observations de la personne mise en examen et, le cas échéant, celles de son avocat. Si la personne majeure mise en examen ou son avocat en fait la demande dès l'ouverture de l'audience, le débat contradictoire a lieu en audience publique, sauf si la publicité est de nature à entraver les investigations spécifiques nécessitées par l'instruction ou à nuire à la dignité de la personne ou aux intérêts d'un tiers. Le juge des libertés et de la détention statue par ordonnance motivée sur cette demande de publicité après avoir recueilli les observations du ministère public, de la personne mise en examen et de son avocat.
 
-Toutefois, le juge d'instruction ne peut ordonner immédiatement le placement en détention lorsque la personne mise en examen ou son avocat sollicite un délai pour préparer sa défense.
+Toutefois, le juge des libertés et de la détention ne peut ordonner immédiatement le placement en détention lorsque la personne mise en examen ou son avocat sollicite un délai pour préparer sa défense.
 
-Dans ce cas, il peut, au moyen d'une ordonnance motivée par référence aux dispositions de l'alinéa précédent et non susceptible d'appel, prescrire l'incarcération de la personne pour une durée déterminée qui ne peut en aucun cas excéder quatre jours ouvrables. Dans ce délai, il fait comparaître à nouveau la personne et, que celle-ci soit ou non assistée d'un avocat, procède comme il est dit aux deuxième et troisième alinéas. S'il n'ordonne pas le placement de la personne en détention provisoire, celle-ci est mise en liberté d'office.
+Dans ce cas, il peut, au moyen d'une ordonnance motivée par référence aux dispositions de l'alinéa précédent et non susceptible d'appel, prescrire l'incarcération de la personne pour une durée déterminée qui ne peut en aucun cas excéder quatre jours ouvrables. Dans ce délai, il fait comparaître à nouveau la personne et, que celle-ci soit ou non assistée d'un avocat, procède comme il est dit au sixième alinéa. S'il n'ordonne pas le placement de la personne en détention provisoire, celle-ci est mise en liberté d'office.
 
 L'incarcération provisoire est, le cas échéant, imputée sur la durée de la détention provisoire pour l'application des articles 145-1 et 145-2. Elle est assimilée à une détention provisoire au sens de l'article 149 du présent code et de l'article 24 du code pénal (article abrogé, cf. article 716-4 du code de procédure pénale).
 
 
 ###### Article 145-1
 
-En matière correctionnelle, la détention ne peut excéder quatre mois. Toutefois, à l'expiration de ce délai, le juge d'instruction peut la prolonger par une décision motivée comme il est dit à l'article 145, alinéa premier. Aucune prolongation ne peut être prescrite pour une durée de plus de quatre mois.
+En matière correctionnelle, la détention provisoire ne peut excéder quatre mois si la personne mise en examen n'a pas déjà été condamnée pour crime ou délit de droit commun soit à une peine criminelle, soit à une peine d'emprisonnement sans sursis d'une durée supérieure à un an et lorsqu'elle encourt une peine inférieure ou égale à cinq ans.
 
-Lorsque la personne mise en examen n'a pas déjà été condamnée pour crime ou délit de droit commun, soit à une peine criminelle, soit à une peine d'emprisonnement sans sursis d'une durée supérieure à un an et lorsqu'elle n'encourt pas une peine d'emprisonnement supérieure à cinq ans, la prolongation de la détention prévue à l'alinéa précédent ne peut être ordonnée qu'une fois et pour une durée n'excédant pas deux mois.
-
-Dans les autres cas, la personne mise en examen ne peut être maintenue en détention au-delà de huit mois. Toutefois, à titre exceptionnel, et sous réserve des dispositions de l'article 145-3, le juge d'instruction peut, à l'expiration de ce délai, décider de prolonger la détention pour une durée qui ne peut être supérieure à quatre mois par une ordonnance motivée. Celle-ci est rendue conformément aux dispositions des premier et quatrième alinéas de l'article 145, l'avocat ayant été convoqué conformément aux dispositions du deuxième alinéa de l'article 114. Cette décision ne peut être renouvelée lorsque la peine encourue est inférieure ou égale à cinq ans d'emprisonnement. Lorsque la peine encourue est supérieure à cinq ans d'emprisonnement, cette décision peut être renouvelée selon la même procédure, sous réserve, lorsque la peine encourue est inférieure à dix ans d'emprisonnement, que la personne mise en examen ne soit pas maintenue en détention provisoire plus de deux ans.
-
-Les ordonnances visées aux premier et deuxième alinéas du présent article sont rendues après avis du procureur de la République et, s'il y a lieu, observations de la personne mise en examen ou de son avocat.
+Dans les autres cas, à titre exceptionnel, le juge des libertés et de la détention peut décider de prolonger la détention provisoire pour une durée qui ne peut excéder quatre mois par une ordonnance motivée conformément aux dispositions de l'article 137-3 et rendue après un débat contradictoire organisé conformément aux dispositions du sixième alinéa de l'article 145, l'avocat ayant été convoqué selon les dispositions du deuxième alinéa de l'article 114. Cette décision peut être renouvelée selon la même procédure, sous réserve des dispositions de l'article 145-3, la durée totale de la détention ne pouvant excéder un an. Toutefois, cette durée est portée à deux ans lorsqu'un des faits constitutifs de l'infraction a été commis hors du territoire national ou lorsque la personne est poursuivie pour trafic de stupéfiants, terrorisme, association de malfaiteurs, proxénétisme, extorsion de fonds ou pour une infraction commise en bande organisée et qu'elle encourt une peine égale à dix ans d'emprisonnement.
 
 
 ###### Article 145-2
 
-En matière criminelle, la personne mise en examen ne peut être maintenue en détention au-delà d'un an. Toutefois, sous réserve des dispositions de l'article 145-3, le juge d'instruction peut, à l'expiration de ce délai, prolonger la détention pour une durée qui ne peut être supérieure à six mois par une décision rendue conformément aux dispositions des premier et quatrième alinéas de l'article 145, l'avocat ayant été convoqué conformément aux dispositions du deuxième alinéa de l'article 114. Cette décision peut être renouvelée selon la même procédure.
+En matière criminelle, la personne mise en examen ne peut être maintenue en détention au-delà d'un an. Toutefois, sous réserve des dispositions de l'article 145-3, le juge des libertés et de la détention peut, à l'expiration de ce délai, prolonger la détention pour une durée qui ne peut être supérieure à six mois par une ordonnance motivée conformément aux dispositions de l'article 137-3 et rendue après un débat contradictoire organisé conformément aux dispositions du sixième alinéa de l'article 145, l'avocat ayant été convoqué conformément aux dispositions du deuxième alinéa de l'article 114. Cette décision peut être renouvelée selon la même procédure.
+
+La personne mise en examen ne peut être maintenue en détention provisoire au-delà de deux ans lorsque la peine encourue est inférieure à vingt ans de réclusion ou de détention criminelles et au-delà de trois ans dans les autres cas. Les délais sont portés respectivement à trois et quatre ans lorsque l'un des faits constitutifs de l'infraction a été commis hors du territoire national. Le délai est également de quatre ans lorsque la personne est poursuivie pour plusieurs crimes mentionnés aux livres II et IV du code pénal, ou pour trafic de stupéfiants, terrorisme, proxénétisme, extorsion de fonds ou pour un crime commis en bande organisée.
 
 Les dispositions du présent article sont applicables jusqu'à l'ordonnance de règlement.
 
@@ -1983,7 +2177,7 @@ Les dispositions du présent article sont applicables jusqu'à l'ordonnance de r
 
 Lorsque la durée de la détention provisoire excède un an en matière criminelle ou huit mois en matière délictuelle, les décisions ordonnant sa prolongation ou rejetant les demandes de mise en liberté doivent aussi comporter les indications particulières qui justifient en l'espèce la poursuite de l'information et le délai prévisible d'achèvement de la procédure.
 
-Le juge d'instruction n'est toutefois pas tenu d'indiquer la nature des investigations auxquelles il a l'intention de procéder lorsque cette indication risquerait d'entraver l'accomplissement de ces investigations.
+Il n'est toutefois pas nécessaire que l'ordonnance de prolongation indique la nature des investigations auxquelles le juge d'instruction a l'intention de procéder lorsque cette indication risque d'entraver l'accomplissement de ces investigations.
 
 
 ###### Article 145-4
@@ -1994,43 +2188,52 @@ Sous réserve des dispositions qui précèdent, toute personne placée en déten
 
 A l'expiration d'un délai d'un mois à compter du placement en détention provisoire, le juge d'instruction ne peut refuser de délivrer un permis de visite à un membre de la famille de la personne détenue que par une décision écrite et spécialement motivée au regard des nécessités de l'instruction.
 
-Cette décision est notifiée par tout moyen et sans délai au demandeur. Ce dernier peut la déférer au président de la chambre d'accusation qui statue dans un délai de cinq jours par une décision écrite et motivée non susceptible de recours. Lorsqu'il infirme la décision du juge d'instruction, le président de la chambre d'accusation délivre le permis de visite.
+Cette décision est notifiée par tout moyen et sans délai au demandeur. Ce dernier peut la déférer au président de la chambre de l'instruction qui statue dans un délai de cinq jours par une décision écrite et motivée non susceptible de recours. Lorsqu'il infirme la décision du juge d'instruction, le président de la chambre de l'instruction délivre le permis de visite.
+
+
+###### Article 145-5
+
+Le placement en détention provisoire ou la prolongation de la détention provisoire d'une personne faisant connaître qu'elle exerce l'autorité parentale sur un enfant de moins de dix ans ayant chez elle sa résidence habituelle ne peut être ordonné sans que l'un des services ou l'une des personnes visés au septième alinéa de l'article 81 ait été au préalable chargé de rechercher et de proposer toutes mesures propres à éviter la détention de l'intéressé ou à y mettre fin.
+
+Les dispositions du présent article ne sont pas applicables en cas de crime, en cas de délit commis contre un mineur ou en cas de non-respect des obligations du contrôle judiciaire.
 
 
 ###### Article 146
 
-S'il apparaît, au cours de l'instruction, que la qualification criminelle ne peut être retenue, le juge d'instruction peut, après avoir communiqué le dossier au procureur de la République aux fins de réquisitions, ordonner soit le maintien de la personne mise en examen en détention provisoire conformément à l'article 145-1, soit sa mise en liberté assortie ou non du contrôle judiciaire.
+S'il apparaît, au cours de l'instruction, que la qualification criminelle ne peut être retenue, le juge d'instruction peut, après avoir communiqué le dossier au procureur de la République aux fins de réquisitions, soit saisir par ordonnance motivée le juge des libertés et de la détention aux fins du maintien en détention provisoire de la personne mise en examen, soit prescrire sa mise en liberté assortie ou non du contrôle judiciaire.
+
+Le juge des libertés et de la détention statue dans le délai de trois jours à compter de la date de sa saisine par le juge d'instruction.
 
 
 ###### Article 147
 
 En toute matière, la mise en liberté assortie ou non du contrôle judiciaire peut être ordonnée d'office par le juge d'instruction après avis du procureur de la République, à charge pour la personne mise en examen de prendre l'engagement de se représenter à tous les actes de la procédure aussitôt qu'elle en sera requise et de tenir informé le magistrat instructeur de tous ses déplacements.
 
-Le procureur de la République peut également la requérir à tout moment. Le juge d'instruction statue dans le délai de cinq jours à compter de la date de ces réquisitions.
+Le procureur de la République peut également la requérir à tout moment. Sauf s'il ordonne la mise en liberté de la personne, le juge d'instruction doit, dans les cinq jours suivant les réquisitions du procureur de la République, transmettre le dossier, assorti de son avis motivé, au juge des libertés et de la détention, qui statue dans le délai de trois jours ouvrables.
 
 
 ###### Article 148
 
-En toute matière, la mise en liberté peut être demandée à tout moment au juge d'instruction par la personne ou son avocat, sous les conditions prévues à l'article précédent.
+En toute matière, la personne placée en détention provisoire ou son avocat peut, à tout moment, demander sa mise en liberté, sous les obligations prévues à l'article précédent.
 
-Le juge d'instruction communique immédiatement le dossier au procureur de la République aux fins de réquisitions.
+La demande de mise en liberté est adressée au juge d'instruction, qui communique immédiatement le dossier au procureur de la République aux fins de réquisitions.
 
-Le juge d'instruction doit statuer, au plus tard dans les cinq jours de la communication au procureur de la République, par une ordonnance qui doit comporter l'énoncé des considérations de droit et de fait qui constituent le fondement de cette décision par référence aux dispositions de l'article 144. Toutefois, lorsqu'il n'a pas encore été statué sur une précédente demande de mise en liberté ou sur l'appel d'une précédente ordonnance de refus de mise en liberté, le délai de cinq jours ne commencera à courir qu'à compter de la décision rendue par la juridiction d'instruction.
+Sauf s'il donne une suite favorable à la demande, le juge d'instruction doit, dans les cinq jours suivant la communication au procureur de la République, la transmettre avec son avis motivé au juge des libertés et de la détention. Ce magistrat statue dans un délai de trois jours ouvrables, par une ordonnance comportant l'énoncé des considérations de droit et de fait qui constituent le fondement de cette décision par référence aux dispositions de l'article 144. Toutefois, lorsqu'il n'a pas encore été statué sur une précédente demande de mise en liberté ou sur l'appel d'une précédente ordonnance de refus de mise en liberté, les délais précités ne commencent à courir qu'à compter de la décision rendue par la juridiction compétente.
 
 La mise en liberté, lorsqu'elle est accordée, peut être assortie de mesures de contrôle judiciaire.
 
-Faute par le juge d'instruction d'avoir statué dans le délai fixé au troisième alinéa, la personne peut saisir directement de sa demande la chambre d'accusation qui, sur les réquisitions écrites et motivées du procureur général, se prononce dans les vingt jours de sa saisine faute de quoi la personne est mise d'office en liberté sauf si des vérifications concernant sa demande ont été ordonnées. Le droit de saisir dans les mêmes conditions la chambre d'accusation appartient également au procureur de la République.
+Faute par le juge des libertés et de la détention d'avoir statué dans le délai fixé au troisième alinéa, la personne peut saisir directement de sa demande la chambre de l'instruction qui, sur les réquisitions écrites et motivées du procureur général, se prononce dans les vingt jours de sa saisine faute de quoi la personne est mise d'office en liberté sauf si des vérifications concernant sa demande ont été ordonnées. Le droit de saisir dans les mêmes conditions la chambre de l'instruction appartient également au procureur de la République.
 
 
 ###### Article 148-1
 
 La mise en liberté peut aussi être demandée en tout état de cause par toute personne mise en examen, tout prévenu ou accusé, et en toute période de la procédure.
 
-Lorsqu'une juridiction de jugement est saisie, il lui appartient de statuer sur la liberté provisoire ; avant le renvoi en cour d'assises et dans l'intervalle des sessions d'assises, ce pouvoir appartient à la chambre d'accusation.
+Lorsqu'une juridiction de jugement est saisie, il lui appartient de statuer sur la détention provisoire. Toutefois, en matière criminelle, la cour d'assises n'est compétente que lorsque la demande est formée durant la session au cours de laquelle elle doit juger l'accusé. Dans les autres cas, la demande est examinée par la chambre de l'instruction.
 
-En cas de pourvoi et jusqu'à l'arrêt de la Cour de cassation, il est statué sur la demande de mise en liberté par la juridiction qui a connu en dernier lieu de l'affaire au fond. Si le pourvoi a été formé contre un arrêt de la cour d'assises, il est statué sur la détention par la chambre d'accusation.
+En cas de pourvoi et jusqu'à l'arrêt de la Cour de cassation, il est statué sur la demande de mise en liberté par la juridiction qui a connu en dernier lieu de l'affaire au fond. Si le pourvoi a été formé contre un arrêt de la cour d'assises, il est statué sur la détention par la chambre de l'instruction.
 
-En cas de décision d'incompétence et généralement dans tous les cas où aucune juridiction n'est saisie, la chambre d'accusation connaît des demandes de mise en liberté.
+En cas de décision d'incompétence et généralement dans tous les cas où aucune juridiction n'est saisie, la chambre de l'instruction connaît des demandes de mise en liberté.
 
 
 ###### Article 148-2
@@ -2057,7 +2260,7 @@ Mention de cet avis, ainsi que de la déclaration d'adresse, est portée soit au
 
 ###### Article 148-4
 
-A l'expiration d'un délai de quatre mois depuis sa dernière comparution devant le juge d'instruction ou le magistrat par lui délégué et tant que l'ordonnance de règlement n'a pas été rendue, la personne détenue ou son avocat peut saisir directement d'une demande de mise en liberté la chambre d'accusation qui statue dans les conditions prévues à l'article 148 (dernier alinéa).
+A l'expiration d'un délai de quatre mois depuis sa dernière comparution devant le juge d'instruction ou le magistrat par lui délégué et tant que l'ordonnance de règlement n'a pas été rendue, la personne détenue ou son avocat peut saisir directement d'une demande de mise en liberté la chambre de l'instruction qui statue dans les conditions prévues à l'article 148 (dernier alinéa).
 
 
 ###### Article 148-5
@@ -2085,9 +2288,9 @@ Ce document est adressé sans délai, en original ou en copie et par tout moyen,
 
 ###### Article 148-8
 
-Lorsque la personne mise en examen entend saisir la chambre d'accusation en application des dispositions des articles 140, troisième alinéa, 148, sixième alinéa, ou 148-4, sa demande est faite, dans les formes prévues par les articles 148-6 et 148-7, au greffier de la chambre d'accusation compétente ou au chef de l'établissement pénitentiaire qui en assure la transmission.
+Lorsque la personne mise en examen entend saisir la chambre de l'instruction en application des dispositions des articles 140, troisième alinéa, 148, sixième alinéa, ou 148-4, sa demande est faite, dans les formes prévues par les articles 148-6 et 148-7, au greffier de la chambre de l'instruction compétente ou au chef de l'établissement pénitentiaire qui en assure la transmission.
 
-Lorsque le président de la chambre d'accusation constate que cette juridiction a été directement saisie, sur le fondement des articles 140, 148, sixième alinéa, ou 148-4, d'une demande de mainlevée du contrôle judiciaire ou de mise en liberté manifestement irrecevable, il peut décider, par une ordonnance motivée non susceptible de voie de recours, qu'il n'y a pas lieu de statuer sur cette demande ; dans ce cas, la demande et l'ordonnance sont versées au dossier de la procédure.
+Lorsque le président de la chambre de l'instruction constate que cette juridiction a été directement saisie, sur le fondement des articles 140, 148, sixième alinéa, ou 148-4, d'une demande de mainlevée du contrôle judiciaire ou de mise en liberté manifestement irrecevable, il peut décider, par une ordonnance motivée non susceptible de voie de recours, qu'il n'y a pas lieu de statuer sur cette demande ; dans ce cas, la demande et l'ordonnance sont versées au dossier de la procédure.
 
 
 ###### Sous-section 3 : De la réparation à raison d'une détention
@@ -2152,6 +2355,43 @@ Les fonctions du ministère public sont remplies par le parquet général près 
 La personne mise en examen, présumée innocente, reste libre. Toutefois, en raison des nécessités de l'instruction ou à titre de mesure de sûreté, elle peut être astreinte à une ou plusieurs obligations du contrôle judiciaire. Lorsque celles-ci se révèlent insuffisantes au regard de ces objectifs, elle peut, à titre exceptionnel, être placée en détention provisoire.
 
 
+##### Article 137-1
+
+La détention provisoire est ordonnée ou prolongée par le juge des libertés et de la détention. Les demandes de mise en liberté lui sont également soumises.
+
+Le juge des libertés et de la détention est un magistrat du siège ayant rang de président, de premier vice-président ou de vice-président. Il est désigné par le président du tribunal de grande instance. Lorsqu'il statue à l'issue d'un débat contradictoire, il est assisté d'un greffier. Il peut alors faire application des dispositions de l'article 93.
+
+Il ne peut, à peine de nullité, participer au jugement des affaires pénales dont il a connu.
+
+Il est saisi par une ordonnance motivée du juge d'instruction, qui lui transmet le dossier de la procédure accompagné des réquisitions du procureur de la République.
+
+
+##### Article 137-2
+
+Le contrôle judiciaire est ordonné par le juge d'instruction, qui statue après avoir recueilli les réquisitions du procureur de la République.
+
+Le contrôle judiciaire peut être également ordonné par le juge des libertés et de la détention, lorsqu'il est saisi.
+
+
+##### Article 137-3
+
+Le juge des libertés et de la détention statue par ordonnance motivée. Lorsqu'il ordonne ou prolonge une détention provisoire ou qu'il rejette une demande de mise en liberté, l'ordonnance doit comporter l'énoncé des considérations de droit et de fait sur le caractère insuffisant des obligations du contrôle judiciaire et le motif de la détention par référence aux seules dispositions des articles 143-1 et 144.
+
+Dans tous les cas, l'ordonnance est notifiée à la personne mise en examen qui en reçoit copie intégrale contre émargement au dossier de la procédure.
+
+
+##### Article 137-4
+
+Le juge d'instruction n'est pas tenu de statuer par ordonnance dans les cas suivants :
+1. Lorsque, saisi de réquisitions du procureur de la République tendant au placement en détention provisoire ou demandant la prolongation de celle-ci, il ne transmet pas le dossier de la procédure au juge des libertés et de la détention ;
+2. Lorsqu'il ne suit pas les réquisitions du procureur de la République tendant au prononcé d'une mesure de contrôle judiciaire.
+
+
+##### Article 137-5
+
+Lorsqu'il n'a pas été fait droit à ses réquisitions tendant au placement en détention provisoire ou sous contrôle judiciaire de la personne mise en examen, ou à la prolongation de la détention provisoire, le procureur de la République peut saisir directement la chambre de l'instruction dans les dix jours de l'avis de notification qui lui est donné par le greffier.
+
+
 ##### Section 8 : Des commissions rogatoires
 
 ##### Article 151
@@ -2169,27 +2409,27 @@ Le juge d'instruction fixe le délai dans lequel la commission rogatoire doit lu
 
 Les magistrats ou officiers de police judiciaire commis pour l'exécution exercent, dans les limites de la commission rogatoire, tous les pouvoirs du juge d'instruction.
 
-Toutefois, les officiers de police judiciaire ne peuvent pas procéder aux interrogatoires et confrontations des personnes mises en examen ou des personnes mentionnées au deuxième alinéa de l'article 105. Ils ne peuvent procéder à l'audition des parties civiles ou de la personne bénéficiant des dispositions de l'article 104 qu'à la demande de celles-ci.
+Toutefois, les officiers de police judiciaire ne peuvent pas procéder aux interrogatoires et confrontations des personnes mises en examen. Ils ne peuvent procéder à l'audition des parties civiles ou du témoin assisté qu'à la demande de ceux-ci.
 
 
 ##### Article 153
 
-Tout témoin cité pour être entendu au cours de l'exécution d'une commission rogatoire est tenu de comparaître, de prêter serment et de déposer.
+Tout témoin cité pour être entendu au cours de l'exécution d'une commission rogatoire est tenu de comparaître, de prêter serment et de déposer. Lorsqu'il n'existe aucun indice faisant présumer qu'il a commis ou tenté de commettre une infraction, il ne peut être retenu que le temps strictement nécessaire à son audition.
 
-S'il ne satisfait pas à cette obligation, avis en est donné au magistrat mandant qui peut le contraindre à comparaître par la force publique et prendre contre lui les sanctions prévues à l'article 109, alinéas 2 et 3.
+S'il ne satisfait pas à cette obligation, avis en est donné au magistrat mandant qui peut le contraindre à comparaître par la force publique et prendre contre lui les sanctions prévues aux troisième et quatrième alinéas de l'article 109.
 
 Lorsqu'il est fait application des dispositions de l'article 62-1, l'autorisation est donnée par le juge d'instruction.
 
 
 ##### Article 154
 
-Lorsque l'officier de police judiciaire est amené, pour les nécessités de l'exécution de la commission rogatoire, à garder une personne à sa disposition, il en informe dans les meilleurs délais le juge d'instruction saisi des faits, qui contrôle la mesure de garde à vue. Il ne peut retenir cette personne plus de vingt-quatre heures.
+Lorsque l'officier de police judiciaire est amené, pour les nécessités de l'exécution de la commission rogatoire, à garder à sa disposition une personne à l'encontre de laquelle il existe des indices faisant présumer qu'elle a commis ou tenté de commettre une infraction, il en informe dès le début de cette mesure le juge d'instruction saisi des faits. Ce dernier contrôle la mesure de garde à vue. L'officier de police judiciaire ne peut retenir la personne plus de vingt-quatre heures.
 
 La personne doit être présentée avant l'expiration du délai de vingt-quatre heures à ce magistrat ou, si la commission rogatoire est exécutée dans un autre ressort que celui de son siège, au juge d'instruction du lieu d'exécution de la mesure. A l'issue de cette présentation, le juge d'instruction peut accorder l'autorisation écrite de prolonger la mesure d'un nouveau délai, sans que celui-ci puisse excéder vingt-quatre heures. Il peut, à titre exceptionnel, accorder cette autorisation par décision écrite et motivée sans présentation préalable de la personne.
 
 Pour l'application du présent article, les ressorts des tribunaux de grande instance de Paris, Nanterre, Bobigny et Créteil constituent un seul et même ressort.
 
-Les dispositions des articles 63-1, 63-2, 63-3, 63-4, 64 et 65 sont applicables aux gardes à vue exécutées dans le cadre de la présente section. Les pouvoirs conférés au procureur de la République par les articles 63-2 et 63-3 sont alors exercés par le juge d'instruction. Le deuxième alinéa de l'article 63 est également applicable en matière de commission rogatoire.
+Les dispositions des articles 63-1, 63-2, 63-3, 63-4, 64 et 65 sont applicables aux gardes à vue exécutées dans le cadre de la présente section. Les pouvoirs conférés au procureur de la République par les articles 63-2 et 63-3 sont alors exercés par le juge d'instruction. L'information prévue au troisième alinéa de l'article 63-4 précise que la garde à vue intervient dans le cadre d'une commission rogatoire.
 
 
 ##### Article 155
@@ -2203,7 +2443,7 @@ Elle peut même, en cas d'urgence, être diffusée par tous moyens ; chaque diff
 
 ##### Article 156
 
-Toute juridiction d'instruction ou de jugement, dans le cas où se pose une question d'ordre technique, peut, soit à la demande du ministère public, soit d'office, ou à la demande des parties, ordonner une expertise.
+Toute juridiction d'instruction ou de jugement, dans le cas où se pose une question d'ordre technique, peut, soit à la demande du ministère public, soit d'office, ou à la demande des parties, ordonner une expertise. Le ministère public ou la partie qui demande une expertise peut préciser dans sa demande les questions qu'il voudrait voir poser à l'expert.
 
 Lorsque le juge d'instruction estime ne pas devoir faire droit à une demande d'expertise, il doit rendre une ordonnance motivée au plus tard dans un délai d'un mois à compter de la réception de la demande. Les dispositions des neuvième et dixième alinéas de l'article 81 sont applicables.
 
@@ -2278,7 +2518,7 @@ La personne mise en examen peut, cependant, renoncer au bénéfice de cette disp
 
 Toutefois, les médecins et les psychologues experts chargés d'examiner la personne mise en examen peuvent lui poser les questions nécessaires à l'accomplissement de leur mission, hors la présence du juge et des avocats.
 
-Les dispositions du présent article sont également applicables à la personne bénéficiant des dispositions de l'article 104.
+Les dispositions du présent article sont également applicables au témoin assisté et à la partie civile.
 
 
 ##### Article 165
@@ -2297,9 +2537,9 @@ Le rapport et les scellés, ou leurs résidus, sont déposés entre les mains du
 
 ##### Article 167
 
-Le juge d'instruction donne connaissance des conclusions des experts aux parties et à leurs avocats après les avoir convoqués conformément aux dispositions du deuxième alinéa de l'article 114. Il leur donne également connaissance, s'il y a lieu, des conclusions des rapports des personnes requises en application des articles 60 et 77-1, lorsqu'il n'a pas été fait application des dispositions du quatrième alinéa de l'article 60.
+Le juge d'instruction donne connaissance des conclusions des experts aux parties et à leurs avocats après les avoir convoqués conformément aux dispositions du deuxième alinéa de l'article 114. Il leur donne également connaissance, s'il y a lieu, des conclusions des rapports des personnes requises en application des articles 60 et 77-1, lorsqu'il n'a pas été fait application des dispositions du quatrième alinéa de l'article 60. Une copie de l'intégralité du rapport est alors remise, à leur demande, aux avocats des parties.
 
-Les conclusions peuvent également être notifiées par lettre recommandée ou, lorsque la personne est détenue, par les soins du chef de l'établissement pénitentiaire qui adresse, sans délai, au juge d'instruction l'original ou la copie du récépissé signé par l'intéressé.
+Les conclusions peuvent également être notifiées par lettre recommandée ou, lorsque la personne est détenue, par les soins du chef de l'établissement pénitentiaire qui adresse, sans délai, au juge d'instruction l'original ou la copie du récépissé signé par l'intéressé. L'intégralité du rapport peut aussi être notifiée, à leur demande, aux avocats des parties par lettre recommandée.
 
 Dans tous les cas, le juge d'instruction fixe un délai aux parties pour présenter des observations ou formuler une demande, notamment aux fins de complément d'expertise ou de contre-expertise. Cette demande doit être formée conformément aux dispositions du dixième alinéa de l'article 81. Pendant ce délai, le dossier de la procédure est mis à la disposition des conseils des parties.
 
@@ -2334,7 +2574,7 @@ Les dispositions des articles 168 et 169 sont applicables aux personnes appelée
 
 ##### Article 170
 
-En toute matière, la chambre d'accusation peut, au cours de l'information, être saisie aux fins d'annulation d'un acte ou d'une pièce de la procédure par le juge d'instruction, par le procureur de la République ou par les parties.
+En toute matière, la chambre de l'instruction peut, au cours de l'information, être saisie aux fins d'annulation d'un acte ou d'une pièce de la procédure par le juge d'instruction, par le procureur de la République ou par les parties.
 
 
 ##### Article 171
@@ -2349,24 +2589,36 @@ La partie envers laquelle une formalité substantielle a été méconnue peut re
 
 ##### Article 173
 
-S'il apparaît au juge d'instruction qu'un acte ou une pièce de la procédure est frappé de nullité, il saisit la chambre d'accusation aux fins d'annulation, après avoir pris l'avis du procureur de la République et avoir informé les parties.
+S'il apparaît au juge d'instruction qu'un acte ou une pièce de la procédure est frappé de nullité, il saisit la chambre de l'instruction aux fins d'annulation, après avoir pris l'avis du procureur de la République et avoir informé les parties.
 
-Si le procureur de la République estime qu'une nullité a été commise, il requiert du juge d'instruction communication de la procédure en vue de sa transmission à la chambre d'accusation, présente requête aux fins d'annulation à cette chambre et en informe les parties.
+Si le procureur de la République estime qu'une nullité a été commise, il requiert du juge d'instruction communication de la procédure en vue de sa transmission à la chambre de l'instruction, présente requête aux fins d'annulation à cette chambre et en informe les parties.
 
-Si l'une des parties estime qu'une nullité a été commise, elle saisit la chambre d'accusation par requête motivée, dont elle adresse copie au juge d'instruction qui transmet le dossier de la procédure au président de la chambre d'accusation. La requête doit, à peine d'irrecevabilité, faire l'objet d'une déclaration au greffe de la chambre d'accusation. Elle est constatée et datée par le greffier qui la signe ainsi que le demandeur ou son avocat. Si le demandeur ne peut signer, il en est fait mention par le greffier. Lorsque le demandeur ou son avocat ne réside pas dans le ressort de la juridiction compétente, la déclaration au greffe peut être faite au moyen d'une lettre recommandée avec demande d'avis de réception. Lorsque la personne mise en examen est détenue, la requête peut également être faite au moyen d'une déclaration auprès du chef de l'établissement pénitentiaire. Cette déclaration est constatée et datée par le chef de l'établissement pénitentiaire qui la signe, ainsi que le demandeur. Si celui-ci ne peut signer, il en est fait mention par le chef de l'établissement. Ce document est adressé sans délai, en original ou en copie et par tout moyen, au greffe de la chambre d'accusation.
+Si l'une des parties estime qu'une nullité a été commise, elle saisit la chambre de l'instruction par requête motivée, dont elle adresse copie au juge d'instruction qui transmet le dossier de la procédure au président de la chambre de l'instruction. La requête doit, à peine d'irrecevabilité, faire l'objet d'une déclaration au greffe de la chambre de l'instruction. Elle est constatée et datée par le greffier qui la signe ainsi que le demandeur ou son avocat. Si le demandeur ne peut signer, il en est fait mention par le greffier. Lorsque le demandeur ou son avocat ne réside pas dans le ressort de la juridiction compétente, la déclaration au greffe peut être faite au moyen d'une lettre recommandée avec demande d'avis de réception. Lorsque la personne mise en examen est détenue, la requête peut également être faite au moyen d'une déclaration auprès du chef de l'établissement pénitentiaire. Cette déclaration est constatée et datée par le chef de l'établissement pénitentiaire qui la signe, ainsi que le demandeur. Si celui-ci ne peut signer, il en est fait mention par le chef de l'établissement. Ce document est adressé sans délai, en original ou en copie et par tout moyen, au greffe de la chambre de l'instruction.
 
 Les dispositions des trois premiers alinéas ne sont pas applicables aux actes de procédure qui peuvent faire l'objet d'un appel de la part des parties, et notamment des décisions rendues en matière de détention provisoire ou de contrôle judiciaire.
 
-Dans les huit jours de la réception du dossier par le greffe de la chambre d'accusation, le président peut, par ordonnance non susceptible de recours, constater que la requête est irrecevable en application du présent article, troisième ou quatrième alinéa, des articles 174, premier alinéa, ou 175, deuxième alinéa ; il peut également constater l'irrecevabilité de la requête si celle-ci n'est pas motivée. S'il constate l'irrecevabilité de la requête, le président de la chambre d'accusation ordonne que le dossier de l'information soit renvoyé au juge d'instruction ; dans les autres cas, il le transmet au procureur général qui procède ainsi qu'il est dit aux articles 194 et suivants.
+Dans les huit jours de la réception du dossier par le greffe de la chambre de l'instruction, le président peut, par ordonnance non susceptible de recours, constater que la requête est irrecevable en application du présent article, troisième ou quatrième alinéa, de l'article 173-1, des articles 174, premier alinéa, ou 175, deuxième alinéa ; il peut également constater l'irrecevabilité de la requête si celle-ci n'est pas motivée. S'il constate l'irrecevabilité de la requête, le président de la chambre de l'instruction ordonne que le dossier de l'information soit renvoyé au juge d'instruction ; dans les autres cas, il le transmet au procureur général qui procède ainsi qu'il est dit aux articles 194 et suivants.
+
+
+##### Article 173-1
+
+Sous peine d'irrecevabilité, la personne mise en examen doit faire état des moyens pris de la nullité des actes accomplis avant son interrogatoire de première comparution ou de cet interrogatoire lui-même dans un délai de six mois à compter de la notification de sa mise en examen, sauf dans le cas où elle n'aurait pu les connaître.
+
+Il en est de même pour la partie civile à compter de sa première audition.
 
 
 ##### Article 174
 
-Lorsque la chambre d'accusation est saisie sur le fondement de l'article 173, tous moyens pris de nullité de la procédure qui lui est transmise doivent, sans préjudice du droit qui lui appartient de les relever d'office, lui être proposés. A défaut, les parties ne sont plus recevables à en faire état, sauf le cas où elles n'auraient pu les connaître.
+Lorsque la chambre de l'instruction est saisie sur le fondement de l'article 173, tous moyens pris de nullité de la procédure qui lui est transmise doivent, sans préjudice du droit qui lui appartient de les relever d'office, lui être proposés. A défaut, les parties ne sont plus recevables à en faire état, sauf le cas où elles n'auraient pu les connaître.
 
-La chambre d'accusation décide si l'annulation doit être limitée à tout ou partie des actes ou pièces de la procédure viciée ou s'étendre à tout ou partie de la procédure ultérieure et procède comme il est dit au troisième alinéa de l'article 206.
+La chambre de l'instruction décide si l'annulation doit être limitée à tout ou partie des actes ou pièces de la procédure viciée ou s'étendre à tout ou partie de la procédure ultérieure et procède comme il est dit au troisième alinéa de l'article 206.
 
 Les actes ou pièces annulés sont retirés du dossier d'information et classés au greffe de la cour d'appel. Les actes ou pièces de la procédure partiellement annulés sont cancellés après qu'a été établie une copie certifiée conforme à l'original, qui est classée au greffe de la cour d'appel. Il est interdit de tirer des actes et des pièces ou parties d'actes ou de pièces annulés aucun renseignement contre les parties, à peine de poursuites disciplinaires pour les avocats et les magistrats.
+
+
+##### Article 174-1
+
+Lorsque la chambre de l'instruction annule une mise en examen pour violation des dispositions de l'article 80-1, la personne est considérée comme témoin assisté à compter de son interrogatoire de première comparution et pour l'ensemble de ses interrogatoires ultérieurs, jusqu'à l'issue de l'information, sous réserve des dispositions des articles 113-6 et 113-8.
 
 
 ##### Section 11 : Des ordonnances de règlement
@@ -2381,16 +2633,32 @@ A l'issue de ce délai, le juge d'instruction communique le dossier au procureur
 
 Le juge d'instruction qui ne reçoit pas de réquisitions dans le délai prescrit peut rendre l'ordonnance de règlement.
 
-Les dispositions du premier alinéa sont également applicables à la personne bénéficiant des dispositions de l'article 104.
+Les dispositions du premier alinéa sont également applicables au témoin assisté.
 
 
 ##### Article 175-1
 
-Toute personne mise en examen ou la partie civile peut, à l'expiration d'un délai d'un an à compter, selon le cas, de la date à laquelle elle a été mise en examen ou du jour de sa constitution de partie civile, demander au juge d'instruction de prononcer le renvoi devant la juridiction de jugement ou de déclarer qu'il n'y a pas lieu à suivre.
+La personne mise en examen, le témoin assisté ou la partie civile peut, à l'expiration du délai qui lui a été indiqué en application du huitième alinéa de l'article 116 ou du deuxième alinéa de l'article 89-1 à compter, respectivement, de la date de la mise en examen, de la première audition ou de la constitution de partie civile, demander au juge d'instruction, selon les modalités prévues au dixième alinéa de l'article 81, de prononcer le renvoi ou la mise en accusation devant la juridiction de jugement ou de déclarer qu'il n'y a pas lieu à suivre, y compris en procédant, le cas échéant, à une disjonction. Cette demande peut également être formée lorsque aucun acte d'instruction n'a été accompli pendant un délai de quatre mois.
 
-Dans le délai d'un mois à compter de la réception de cette demande, le juge d'instruction, par ordonnance spécialement motivée, fait droit à celle-ci ou déclare qu'il y a lieu à poursuivre l'information. Dans le premier cas, il procède selon les modalités prévues à la présente section.
+Dans le délai d'un mois à compter de la réception de cette demande, le juge d'instruction y fait droit ou déclare, par ordonnance motivée, qu'il y a lieu à poursuivre l'information. Dans le premier cas, il procède selon les modalités prévues à la présente section. Dans le second cas, ou à défaut pour le juge d'avoir statué dans le délai d'un mois, la personne mise en examen, le témoin assisté ou la partie civile peut saisir le président de la chambre de l'instruction en application de l'article 207-1. Cette saisine doit intervenir dans les cinq jours qui suivent la notification de la décision du juge ou l'expiration du délai d'un mois.
 
-A défaut par le juge d'instruction d'avoir statué dans le délai fixé à l'alinéa précédent, la personne peut saisir directement de sa demande la chambre d'accusation qui, sur les réquisitions écrites et motivées du procureur général, se prononce dans les vingt jours de sa saisine.
+Lorsque le juge d'instruction a déclaré qu'il poursuivait son instruction, une nouvelle demande peut être formée à l'expiration d'un délai de six mois.
+
+Les dispositions du présent article ne sont pas applicables après l'envoi de l'avis prévu au premier alinéa de l'article 175.
+
+
+##### Article 175-2
+
+En toute matière, la durée de l'instruction ne peut excéder un délai raisonnable au regard de la gravité des faits reprochés à la personne mise en examen, de la complexité des investigations nécessaires à la manifestation de la vérité et de l'exercice des droits de la défense.
+
+Si, à l'issue d'un délai de deux ans à compter de l'ouverture de l'information, celle-ci n'est pas terminée, le juge d'instruction rend une ordonnance motivée par référence aux critères prévus à l'alinéa précédent, expliquant les raisons de la durée de la procédure, comportant les indications qui justifient la poursuite de l'information et précisant les perspectives de règlement. Cette ordonnance est communiquée au président de la chambre de l'instruction qui peut, par requête, saisir cette juridiction conformément aux dispositions de l'article 221-1.
+
+L'ordonnance prévue à l'alinéa précédent doit être renouvelée tous les six mois.
+
+
+##### Article 175-3
+
+Le juge d'instruction informe tous les six mois la partie civile de l'avancement de l'instruction.
 
 
 ##### Article 176
@@ -2404,7 +2672,7 @@ Si le juge d'instruction estime que les faits ne constituent ni crime, ni délit
 
 Les personnes mises en examen qui sont provisoirement détenues sont mises en liberté. L'ordonnance met fin au contrôle judiciaire.
 
-Le juge d'instruction statue par la même ordonnance sur la restitution des objets placés sous main de justice. Il peut refuser la restitution lorsque celle-ci présente un danger pour les personnes ou les biens. La décision relative à la restitution peut être déférée, par tout personne qui y a intérêt, à la chambre d'accusation dans les conditions et selon les modalités prévues par l'article 99.
+Le juge d'instruction statue par la même ordonnance sur la restitution des objets placés sous main de justice. Il peut refuser la restitution lorsque celle-ci présente un danger pour les personnes ou les biens. La décision relative à la restitution peut être déférée, par tout personne qui y a intérêt, à la chambre de l'instruction dans les conditions et selon les modalités prévues par l'article 99.
 
 
 ##### Article 177-1
@@ -2446,9 +2714,11 @@ L'ordonnance de règlement met fin à la détention provisoire ou au contrôle j
 
 Toutefois, le juge d'instruction peut, par ordonnance distincte spécialement motivée, maintenir le prévenu en détention ou sous contrôle judiciaire jusqu'à sa comparution devant le tribunal. En cas de maintien en détention provisoire, les éléments de l'espèce expressément énoncés dans l'ordonnance doivent justifier cette mesure particulière par la nécessité d'empêcher une pression sur les témoins ou les victimes, de prévenir le renouvellement de l'infraction, de protéger le prévenu ou de garantir son maintien à la disposition de la justice. La même ordonnance peut également être prise lorsque l'infraction, en raison de sa gravité, des circonstances de sa commission ou de l'importance du préjudice qu'elle a causé, a provoqué un trouble exceptionnel et persistant à l'ordre public auquel le maintien en détention provisoire demeure l'unique moyen de mettre fin.
 
-L'ordonnance prescrivant le maintien en détention provisoire cesse de produire effet à l'expiration d'un délai de deux mois.
+Le prévenu en détention est immédiatement remis en liberté si le tribunal correctionnel n'a pas commencé à examiner au fond à l'expiration d'un délai de deux mois à compter de la date de l'ordonnance de renvoi.
 
-Lorsqu'elle est devenue définitive, cette ordonnance couvre, s'il en existe, les vices de la procédure.
+Toutefois, si l'audience sur le fond ne peut se tenir avant l'expiration de ce délai, le tribunal peut, à titre exceptionnel, par une décision mentionnant les raisons de fait ou de droit faisant obstacle au jugement de l'affaire, ordonner la prolongation de la détention pour une nouvelle durée de deux mois. La comparution personnelle du prévenu est de droit si lui-même ou son avocat en font la demande. Cette décision peut être renouvelée une fois dans les mêmes formes. Si le prévenu n'a toujours pas été jugé à l'issue de cette nouvelle prolongation, il est remis immédiatement en liberté.
+
+Lorsqu'elle est devenue définitive, l'ordonnance mentionnée au premier alinéa couvre, s'il en existe, les vices de la procédure.
 
 
 ##### Article 180
@@ -2460,11 +2730,23 @@ Si la juridiction correctionnelle est saisie, le procureur de la République doi
 
 ##### Article 181
 
-Si le juge d'instruction estime que les faits constituent une infraction qualifiée crime par la loi, il ordonne que le dossier de la procédure et un état des pièces servant à conviction soient transmis sans délai par le procureur de la République au procureur général près la cour d'appel, pour être procédé ainsi qu'il est dit au chapitre de la chambre de l'instruction.
+Si le juge d'instruction estime que les faits retenus à la charge des personnes mises en examen constituent une infraction qualifiée crime par la loi, il ordonne leur mise en accusation devant la cour d'assises.
 
-Le mandat d'arrêt ou de dépôt décerné contre la personne mise en examen conserve sa force exécutoire jusqu'à ce qu'il ait été statué par la chambre de l'instruction. Le contrôle judiciaire continue à produire ses effets.
+Il peut également saisir cette juridiction des infractions connexes.
 
-Les pièces à conviction restent au greffe du tribunal sauf dispositions contraires.
+L'ordonnance de mise en accusation contient, à peine de nullité, l'exposé et la qualification légale des fait, objet de l'accusation, et précise l'identité de l'accusé.
+
+Lorsqu'elle est devenue définitive, l'ordonnance de mise en accusation couvre, s'il en existe, les vices de la procédure.
+
+Le contrôle judiciaire dont fait l'objet l'accusé continue à produire ses effets.
+
+La détention provisoire ou le contrôle judiciaire des personnes renvoyées pour délit connexe prend fin, sauf s'il est fait application des dispositions du troisième alinéa de l'article 179. Le délai prévu par le quatrième alinéa de l'article 179 est alors porté à six mois.
+
+L'ordonnance de mise en accusation ordonne également prise de corps contre l'accusé, et contre les personnes renvoyées pour délits connexes.
+
+Le juge d'instruction transmet le dossier avec son ordonnance au procureur de la République. Celui-ci est tenu de l'envoyer sans retard au greffe de la cour d'assises.
+
+Les pièces à conviction, dont il est dressé état, sont transmises au greffe de la cour d'assises si celle-ci siège dans un autre tribunal que celui du juge d'instruction.
 
 
 ##### Article 182
@@ -2478,7 +2760,7 @@ Les personnes ayant fait l'objet d'une ordonnance de renvoi partiel ou de transm
 
 ##### Article 183
 
-Les et ordonnances de règlement sont portées à la connaissance de la personne mise en examen et de la personne bénéficiant des dispositions de l'article 104 et les ordonnances de renvoi ou de transmission des pièces au procureur général à la connaissance de la partie civile ; la notification est effectuée dans les délais les plus brefs soit verbalement, avec émargement au dossier de la procédure, soit par lettre recommandée.
+Les ordonnances de règlement sont portées à la connaissance de la personne mise en examen et du témoin assisté et les ordonnances de renvoi ou de mise en accusation à la connaissance de la partie civile ; la notification est effectuée dans les délais les plus brefs soit verbalement, avec émargement au dossier de la procédure, soit par lettre recommandée.
 
 Sous réserve de l'application de l'article 145, premier alinéa, les décisions qui sont susceptibles de faire l'objet de voies de recours de la part d'une partie à la procédure ou d'un tiers conformément aux articles 99, 186 et 186-1 leur sont notifiées dans les délais les plus brefs soit verbalement, avec émargement au dossier de la procédure, soit par lettre recommandée. Si la personne mise en examen est détenue, elles peuvent, également être portées à sa connaissance par les soins du chef de l'établissement pénitentiaire qui adresse, sans délai, au juge d'instruction l'original ou la copie du récépissé signé par la personne. Dans tous les cas, une copie de l'acte est remise à l'intéressée.
 
@@ -2496,67 +2778,79 @@ Dans tous les cas, mention est portée au dossier par le greffier de la nature e
 Les ordonnances rendues par le juge d'instruction en vertu de la présente section contiennent les nom, prénoms, date, lieu de naissance, domicile et profession de la personne mise en examen. Elles indiquent la qualification légale du fait imputé à celle-ci et, de façon précise, les motifs pour lesquels il existe ou non contre elle des charges suffisantes.
 
 
-##### Section 12 : De l'appel des ordonnances du juge d'instruction
+##### Section 12 : De l'appel des ordonnances du juge d'instruction ou du juge des libertés et de la détention
 
 ##### Article 185
 
-Le procureur de la République a le droit d'interjeter appel devant la chambre d'accusation de toute ordonnance du juge d'instruction.
+Le procureur de la République a le droit d'interjeter appel devant la chambre de l'instruction de toute ordonnance du juge d'instruction ou du juge des libertés et de la détention.
 
 Cet appel formé par déclaration au greffe du tribunal, doit être interjeté dans les cinq jours qui suivent la notification de la décision.
 
-Le droit d'appel appartient également dans tous les cas au procureur général. Il doit signifier son appel aux parties dans les dix jours qui suivent l'ordonnance du juge d'instruction.
+En cas d'appel par la personne mise en examen de l'ordonnance de mise en accusation prévue par l'article 181, le procureur de la République dispose d'un délai d'appel incident de cinq jours supplémentaires à compter de l'appel de la personne mise en examen.
+
+Le droit d'appel appartient également dans tous les cas au procureur général. Il doit signifier son appel aux parties dans les dix jours qui suivent l'ordonnance du juge d'instruction ou du juge des libertés et de la détention.
 
 
 ##### Article 186
 
-Le droit d'appel appartient à la personne mise en examen contre les ordonnances et décisions prévues par les articles 87, 139, 140, 145, premier alinéa, 145-1, 145-2, 148 et 179, troisième alinéa.
+Le droit d'appel appartient à la personne mise en examen contre les ordonnances et décisions prévues par les articles 87, 139, 140, 137-3, 145-1, 145-2, 148, 179, troisième alinéa, et 181.
 
 La partie civile peut interjeter appel des ordonnances de non-informer, de non-lieu et des ordonnances faisant grief à ses intérêts civils. Toutefois, son appel ne peut, en aucun cas, porter sur une ordonnance ou sur la disposition d'une ordonnance relative à la détention de la personne mise en examen ou au contrôle judiciaire.
 
 Les parties peuvent aussi interjeter appel de l'ordonnance par laquelle le juge a, d'office ou sur déclinatoire, statué sur sa compétence.
 
-L'appel des parties ou du témoin condamné en application des dispositions de l'article 109 ainsi que la requête prévue par le cinquième alinéa de l'article 99 doivent être formés dans les conditions et selon les modalités prévues par les articles 502 et 503, dans les dix jours qui suivent la notification ou la signification de la décision.
+L'appel des parties ainsi que la requête prévue par le cinquième alinéa de l'article 99 doivent être formés dans les conditions et selon les modalités prévues par les articles 502 et 503, dans les dix jours qui suivent la notification ou la signification de la décision.
 
 Le dossier de l'information ou sa copie établie conformément à l'article 81 est transmis, avec l'avis motivé du procureur de la République, au procureur général, qui procède ainsi qu'il est dit aux articles 194 et suivants.
 
-Si le président de la chambre d'accusation constate qu'il a été fait appel d'une ordonnance non visée aux alinéas 1 à 3 du présent article, il rend d'office une ordonnance de non-admission de l'appel qui n'est pas susceptible de voies de recours.
+Si le président de la chambre de l'instruction constate qu'il a été fait appel d'une ordonnance non visée aux alinéas 1 à 3 du présent article, il rend d'office une ordonnance de non-admission de l'appel qui n'est pas susceptible de voies de recours.
 
 
 ##### Article 186-1
 
-Les parties peuvent aussi interjeter appel des ordonnances prévues par le neuvième alinéa de l'article 81, par l'article 82-1, par le deuxième alinéa de l'article 156 et le quatrième alinéa de l'article 167.
+Les parties peuvent aussi interjeter appel des ordonnances prévues par le neuvième alinéa de l'article 81, par les articles 82-1 et 82-3, par le deuxième alinéa de l'article 156 et le quatrième alinéa de l'article 167.
 
-Dans ce cas, le dossier de l'information, ou sa copie établie conformément à l'article 81, est transmis avec l'avis motivé du procureur de la République au président de la chambre d'accusation.
+Dans ce cas, le dossier de l'information, ou sa copie établie conformément à l'article 81, est transmis avec l'avis motivé du procureur de la République au président de la chambre de l'instruction.
 
-Dans les huit jours de la réception de ce dossier, le président décide, par une ordonnance qui n'est pas susceptible de voie de recours, s'il y a lieu ou non de saisir la chambre d'accusation de cet appel.
+Dans les huit jours de la réception de ce dossier, le président décide, par une ordonnance qui n'est pas susceptible de voie de recours, s'il y a lieu ou non de saisir la chambre de l'instruction de cet appel.
 
 Dans l'affirmative, il transmet le dossier au procureur général qui procède ainsi qu'il est dit aux articles 194 et suivants.
 
 Dans la négative, il ordonne par décision motivée que le dossier de l'information soit renvoyé au juge d'instruction.
 
 
+##### Article 186-2
+
+En cas d'appel contre une ordonnance prévue par l'article 181, la chambre de l'instruction statue dans les quatre mois de l'ordonnance, faute de quoi, si la personne est détenue, elle est mise d'office en liberté.
+
+
 ##### Article 187
 
-Lorsqu'il est interjeté appel d'une ordonnance autre qu'une ordonnance de règlement ou que la chambre d'accusation est directement saisie, en application des articles 81, neuvième alinéa, 82-1, deuxième alinéa, 156, deuxième alinéa, ou 167, quatrième alinéa, le juge d'instruction poursuit son information, y compris, le cas échéant, jusqu'au règlement de celle-ci, sauf décision contraire du président de la chambre d'accusation. Cette décision n'est pas susceptible de recours.
+Lorsqu'il est interjeté appel d'une ordonnance autre qu'une ordonnance de règlement ou que la chambre de l'instruction est directement saisie, en application des articles 81, neuvième alinéa, 82-1, deuxième alinéa, 156, deuxième alinéa, ou 167, quatrième alinéa, le juge d'instruction poursuit son information, y compris, le cas échéant, jusqu'au règlement de celle-ci, sauf décision contraire du président de la chambre de l'instruction. Cette décision n'est pas susceptible de recours.
 
-Il en est de même lorsque la chambre d'accusation est saisie d'une requête en nullité en application de l'article 173.
+Il en est de même lorsque la chambre de l'instruction est saisie d'une requête en nullité en application de l'article 173.
 
 
 ##### Article 187-1
 
-En cas d'appel d'une ordonnance de placement en détention provisoire, la personne mise en examen ou le procureur de la République peut, si l'appel est interjeté au plus tard le jour suivant la décision de placement en détention, demander au président de la chambre d'accusation ou, en cas d'empêchement, au magistrat   t qui le remplace, d'examiner immédiatement son appel sans attendre l'audience de la chambre d'accusation. Cette demande doit, à peine d'irrecevabilité, être formée en même temps que l'appel devant la chambre d'accusation. La personne mise en examen, son avocat ou le procureur de la République peut joindre toutes observations écrites à l'appui de la demande. A sa demande, l'avocat de la personne mise en examen présente oralement des observations devant le président de la chambre d'accusation ou le magistrat qui le remplace, lors d'une audience de cabinet dont est avisé le ministère public pour qu'il y prenne, le cas échéant, ses réquisitions, l'avocat ayant la parole en dernier.
+En cas d'appel d'une ordonnance de placement en détention provisoire, la personne mise en examen ou le procureur de la République peut, si l'appel est interjeté au plus tard le jour suivant la décision de placement en détention, demander au président de la chambre de l'instruction ou, en cas d'empêchement, au magistrat qui le remplace, d'examiner immédiatement son appel sans attendre l'audience de la chambre de l'instruction. Cette demande doit, à peine d'irrecevabilité, être formée en même temps que l'appel devant la chambre de l'instruction. La personne mise en examen, son avocat ou le procureur de la République peut joindre toutes observations écrites à l'appui de la demande. A sa demande, l'avocat de la personne mise en examen présente oralement des observations devant le président de la chambre de l'instruction ou le magistrat qui le remplace, lors d'une audience de cabinet dont est avisé le ministère public pour qu'il y prenne, le cas échéant, ses réquisitions, l'avocat ayant la parole en dernier.
 
-Le président de la chambre d'accusation ou le magistrat qui le remplace statue au plus tard le troisième jour ouvrable suivant la demande, au vu des éléments du dossier de la procédure, par une ordonnance non motivée qui n'est pas susceptible de recours.
+Le président de la chambre de l'instruction ou le magistrat qui le remplace statue au plus tard le troisième jour ouvrable suivant la demande, au vu des éléments du dossier de la procédure, par une ordonnance non motivée qui n'est pas susceptible de recours.
 
-Le président de la chambre d'accusation ou le magistrat qui le remplace peut, s'il estime que les conditions prévues par l'article 144 ne sont pas remplies, infirmer l'ordonnance du juge d'instruction et ordonner la remise en liberté de la personne. La chambre d'accusation est alors dessaisie.
+Le président de la chambre de l'instruction ou le magistrat qui le remplace peut, s'il estime que les conditions prévues par l'article 144 ne sont pas remplies, infirmer l'ordonnance du juge des libertés et de la détention et ordonner la remise en liberté de la personne. La chambre de l'instruction est alors dessaisie.
 
-Dans le cas contraire, il doit renvoyer l'examen de l'appel à la chambre d'accusation.
+Dans le cas contraire, il doit renvoyer l'examen de l'appel à la chambre de l'instruction.
 
-S'il infirme l'ordonnance du juge d'instruction, le président de la chambre d'accusation ou le magistrat qui le remplace peut ordonner le placement sous contrôle judiciaire de la personne mise en examen.
+S'il infirme l'ordonnance du juge des libertés et de la détention, le président de la chambre de l'instruction ou le magistrat qui le remplace peut ordonner le placement sous contrôle judiciaire de la personne mise en examen.
 
-Si l'examen de l'appel est renvoyé à la chambre d'accusation, la décision est portée à la connaissance du procureur général. Elle est notifiée à la personne mise en examen par le greffe de l'établissement pénitentiaire qui peut, le cas échéant, recevoir le désistement d'appel de cette dernière.
+Si l'examen de l'appel est renvoyé à la chambre de l'instruction, la décision est portée à la connaissance du procureur général. Elle est notifiée à la personne mise en examen par le greffe de l'établissement pénitentiaire qui peut, le cas échéant, recevoir le désistement d'appel de cette dernière.
 
-La déclaration d'appel et la demande prévue au premier alinéa du présent article peuvent être constatées par le juge d'instruction à l'issue du débat contradictoire prévu par le quatrième alinéa de l'article 145. Pour l'application du deuxième alinéa du présent article, la transmission du dossier de la procédure au président de la chambre d'accusation peut être effectuée par télécopie.
+La déclaration d'appel et la demande prévue au premier alinéa du présent article peuvent être constatées par le juge des libertés et de la détention à l'issue du débat contradictoire prévu par le quatrième alinéa de l'article 145. Pour l'application du deuxième alinéa du présent article, la transmission du dossier de la procédure au président de la chambre de l'instruction peut être effectuée par télécopie.
+
+
+##### Article 187-2
+
+La personne qui forme le recours prévu par l'article 187-1 peut demander à ce qu'il soit directement examiné par la chambre de l'instruction. Il est alors statué au plus tard, au vu des éléments du dossier, le cinquième jour ouvrable suivant la demande.
 
 
 ##### Section 13 : De la reprise de l'information sur charges nouvelles
@@ -2580,16 +2874,76 @@ Il appartient au ministère public seul de décider s'il y a lieu de requérir l
 
 ##### Section 1 : Dispositions générales
 
+##### Article 191
+
+Chaque cour d'appel comprend au moins une chambre de l'instruction.
+
+Cette juridiction est composée d'un président de chambre, exclusivement attaché à ce service, et de deux conseillers qui peuvent, en cas de besoin, assurer le service des autres chambres de la cour.
+
+Le président de la chambre de l'instruction est désigné par décret, après avis du Conseil supérieur de la magistrature. En cas d'absence ou d'empêchement du président de la chambre de l'instruction, le premier président désigne pour le remplacer à titre temporaire un autre président de chambre ou un conseiller.
+
+Les conseillers composant la chambre de l'instruction sont désignés chaque année, pour la durée de l'année judiciaire suivante, par l'assemblée générale de la cour.
+
+Un décret pourra prévoir que le président de la chambre de l'instruction d'une cour d'appel comptant moins de trois chambres assurera à titre exceptionnel le service d'une autre chambre de la même cour.
+
+
+##### Article 192
+
+Les fonctions du ministère public auprès de la chambre de l'instruction sont exercées par le procureur général ou par ses substituts ; celles du greffe par un greffier de la cour d'appel.
+
+
+##### Article 193
+
+La chambre de l'instruction se réunit au moins une fois par semaine et, sur convocation de son président ou à la demande du procureur général, toutes les fois qu'il est nécessaire.
+
+
+##### Article 194
+
+Le procureur général met l'affaire en état dans les quarante-huit heures de la réception des pièces en matière de détention provisoire et dans les dix jours en toute autre matière ; il la soumet, avec son réquisitoire, à la chambre de l'instruction.
+
+Dans les cas prévus par les articles 173 et 186-1, ou lorsqu'elle est directement saisie en application des articles 81, neuvième alinéa, 82-1, deuxième alinéa, 156, deuxième alinéa, ou 167, quatrième alinéa, la chambre de l'instruction doit statuer dans les deux mois à compter de la transmission du dossier au procureur général par le président de la chambre de l'instruction.
+
+En matière de détention provisoire, la chambre de l'instruction doit se prononcer dans les plus brefs délais et au plus tard dans les dix jours de l'appel lorsqu'il s'agit d'une ordonnance de placement en détention et dans les quinze jours dans les autres cas, faute de quoi la personne concernée est mise d'office en liberté, sauf si des vérifications concernant sa demande ont été ordonnées ou si des circonstances imprévisibles et insurmontables mettent obstacle au jugement de l'affaire dans le délai prévu au présent article.
+
+
 ##### Article 195
 
 Dans les causes dont sont saisies les juridictions correctionnelles ou de police et jusqu'à l'ouverture des débats, le procureur général, s'il estime que les faits sont susceptibles d'une qualification plus grave que celle dont ils ont été l'objet, ordonne l'apport des pièces, met l'affaire en état et la soumet avec son réquisitoire à la chambre de l'instruction.
 
 
+##### Article 196
+
+Le procureur général agit de même lorsqu'il reçoit, postérieurement à un arrêt de non-lieu prononcé par la chambre de l'instruction, des pièces lui paraissant contenir des charges nouvelles dans les termes de l'article 189. Dans ce cas et en attendant la réunion de la chambre de l'instruction, le président de cette juridiction peut, sur les réquisitions du procureur général, décerner mandat de dépôt ou d'arrêt.
+
+
+##### Article 197
+
+Le procureur général notifie par lettre recommandée à chacune des parties et à son avocat la date à laquelle l'affaire sera appelée à l'audience. La notification est faite à la personne détenue par les soins du chef de l'établissement pénitentiaire qui adresse, sans délai, au procureur général l'original ou la copie du récépissé signé par la personne. La notification à toute personne non détenue, à la partie civile ou au requérant mentionné au cinquième alinéa de l'article 99 est faite à la dernière adresse déclarée tant que le juge d'instruction n'a pas clôturé son information.
+
+Un délai minimum de quarante-huit heures en matière de détention provisoire, et de cinq jours en toute autre matière, doit être observé entre la date d'envoi de la lettre recommandée et celle de l'audience.
+
+Pendant ce délai, le dossier est déposé au greffe de la chambre de l'instruction et tenu à la disposition des avocats des personnes mises en examen et des parties civiles dont la constitution n'a pas été contestée ou, en cas de contestation, lorsque celle-ci n'a pas été retenue.
+
+Copie leur en est délivrée sans délai, à leurs frais, sur simple requête écrite. Ces copies ne peuvent être rendues publiques.
+
+
+##### Article 197-1
+
+En cas d'appel d'une ordonnance de non-lieu, le témoin assisté peut, par l'intermédiaire de son avocat, faire valoir ses observations devant la chambre de l'instruction. La date de l'audience est notifiée à l'intéressé et à son avocat conformément aux dispositions de l'article 197.
+
+
+##### Article 198
+
+Les parties et leurs avocats sont admis jusqu'au jour de l'audience à produire des mémoires qu'ils communiquent au ministère public et aux autres parties.
+
+Ces mémoires sont déposés au greffe de la chambre de l'instruction et visés par le greffier avec l'indication du jour et de l'heure du dépôt.
+
+Lorsqu'un avocat n'exerce pas dans la ville où siège la chambre de l'instruction, il peut adresser son mémoire au greffier, au ministère public et aux autres parties par télécopie ou par lettre recommandée avec demande d'avis de réception qui doit parvenir à leurs destinataires avant le jour de l'audience.
+
+
 ##### Article 199
 
-Les débats se déroulent et l'arrêt est rendu en chambre du conseil. Toutefois, si la personne majeure mise en examen ou son avocat le demande dès l'ouverture des débats, ceux-ci se déroulent et l'arrêt est rendu en séance publique, sauf si la publicité est de nature à entraver les investigations spécifiques nécessitées par l'instruction ou à nuire à la dignité de la personne ou aux intérêts d'un tiers. La chambre de l'instruction statue sur cette demande,
-
-après avoir recueilli les observations du procureur général et, le cas échéant, des avocats des autres parties, par un arrêt rendu en chambre du conseil qui n'est susceptible de pourvoi en cassation qu'en même temps que l'arrêt portant sur la demande principale.
+Les débats se déroulent et l'arrêt est rendu en chambre du conseil. Toutefois, si la personne majeure mise en examen ou son avocat le demande dès l'ouverture des débats, ceux-ci se déroulent et l'arrêt est rendu en séance publique, sauf si la publicité est de nature à entraver les investigations spécifiques nécessitées par l'instruction ou à nuire à la dignité de la personne ou aux intérêts d'un tiers. La chambre de l'instruction statue sur cette demande, après avoir recueilli les observations du procureur général et, le cas échéant, des avocats des autres parties, par un arrêt rendu en chambre du conseil qui n'est susceptible de pourvoi en cassation qu'en même temps que l'arrêt portant sur la demande principale.
 
 Après le rapport du conseiller, le procureur général et les avocats des parties qui en ont fait la demande présentent des observations sommaires.
 
@@ -2600,6 +2954,27 @@ Il est donné lecture de l'arrêt par le président ou par l'un des conseillers 
 En matière de détention provisoire, la comparution personnelle de la personne concernée est de droit si celle-ci ou son avocat en fait la demande ; cette requête doit, à peine d'irrecevabilité, être présentée en même temps que la déclaration d'appel ou que la demande de mise en liberté adressée à la chambre de l'instruction.
 
 En cas de comparution personnelle de la personne concernée, le délai maximum prévu au troisième alinéa de l'article 194 est prolongé de cinq jours.
+
+
+##### Article 199-1
+
+En cas d'appel d'une ordonnance de non-lieu motivée par les dispositions du premier alinéa de l'article 122-1 du code pénal, la chambre de l'instruction doit, à la demande de la partie civile, ordonner la comparution personnelle de la personne mise en examen, si l'état de cette dernière le permet. Cette demande doit, à peine d'irrecevabilité, être présentée en même temps que la demande d'appel.
+
+Si la comparution personnelle de la personne mise en examen a été ordonnée, et si la partie civile ou son avocat en fait la demande dès l'ouverture des débats, ceux-ci se déroulent et l'arrêt est rendu en séance publique, sauf si la publicité est de nature à nuire à l'ordre public ou aux bonnes moeurs ; la chambre de l'instruction statue sur cette demande de publicité, après avoir recueilli les observations du procureur général, de la personne mise en examen et de son avocat ainsi que, le cas échéant, des avocats des autres parties, par un arrêt rendu en chambre du conseil qui n'est susceptible de pourvoi en cassation qu'en même temps que l'arrêt portant sur la demande principale.
+
+Les experts ayant examiné la personne mise en examen doivent être entendus par la chambre de l'instruction.
+
+
+##### Article 200
+
+Lorsque les débats sont terminés, la chambre de l'instruction délibère sans qu'en aucun cas le procureur général, les parties, leurs avocats et le greffier puissent être présents.
+
+
+##### Article 201
+
+La chambre de l'instruction peut, dans tous les cas, à la demande du procureur général, d'une des parties ou même d'office, ordonner tout acte d'information complémentaire qu'elle juge utile.
+
+Elle peut également, dans tous les cas, le ministère public entendu, prononcer d'office la mise en liberté de la personne mise en examen.
 
 
 ##### Article 202
@@ -2614,25 +2989,82 @@ Elle peut statuer sans ordonner une nouvelle information si les chefs de poursui
 Les infractions sont connexes soit lorsqu'elles ont été commises en même temps par plusieurs personnes réunies, soit lorsqu'elles ont été commises par différentes personnes, même en différents temps et en divers lieux, mais par suite d'un concert formé à l'avance entre elles, soit lorsque les coupables ont commis les unes pour se procurer les moyens de commettre les autres, pour en faciliter, pour en consommer l'exécution ou pour en assurer l'impunité, soit lorsque des choses enlevées, détournées ou obtenues à l'aide d'un crime ou d'un délit ont été, en tout ou partie, recelées.
 
 
+##### Article 204
+
+La chambre de l'instruction peut également, quant aux infractions résultant du dossier de la procédure, ordonner que soient mises en examen, dans les conditions prévues à l'article 205, des personnes qui n'ont pas été renvoyées devant elle, à moins qu'elles n'aient fait l'objet d'une ordonnance de non-lieu devenue définitive.
+
+Cette décision ne pourra pas faire l'objet d'un pourvoi en cassation.
+
+
+##### Article 205
+
+Il est procédé aux suppléments d'information conformément aux dispositions relatives à l'instruction préalable soit par un des membres de la chambre de l'instruction, soit par un juge d'instruction qu'elle délègue à cette fin.
+
+Le procureur général peut à tout moment requérir la communication de la procédure, à charge de rendre les pièces dans les vingt-quatre heures.
+
+
+##### Article 206
+
+La chambre de l'instruction examine la régularité des procédures qui lui sont soumises.
+
+Si elle découvre une cause de nullité, elle prononce la nullité de l'acte qui en est entaché et, s'il y échet, celle de tout ou partie de la procédure ultérieure.
+
+Après annulation, elle peut soit évoquer et procéder dans les conditions prévues aux articles 201, 202 et 204, soit renvoyer le dossier de la procédure au même juge d'instruction ou à tel autre, afin de poursuivre l'information.
+
+
 ##### Article 207
 
-Lorsque la chambre de l'instruction a statué sur l'appel relevé contre une ordonnance du juge d'instruction en matière de détention provisoire, ou à la suite d'une saisine du procureur de la République formée en application du deuxième alinéa de l'article 137 soit qu'elle ait confirmé la décision du juge d'instruction, soit que, l'infirmant, elle ait ordonné une mise en liberté ou maintenu en détention ou décerné un mandat de dépôt ou d'arrêt, le procureur général fait sans délai retour du dossier au juge d'instruction après avoir assuré l'exécution de l'arrêt.
+Lorsque la chambre de l'instruction a statué sur l'appel relevé contre une ordonnance du juge des libertés et de la détention en matière de détention provisoire, ou à la suite d'une saisine du procureur de la République formée en application de l'article 137-5 soit qu'elle ait confirmé la décision du juge des libertés et de la détention, soit que, l'infirmant, elle ait ordonné une mise en liberté ou maintenu en détention ou décerné un mandat de dépôt ou d'arrêt, le procureur général fait sans délai retour du dossier au juge d'instruction après avoir assuré l'exécution de l'arrêt.
 
 Lorsque, en toute autre matière, la chambre de l'instruction infirme une ordonnance du juge d'instruction ou est saisie en application des articles 81, neuvième alinéa, 82, quatrième alinéa, 82-1, deuxième alinéa, 156, deuxième alinéa, ou 167, quatrième alinéa, elle peut, soit évoquer et procéder dans les conditions prévues aux articles 201, 202, 204 et 205, soit renvoyer le dossier au juge d'instruction ou à tel autre afin de poursuivre l'information.
 
-L'ordonnance du juge d'instruction frappée d'appel sort son plein et entier effet si elle est confirmée par la chambre de l'instruction.    En cas d'appel formé contre une ordonnance de refus de mise en liberté, la chambre de l'instruction peut, lors de l'audience et avant la clotûre des débats, se saisir immédiatement de toute demande de mise en liberté sur laquelle le juge d'instruction n'a pas encore statué ; dans ce cas, elle se prononce à la fois sur l'appel et sur cette demande.
+L'ordonnance du juge d'instruction ou du juge des libertés et de la détention frappée d'appel sort son plein et entier effet si elle est confirmée par la chambre de l'instruction.
+
+En cas d'appel formé contre une ordonnance de refus de mise en liberté, la chambre de l'instruction peut, lors de l'audience et avant la clotûre des débats, se saisir immédiatement de toute demande de mise en liberté sur laquelle le juge d'instruction ou le juge des libertés et de la détention n'a pas encore statué ; dans ce cas, elle se prononce à la fois sur l'appel et sur cette demande.
+
+
+##### Article 207-1
+
+Le président de la chambre de l'instruction, saisi en application des dispositions du deuxième alinéa de l'article 175-1, décide, dans les huit jours de la transmission du dossier, par une ordonnance qui n'est pas susceptible de recours, s'il y a lieu ou non de saisir la chambre de l'instruction.
+
+Dans l'affirmative, il transmet le dossier au procureur général qui procède ainsi qu'il est dit aux articles 194 et suivants. Après qu'elle a été saisie, la chambre de l'instruction peut soit prononcer le renvoi devant la juridiction de jugement ou la mise en accusation devant la cour d'assises, soit déclarer qu'il n'y a pas lieu à suivre, soit évoquer et procéder dans les conditions prévues aux articles 201, 202 et 204, soit renvoyer le dossier de la procédure au même juge d'instruction ou à tel autre, afin de poursuivre l'information.
+
+Dans la négative, il ordonne, par décision motivée, que le dossier de l'information soit renvoyé au juge d'instruction.
+
+
+##### Article 208
+
+Lorsqu'elle a prescrit une information complémentaire et que celle-ci est terminée, la chambre de l'instruction ordonne le dépôt au greffe du dossier de la procédure.
+
+Le procureur général avise immédiatement de ce dépôt chacune des parties et son avocat par lettre recommandée.
 
 
 ##### Article 209
 
 Le dossier de la procédure reste déposé au greffe pendant quarante-huit heures en matière de détention provisoire, pendant cinq jours en toute autre matière.
 
+
+
 Il est alors procédé conformément aux articles 197, 198 et 199.
+
+
+##### Article 210
+
+La chambre de l'instruction statue par un seul et même arrêt sur tous les faits entre lesquels il existe un lien de connexité.
 
 
 ##### Article 211
 
 Elle examine s'il existe contre la personne mise en examen des charges suffisantes.
+
+
+##### Article 212
+
+Si la chambre de l'instruction estime que les faits ne constituent ni crime, ni délit, ni contravention ou si l'auteur est resté inconnu ou s'il n'existe pas de charges suffisantes contre la personne mise en examen, elle déclare qu'il n'y a lieu à suivre.
+
+Les personnes mises en examen qui sont provisoirement détenues sont remises en liberté. L'arrêt met fin au contrôle judiciaire.
+
+La chambre de l'instruction statue par le même arrêt sur la restitution des objets placés sous main de justice. Elle peut refuser la restitution lorsque celle-ci présente un danger pour les personnes ou les biens.
 
 
 ##### Article 212-1
@@ -2657,169 +3089,30 @@ En cas de renvoi devant le tribunal de police, le prévenu détenu est immédiat
 
 Si les faits retenus à la charge des personnes mises en examen constituent une infraction qualifiée crime par la loi, la chambre de l'instruction prononce la mise en accusation devant la cour d'assises.
 
-
-
 Elle peut saisir également cette juridiction des infractions connexes.
-
-
-
-La chambre de l'instruction statue par un arrêt rendu dans les deux mois de l'ordonnance de transmission des pièces, faute de quoi la personne est mise d'office en liberté.
-
-
-##### Article 215-1
-
-L'accusé qui se trouve en liberté doit se constituer prisonnier au plus tard la veille de l'audience de la cour d'assises. Jusqu'à ce qu'il se constitue prisonnier, le contrôle judiciaire continue à produire ses effets.
-
-L'ordonnance de prise de corps est exécutée si, dûment convoqué par la voie administrative au greffe de la cour d'assises et sans motif légitime d'excuse, l'accusé ne se présente pas au jour fixé pour être interrogé par le président de la cour d'assises. Il en est de même dans le cas prévu à l'article 141-2.
-
-
-#### Chapitre II : De la chambre d'accusation : juridiction d'instruction du second degré
-
-##### Section 1 : Dispositions générales
-
-##### Article 191
-
-Chaque cour d'appel comprend au moins une chambre d'accusation.
-
-Cette juridiction est composée d'un président de chambre, exclusivement attaché à ce service, et de deux conseillers qui peuvent, en cas de besoin, assurer le service des autres chambres de la cour.
-
-Le président de la chambre d'accusation est désigné par décret, après avis du Conseil supérieur de la magistrature. En cas d'absence ou d'empêchement du président de la chambre d'accusation, le premier président désigne pour le remplacer à titre temporaire un autre président de chambre ou un conseiller.
-
-Les conseillers composant la chambre d'accusation sont désignés chaque année, pour la durée de l'année judiciaire suivante, par l'assemblée générale de la cour.
-
-Un décret pourra prévoir que le président de la chambre d'accusation d'une cour d'appel comptant moins de trois chambres assurera à titre exceptionnel le service d'une autre chambre de la même cour.
-
-
-##### Article 192
-
-Les fonctions du ministère public auprès de la chambre d'accusation sont exercées par le procureur général ou par ses substituts ; celles du greffe par un greffier de la cour d'appel.
-
-
-##### Article 193
-
-La chambre d'accusation se réunit au moins une fois par semaine et, sur convocation de son président ou à la demande du procureur général, toutes les fois qu'il est nécessaire.
-
-
-##### Article 194
-
-Le procureur général met l'affaire en état dans les quarante-huit heures de la réception des pièces en matière de détention provisoire et dans les dix jours en toute autre matière ; il la soumet, avec son réquisitoire, à la chambre d'accusation.
-
-Dans les cas prévus par les articles 173 et 186-1, ou lorsqu'elle est directement saisie en application des articles 81, neuvième alinéa, 82-1, deuxième alinéa, 156, deuxième alinéa, ou 167, quatrième alinéa, la chambre d'accusation doit statuer dans les deux mois à compter de la transmission du dossier au procureur général par le président de la chambre d'accusation.
-
-En matière de détention provisoire, la chambre d'accusation doit se prononcer dans les plus brefs délais et au plus tard dans les quinze jours de l'appel prévu par l'article 186, faute de quoi la personne concernée est mise d'office en liberté, sauf si des vérifications concernant sa demande ont été ordonnées ou si des circonstances imprévisibles et insurmontables mettent obstacle au jugement de l'affaire dans le délai prévu au présent article.
-
-
-##### Article 196
-
-Le procureur général agit de même lorsqu'il reçoit, postérieurement à un arrêt de non-lieu prononcé par la chambre d'accusation, des pièces lui paraissant contenir des charges nouvelles dans les termes de l'article 189. Dans ce cas et en attendant la réunion de la chambre d'accusation, le président de cette juridiction peut, sur les réquisitions du procureur général, décerner mandat de dépôt ou d'arrêt.
-
-
-##### Article 197
-
-Le procureur général notifie par lettre recommandée à chacune des parties et à son avocat la date à laquelle l'affaire sera appelée à l'audience. La notification est faite à la personne détenue par les soins du chef de l'établissement pénitentiaire qui adresse, sans délai, au procureur général l'original ou la copie du récépissé signé par la personne. La notification à toute personne non détenue, à la partie civile ou au requérant mentionné au cinquième alinéa de l'article 99 est faite à la dernière adresse déclarée tant que le juge d'instruction n'a pas clôturé son information.
-
-Un délai minimum de quarante-huit heures en matière de détention provisoire, et de cinq jours en toute autre matière, doit être observé entre la date d'envoi de la lettre recommandée et celle de l'audience.
-
-Pendant ce délai, le dossier est déposé au greffe de la chambre d'accusation et tenu à la disposition des avocats des personnes mises en examen et des parties civiles dont la constitution n'a pas été contestée ou, en cas de contestation, lorsque celle-ci n'a pas été retenue.
-
-Copie leur en est délivrée sans délai, à leurs frais, sur simple requête écrite. Ces copies ne peuvent être rendues publiques.
-
-
-##### Article 198
-
-Les parties et leurs avocats sont admis jusqu'au jour de l'audience à produire des mémoires qu'ils communiquent au ministère public et aux autres parties.
-
-Ces mémoires sont déposés au greffe de la chambre d'accusation et visés par le greffier avec l'indication du jour et de l'heure du dépôt.
-
-Lorsqu'un avocat n'exerce pas dans la ville où siège la chambre d'accusation, il peut adresser son mémoire au greffier, au ministère public et aux autres parties par télécopie ou par lettre recommandée avec demande d'avis de réception qui doit parvenir à leurs destinataires avant le jour de l'audience.
-
-
-##### Article 199-1
-
-En cas d'appel d'une ordonnance de non-lieu motivée par les dispositions du premier alinéa de l'article 122-1 du code pénal, la chambre d'accusation doit, à la demande de la partie civile, ordonner la comparution personnelle de la personne mise en examen, si l'état de cette dernière le permet. Cette demande doit, à peine d'irrecevabilité, être présentée en même temps que la demande d'appel.
-
-Si la comparution personnelle de la personne mise en examen a été ordonnée, et si la partie civile ou son avocat en fait la demande dès l'ouverture des débats, ceux-ci se déroulent et l'arrêt est rendu en séance publique, sauf si la publicité est de nature à nuire à l'ordre public ou aux bonnes moeurs ; la chambre d'accusation statue su r cette demande de publicité, après avoir recueilli les observations du procureur général, de la personne mise en examen et de son avocat ainsi que, le cas échéant, des avocats des autres parties, par un arrêt rendu en chambre du conseil qui n'est susceptible de pourvoi en cassation qu'en même temps que l'arrêt portant sur la demande principale.
-
-Les experts ayant examiné la personne mise en examen doivent être entendus par la chambre d'accusation.
-
-
-##### Article 200
-
-Lorsque les débats sont terminés, la chambre d'accusation délibère sans qu'en aucun cas le procureur général, les parties, leurs avocats et le greffier puissent être présents.
-
-
-##### Article 201
-
-La chambre d'accusation peut, dans tous les cas, à la demande du procureur général, d'une des parties ou même d'office, ordonner tout acte d'information complémentaire qu'elle juge utile.
-
-Elle peut également, dans tous les cas, le ministère public entendu, prononcer d'office la mise en liberté de la personne mise en examen.
-
-
-##### Article 204
-
-La chambre d'accusation peut également, quant aux infractions résultant du dossier de la procédure, ordonner que soient mises en examen, dans les conditions prévues à l'article 205, des personnes qui n'ont pas été renvoyées devant elle, à moins qu'elles n'aient fait l'objet d'une ordonnance de non-lieu devenue définitive.
-
-Cette décision ne pourra pas faire l'objet d'un pourvoi en cassation.
-
-
-##### Article 205
-
-Il est procédé aux suppléments d'information conformément aux dispositions relatives à l'instruction préalable soit par un des membres de la chambre d'accusation, soit par un juge d'instruction qu'elle délègue à cette fin.
-
-Le procureur général peut à tout moment requérir la communication de la procédure, à charge de rendre les pièces dans les vingt-quatre heures.
-
-
-##### Article 206
-
-La chambre d'accusation examine la régularité des procédures qui lui sont soumises.
-
-Si elle découvre une cause de nullité, elle prononce la nullité de l'acte qui en est entaché et, s'il y échet, celle de tout ou partie de la procédure ultérieure.
-
-Après annulation, elle peut soit évoquer et procéder dans les conditions prévues aux articles 201, 202 et 204, soit renvoyer le dossier de la procédure au même juge d'instruction ou à tel autre, afin de poursuivre l'information.
-
-
-##### Article 208
-
-Lorsqu'elle a prescrit une information complémentaire et que celle-ci est terminée, la chambre d'accusation ordonne le dépôt au greffe du dossier de la procédure.
-
-Le procureur général avise immédiatement de ce dépôt chacune des parties et son avocat par lettre recommandée.
-
-
-##### Article 210
-
-La chambre d'accusation statue par un seul et même arrêt sur tous les faits entre lesquels il existe un lien de connexité.
-
-
-##### Article 212
-
-Si la chambre d'accusation estime que les faits ne constituent ni crime, ni délit, ni contravention ou si l'auteur est resté inconnu ou s'il n'existe pas de charges suffisantes contre la personne mise en examen, elle déclare qu'il n'y a lieu à suivre.
-
-Les personnes mises en examen qui sont provisoirement détenues sont remises en liberté. L'arrêt met fin au contrôle judiciaire.
-
-La chambre d'accusation statue par le même arrêt sur la restitution des objets placés sous main de justice. Elle peut refuser la restitution lorsque celle-ci présente un danger pour les personnes ou les biens.
 
 
 ##### Article 215
 
-L'arrêt de mise en accusation contient, à peine de nullité, l'exposé et la qualification légale des faits, objets de l'accusation.
+L'arrêt de mise en accusation contient, à peine de nullité, l'exposé et la qualification légale des faits, objet de l'accusation, et précise l'identité de l'accusé.
 
+Il décerne en outre ordonnance de prise de corps contre l'accusé et contre les personnes renvoyées pour délit connexe devant la cour d'assises.
 
-
-Il décerne en outre ordonnance de prise de corps contre l'accusé dont il précise l'identité.
+Les dispositions des cinquième et sixième alinéas de l'article 181 sont applicables.
 
 
 ##### Article 216
 
-Les arrêts de la chambre d'accusation sont signés par le président et par le greffier. Il y est fait mention du nom des juges, du dépôt des pièces et des mémoires, de la lecture du rapport, des réquisitions du ministère public et, s'il y a lieu, de l'audition des parties ou de leurs avocats.
+Les arrêts de la chambre de l'instruction sont signés par le président et par le greffier. Il y est fait mention du nom des juges, du dépôt des pièces et des mémoires, de la lecture du rapport, des réquisitions du ministère public et, s'il y a lieu, de l'audition des parties ou de leurs avocats.
 
 La chambre condamne l'auteur de l'infraction à payer à la partie civile la somme qu'elle détermine, au titre des frais non payés par l'Etat et exposés par celle-ci. Elle tient compte de l'équité ou de la situation économique de la partie condamnée. Elle peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à cette condamnation.
 
 
 ##### Article 217
 
-Hors le cas prévu à l'article 196, les dispositifs des arrêts sont, dans les trois jours, par lettre recommandée, portés à la connaissance des avocats des parties.
+Hors le cas prévu à l'article 196, les arrêts sont, dans les trois jours, par lettre recommandée, portés à la connaissance des avocats des parties.
 
-Dans les mêmes formes et délais, les dispositifs des arrêts de non-lieu sont portés à la connaissance des personnes mise en examen, les dispositifs des arrêts de renvoi devant le tribunal correctionnel ou de police sont portés à la connaissance des parties.
+Dans les mêmes formes et délais, les arrêts de non-lieu sont portés à la connaissance des personnes mise en examen, les arrêts de renvoi devant le tribunal correctionnel ou de police sont portés à la connaissance des parties.
 
 Les arrêts contre lesquels les parties peuvent former un pourvoi en cassation leur sont signifiés à la requête du procureur général dans les trois jours. Toutefois, ces arrêts sont notifiés par lettre recommandée aux parties ou au requérant mentionné au cinquième alinéa de l'article 99 tant que le juge d'instruction n'a pas clôturé son information. Ils peuvent être notifiés à la personne détenue par les soins du chef de l'établissement pénitentiaire qui adresse, sans délai, au procureur général l'original ou la copie du récépissé signé par elle.
 
@@ -2830,23 +3123,23 @@ Toute notification d'acte à la dernière adresse déclarée par une partie est 
 
 Les dispositions des articles 171, 172 et du dernier alinéa de l'article 174 sont applicables au présent chapitre.
 
-La régularité des arrêts des chambres d'accusation et celle de la procédure antérieure, lorsque cette chambre a statué sur le règlement d'une procédure, relève du seul contrôle de la Cour de cassation, que le pourvoi soit immédiatement recevable ou qu'il ne puisse être examiné qu'avec l'arrêt sur le fond.
+La régularité des arrêts des chambres de l'instruction et celle de la procédure antérieure, lorsque cette chambre a statué sur le règlement d'une procédure, relève du seul contrôle de la Cour de cassation, que le pourvoi soit immédiatement recevable ou qu'il ne puisse être examiné qu'avec l'arrêt sur le fond.
 
 
-##### Section 2 : Pouvoirs propres du président de la chambre d'accusation
+##### Section 2 : Pouvoirs propres du président de la chambre de l'instruction
 
 ##### Article 219
 
-Le président de la chambre d'accusation, et dans les cours où il existe plusieurs chambres d'accusation l'un des présidents spécialement désigné par l'assemblée générale, exerce les pouvoirs propres définis aux articles suivants.
+Le président de la chambre de l'instruction, et dans les cours où il existe plusieurs chambres de l'instruction l'un des présidents spécialement désigné par l'assemblée générale, exerce les pouvoirs propres définis aux articles suivants.
 
 En cas d'empêchement de ce président, ses pouvoirs propres sont attribués, par délibération de l'assemblée générale de la cour d'appel, à un magistrat du siège appartenant à ladite cour.
 
-Le président peut déléguer tout ou partie de ses pouvoirs à un magistrat du siège de la chambre d'accusation et, dans les cours où il existe plusieurs chambres d'accusation, à un magistrat du siège d'une autre chambre d'accusation après accord du président de cette chambre. Il peut également déléguer tout ou partie de ses pouvoirs à un premier vice-président du tribunal de grande instance désigné par le président de ce tribunal.
+Le président peut déléguer tout ou partie de ses pouvoirs à un magistrat du siège de la chambre de l'instruction et, dans les cours où il existe plusieurs chambres de l'instruction, à un magistrat du siège d'une autre chambre de l'instruction après accord du président de cette chambre.
 
 
 ##### Article 220
 
-Le président de la chambre d'accusation s'assure du bon fonctionnement des cabinets d'instruction du ressort de la cour d'appel. Il vérifie notamment les conditions d'application des alinéas 4 et 5 de l'article 81 et de l'article 144 et s'emploie à ce que les procédures ne subissent aucun retard injustifié. Chaque fois qu'il le juge nécessaire et au moins une fois par an, il transmet ses observations écrites au premier président de la cour d'appel, au procureur général près ladite cour ainsi qu'au président du tribunal de grande instance concerné et au procureur de la République près ledit tribunal.
+Le président de la chambre de l'instruction s'assure du bon fonctionnement des cabinets d'instruction du ressort de la cour d'appel. Il vérifie notamment les conditions d'application des alinéas 4 et 5 de l'article 81 et de l'article 144 et s'emploie à ce que les procédures ne subissent aucun retard injustifié. Chaque fois qu'il le juge nécessaire et au moins une fois par an, il transmet ses observations écrites au premier président de la cour d'appel, au procureur général près ladite cour ainsi qu'au président du tribunal de grande instance concerné et au procureur de la République près ledit tribunal.
 
 
 ##### Article 221
@@ -2855,25 +3148,25 @@ A cette fin, il est établi, chaque trimestre, dans chaque cabinet d'instruction
 
 Les affaires dans lesquelles sont impliquées des personnes mises en examen, détenues provisoirement figurent sur un état spécial.
 
-Les états prévus par le présent article sont adressés au président de la chambre d'accusation et au procureur général dans les trois premiers jours du trimestre.
+Les états prévus par le présent article sont adressés au président de la chambre de l'instruction et au procureur général dans les trois premiers jours du trimestre.
 
 
 ##### Article 221-1
 
-Lorsqu'un délai de quatre mois s'est écoulé depuis la date du dernier acte d'instruction nécessaire à la manifestation de la vérité, le président de la chambre d'accusation peut, par requête, saisir cette juridiction. La chambre d'accusation peut, dans l'intérêt d'une bonne administration de la justice, soit évoquer et procéder dans les conditions prévues par les articles 201, 202, 204 et 205, soit renvoyer le dossier au juge d'instruction ou à tel autre afin de poursuivre l'information.
+Lorsqu'un délai de quatre mois s'est écoulé depuis la date du dernier acte d'instruction nécessaire à la manifestation de la vérité, le président de la chambre de l'instruction peut, par requête, saisir cette juridiction. La chambre de l'instruction peut, dans l'intérêt d'une bonne administration de la justice, soit évoquer et procéder dans les conditions prévues par les articles 201, 202, 204 et 205, soit renvoyer le dossier au juge d'instruction ou à tel autre afin de poursuivre l'information.
 
 
 ##### Article 221-2
 
-Lorsqu'un délai de quatre mois s'est écoulé depuis la date du dernier acte d'instruction, les parties peuvent saisir la chambre d'accusation dans les conditions prévues par le troisième alinéa de l'article 173. Ce délai est ramené à deux mois au profit de la personne mise en examen lorsque celle-ci est placée en détention provisoire.
+Lorsqu'un délai de quatre mois s'est écoulé depuis la date du dernier acte d'instruction, les parties peuvent saisir la chambre de l'instruction dans les conditions prévues par le troisième alinéa de l'article 173. Ce délai est ramené à deux mois au profit de la personne mise en examen lorsque celle-ci est placée en détention provisoire.
 
-Dans les huit jours de la réception du dossier par le greffe de la chambre d'accusation, le président peut, par ordonnance motivée non susceptible de recours, décider qu'il n'y a pas lieu de saisir la chambre d'accusation.
+Dans les huit jours de la réception du dossier par le greffe de la chambre de l'instruction, le président peut, par ordonnance motivée non susceptible de recours, décider qu'il n'y a pas lieu de saisir la chambre de l'instruction.
 
-La chambre d'accusation, lorsqu'elle est saisie, peut, soit évoquer et procéder dans les conditions prévues par les articles 201, 202, 204 et 205, soit renvoyer le dossier au juge d'instruction ou à tel autre afin de poursuivre l'information.
+La chambre de l'instruction, lorsqu'elle est saisie, peut, soit évoquer et procéder dans les conditions prévues par les articles 201, 202, 204 et 205, soit renvoyer le dossier au juge d'instruction ou à tel autre afin de poursuivre l'information.
 
-Si, dans les deux mois suivant le renvoi du dossier au juge d'instruction initialement saisi, aucun acte d'instruction n'a été accompli, la chambre d'accusation peut être à nouveau saisie selon la procédure prévue aux premier et deuxième alinéas du présent article. Ce délai est ramené à un mois au profit de la personne mise en examen lorsque celle-ci est placée en détention provisoire.
+Si, dans les deux mois suivant le renvoi du dossier au juge d'instruction initialement saisi, aucun acte d'instruction n'a été accompli, la chambre de l'instruction peut être à nouveau saisie selon la procédure prévue aux premier et deuxième alinéas du présent article. Ce délai est ramené à un mois au profit de la personne mise en examen lorsque celle-ci est placée en détention provisoire.
 
-La chambre d'accusation doit alors, soit évoquer comme il est dit au troisième alinéa du présent article, soit renvoyer le dossier à un autre juge d'instruction afin de poursuivre l'information.
+La chambre de l'instruction doit alors, soit évoquer comme il est dit au troisième alinéa du présent article, soit renvoyer le dossier à un autre juge d'instruction afin de poursuivre l'information.
 
 
 ##### Article 222
@@ -2883,26 +3176,28 @@ Le président, chaque fois qu'il l'estime nécessaire et au moins une fois par t
 
 ##### Article 223
 
-Il peut saisir la chambre d'accusation, afin qu'il soit par elle statué sur le maintien en détention d'une personne mise en examen en état de détention provisoire.
+Il peut saisir la chambre de l'instruction, afin qu'il soit par elle statué sur le maintien en détention d'une personne mise en examen en état de détention provisoire.
 
 
 ##### Section 3 : Du contrôle de l'activité des officiers et agents de police judiciaire
 
 ##### Article 224
 
-La chambre d'accusation exerce un contrôle sur l'activité des fonctionnaires civils et des militaires, officiers et agents de police judiciaire, pris en cette qualité.
+La chambre de l'instruction exerce un contrôle sur l'activité des fonctionnaires civils et des militaires, officiers et agents de police judiciaire, pris en cette qualité.
 
 
 ##### Article 225
 
 Elle est saisie soit par le procureur général, soit par son président.
 
+
+
 Elle peut se saisir d'office à l'occasion de l'examen de la procédure qui lui est soumise.
 
 
 ##### Article 226
 
-La chambre d'accusation, une fois saisie, fait procéder à une enquête ; elle entend le procureur général et l'officier ou agent de police judiciaire en cause.
+La chambre de l'instruction, une fois saisie, fait procéder à une enquête ; elle entend le procureur général et l'officier ou agent de police judiciaire en cause.
 
 Ce dernier doit avoir été préalablement mis à même de prendre connaissance de son dossier de police judiciaire tenu au parquet général de la cour d'appel.
 
@@ -2911,17 +3206,17 @@ Il peut se faire assister par un avocat.
 
 ##### Article 227
 
-La chambre d'accusation peut, sans préjudice des sanctions disciplinaires qui pourraient être infligées à l'officier ou agent de police judiciaire par ses supérieurs hiérarchiques, lui adresser des observations ou décider qu'il ne pourra, temporairement ou définitivement, exercer, soit dans le ressort de la cour d'appel, soit sur tout l'ensemble du territoire, ses fonctions d'officier de police judiciaire et de délégué du juge d'instruction ou ses fonctions d'agent de police judiciaire. Cette décision prend effet immédiatement.
+La chambre de l'instruction peut, sans préjudice des sanctions disciplinaires qui pourraient être infligées à l'officier ou agent de police judiciaire par ses supérieurs hiérarchiques, lui adresser des observations ou décider qu'il ne pourra, temporairement ou définitivement, exercer, soit dans le ressort de la cour d'appel, soit sur tout l'ensemble du territoire, ses fonctions d'officier de police judiciaire et de délégué du juge d'instruction ou ses fonctions d'agent de police judiciaire. Cette décision prend effet immédiatement.
 
 
 ##### Article 228
 
-Si la chambre d'accusation estime que l'officier ou agent de police judiciaire a commis une infraction à la loi pénale, elle ordonne en outre la transmission du dossier au procureur général à toutes fins qu'il appartiendra.
+Si la chambre de l'instruction estime que l'officier ou agent de police judiciaire a commis une infraction à la loi pénale, elle ordonne en outre la transmission du dossier au procureur général à toutes fins qu'il appartiendra.
 
 
 ##### Article 229
 
-Les décisions prises par la chambre d'accusation contre les officiers ou agents de police judiciaire sont notifiées, à la diligence du procureur général, aux autorités dont ils dépendent.
+Les décisions prises par la chambre de l'instruction contre les officiers ou agents de police judiciaire sont notifiées, à la diligence du procureur général, aux autorités dont ils dépendent.
 
 
 ##### Article 230
@@ -2937,7 +3232,7 @@ Les dispositions de la présente section sont applicables aux agents de police j
 
 #### Article 231
 
-La cour d'assises a plénitude de juridiction pour juger les individus renvoyés devant elle par l'arrêt de mise en accusation.
+La cour d'assises a plénitude de juridiction pour juger, en premier ressort ou en appel, les personnes renvoyées devant elle par la décision de mise en accusation.
 
 Elle ne peut connaître d'aucune autre accusation.
 
@@ -3077,12 +3372,29 @@ Peuvent seuls remplir les fonctions de juré, les citoyens de l'un ou de l'autre
 ###### Article 256
 
 Sont incapables d'être jurés :
-1. et 2° abrogés.
+
+
+1. Les personnes dont le bulletin n° 1 du casier judiciaire mentionne une condamnation pour crime ou une condamnation pour délit à une peine égale ou supérieure à six mois d'emprisonnement ;
+
+
+2. (Abrogé)
+
+
 3. Ceux qui sont en état d'accusation ou de contumace et ceux qui sont sous mandat de dépôt ou d'arrêt ;
+
+
 4. Les fonctionnaires et agents de l'Etat, des départements et des communes, révoqués de leurs fonctions ;
+
+
 5. Les officiers ministériels destitués et les membres des ordres professionnels, frappés d'une interdiction définitive d'exercer par une décision juridictionnelle ;
+
+
 6. Les personnes qui ont été déclarées en état de faillite et n'ont pas été réhabilitées ;
+
+
 7. Celles auxquelles les fonctions de juré sont interdites en vertu de l'article 288, alinéa 5, du présent code ou de l'article 131-26 du Code pénal ;
+
+
 8. Les majeurs sous sauvegarde de justice, les majeurs en tutelle, les majeurs en curatelle et ceux qui sont placés dans un établissement d'aliénés en vertu des articles L. 326-1 à L. 355 du Code de la santé publique.
 
 
@@ -3123,6 +3435,8 @@ Il est établi, annuellement, dans le ressort de chaque cour d'assises une liste
 ###### Article 260
 
 Cette liste comprend, pour la cour d'assises de Paris, mille huit cents jurés et, pour les autres ressorts de cour d'assises, un juré pour mille trois cents habitants, sans toutefois que le nombre des jurés puisse être inférieur à deux cents.
+
+Un décret en Conseil d'Etat peut, pour la liste annuelle de chaque cour d'assises, fixer un nombre de jurés plus élevé que celui résultant des dispositions du premier alinéa, si le nombre de sessions tenues chaque année par la cour d'assises le justifie.
 
 Le nombre des jurés pour la liste annuelle est réparti proportionnellement au tableau officiel de la population. Cette répartition est faite par commune ou communes regroupées, par arrêté du préfet au mois d'avril de chaque année. A Paris, elle est faite par arrêté du préfet au mois de juin entre les arrondissements.
 
@@ -3195,20 +3509,16 @@ Le premier président de la cour d'appel ou le président du tribunal de grande 
 
 ###### Article 266
 
-Trente jours au moins avant l'ouverture des assises, le premier président de la cour d'appel, ou son délégué, ou le président du tribunal de grande instance, siège de la cour d'assises, ou son délégué, tire au sort, en audience publique, sur la liste annuelle, les noms de trente-cinq jurés qui forment la liste de session. Il tire, en outre, les noms de dix jurés suppléants sur la liste spéciale.
+Trente jours au moins avant l'ouverture des assises, le premier président de la cour d'appel, ou son délégué, ou le président du tribunal de grande instance, siège de la cour d'assises, ou son délégué, tire au sort, en audience publique, sur la liste annuelle, les noms de quarante jurés qui forment la liste de session. Il tire, en outre, les noms de douze jurés suppléants sur la liste spéciale.
 
+Si, parmi les noms tirés au sort, figurent ceux d'une ou de plusieurs personnes décédées ou qui se révéleraient ne pas remplir les conditions d'aptitude légale résultant des articles 255, 256 et 257 ou avoir exercé les fonctions de juré dans le département depuis moins de cinq ans, ces noms sont immédiatement remplacés sur la liste de session et la liste des jurés suppléants par les noms d'un ou de plusieurs autres jurés désignés par le sort ; ils sont retirés de la liste annuelle ou de la liste spéciale par le premier président de la cour d'appel ou par le président du tribunal de grande instance, siège de la cour d'assises, ou leur délégué.
 
-
-Si, parmi les noms tirés au sort, figurent ceux d'une ou de plusieurs personnes décédées ou qui se révéleraient ne pas remplir les conditions d'aptitude légale résultant des articles 255, 256 et 257 ou avoir exercé les fonctions de juré dans le département depuis moins de cinq ans, ces noms sont immédiatement remplacés sur la liste de session et la liste des dix jurés suppléants par les noms d'un ou de plusieurs autres jurés désignés par le sort ; ils sont retirés de la liste annuelle ou de la liste spéciale par le premier président de la cour d'appel ou par le président du tribunal de grande instance, siège de la cour d'assises, ou leur délégué.
-
-
-
-Sont également remplacés sur la liste de session et sur la liste des dix jurés suppléants, dans le cas où ils sont tirés au sort, les noms des personnes qui, dans l'année, ont satisfait aux réquisitions prescrites par les alinéas 2 et 3 de l'article 267.
+Sont également remplacés sur la liste de session et sur la liste des jurés suppléants, dans le cas où ils sont tirés au sort, les noms des personnes qui, dans l'année, ont satisfait aux réquisitions prescrites par les alinéas 2 et 3 de l'article 267.
 
 
 ###### Article 267
 
-Le préfet notifie à chacun des jurés l'extrait de la liste de session ou de la liste des dix jurés suppléants le concernant quinze jours au moins avant le jour de l'ouverture de la session.
+Le préfet notifie à chacun des jurés l'extrait de la liste de session ou de la liste des jurés suppléants le concernant quinze jours au moins avant le jour de l'ouverture de la session.
 
 Ce jour est mentionné dans la notification, laquelle indique également la durée prévisible de la session et contient sommation de se trouver aux jour et heure indiqués sous les peines portées au présent code.
 
@@ -3247,18 +3557,18 @@ Dans les autres départements, elles le sont par le greffier en chef ou un greff
 
 ##### Article 268
 
-L'arrêt de renvoi est signifié à l'accusé.
+L'ordonnance ou l'arrêt de mise en accusation est signifié à l'accusé.
 
 Il lui en est laissé copie.
 
-Cette signification doit être faite à personne si l'accusé est détenu. Toutefois, l'arrêt de renvoi peut être notifié à l'accusé détenu par les soins du chef de l'établissement pénitentiaire qui adresse, sans délai, au procureur général, l'original ou la copie du récépissé signé par l'intéressé.
+Cette signification doit être faite à personne si l'accusé est détenu. Toutefois, l'ordonnance ou l'arrêt de mise en accusation peut être notifié à l'accusé détenu par les soins du chef de l'établissement pénitentiaire qui adresse, sans délai, selon les cas, au procureur de la République ou au procureur général, l'original ou la copie du récépissé signé par l'intéressé.
 
 Dans le cas contraire, elle est faite dans les formes prévues au titre IV du présent livre.
 
 
 ##### Article 269
 
-Dès que l'arrêt de renvoi est devenu définitif, l'accusé, s'il est détenu, est transféré dans la maison d'arrêt du lieu où se tiennent les assises.
+Dès que la décision de mise en accusation est devenue définitive ou, en cas d'appel, dès que l'arrêt de désignation de la cour d'assises d'appel a été signifié, l'accusé, s'il est détenu, est transféré dans la maison d'arrêt du lieu où se tiennent les assises.
 
 
 ##### Article 270
@@ -3277,16 +3587,25 @@ Les pièces à conviction sont également transportées au greffe de ce tribunal
 
 Le président de la cour d'assises interroge l'accusé dans le plus bref délai, après l'arrivée de ce dernier à la maison d'arrêt et la remise des pièces au greffe.
 
-Si l'accusé est en liberté, il est procédé comme il est dit à l'article 215-1, deuxième alinéa.
+Si l'accusé est en liberté, il est procédé comme il est dit à l'article 272-1.
 
 Le président peut déléguer un de ses assesseurs afin de procéder à cet interrogatoire.
 
 Il doit être fait appel à un interprète si l'accusé ne parle ou ne comprend pas la langue française.
 
 
+##### Article 272-1
+
+Si l'accusé, après avoir été convoqué par la voie administrative au greffe de la cour d'assises, ne se présente pas, sans motif légitime d'excuse, au jour fixé pour être interrogé par le président de la cour d'assises, ce dernier peut, par décision motivée, mettre à exécution l'ordonnance de prise de corps.
+
+Pendant le déroulement de l'audience de la cour d'assises, la cour peut également, sur réquisition du ministère public, ordonner la mise à exécution de l'ordonnance de prise de corps si l'accusé se soustrait aux obligations du contrôle judiciaire ou s'il apparaît que la détention est l'unique moyen d'assurer sa présence lors des débats ou d'empêcher des pressions sur les victimes ou les témoins. Dès le début de l'audience, la cour peut aussi, sur les réquisitions du ministère public, ordonner le placement de l'accusé sous contrôle judiciaire afin d'assurer sa présence au cours des débats ou empêcher des pressions sur les victimes ou les témoins. Les dispositions du présent alinéa sont également applicables aux personnes renvoyées pour délits connexes.
+
+A tout moment, la personne peut demander sa mise en liberté devant la cour.
+
+
 ##### Article 273
 
-Le président interroge l'accusé sur son identité et s'assure que celui-ci a reçu signification de l'arrêt de renvoi.
+Le président interroge l'accusé sur son identité et s'assure que celui-ci a reçu signification de la décision de mise en accusation ou, en cas d'appel, de l'arrêt de désignation de la cour d'assises d'appel.
 
 
 ##### Article 274
@@ -3419,7 +3738,7 @@ Sont également rayés de la liste de session, les noms des jurés qui se révé
 
 ##### Article 289-1
 
-Si, en raison des absences ou à la suite des radiations par la cour, il reste moins de vingt-trois jurés sur la liste de session, ce nombre est complété par les jurés suppléants, suivant l'ordre de leur inscription ; en cas d'insuffisance, par des jurés tirés au sort, en audience publique, parmi les jurés inscrits sur la liste spéciale, subsidiairement parmi les jurés de la ville inscrits sur la liste annuelle.
+Si, en raison des absences ou à la suite des radiations par la cour, il reste, sur la liste de session, moins de vingt-trois jurés ou, lorsqu'au cours de la session la cour d'assises doit statuer en appel, moins de vingt-six jurés, ce nombre est complété par les jurés suppléants, suivant l'ordre de leur inscription ; en cas d'insuffisance, par des jurés tirés au sort, en audience publique, parmi les jurés inscrits sur la liste spéciale, subsidiairement parmi les jurés de la ville inscrits sur la liste annuelle.
 
 Dans le cas où les assises se tiennent dans un autre lieu que celui où elles doivent se tenir habituellement, le nombre des jurés titulaires est complété par un tirage au sort fait, en audience publique, parmi les jurés de la ville inscrits sur la liste annuelle.
 
@@ -3468,11 +3787,17 @@ Une carte portant leur nom est déposée dans une urne.
 
 ##### Article 296
 
-Le jury de jugement est formé de neuf jurés.
+Le jury de jugement est composé de neuf jurés lorsque la cour d'assises statue en premier ressort et de douze jurés lorsqu'elle statue en appel.
 
-La cour doit , par arrêt, ordonner, avant le tirage de la liste des jurés, qu'indépendamment des neuf jurés, il soit tiré au sort un ou plusieurs jurés supplémentaires qui assistent aux débats.
 
-Dans le cas où l'un ou plusieurs des neuf jurés seraient empêchés de suivre les débats jusqu'au prononcé de l'arrêt de la cour d'assises, ils sont remplacés par les jurés supplémentaires.
+
+La cour doit, par arrêt, ordonner, avant le tirage de la liste des jurés, qu'indépendamment des jurés de jugement, il soit tiré au sort un ou plusieurs jurés supplémentaires qui assistent aux débats.
+
+
+
+Dans le cas où l'un ou plusieurs des jurés de jugement seraient empêchés de suivre les débats jusqu'au prononcé de l'arrêt de la cour d'assises, ils sont remplacés par les jurés supplémentaires.
+
+
 
 Le remplacement se fait suivant l'ordre dans lequel les jurés supplémentaires ont été appelés par le sort.
 
@@ -3483,12 +3808,12 @@ L'accusé ou son avocat d'abord, le ministère public ensuite, récusent tels ju
 
 L'accusé, son avocat, ni le ministère public ne peuvent exposer leur motifs de récusation.
 
-Le jury de jugement est formé à l'instant où sont sortis de l'urne neuf noms de jurés non récusés et les noms des jurés supplémentaires prévus par l'article 296.
+Le jury de jugement est formé à l'instant où sont sortis de l'urne les noms de neuf ou douze jurés non récusés, selon les distinctions prévues par le premier alinéa de l'article 296, et les noms des jurés supplémentaires prévus par l'article 296.
 
 
 ##### Article 298
 
-L'accusé ne peut récuser plus de cinq jurés, le ministère public plus de quatre.
+Lorsque la cour d'assises statue en premier ressort, l'accusé ne peut récuser plus de cinq jurés et le ministère public plus de quatre. Lorsqu'elle statue en appel, l'accusé ne peut récuser plus de six jurés, le ministère public plus de cinq.
 
 
 ##### Article 299
@@ -3520,7 +3845,7 @@ Les jurés se placent dans l'ordre désigné par le sort, aux côtés de la cour
 
 ##### Article 304
 
-Le président adresse aux jurés, debout et découverts, le discours suivant : "Vous jurez et promettez d'examiner avec l'attention la plus scrupuleuse les charges qui seront portées contre X..., de ne trahir ni les intérêts de l'accusé, ni ceux de la société qui l'accuse ; de ne communiquer avec personne jusqu'après votre déclaration ; de n'écouter ni la haine ou la méchanceté, ni la crainte ou l'affection ; de vous décider d'après les charges et les moyens de défense, suivant votre conscience et votre intime conviction, avec l'impartialité et la fermeté qui conviennent à un homme probe et libre, et de conserver le secret des délibérations, même après la cessation de vos fonctions".
+Le président adresse aux jurés, debout et découverts, le discours suivant : "Vous jurez et promettez d'examiner avec l'attention la plus scrupuleuse les charges qui seront portées contre X..., de ne trahir ni les intérêts de l'accusé, ni ceux de la société qui l'accuse, ni ceux de la victime ; de ne communiquer avec personne jusqu'après votre déclaration ; de n'écouter ni la haine ou la méchanceté, ni la crainte ou l'affection ; de vous rappeler que l'accusé est présumé innocent et que le doute doit lui profiter ; de vous décider d'après les charges et les moyens de défense, suivant votre conscience et votre intime conviction, avec l'impartialité et la fermeté qui conviennent à un homme probe et libre, et de conserver le secret des délibérations, même après la cessation de vos fonctions".
 
 Chacun des jurés, appelé individuellement par le président, répond en levant la main : "Je le jure".
 
@@ -3597,7 +3922,9 @@ Ils ont le devoir de ne pas manifester leur opinion.
 
 ##### Article 312
 
-Sous réserve des dispositions de l'article 309, le ministère public, l'accusé, la partie civile, les conseils de l'accusé et de la partie civile peuvent poser des questions, par l'intermédiaire du président, aux accusés, aux témoins et à toutes personnes appelées à la barre.
+Sous réserve des dispositions de l'article 309, le ministère public et les avocats des parties peuvent poser directement des questions à l'accusé, à la partie civile, aux témoins et à toutes les personnes appelées à la barre, en demandant la parole au président.
+
+L'accusé et la partie civile peuvent également poser des questions par l'intermédiaire du président.
 
 
 ##### Article 313
@@ -3623,7 +3950,7 @@ Tous incidents contentieux sont réglés par la cour, le ministère public, les 
 
 Ces arrêts ne peuvent préjuger du fond.
 
-Ils ne peuvent être attaqués par la voie du recours en cassation qu'en même temps que l'arrêt sur le fond.
+Lorsque la cour d'assises examine l'affaire en appel, ces arrêts ne peuvent être attaqués que par la voie du recours en cassation, en même temps que l'arrêt sur le fond. Lorsque la cour d'assises examine l'affaire en premier ressort, ces arrêts ne peuvent faire l'objet d'un recours, mais, en cas d'appel de l'arrêt sur le fond et de réexamen de l'affaire devant une autre cour d'assises, ils n'ont pas autorité de la chose jugée devant cette cour.
 
 
 ##### Section 2 : De la comparution de l'accusé
@@ -3691,19 +4018,6 @@ Lorsqu'un témoin cité ne comparaît pas, la cour peut, sur réquisitions du mi
 
 
 
-Dans tous les cas, le témoin qui ne comparaît pas ou qui refuse soit de prêter serment, soit de faire sa déposition peut, sur réquisitions du ministère public, être condamné par la cour à la peine portée à l'article 109.
-
-
-
-La voie de l'opposition est ouverte au condamné qui n'a pas comparu. L'opposition s'exerce dans les cinq jours de la signification de l'arrêt faite à sa personne ou à son domicile. La cour statue sur cette opposition soit pendant la session en cours, soit au cours d'une session ultérieure.
-
-
-##### Article 326
-
-Lorsqu'un témoin cité ne comparaît pas, la cour peut, sur réquisitions du ministère public ou même d'office, ordonner que ce témoin soit immédiatement amené par la force publique devant la cour pour y être entendu, ou renvoyer l'affaire à la prochaine session.
-
-
-
 Dans tous les cas, le témoin qui ne comparaît pas ou qui refuse soit de prêter serment, soit de faire sa déposition peut, sur réquisitions du ministère public, être condamné par la cour à une amende de 25 000 F.
 
 
@@ -3713,9 +4027,9 @@ La voie de l'opposition est ouverte au condamné qui n'a pas comparu. L'oppositi
 
 ##### Article 327
 
-Le président invite l'accusé à écouter avec attention la lecture de l'arrêt de renvoi.
+Le président invite l'accusé et les jurés à écouter avec attention la lecture de la décision de renvoi, ainsi que, lorsque la cour d'assises statue en appel, des questions posées à la cour d'assises ayant statué en premier ressort, des réponses faites aux questions, de la décision et de la condamnation prononcée.
 
-Il ordonne au greffier de lire cet arrêt à haute et intelligible voix.
+Il invite le greffier à procéder à cette lecture.
 
 
 ##### Article 328
@@ -3842,13 +4156,15 @@ L'interprète ne peut, même du consentement de l'accusé ou du ministère publi
 
 ##### Article 345
 
-Si l'accusé est sourd-muet et ne sait pas écrire, le président nomme d'office en qualité d'interprète la personne qui a le plus d'habitude de converser avec lui.
+Si l'accusé est atteint de surdité, le président nomme d'office pour l'assister lors du procès un interprète en langue des signes ou toute personne qualifiée maîtrisant un langage ou une méthode permettant de communiquer avec les sourds. Celui-ci prête serment d'apporter son concours à la justice en son honneur et en sa conscience.
 
-Il en est de même à l'égard du témoin sourd-muet.
+Le président peut également décider de recourir à tout dispositif technique permettant de communiquer avec la personne atteinte de surdité.
+
+Si l'accusé sait lire et écrire, le président peut également communiquer avec lui par écrit.
 
 Les autres dispositions du précédent article sont applicables.
 
-Dans le cas où le sourd-muet sait écrire, le greffier écrit les questions ou observations qui lui sont faites ; elles sont remises à l'accusé ou au témoin, qui donne par écrit ses réponses ou déclarations. Il est fait lecture du tout par le greffier.
+Le président peut procéder de même avec les témoins ou les parties civiles atteints de surdité.
 
 
 ##### Article 346
@@ -3875,18 +4191,31 @@ Si, au cours de la délibération, la cour d'assises estime nécessaire l'examen
 
 ##### Article 348
 
-Le président donne lecture des questions auxquelles la cour et le jury ont à répondre. Cette lecture n'est pas obligatoire quand les questions sont posées dans les termes de l'arrêt de renvoi ou si l'accusé ou son défenseur y renonce.
+Le président donne lecture des questions auxquelles la cour et le jury ont à répondre. Cette lecture n'est pas obligatoire quand les questions sont posées dans les termes de la décision de mise en accusation ou si l'accusé ou son défenseur y renonce.
 
 
 ##### Article 349
 
 Chaque question principale est posée ainsi qu'il suit : "L'accusé est-il coupable d'avoir commis tel fait ?"
 
-Une question est posée sur chaque fait spécifié dans le dispositif de l'arrêt de renvoi.
+Une question est posée sur chaque fait spécifié dans le dispositif de la décision de mise en accusation.
 
 Chaque circonstance aggravante fait l'objet d'une question distincte.
 
 Il en est de même, lorsqu'elle est invoquée, de chaque cause légale d'exemption ou de diminution de la peine.
+
+
+##### Article 349-1
+
+Lorsque est invoquée comme moyen de défense l'existence de l'une des causes d'irresponsabilité pénale prévues par les articles 122-1 (premier alinéa), 122-2, 122-3, 122-4 (premier et second alinéas), 122-5 (premier et second alinéas) et 122-7 du code pénal, chaque fait spécifié dans le dispositif de la décision de mise en accusation fait l'objet de deux questions posées ainsi qu'il suit :
+
+" 1° L'accusé a-t-il commis tel fait ? ;
+
+" 2° L'accusé bénéficie-t-il pour ce fait de la cause d'irresponsabilité pénale prévue par l'article... du code pénal selon lequel n'est pas pénalement responsable la personne qui... ? "
+
+Le président peut, avec l'accord des parties, ne poser qu'une seule question concernant la cause d'irresponsabilité pour l'ensemble des faits reprochés à l'accusé.
+
+Sauf si l'accusé ou son défenseur y renonce, il est donné lecture des questions posées en application du présent article.
 
 
 ##### Article 350
@@ -3896,7 +4225,7 @@ S'il résulte des débats une ou plusieurs circonstances aggravantes, non mentio
 
 ##### Article 351
 
-S'il résulte des débats que le fait comporte une qualification légale autre que celle donnée par l'arrêt de renvoi, le président doit poser une ou plusieurs questions subsidiaires.
+S'il résulte des débats que le fait comporte une qualification légale autre que celle donnée par la décision de mise en accusation, le président doit poser une ou plusieurs questions subsidiaires.
 
 
 ##### Article 352
@@ -3913,7 +4242,7 @@ Avant que la cour d'assises se retire, le président donne lecture de l'instruct
 
 ##### Article 354
 
-Le président fait retirer l'accusé de la salle d'audience.
+Le président fait retirer l'accusé de la salle d'audience. Si l'accusé est libre, il lui enjoint de ne pas quitter le palais de justice pendant la durée du délibéré, en indiquant, le cas échéant, le ou les locaux dans lesquels il doit demeurer, et invite le chef du service d'ordre à veiller au respect de cette injonction.
 
 Il invite le chef du service d'ordre à faire garder les issues de la chambre des délibérations, dans laquelle nul ne pourra pénétrer, pour quelque cause que ce soit, sans autorisation du président.
 
@@ -3933,7 +4262,7 @@ Ils n'en peuvent sortir qu'après avoir pris leurs décisions.
 
 ##### Article 356
 
-La cour et le jury délibèrent, puis votent, par bulletins écrits et par scrutins distincts et successifs, sur le fait principal d'abord, et s'il y a lieu, sur chacune des circonstances aggravantes, sur les questions subsidiaires et sur chacun des faits constituant une cause légale d'exemption ou de diminution de la peine.
+La cour et le jury délibèrent, puis votent, par bulletins écrits et par scrutins distincts et successifs, sur le fait principal d'abord, et s'il y a lieu, sur les causes d'irresponsabilité pénale, sur chacune des circonstances aggravantes, sur les questions subsidiaires et sur chacun des faits constituant une cause légale d'exemption ou de diminution de la peine.
 
 
 ##### Article 357
@@ -3954,17 +4283,22 @@ Immédiatement après le dépouillement de chaque scrutin, les bulletins sont br
 
 ##### Article 359
 
-Toute décision défavorable à l'accusé se forme à la majorité de huit voix au moins.
+Toute décision défavorable à l'accusé se forme à la majorité de huit voix au moins lorsque la cour d'assises statue en premier ressort et à la majorité de dix voix au moins lorsque la cour d'assises statue en appel.
 
 
 ##### Article 360
 
-La déclaration, lorsqu'elle est affirmative, constate que la majorité de huit voix au moins a été acquise sans que le nombre de voix puisse être autrement exprimé.
+La déclaration, lorsqu'elle est affirmative, constate que la majorité de voix exigée par l'article 359 au moins a été acquise sans que le nombre de voix puisse être autrement exprimé.
 
 
 ##### Article 361
 
 Au cas de contradiction entre deux ou plusieurs réponses, le président peut faire procéder à un nouveau vote.
+
+
+##### Article 361-1
+
+Si, lorsqu'il est fait application des dispositions de l'article 349-1, la cour d'assises a répondu positivement à la première question et négativement à la seconde question, elle déclare l'accusé coupable. Si elle a répondu négativement à la première question ou positivement à la seconde question, elle déclare l'accusé non coupable.
 
 
 ##### Article 362
@@ -3973,7 +4307,7 @@ En cas de réponse affirmative sur la culpabilité, le président donne lecture 
 
 
 
-La décision sur la peine se forme à la majorité absolue des votants. Toutefois, le maximum de la peine privative de liberté encourue ne peut être prononcé qu'à la majorité de huit voix au moins. Si le maximum de la peine encourue n'a pas obtenu la majorité de huit voix, il ne peut être prononcé une peine supérieure à trente ans de réclusion criminelle lorsque la peine encourue est la réclusion criminelle à perpétuité et une peine supérieure à vingt ans de réclusion criminelle lorsque la peine encourue est de trente ans de réclusion criminelle. Les mêmes règles sont applicables en cas de détention criminelle.
+La décision sur la peine se forme à la majorité absolue des votants. Toutefois, le maximum de la peine privative de liberté encourue ne peut être prononcé qu'à la majorité de huit voix au moins lorsque la cour d'assises statue en premier ressort et qu'à la majorité de dix voix au moins lorsque la cour d'assises statue en appel. Si le maximum de la peine encourue n'a pas obtenu cette majorité, il ne peut être prononcé une peine supérieure à trente ans de réclusion criminelle lorsque la peine encourue est la réclusion criminelle à perpétuité et une peine supérieure à vingt ans de réclusion criminelle lorsque la peine encourue est de trente ans de réclusion criminelle. Les mêmes règles sont applicables en cas de détention criminelle.
 
 
 
@@ -4018,7 +4352,13 @@ Au cas de condamnation ou d'absolution, l'arrêt se prononce sur la contrainte j
 
 ##### Article 367
 
-Si l'accusé est exempté de peine ou acquitté, il est mis immédiatement en liberté s'il n'est retenu pour autre cause.
+Si l'accusé est exempté de peine ou acquitté, s'il est condamné à une peine autre qu'une peine ferme privative de liberté, ou s'il est condamné à une peine ferme privative de liberté couverte par la détention provisoire, il est mis immédiatement en liberté s'il n'est retenu pour autre cause.
+
+Dans les autres cas, tant que l'arrêt n'est pas définitif, et, le cas échéant, pendant l'instance d'appel, l'ordonnance de prise de corps est mise à exécution ou continue de produire ses effets jusqu'à ce que la durée de détention ait atteint celle de la peine prononcée.
+
+La cour d'assises peut, par décision spéciale et motivée, décider que l'ordonnance de prise de corps sera mise à exécution contre la personne renvoyée pour délit connexe qui n'est pas détenue au moment où l'arrêt est rendu, si la peine prononcée est supérieure ou égale à un an d'emprisonnement et si les éléments de l'espèce justifient une mesure particulière de sûreté.
+
+Les sanctions pénales prononcées en application des articles 131-6 à 131-11 du code pénal peuvent être déclarées exécutoires par provision.
 
 
 ##### Article 368
@@ -4033,7 +4373,7 @@ Lorsque dans le cours des débats des charges sont relevées contre l'accusé à
 
 ##### Article 370
 
-Après avoir prononcé l'arrêt, le président avertit, s'il y a lieu, l'accusé de la faculté qui lui est accordée de se pourvoir en cassation et lui fait connaître le délai de ce pourvoi.
+Après avoir prononcé l'arrêt, le président avertit, s'il y a lieu, l'accusé de la faculté qui lui est accordée, selon les cas, d'interjeter appel ou de se pourvoir en cassation et lui fait connaître le délai d'appel ou de pourvoi.
 
 
 ##### Section 3 : De la décision sur l'action civile
@@ -4055,6 +4395,13 @@ La partie civile, dans le cas d'acquittement comme dans celui d'exemption de pei
 La cour peut ordonner d'office la restitution des objets placés sous la main de la justice. Toutefois, s'il y a eu condamnation, cette restitution n'est effectuée que si son bénéficiaire justifie que le condamné a laissé passer les délais sans se pourvoir en cassation, ou s'il s'est pourvu, que l'affaire est définitivement jugée.
 
 La cour peut refuser la restitution lorsque celle-ci présente un danger pour les personnes ou les biens.
+
+
+##### Article 374
+
+Lorsqu'elle statue en premier ressort, la cour peut ordonner l'exécution provisoire de sa décision, si celle-ci a été demandée, sans préjudice des dispositions de l'article 380-8.
+
+Toutefois, l'exécution provisoire des mesures d'instruction est de droit.
 
 
 ##### Article 375
@@ -4105,6 +4452,132 @@ A moins que le président n'en ordonne autrement d'office ou sur la demande du m
 Les minutes des arrêts rendus par la cour d'assises sont réunies et déposées au greffe du tribunal de grande instance, siège de ladite cour.
 
 Toutefois, les minutes des arrêts rendus par la cour d'assises du département où siège la cour d'appel restent déposées au greffe de ladite cour.
+
+
+#### Chapitre VIII : De l'appel des décisions rendues par la cour d'assises en premier ressort
+
+##### Section 1 : Dispositions générales
+
+##### Article 380-1
+
+Les arrêts de condamnation rendus par la cour d'assises en premier ressort peuvent faire l'objet d'un appel dans les conditions prévues par le présent chapitre.
+
+Cet appel est porté devant une autre cour d'assises désignée par la chambre criminelle de la Cour de cassation et qui procède au réexamen de l'affaire selon les modalités et dans les conditions prévues par les chapitres II à VII du présent titre.
+
+
+##### Article 380-2
+
+La faculté d'appeler appartient :
+1. A l'accusé ;
+2. Au ministère public ;
+3. A la personne civilement responsable, quant à ses intérêts civils ;
+4. A la partie civile, quant à ses intérêts civils ;
+5. En cas d'appel du ministère public, aux administrations publiques, dans les cas où celles-ci exercent l'action publique.
+
+
+##### Article 380-4
+
+Pendant les délais d'appel et durant l'instance d'appel, il est sursis à l'exécution de l'arrêt sur l'action publique.
+
+Toutefois, l'ordonnance de prise de corps continue de produire ses effets à l'encontre de la personne condamnée à une peine privative de liberté conformément aux dispositions du deuxième alinéa de l'article 367.
+
+
+##### Section 2 : Délais et formes de l'appel
+
+##### Article 380-11
+
+L'accusé peut se désister de son appel jusqu'à son interrogatoire par le président prévu par l'article 272.
+
+Ce désistement rend caducs les appels incidents formés par le ministère public ou les autres parties.
+
+Le désistement d'appel est constaté par ordonnance du président de la cour d'assises.
+
+La caducité de l'appel de l'accusé résulte également de la constatation, par le président de la cour d'assises, que ce dernier a pris la fuite et n'a pas pu être retrouvé avant l'ouverture de l'audience ou au cours de son déroulement.
+
+
+##### Article 380-12
+
+La déclaration d'appel doit être faite au greffe de la cour d'assises qui a rendu la décision attaquée.
+
+Elle doit être signée par le greffier et par l'appelant lui-même, par un avocat, par un avoué près la cour d'appel, ou par un fondé de pouvoir spécial ; dans ce dernier cas, le pouvoir est annexé à l'acte dressé par le greffier. Si l'appelant ne peut signer, il en sera fait mention par le greffier.
+
+Elle est inscrite sur un registre public à ce destiné et toute personne a le droit de s'en faire délivrer une copie.
+
+
+##### Article 380-13
+
+Lorsque l'appelant est détenu, l'appel peut être fait au moyen d'une déclaration auprès du chef de l'établissement pénitentiaire.
+
+Cette déclaration est constatée, datée et signée par le chef de l'établissement pénitentiaire. Elle est également signée par l'appelant ; si celui-ci ne peut signer, il en est fait mention par le chef de l'établissement.
+
+Ce document est adressé sans délai, en original ou en copie, au greffe de la cour d'assises qui a rendu la décision attaquée ; il est transcrit sur le registre prévu par le troisième alinéa de l'article 380-11 et annexé à l'acte dressé par le greffier.
+
+
+#### Chapitre IX : De l'appel des décisions rendues par la cour d'assises en premier ressort
+
+##### Section 1 : Dispositions générales
+
+##### Article 380-3
+
+La cour d'assises statuant en appel sur l'action publique ne peut, sur le seul appel de l'accusé, aggraver le sort de ce dernier.
+
+
+##### Article 380-5
+
+Lorsque la cour d'assises n'est pas saisie de l'appel formé contre le jugement rendu sur l'action publique, l'appel formé par une partie contre le seul jugement rendu sur l'action civile est porté devant la chambre des appels correctionnels. Les articles 380-14 et 380-15 ne sont pas applicables.
+
+
+##### Article 380-6
+
+La cour d'assises statuant en appel sur l'action civile ne peut, sur le seul appel de l'accusé, du civilement responsable ou de la partie civile, aggraver le sort de l'appelant.
+
+La partie civile ne peut, en cause d'appel, former aucune demande nouvelle ; toutefois, elle peut demander une augmentation des dommages et intérêts pour le préjudice souffert depuis la première décision. Même lorsqu'il n'a pas été fait appel de la décision sur l'action civile, la victime constituée partie civile en premier ressort peut exercer devant la cour d'assises statuant en appel les droits reconnus à la partie civile jusqu'à la clôture des débats ; elle peut également demander l'application des dispositions du présent alinéa, ainsi que de celle de l'article 375.
+
+
+##### Article 380-7
+
+Pendant les délais d'appel et durant l'instance d'appel, il est sursis à l'exécution de l'arrêt sur l'action civile, sous réserve des dispositions de l'article 374.
+
+
+##### Article 380-8
+
+Lorsque la cour d'assises statuant en premier ressort sur l'action civile a ordonné le versement provisoire, en tout ou en partie, des dommages-intérêts alloués, cette exécution provisoire peut être arrêtée, en cause d'appel, par le premier président, statuant en référé si elle risque d'entraîner des conséquences manifestement excessives. Le premier président peut subordonner la suspension de l'exécution provisoire à la constitution d'une garantie, réelle ou personnelle, suffisante pour répondre de toutes restitutions ou réparations.
+
+Lorsque l'exécution provisoire a été refusée par la cour statuant sur l'action civile ou lorsque l'exécution provisoire n'a pas été demandée, ou si, l'ayant été, la cour a omis de statuer, elle peut être accordée, en cas d'appel, par le premier président statuant en référé.
+
+Pour l'application des dispositions du présent article, est compétent le premier président de la cour d'appel dans le ressort de laquelle siège la cour d'assises désignée pour connaître de l'affaire en appel.
+
+
+##### Section 2 : Délais et formes de l'appel
+
+##### Article 380-9
+
+L'appel est interjeté dans le délai de dix jours à compter du prononcé de l'arrêt.
+
+Toutefois, le délai ne court qu'à compter de la signification de l'arrêt, quel qu'en soit le mode, pour la partie qui n'était pas présente ou représentée à l'audience où le jugement a été prononcé, mais seulement dans le cas où elle-même ou son représentant n'auraient pas été informés du jour où l'arrêt serait prononcé.
+
+
+##### Article 380-10
+
+En cas d'appel d'une partie, pendant les délais ci-dessus, les autres parties ont un délai supplémentaire de cinq jours pour interjeter appel.
+
+
+##### Section 3 : Désignation de la cour d'assises statuant en appel
+
+##### Article 380-14
+
+Dès que l'appel a été enregistré, le ministère public adresse sans délai au greffe de la chambre criminelle de la Cour de cassation, avec ses observations éventuelles, la décision attaquée et, le cas échéant, le dossier de la procédure.
+
+Dans le mois qui suit la réception de l'appel, la chambre criminelle, après avoir recueilli les observations écrites du ministère public et des parties ou de leurs avocats, désigne la cour d'assises chargée de statuer en appel.
+
+Il est alors procédé comme en cas de renvoi après cassation.
+
+Par dérogation aux dispositions du deuxième alinéa de l'article 380-1, en cas d'appel d'une décision de la cour d'assises d'un département d'outre-mer, de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis-et-Futuna, la chambre criminelle peut désigner la même cour d'assises, autrement composée, pour connaître de l'appel. Les dispositions du présent alinéa sont également applicables en cas d'appel des décisions de la cour criminelle de Mayotte ou du tribunal criminel de Saint-Pierre-et-Miquelon. En cas de vacance de poste, d'absence, d'empêchement ou d'incompatibilité légale, les fonctions de président de la juridiction criminelle statuant en appel et, le cas échéant, des magistrats assesseurs qui la composent, sont exercées par des conseillers désignés, sur une liste arrêtée pour chaque année civile, par le premier président de la cour d'appel de Paris, ou, pour la cour criminelle de Mayotte, par le premier président de la cour d'appel de Saint-Denis-de-la-Réunion.
+
+
+##### Article 380-15
+
+Si la chambre criminelle de la Cour de cassation constate que l'appel n'a pas été formé dans les délais prévus par la loi ou porte sur un arrêt qui n'est pas susceptible d'appel, elle dit n'y avoir pas lieu à désignation d'une cour d'assises chargée de statuer en appel.
 
 
 ### Titre II : Du jugement des délits
@@ -4162,6 +4635,8 @@ Lorsque l'ordonnance de renvoi du juge d'instruction a été rendue sans que les
 Lorsque la procédure dont il est saisi n'est pas renvoyée devant lui par la juridiction d'instruction, le tribunal statue sur les exceptions tirées de la nullité de la procédure antérieure.
 
 La nullité de la citation ne peut être prononcée que dans les conditions prévues par l'article 565.
+
+
 
 Dans tous les cas, les exceptions de nullité doivent être présentées avant toute défense au fond.
 
@@ -4346,14 +4821,18 @@ Dans tous les cas prévus par le présent paragraphe, le tribunal peut, conform�
 
 Dans les cas prévus par les articles 395 et suivants, le tribunal peut également placer ou maintenir le prévenu en détention provisoire par décision spécialement motivée. La décision prescrivant la détention est rendue suivant les modalités prévues par les articles 135, 145, alinéa premier, 145-1, quatrième alinéa et 464-1 et est motivée par référence aux dispositions des 1°, 2° et 3° de l'article 144. Elle est exécutoire par provision.
 
-Lorsque le prévenu est en détention provisoire, le jugement au fond doit être rendu dans les deux mois qui suivent le jour de sa première comparution devant le tribunal. Faute de décision au fond à l'expiration de ce délai, il est mis fin à la détention provisoire. Le prévenu, s'il n'est pas détenu pour autre cause, est mis d'office en liberté.
+Lorsque le prévenu est en détention provisoire, le jugement au fond doit être rendu dans le mois qui suit le jour de sa première comparution devant le tribunal. Ce délai est prolongé d'un mois au maximum à la demande du prévenu. Faute de décision au fond à l'expiration de ce délai, il est mis fin à la détention provisoire. Le prévenu, s'il n'est pas détenu pour autre cause, est mis d'office en liberté.
 
 
 ###### Article 397-4
 
 Dans le cas où le prévenu est condamné à un emprisonnement sans sursis, le tribunal saisi en application des articles 395 et suivants peut, quelle que soit la durée de la peine, ordonner, d'après les éléments de l'espèce, le placement ou le maintien en détention par décision spécialement motivée. Les dispositions des articles 148-2 et 471, deuxième alinéa, sont applicables.
 
-La cour statue dans les quatre mois de l'appel du jugement rendu sur le fond interjeté par le prévenu détenu, faute de quoi celui-ci, s'il n'est pas détenu pour une autre cause, est mis d'office en liberté.
+
+
+La cour statue dans les deux mois de l'appel du jugement rendu sur le fond interjeté par le prévenu détenu, faute de quoi celui-ci, s'il n'est pas détenu pour une autre cause, est mis d'office en liberté.
+
+
 
 Si la juridiction estime devoir décerner un mandat d'arrêt, les dispositions de l'article 465 sont applicables, quelle que soit la durée de la peine prononcée.
 
@@ -4484,11 +4963,15 @@ L'interprète ne peut, même du consentement du prévenu ou du ministère public
 
 ###### Article 408
 
-Si le prévenu est sourd-muet et ne sait pas écrire, le président nomme d'office, en qualité d'interprète, la personne qui a le plus l'habitude de converser avec lui.
+Si le prévenu est atteint de surdité, le président nomme d'office pour l'assister lors du procès un interprète en langue des signes ou toute personne qualifiée maîtrisant un langage ou une méthode permettant de communiquer avec les sourds. Celui-ci prête serment d'apporter son concours à la justice en son honneur et en sa conscience.
+
+Le président peut également décider de recourir à tout dispositif technique permettant de communiquer avec la personne atteinte de surdité.
+
+Si le prévenu sait lire et écrire, le président peut également communiquer avec lui par écrit.
 
 Les autres dispositions du précédent article sont applicables.
 
-Dans le cas où le prévenu visé au présent article sait écrire, le greffier écrit les questions ou observations qui lui sont faites ; elles sont remises au prévenu, qui donne par écrit ses réponses. Il est fait lecture du tout par le greffier.
+Le président peut procéder de même avec les témoins ou les parties civiles atteints de surdité.
 
 
 ###### Article 409
@@ -4666,6 +5149,8 @@ L'aveu, comme tout élément de preuve, est laissé à la libre appréciation de
 
 Tout procès-verbal ou rapport n'a de valeur probante que s'il est régulier en la forme, si son auteur a agi dans l'exercice de ses fonctions et a rapporté sur une matière de sa compétence ce qu'il a vu, entendu ou constaté personnellement.
 
+Tout procès-verbal d'interrogatoire ou d'audition doit comporter les questions auxquelles il est répondu.
+
 
 ###### Article 430
 
@@ -4733,7 +5218,14 @@ Le témoin qui a été condamné pour refus de prêter serment ou de déposer pe
 
 ###### Article 442
 
-Avant de procéder à l'audition des témoins, le président interroge le prévenu et reçoit ses déclarations. Le ministère public, ainsi que la partie civile et la défense, celles-ci par l'intermédiaire du président, peuvent lui poser des questions.
+Avant de procéder à l'audition des témoins, le président interroge le prévenu et reçoit ses déclarations.
+
+
+###### Article 442-1
+
+Sous réserve des dispositions de l'article 401, le ministère public et les avocats des parties peuvent poser directement des questions au prévenu, à la partie civile, aux témoins et à toutes personnes appelées à la barre, en demandant la parole au président.
+
+Le prévenu et la partie civile peuvent également poser des questions par l'intermédiaire du président.
 
 
 ###### Article 443
@@ -4826,7 +5318,7 @@ Les notes d'audience sont signées par le greffier. Elles sont visées par le pr
 
 ###### Article 454
 
-Après chaque déposition, le président pose au témoin les questions qu'il juge nécessaires, et, s'il y a lieu, celles qui lui sont proposées par les parties.
+Après chaque déposition, le président et, dans les conditions prévues à l'article 442-1, le ministère public et les parties posent au témoin les questions qu'ils jugent nécessaires.
 
 Le témoin peut se retirer après sa déposition, à moins que le président n'en décide autrement.
 
@@ -5270,6 +5762,11 @@ Si le jugement est rendu par défaut ou par itératif défaut, le délai d'appel
 En cas d'appel d'une des parties pendant les délais ci-dessus, les autres parties ont un délai supplémentaire de cinq jours pour interjeter appel.
 
 
+##### Article 500-1
+
+Lorsqu'il intervient dans un délai d'un mois à compter de l'appel, le désistement par le prévenu ou la partie civile de son appel principal entraîne la caducité des appels incidents, y compris celui du ministère public. Constitue un appel incident l'appel formé dans le délai prévu par l'article 500, ainsi que l'appel formé, à la suite d'un précédent appel, dans les délais prévus par les articles 498 ou 505, lorsque l'appelant précise qu'il s'agit d'un appel incident. Dans tous les cas, le ministère public peut toujours se désister de son appel formé après celui du prévenu en cas de désistement de celui-ci.
+
+
 ##### Article 501
 
 Lorsque le tribunal statue sur une demande de mise en liberté conformément aux articles 148-1 et 148-2 ainsi que lorsqu'il statue sur une demande de mainlevée ou de modification de contrôle judiciaire, l'appel doit être formé dans un délai de vingt-quatre heures.
@@ -5382,9 +5879,9 @@ Les règles édictées pour le tribunal correctionnel sont applicables devant la
 
 L'appel est jugé à l'audience sur le rapport oral d'un conseiller ; le prévenu est interrogé.
 
-Les témoins ne sont entendus que si la cour a ordonné leur audition.
+Les témoins cités par le prévenu sont entendus dans les règles prévues aux articles 435 à 457. Le ministère public peut s'y opposer si ces témoins ont déjà été entendus par le tribunal. La cour tranche avant tout débat au fond.
 
-Les parties en cause ont la parole dans l'ordre suivant : d'abord, les parties appelantes, puis les parties intimées ; s'il y a plusieurs parties appelantes ou intimées, elles sont entendues dans l'ordre fixé par le président.
+Après que l'appelant ou son représentant a sommairement indiqué les motifs de son appel, les parties en cause ont la parole dans l'ordre prévu par l'article 460.
 
 Le prévenu ou son avocat auront toujours la parole les derniers.
 
@@ -6064,7 +6561,7 @@ La chambre criminelle doit statuer dans les deux mois qui suivent l'ordonnance d
 
 
 
-Les dispositions de l'article 570 et du présent article sont applicables aux pourvois formés contre les arrêts préparatoires, interlocutoires ou d'instruction rendus par les chambres d'accusation à l'exception des arrêts visés au troisième alinéa de l'article 570.
+Les dispositions de l'article 570 et du présent article sont applicables aux pourvois formés contre les arrêts préparatoires, interlocutoires ou d'instruction rendus par les chambres de l'instruction à l'exception des arrêts visés au troisième alinéa de l'article 570.
 
 
 
@@ -6215,11 +6712,6 @@ Les arrêts de la chambre de l'instruction, ainsi que les arrêts et jugements e
 Il en est de même lorsqu'il a été omis ou refusé de prononcer soit sur une ou plusieurs demandes des parties, soit sur une ou plusieurs réquisitions du ministère public.
 
 
-#### Article 594
-
-En matière criminelle, l'arrêt de renvoi de la chambre de l'instruction, devenu définitif, fixe la compétence de la cour d'assises et couvre, s'il en existe, les vices de la procédure antérieure.
-
-
 #### Article 595
 
 Lorsque la chambre de l'instruction statue sur le règlement d'une procédure, tous moyens pris de nullités de l'information doivent lui être proposés, faute de quoi les parties ne sont plus recevables à en faire état, sauf le cas où elles n'auraient pu les connaître, et sans préjudice du droit qui appartient à la Cour de cassation de relever tous moyens d'office.
@@ -6244,7 +6736,7 @@ Lorsque la peine prononcée est la même que celle portée par la loi qui s'appl
 
 En matière correctionnelle, le prévenu n'est pas recevable à présenter comme moyen de cassation les nullités commises en première instance s'il ne les a pas opposées devant la cour d'appel, à l'exception de la nullité pour cause d'incompétence lorsqu'il y a eu appel du ministère public.
 
-En matière criminelle, l'accusé n'est pas recevable à présenter comme moyen de cassation les nullités qu'il n'a pas soulevées devant la cour d'assises conformément aux prescriptions de l'article 305-1.
+En matière criminelle, l'accusé n'est pas recevable à présenter comme moyen de cassation les nullités qu'il n'a pas soulevées devant la cour d'assises statuant en appel conformément aux prescriptions de l'article 305-1.
 
 
 #### Article 600
@@ -6315,7 +6807,7 @@ Lorsque la Cour de cassation annule un arrêt ou un jugement rendu en matière c
 
 #### Article 609-1
 
-Lorsque la Cour de cassation annule un arrêt d'une chambre de l'instruction statuant sur un appel d'une ordonnance de règlement ou de transmission de pièces, elle renvoie le procès et les parties devant une autre chambre de l'instruction qui devient compétente pour la poursuite de l'ensemble de la procédure.
+Lorsque la Cour de cassation annule un arrêt d'une chambre de l'instruction statuant sur un appel d'une ordonnance de règlement, elle renvoie le procès et les parties devant une autre chambre de l'instruction qui devient compétente pour la poursuite de l'ensemble de la procédure.
 
 Lorsque la Cour de cassation annule un arrêt de chambre de l'instruction autre que ceux visés à l'alinéa précédent, la compétence de la chambre de l'instruction de renvoi est limitée, sauf si la Cour de cassation en décide autrement, à la solution du contentieux qui a motivé sa saisine et, après décision définitive, sous la réserve des dispositions du premier alinéa de l'article 207, il est fait retour du dossier à la chambre de l'instruction primitivement saisie, aux fins prévues, s'il y a lieu, par le deuxième alinéa dudit article ou par le troisième alinéa de l'article 206.
 
@@ -6323,9 +6815,15 @@ Lorsque la Cour de cassation annule un arrêt de chambre de l'instruction autre 
 #### Article 610
 
 En matière criminelle, la Cour de cassation prononce le renvoi du procès, savoir :
+
+
 - devant une chambre de l'instruction autre que celle qui a prononcé la mise en accusation, si l'arrêt annulé émane d'une chambre de l'instruction ;
+
+
 - devant une cour d'assises autre que celle qui a rendu l'arrêt, si l'arrêt est annulé pour cause de nullité commise à la cour d'assises ;
-- devant un tribunal civil autre que celui où s'est faite l'instruction, si l'arrêt est annulé seulement du chef des intérêts civils.
+
+
+- devant une cour d'appel autre que celle dans le ressort de laquelle siège la cour d'assises qui a rendu l'arrêt, si l'arrêt est annulé seulement du chef des intérêts civils.
 
 
 #### Article 611
@@ -6741,6 +7239,8 @@ Il en est de même en toute autre matière, lorsqu'il n'existe plus d'expéditio
 Le Premier ministre et les autres membres du Gouvernement ne peuvent comparaître comme témoins qu'après autorisation du conseil des ministres, sur le rapport du garde des sceaux, ministre de la justice.
 
 Cette autorisation est donnée par décret.
+
+Les dispositions de cet article ne s'appliquent pas aux membres du Gouvernement entendus comme témoin assisté.
 
 
 ### Article 653
@@ -7183,12 +7683,14 @@ Les articles 73 à 77, 93, 94, 137, 204, 349, 357, 366, 368, 369, 371, 373, 374,
 
 ##### Article 698-6
 
-Par dérogation aux dispositions du titre Ier du livre II, notamment aux articles 240 et 248, premier alinéa, et sous réserve des dispositions de l'article 698-7, la cour d'assises prévue par l'article 697 est composée d'un président et de six assesseurs désignés comme il est dit aux alinéas 2 et 3 de l'article 248 et aux articles 249 à 253.
+Par dérogation aux dispositions du titre Ier du livre II, notamment aux articles 240 et 248, premier alinéa, et sous réserve des dispositions de l'article 698-7, la cour d'assises prévue par l'article 697 est composée d'un président et, lorsqu'elle statue en premier ressort, de six assesseurs, ou lorsqu'elle statue en appel, de huit assesseurs. Ces assesseurs sont désignés comme il est dit aux alinéas 2 et 3 de l'article 248 et aux articles 249 à 253.
 
 La cour ainsi composée applique les dispositions du titre Ier du livre II sous les réserves suivantes :
 1. Il n'est pas tenu compte des dispositions qui font mention du jury ou des jurés ;
 2. Les dispositions des articles 254 à 267, 282, 288 à 292, 293, alinéas 2 et 3, 295 à 305 ne sont pas applicables ;
 3. Pour l'application des articles 359, 360 et 362, les décisions sont prises à la majorité.
+
+Par dérogation aux dispositions du deuxième alinéa de l'article 380-1, en cas d'appel d'une décision d'une cour d'assises composée comme il est dit au présent article, la chambre criminelle de la Cour de cassation peut désigner la même cour d'assises, autrement composée, pour connaître de l'appel.
 
 
 ##### Article 698-7
@@ -7345,7 +7847,7 @@ Un décret en Conseil d'Etat détermine les modalités d'application du présent
 
 ### Article 706-5
 
-A peine de forclusion, la demande d'indemnité doit être présentée dans le délai de trois ans à compter de la date de l'infraction. Lorsque des poursuites pénales sont exercées, ce délai est prorogé et n'expire qu'un an après la décision de la juridiction qui a statué définitivement sur l'action publique ou sur l'action civile engagée devant la juridiction répressive. Toutefois, la commission relève le requérant de la forclusion lorsqu'il n'a pas été en mesure de faire valoir ses droits dans les délais requis ou lorsqu'il a subi une aggravation de son préjudice ou pour tout autre motif légitime.
+A peine de forclusion, la demande d'indemnité doit être présentée dans le délai de trois ans à compter de la date de l'infraction. Lorsque des poursuites pénales sont exercées, ce délai est prorogé et n'expire qu'un an après la décision de la juridiction qui a statué définitivement sur l'action publique ou sur l'action civile engagée devant la juridiction répressive ; lorsque l'auteur d'une infraction mentionnée aux articles 706-3 et 706-14 est condamnée à verser des dommages-intérêts, le délai d'un an court à compter de l'avis donné par la juridiction en application de l'article 706-15. Toutefois, la commission relève le requérant de la forclusion lorsqu'il n'a pas été en mesure de faire valoir ses droits dans les délais requis ou lorsqu'il a subi une aggravation de son préjudice ou pour tout autre motif légitime.
 
 
 ### Article 706-6
@@ -7428,6 +7930,11 @@ Toute personne qui, victime d'un vol, d'une escroquerie, d'un abus de confiance,
 L'indemnité est au maximum égale au triple du montant mensuel de ce plafond de ressources.
 
 Ces dispositions sont aussi applicables aux personnes mentionnées à l'article 706-3 qui, victimes d'une atteinte à la personne prévue par cet article, ne peuvent à ce titre prétendre à la réparation intégrale de leur préjudice, les faits générateurs de celui-ci ayant entraîné une incapacité totale de travail inférieure à un mois.
+
+
+### Article 706-15
+
+Lorsqu'une juridiction condamne l'auteur d'une infraction mentionnée aux articles 706-3 et 706-14 à verser des dommages-intérêts à la partie civile, elle informe cette dernière de la possibilité de saisir la commission d'indemnisation des victimes d'infraction.
 
 
 ### Titre XV : De la poursuite, de l'instruction et du jugement des actes de terrorisme
@@ -7532,7 +8039,7 @@ Les dispositions du quatrième alinéa de l'article 706-24 sont applicables.
 
 Pour le jugement des accusés majeurs, les règles relatives à la composition et au fonctionnement de la cour d'assises sont fixées par les dispositions de l'article 698-6.
 
-Pour l'application de l'alinéa précédent, la chambre de l'instruction, lorsqu'elle prononce la mise en accusation conformément au premier alinéa de l'article 214, constate que les faits entrent dans le champ d'application de l'article 706-16.
+Pour l'application de l'alinéa précédent, le juge d'instruction ou la chambre de l'instruction qui prononce la mise en accusation constate que les faits entrent dans le champ d'application de l'article 706-16.
 
 
 #### Article 706-25-1
@@ -7762,6 +8269,15 @@ Ces magistrats sont désignés par décret pris après avis du Conseil supérieu
 Si un juge de l'application des peines est temporairement empêché d'exercer ses fonctions, le tribunal de grande instance désigne un autre magistrat pour le remplacer.
 
 
+#### Article 710
+
+Tous incidents contentieux relatifs à l'exécution sont portés devant le tribunal ou la cour qui a prononcé la sentence ; cette juridiction  peut également procéder à la rectification des erreurs purement matérielles contenues dans ses décisions. Elle statue sur les demandes de confusion de peines présentées en application de l'article 132-4 du code pénal.
+
+
+
+En matière criminelle, la chambre de l'instruction connaît des rectifications et des incidents d'exécution auxquels peuvent donner lieu les arrêts de la cour d'assises.
+
+
 #### Article 711
 
 Le tribunal ou la cour, sur requête du ministère public ou de la partie intéressée, statue en chambre du conseil après avoir entendu le ministère public, le conseil de la partie s'il le demande et, s'il échet, la partie elle-même, sous réserve des dispositions de l'article 712.
@@ -7796,15 +8312,6 @@ Toutefois, le délai d'appel accordé au procureur général par les articles 50
 L'exécution d'une peine de police ou d'une peine correctionnelle non privative de liberté peut être suspendue ou fractionnée pour motifs graves d'ordre médical, familial, professionnel ou social. La décision est prise soit par le ministère public, soit, sur la proposition du ministère public, par le tribunal correctionnel ou de police statuant en chambre du conseil, selon que l'exécution de la peine doit être suspendue pendant moins ou plus de trois mois.
 
 Lorsque l'exécution fractionnée d'une peine d'amende, de jours-amende ou de suspension du permis de conduire a été décidée par la juridiction de jugement en application de l'article 132-28 du code pénal, cette décision peut être modifiée dans les conditions prévues à l'alinéa précédent.
-
-
-### Article 710
-
-Tous incidents contentieux relatifs à l'exécution sont portés devant le tribunal ou la cour qui a prononcé la sentence ; cette juridiction  peut également procéder à la rectification des erreurs purement matérielles contenues dans ses décisions. Elle statue sur les demandes de confusion de peines présentées en application de l'article 132-4 du code pénal.
-
-
-
-En matière criminelle, la chambre de l'instruction connaît des rectifications et des incidents d'exécution auxquels peuvent donner lieu les arrêts de la cour d'assises.
 
 
 ### Article 713-1
@@ -7869,13 +8376,6 @@ Il y a une maison d'arrêt près de chaque tribunal de grande instance, de chaqu
 Le juge d'instruction, le président de la chambre de l'instruction et le président de la cour d'assises, ainsi que le procureur de la République et le procureur général, peuvent donner tous les ordres nécessaires soit pour l'instruction, soit pour le jugement, qui devront être exécutés dans les maisons d'arrêt.
 
 
-#### Article 716
-
-Les personnes mises en examen, prévenus et accusés soumis à la détention provisoire sont placés au régime de l'emprisonnement individuel de jour et de nuit. Il ne peut être dérogé à ce principe qu'en raison de la distribution intérieure des maisons d'arrêt ou de leur encombrement temporaire ou, si les intéressés ont demandé à travailler, en raison des nécessités d'organisation du travail.
-
-Toutes communications et toutes facilités compatibles avec les exigences de la discipline et de la sécurité de la prison sont accordées aux personnes mises en examen, prévenus et accusés pour l'exercice de leur défense.
-
-
 #### Chapitre II : De l'exécution des peines privatives de liberté
 
 ##### Section 1 : Dispositions générales
@@ -7897,7 +8397,7 @@ Le condamné dont l'incarcération devrait prendre fin un jour de fête légale 
 
 ##### Article 716-4
 
-Quand il y a eu détention provisoire à quelque stade que ce soit de la procédure, cette détention est intégralement déduite de la durée de la peine prononcée ou, s'il y a lieu, de la durée totale de la peine à subir après confusion.
+Quand il y a eu détention provisoire à quelque stade que ce soit de la procédure, cette détention est intégralement déduite de la durée de la peine prononcée ou, s'il y a lieu, de la durée totale de la peine à subir après confusion. Il en est de même, s'agissant d'une détention provisoire ordonnée dans le cadre d'une procédure suivie pour les mêmes faits que ceux ayant donné lieu à condamnation, si cette procédure a été ultérieurement annulée.
 
 Les dispositions de l'alinéa précédent sont également applicables à la privation de liberté subie en exécution d'un mandat d'amener ou d'arrêt, à l'incarcération subie hors de France sur la demande d'extradition et à l'incarcération subie en application des articles 741-2 et 741-3.
 
@@ -7949,7 +8449,7 @@ Les députés et les sénateurs sont autorisés à visiter à tout moment les lo
 
 ##### Article 720-1
 
-En matière correctionnelle, lorsqu'il reste à subir par la personne condamnée une peine d'emprisonnement inférieure ou égale à un an, cette peine peut, pour motif grave d'ordre médical, familial, professionnel ou social et pendant une période n'excédant pas trois ans, être suspendue ou exécutée par fractions, aucune de ces fractions ne pouvant être inférieure à deux jours. La décision est prise après avis de l'avocat du condamné et du ministère public soit par le juge de l'application des peines dans le ressort duquel le condamné est détenu, soit, après avis du juge de l'application des peines, par le tribunal correctionnel statuant en chambre du conseil, selon que la durée totale durant laquelle la peine doit être interrompue est ou non inférieure ou égale à trois mois.
+En matière correctionnelle, lorsqu'il reste à subir par la personne condamnée une peine d'emprisonnement inférieure ou égale à un an, cette peine peut, pour motif grave d'ordre médical, familial, professionnel ou social et pendant une période n'excédant pas trois ans, être suspendue ou exécutée par fractions, aucune de ces fractions ne pouvant être inférieure à deux jours. La décision est prise par le juge de l'application des peines dans les conditions prévues par l'article 722.
 
 Lorsque l'exécution fractionnée de la peine d'emprisonnement a été décidée par la juridiction de jugement en application de l'article 132-27 du code pénal, cette décision peut être modifiée dans les conditions prévues à l'alinéa précédent.
 
@@ -7972,11 +8472,6 @@ Dans le cas où la cour d'assises a décidé qu'aucune des mesures énumérées 
 Une commission composée de cinq magistrats de la Cour de cassation détermine, au vu de l'avis de ce collège, s'il y a lieu de mettre fin à l'application de la décision de la cour d'assises mentionnée à l'alinéa précédent. Les membres de cette commission sont désignés par l'assemblée générale de la Cour de cassation ; l'un d'entre eux, choisi parmi les membres de la chambre criminelle, en assure la présidence.
 
 Par dérogation au troisième alinéa de l'article 732, les mesures d'assistance et de contrôle dont se trouverait assortie une décision de libération conditionnelle ultérieure pourront être fixées sans limitation dans le temps.
-
-
-##### Article 720-5
-
-En cas de condamnation assortie d'une période de sûreté d'une durée supérieure à quinze ans, aucune libération conditionnelle ne pourra être accordée avant que le condamné ait été placé pendant une période d'un an à trois ans sous le régime de la semi-liberté. Le ministre de la justice, sur proposition établie par le juge de l'application des peines après avis de la commission de l'application des peines, décide du placement en semi-liberté et fixe la durée de celle-ci.
 
 
 ##### Article 720-5
@@ -8014,21 +8509,72 @@ Après un an de détention, une réduction supplémentaire de la peine peut êtr
 Cette réduction, accordée par le juge de l'application des peines après avis de la commission de l'application des peines, ne peut excéder, si le condamné est en état de récidive légale, un mois par année d'incarcération ou deux jours par mois lorsque la durée d'incarcération resant à subir est inférieure à une année. Si le condamné n'est pas en état de récidive légale, ces limites sont respectivement portées à deux mois et à quatre jours. Les dispositions du troisième alinéa de l'article 721 sont applicables.    Sauf décision du juge de l'application des peines, prise après avis de la commission de l'application des peines, les dispositions du présent article ne sont pas applicables aux personnes condamnées pour l'une des infractions mentionnées à l'article 706-47 si, lorsque leur condamnation est devenue définitive, le casier judiciaire faisait mention d'une telle condamnation.
 
 
-##### Section 5 : Des attributions du juge de l'application des peines et de la commission de l'application des peines
+##### Section 5 : Des attributions du juge de l'application des peines, des juridictions de la libération conditionnelle et de la commission de l'application des peines
 
 ##### Article 722
 
-Auprès de chaque établissement pénitentiaire, le juge de l'application des peines détermine pour chaque condamné les principales modalités du traitement pénitentiaire [*pouvoir*]. Dans les limites et conditions prévues par la loi, il accorde les placements à l'extérieur, la semi-liberté, les réductions, fractionnements et suspensions de peines, les autorisations de sortie sous escorte, les permissions de sortir, la libération conditionnelle, le placement sous surveillance électronique ou il saisit la juridiction compétente pour aménager l'exécution de la peine. Sauf urgence, il statue après avis de la commission de l'application des peines.
+Auprès de chaque établissement pénitentiaire, le juge de l'application des peines détermine pour chaque condamné les principales modalités du traitement pénitentiaire. Dans les limites et conditions prévues par la loi, il accorde les placements à l'extérieur, la semi-liberté, les réductions, fractionnements et suspensions de peines, les autorisations de sortie sous escorte, les permissions de sortir, la libération conditionnelle, le placement sous surveillance électronique ou il saisit la juridiction compétente pour aménager l'exécution de la peine. Sauf urgence, il statue après avis de la commission de l'application des peines. pour l'octroi des réductions de peine, des autorisations de sortie sous escorte et des permissions de sortir.
 
-Cette commission est réputée avoir rendu son avis [*décision implicite*] si celui-ci n'est pas intervenu dans le délai d'un mois à compter du jour de sa saisine.
+
+
+Cette commission est réputée avoir rendu son avis si celui-ci n'est pas intervenu dans le délai d'un mois à compter du jour de sa saisine.
+
+
 
 Le juge de l'application des peines donne en outre son avis, sauf urgence, sur le transfert des condamnés d'un établissement à un autre.
 
-La commission de l'application des peines est présidée par le juge de l'application des peines ; le procureur de la République et le chef de l'établissement en sont membres de droit [*composition*].
+
+
+La commission de l'application des peines est présidée par le juge de l'application des peines ; le procureur de la République et le chef de l'établissement en sont membres de droit.
+
+
 
 Les mesures énumérées au premier alinéa, à l'exception des réductions de peines n'entraînant pas de libération immédiate et des autorisations de sortie sous escorte, ne peuvent être accordées sans une expertise psychiatrique préalable à une personne condamnée pour meurtre ou assassinat d'un mineur précédé ou accompagné d'un viol, de tortures ou d'actes de barbarie, ou condamnée pour l'une des infractions visées aux articles 222-23 à 222-32 et 227-25 à 227-27 du code pénal. L'expertise est réalisée par trois experts lorsque la personne a été condamnée pour le meurtre, l'assassinat ou le viol d'un mineur de quinze ans.
 
-Lorsque ces mesures sont accordées par le juge de l'application des peines en faveur d'une personne visée à l'alinéa précédent, elles peuvent être déférées devant la chambre de l'instruction par le procureur de la République dans les vingt-quatre heures suivant leur notification à celui-ci. L'exécution de la décision du juge de l'application des peines est suspendue jusqu'à l'expiration de ce délai ; le recours formé par le procureur de la République suspend également cette exécution jusqu'à ce que la chambre de l'instruction ait statué.
+
+
+Les mesures de placement à l'extérieur, de semi-liberté, de fractionnement et suspension des peines, de placement sous surveillance électronique et de libération conditionnelle sont accordées, ajournées, refusées, retirées ou révoquées par décision motivée du juge de l'application des peines saisi d'office, sur la demande du condamné ou sur réquisition du procureur de la République. Cette décision est rendue, au vu des observations écrites du condamné ou de son avocat, après avis de la commission de l'application des peines ; à sa demande, le condamné, assisté le cas échéant de son avocat, peut également présenter oralement des observations devant le juge de l'application des peines ; ce magistrat procède à cette audition et statue sans être assisté d'un greffier ; le condamné peut demander à bénéficier de l'aide juridictionnelle. La décision du juge de l'application des peines peut être attaquée par la voie de l'appel par le condamné ou le procureur de la République dans le délai de dix jours à compter de sa notification. L'appel est porté devant la chambre des appels correctionnels.
+
+
+
+Les décisions du juge de l'application des peines sont exécutoires par provision. Toutefois, lorsque l'appel du ministère public est formé, dans les vingt-quatre heures de la notification, contre une décision accordant l'une des mesures prévues par le sixième alinéa, il suspend l'exécution de cette décision jusqu'à ce que la cour ait statué. L'affaire doit venir devant la cour d'appel au plus tard dans les deux mois suivant l'appel du parquet, faute de quoi celui-ci est non avenu.
+
+
+
+Un décret détermine les modalités d'application des deux alinéas précédents.
+
+
+##### Article 722-1
+
+Les mesures de libération conditionnelle qui ne relèvent pas de la compétence du juge de l'application des peines sont accordées, ajournées, refusées ou révoquées par décision motivée de la juridiction régionale de la libération conditionnelle, saisie sur la demande du condamné ou sur réquisition du procureur de la République, après avis de la commission d'application des peines.
+
+Cette juridiction, établie auprès de chaque cour d'appel, est composée d'un président de chambre ou d'un conseiller de la cour d'appel, président, et de deux juges de l'application des peines du ressort de la cour d'appel, dont, pour les décisions d'octroi, d'ajournement ou de refus, celui de la juridiction dans le ressort de laquelle est situé l'établissement pénitentiaire dans lequel le condamné est écroué.
+
+Les fonctions du ministère public sont exercées par le procureur général ou par l'un de ses avocats généraux ou de ses substituts ; celle de greffe par un greffier de la cour d'appel.
+
+La juridiction régionale de la libération conditionnelle statue par décision motivée, à l'issue d'un débat contradictoire tenu en chambre du conseil, au cours duquel elle entend les réquisitions du ministère public, les observations du condamné et, le cas échéant, celles de son avocat.
+
+Les décisions de la juridiction peuvent faire l'objet d'un appel, dans les dix jours de leur notification par le condamné ou par le ministère public, devant la juridiction nationale de la libération conditionnelle. Ces décisions sont exécutoires par provision. Toutefois, lorsque l'appel du procureur général est formé dans les vingt-quatre heures de la notification, il suspend l'exécution de la décision jusqu'à ce que la juridiction nationale ait statué. L'affaire doit être examinée par cette juridiction nationale au plus tard deux mois suivant l'appel ainsi formé, faute de quoi celui-ci est non avenu.
+
+La juridiction nationale de la libération conditionnelle est composée du premier président de la Cour de cassation ou d'un conseiller de la cour le représentant, qui la préside, de deux magistrats du siège de la cour ainsi que d'un responsable des associations nationales de réinsertion des condamnés et d'un responsable des associations nationales d'aide aux victimes. Les fonctions du ministère public sont remplies par le parquet général de la Cour de cassation. La juridiction nationale statue par décision motivée qui n'est susceptible d'aucun recours, de quelque nature que ce soit. Les débats ont lieu et la décision est rendue en chambre du conseil, après que l'avocat du condamné a été entendu en ses observations.
+
+Un décret précise les modalités d'application du présent article. Ce décret détermine la localisation des débats contradictoires que doit tenir la juridiction régionale de la libération conditionnelle lorsqu'ils concernent des condamnés incarcérés.
+
+
+##### Article 722-1-1
+
+Dans les territoires et départements d'outre-mer, en Nouvelle-Calédonie, en Polynésie française et dans les collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon, la juridiction régionale de la libération conditionnelle prévue à l'article 722-1 est composée d'un magistrat du siège de la cour d'appel, président, d'un magistrat du siège de la cour d'appel et d'un juge de l'application des peines, assesseurs.
+
+Lorsque les débats contradictoires de la juridiction régionale de la libération conditionnelle établie auprès de la cour d'appel de Fort-de-France se tiennent dans le département de la Guyane, le premier président de la cour d'appel de Fort-de-France peut, par ordonnance, désigner le président de la chambre détachée ou l'un de ses conseillers pour exercer les fonctions de président et un conseiller de la chambre détachée pour exercer les fonctions d'assesseur.
+
+
+##### Article 722-2
+
+En cas d'inobservation par le condamné ayant bénéficié d'une des mesures mentionnées aux articles 722 ou 722-1 des obligations qui lui incombent, le juge de l'application des peines peut délivrer un mandat d'amener contre ce dernier.
+
+Si celui-ci est en fuite ou réside à l'étranger, il peut délivrer un mandat d'arrêt.
+
+Les dispositions des articles 122 à 124 et 126 à 134 sont alors applicables, les attributions du juge d'instruction étant exercées par le juge de l'application des peines.
 
 
 ##### Section 6 : Du placement à l'extérieur, de la semi-liberté, des permissions de sortir et des autorisations de sortie sous escorte
@@ -8171,17 +8717,11 @@ Si quelque détenu use de menaces, injures ou violences ou commet une infraction
 
 #### Article 727
 
-Le juge de l'application des peines, le juge d'instruction, le président de la chambre de l'instruction ainsi qu'il est dit à l'article 222, le procureur de la République et le procureur général visitent les établissements pénitentiaires.
+Le juge de l'application des peines, le juge d'instruction, le président de la chambre de l'instruction ainsi qu'il est dit à l'article 222, le procureur de la République et le procureur général visitent les établissements pénitentiaires [*compétence*].
 
-
-
-Auprès de tout établissement pénitentiaire est instituée une commission de surveillance dont la composition et les attributions sont déterminées par décret.
-
-
+Auprès de tout établissement pénitentiaire est instituée une commission de surveillance [*autorité*] dont la composition et les attributions sont déterminées par décret.
 
 Ce décret fixe en outre les conditions dans lesquelles certaines personnes peuvent être admises à visiter les détenus.
-
-
 
 Les condamnés peuvent continuer à communiquer dans les mêmes conditions que les prévenus avec le défenseur qui les a assistés au cours de la procédure.
 
@@ -8232,11 +8772,9 @@ Les dispositions du présent article ne sont pas applicables aux personnes conda
 
 ### Article 730
 
-Le droit d'accorder la libération conditionnelle appartient, selon les distinctions ci-après, soit au juge de l'application des peines, soit au ministre de la justice.
+Lorsque la peine privative de liberté prononcée est d'une durée inférieure ou égale à dix ans, ou que, quelle que soit la peine initialement prononcée, la durée de détention restant à subir est inférieure ou égale à trois ans, la libération conditionnelle est accordée par le juge de l'application des peines selon les modalités prévues par l'article 722.
 
-Lorsque le condamné doit subir une ou plusieurs peines privatives de liberté entraînant une détention dont la durée totale, à compter du jour de l'incarcération, n'excède pas cinq années, la libération conditionnelle est accordée par le juge de l'application des peines après avis de la commission de l'application des peines.
-
-Lorsque le condamné doit subir une ou plusieurs peines privatives de liberté entraînant une détention dont la durée totale, à compter du jour de l'incarcération, excède cinq années, la libération conditionnelle est accordée par le ministre de la justice. La proposition de libération conditionnelle est établie par le juge de l'application des peines, après avis de la commission de l'application des peines. Elle peut être soumise par le ministre de la justice à un comité consultatif de libération conditionnelle. L'avis du préfet du département où le condamné entend fixer sa résidence est recueilli dans tous les cas.
+Dans les autres cas, la libération conditionnelle est accordée par la juridiction régionale de la libération conditionnelle, selon les modalités prévues par l'article 722-1.
 
 Pour l'application du présent article, la situation de chaque condamné est examinée au moins une fois par an, lorsque les conditions de délai prévues à l'article 729 sont remplies.
 
@@ -8254,7 +8792,7 @@ Un décret détermine les modalités d'application des mesures visées au prése
 
 ### Article 732
 
-La décision de libération conditionnelle fixe les modalités d'exécution et les conditions auxquelles l'octroi et le maintien de la liberté est subordonné, ainsi que la nature et la durée des mesures d'assistance et de contrôle. Si elle est prise par le ministre de la justice, celui-ci peut prévoir que l'élargissement s'effectuera au jour fixé par le juge de l'application des peines entre deux dates déterminées.
+La décision de libération conditionnelle fixe les modalités d'exécution et les conditions auxquelles l'octroi et le maintien de la liberté est subordonné, ainsi que la nature et la durée des mesures d'assistance et de contrôle. Si elle est prise par la juridiction régionale de la libération conditionnelle, celle-ci peut prévoir que l'élargissement s'effectuera au jour fixé par le juge de l'application des peines entre deux dates déterminées.
 
 
 
@@ -8266,12 +8804,12 @@ Lorsque la peine en cours d'exécution est une peine perpétuelle, la durée des
 
 
 
-Pendant toute la durée de la liberté conditionnelle, les dispositions de la décision peuvent être modifiées, suivant les distinctions de l'article 730, soit après avis du service pénitentiaire d'insertion et de probation, par le juge de l'application des peines compétent pour mettre en oeuvre cette décision, soit, sur proposition de ce magistrat, et après avis, le cas échéant, du comité consultatif de libération conditionnelle, par le ministre de la justice.
+Pendant toute la durée de la liberté conditionnelle, les dispositions de la décision peuvent être modifiées, suivant les distinctions de l'article 730, soit après avis du service pénitentiaire d'insertion et de probation, par le juge de l'application des peines compétent pour mettre en oeuvre cette décision, soit, sur proposition de ce magistrat, par la juridiction régionale de la libération conditionnelle.
 
 
 ### Article 733
 
-En cas de nouvelle condamnation, d'inconduite notoire, d'infraction aux conditions ou d'inobservation des mesures énoncées dans la décision de mise en liberté conditionnelle, cette décision peut être révoquée, suivant les distinctions de l'article 730, soit, après avis du service pénitentiaire d'insertion et de probation, par le juge de l'application des peines compétent pour sa mise en oeuvre, soit, sur proposition de ce magistrat, et après avis, le cas échéant, du comité consultatif de libération conditionnelle, par le ministre de la justice. Le juge de l'application des peines qui a pris une décision de libération conditionnelle peut rapporter celle-ci lorsqu'elle n'a pas encore reçu exécution.
+En cas de nouvelle condamnation, d'inconduite notoire, d'infraction aux conditions ou d'inobservation des mesures énoncées dans la décision de mise en liberté conditionnelle, cette décision peut être révoquée, suivant les distinctions de l'article 730, soit, après avis du service pénitentiaire d'insertion et de probation, par le juge de l'application des peines compétent pour sa mise en oeuvre, soit, sur proposition de ce magistrat, par la juridiction régionale de la libération conditionnelle. Le juge de l'application des peines qui a pris une décision de libération conditionnelle peut rapporter celle-ci lorsqu'elle n'a pas encore reçu exécution.
 
 En cas d'urgence, l'arrestation peut être provisoirement ordonnée par le juge de l'application des peines du lieu où se trouve le libéré, le ministère public entendu et à charge, s'il y a lieu de saisir l'autorité compétente pour révoquer la libération conditionnelle.
 
@@ -8282,47 +8820,17 @@ Si la révocation n'est pas intervenue avant l'expiration du délai prévu à l'
 
 ### Article 733-1
 
-Les décisions prises par le juge de l'application des peines sont des mesures d'administration judiciaire.
+Les décisions mentionnées au premier alinéa de l'article 722, à l'exception de celles mentionnées par le sixième alinéa de cet article, sont des mesures d'administration judiciaire. Ces décisions peuvent être déférées, à la requête du procureur de la République et, sauf en ce qui concerne les permissions de sortir, seulement pour violation de la loi, devant le tribunal correctionnel qui statue en chambre du conseil après avoir fait procéder à toutes les auditions utiles et entendus en leurs observations, s'ils en ont fait la demande, les conseils du condamné et de la partie civile.
 
-
-
-
-1. Les décisions qui concernent l'une des mesures prévues par les articles 720-1, 723, 723-3, 723-7 et 730 peuvent, à la requête du procureur de la République, être déférées devant le tribunal correctionnel qui statue en chambre du conseil parès avoir fait procéder à toutes les auditions utiles et entendus en leurs observations, s'ils en ont fait la demande, les conseils du condamné et de la partie civile.
-
-
-
-
-
-Cette requête est formée dans les vingt-quatre heures qui suivent soit la date de la décision prise en présence du procureur de la République, soit, dans les autres cas, la date de notification au procureur de la République. Elle suspend l'exécution de la décision  jusqu'à ce que le tribunal ait statué.
-
-
-
-
+Cette requête est formée dans les vingt-quatre heures qui suivent soit la date de la décision prise en présence du procureur de la République, soit, dans les autres cas, la date de notification au procureur de la République. Elle suspend l'exécution de la décision jusqu'à ce que le tribunal ait statué.
 
 Le juge de l'application des peines ne peut, à peine de nullité, siéger au sein du tribunal saisi de l'une de ses décisions.
 
-
-
-
-
 L'affaire doit venir devant le tribunal correctionnel à la première audience ou au plus tard dans la huitaine du jour de la requête du procureur de la République, faute de quoi celle-ci est non avenue.
-
-
-
-
 
 Si le condamné exécute une peine prononcée par une juridiction pour mineurs et s'il n'a pas encore atteint l'âge de la majorité, les attributions du tribunal correctionnel sont exercées par le tribunal pour enfants.
 
-
-
-
-
 La décision du tribunal correctionnel ou du tribunal pour enfants ne peut faire l'objet, dans les cinq jours, que d'un pourvoi en cassation qui n'est pas suspensif.
-
-
-
-
-2. Les décisions du juge de l'application des peines qui concernent l'une des mesures prévues par les articles 721, 721-1, 723-6, 729-1 et 733 ne peuvent être annulées par le tribunal correctionnel ou le tribunal pour enfants, dans les mêmes formes et conditions, que pour violation de la loi.
 
 
 ### Titre IV : Du sursis et de l'ajournement
@@ -9484,7 +9992,7 @@ Pour l'application des articles 128 et 132, la personne peut être retenue dans 
 
 #### Article 823
 
-Dans le territoire des îles Wallis-et-Futuna le délai de quatre jours ouvrables prévu au sixième alinéa de l'article 145 est porté à sept jours ouvrables.
+Pour l'application des dispositions de l'article 145 dans le territoire des îles Wallis-et-Futuna, le juge d'instruction peut ordonner l'incarcération provisoire de la personne mise en examen. Celle-ci doit comparaître devant le juge des libertés et de la détention dans les meilleurs délais et, au plus tard, le septième jour ouvrable suivant.
 
 Le délai prévu au deuxième alinéa de l'article 187-1 est également porté à sept jours ouvrables.
 
@@ -9892,7 +10400,7 @@ Par dérogation à l'article 193, le tribunal supérieur d'appel, en tant que ch
 
 #### Article 885
 
-La cour criminelle est présidée par le président du tribunal supérieur d'appel ou par un magistrat du siège délégué par lui, assisté de quatre assesseurs. Ces assesseurs sont tirés au sort, pour chaque session, sur une liste arrêtée par le garde des sceaux, ministre de la justice, sur proposition du président du tribunal supérieur d'appel faite après avis du procureur de la République. Peuvent être inscrites sur cette liste les personnes de nationalité française, âgées de plus de vingt-trois ans, sachant lire et écrire en français, présentant des garanties de compétence et d'impartialité et jouissant des droits politiques, civils et de famille.
+La cour criminelle est présidée par le président du tribunal supérieur d'appel ou par un magistrat du siège délégué par lui, assisté de quatre assesseurs lorsque la cour criminelle statue en premier ressort et de six assesseurs lorsqu'elle statue en appel. Ces assesseurs sont tirés au sort, pour chaque session, sur une liste arrêtée par le garde des sceaux, ministre de la justice, sur proposition du président du tribunal supérieur d'appel faite après avis du procureur de la République. Peuvent être inscrites sur cette liste les personnes de nationalité française, âgées de plus de vingt-trois ans, sachant lire et écrire en français, présentant des garanties de compétence et d'impartialité et jouissant des droits politiques, civils et de famille.
 
 En cas d'empêchement du président, survenant avant ou pendant la session, celui-ci est remplacé par un magistrat du siège du tribunal supérieur d'appel. En cas d'empêchement d'un assesseur, il est pourvu à son remplacement selon les mêmes modalités que pour sa désignation initiale.
 
@@ -9909,7 +10417,7 @@ Le président de la cour criminelle exerce les attributions dévolues à la cour
 
 #### Article 888
 
-La majorité de huit voix prévue par les articles 359 et 362, deuxième alinéa, est remplacée par une majorité de quatre voix.
+Les majorités de huit ou dix voix prévues par les articles 359 et 362, deuxième alinéa, sont remplacées par des majorités de quatre ou cinq voix.
 
 
 #### Chapitre V : Du jugement des délits
@@ -14094,9 +14602,11 @@ Quand, après une information ouverte sur constitution de partie civile, une dé
 
 ##### Article D32-1
 
-Outre le titre de détention qu'il délivre, le juge d'instruction transmet au chef d'établissement une notice individuelle comportant des renseignements relatifs aux faits ayant motivé la poursuite de la personne mise en examen, à ses antécédents judiciaires et à sa personnalité.
+Le juge d'instruction qui saisit le juge des libertés et de la détention en application des dispositions du quatrième alinéa de l'article 137-1 aux fins de placement en détention provisoire de la personne mise en examen remplit une notice individuelle comportant des renseignements relatifs aux faits ayant motivé la poursuite de la personne, à ses antécédents judiciaires et à sa personnalité, qui est destinée, en cas de placement en détention, au chef de l'établissement pénitentiaire.
 
-Il indique sur cette notice, le cas échéant, les mesures qu'il prescrit en application des dispositions des articles D. 55, D. 56, D. 61, D. 65, D. 105, D. 321, D. 337 et D. 421.
+S'il ordonne le placement de la personne en détention provisoire, le juge des libertés et de la détention transmet au chef d'établissement, outre le titre de détention qu'il délivre, cette notice individuelle revêtue de son visa, après l'avoir complétée s'il l'estime nécessaire.
+
+Les documents mentionnés à l'alinéa précédent peuvent être, le cas échéant, transmis au chef d'établissement par le juge d'instruction si le dossier de la procédure est retourné à ce magistrat avant la mise à exécution du titre de détention.
 
 
 ##### Section 8 : Des commissions rogatoires
@@ -14524,13 +15034,13 @@ Les registres d'exécution des peines sont établis conformément aux modèles f
 
 ### Article D49-1
 
-Préalablement à la mise à exécution d'une condamnation à une peine égale ou inférieure à un an d'emprisonnement concernant une personne non incarcérée, le ministère public communique au juge de l'application des peines un extrait de la décision accompagné, le cas échéant, de toutes informations utiles. Il en est de même en cas de cumul des condamnations concernant la même personne si le total des peines prononcées n'excède pas un an.
+Préalablement à la mise à exécution, à l'encontre d'une personne non incarcérée, d'une condamnation à une peine égale ou inférieure à un an d'emprisonnement, ou pour laquelle la durée de la détention restant à subir est inférieure ou égale à un an, le ministère public communique au juge de l'application des peines un extrait de la décision accompagné, le cas échéant, de toutes informations utiles. Il en est de même en cas de cumul de condamnations concernant la même personne si le total des peines prononcées ou restant à subir est inférieur ou égal à un an.
 
-Le juge de l'application des peines peut charger le comité de probation et d'assistance aux libérés de vérifier la situation matérielle, familiale et sociale de la personne condamnée et de proposer les mesures propres à favoriser l'insertion sociale de l'intéressé.
+Le juge de l'application des peines peut charger le service pénitentiaire d'insertion et de probation de vérifier la situation matérielle, familiale et sociale de la personne condamnée et de proposer les mesures propres à favoriser l'insertion sociale de l'intéressé.
 
-Le juge de l'application des peines détermine les modalités d'exécution de la peine en considération de la situation du condamné.
+Afin de déterminer les modalités d'exécution de la peine en considération de la situation du condamné, le juge de l'application des peines peut, d'office, à la demande de l'intéressé ou sur réquisitions du procureur de la République, et selon la procédure prévue par le sixième alinéa de l'article 722, ordonner l'une des mesures mentionnées à cet alinéa.
 
-A défaut de réponse du juge de l'application des peines dans les deux mois [*délai*] suivant la communication visée au premier alinéa et même, en cas d'urgence, avant ce terme, la peine peut être ramenée à exécution par le ministère public en la forme ordinaire.
+A défaut de décision du juge de l'application des peines dans les trois mois suivant la communication visée au premier alinéa et même, en cas d'urgence, avant ce terme, la peine peut être ramenée à exécution par le ministère public en la forme ordinaire.
 
 
 ### Titre II : De la détention
@@ -15008,12 +15518,25 @@ Lorsque la peine privative de liberté prononcée est supérieure à deux ans po
 
 Ces pièces doivent être envoyées dans le mois qui suit la date à compter de laquelle la condamnation est devenue définitive lorsque l'intéressé est détenu ou, dans le cas contraire, dans le mois qui suit l'incarcération de celui-ci.
 
+Une copie des documents prévus par le présent article est également adressée par le ministère public au juge de l'application des peines compétent ou à son secrétariat pour être versé dans le dossier individuel du condamné prévu par l'article D. 116-6.
+
 
 ###### Article D78
 
 Chaque fois qu'ils l'estiment utile, le président de la juridiction qui a prononcé la condamnation ainsi que le représentant du ministère public peuvent exprimer leur avis sur l'affectation qui leur semble la mieux appropriée au condamné ou sur celle qui, au contraire, leur paraît inadaptée.
 
 Ces avis sont joints aux documents mentionnés à l'article D. 77, en vue de leur transmission à l'établissement où le condamné est détenu.
+
+Une copie de ces avis est également adressée au secrétariat-greffe du juge de l'application des peines compétent.
+
+
+###### Article D78
+
+Chaque fois qu'ils l'estiment utile, le président de la juridiction qui a prononcé la condamnation ainsi que le représentant du ministère public peuvent exprimer leur avis sur l'affectation qui leur semble la mieux appropriée au condamné ou sur celle qui, au contraire, leur paraît inadaptée.
+
+Ces avis sont joints aux documents mentionnés à l'article D. 77, en vue de leur transmission à l'établissement où le condamné est détenu.
+
+Une copie de ces avis est également adressée au juge de l'application des peines compétent ou à son secrétariat.
 
 
 ###### Article D79
@@ -15215,26 +15738,28 @@ Le régime des centres de détention mentionnés aux articles D. 71 et D. 72 com
 Les détenus dont le comportement se révèle incompatible avec l'application de ce régime font l'objet d'une procédure de changement d'affectation.
 
 
-##### Section 6 : Du juge de l'application des peines et de la commission de l'application des peines
+##### Section 6 : Du juge de l'application des peines, de la chambre des appels correctionnels statuant en matière d'application des peines et de la commission de l'application des peines
 
 ##### Article D115
 
 Dans chaque tribunal de grande instance un ou plusieurs magistrats du siège sont chargés des fonctions de juge de l'application des peines.
+
+
 
 La compétence de ce ou de ces magistrats s'exerce à l'égard des établissements pénitentiaires situés dans le ressort du tribunal de grande instance.
 
 
 ##### Article D116
 
-Le juge de l'application des peines est chargé, auprès des établissements pénitentiaires situés dans le ressort de sa juridiction et dans lesquels sont détenus des condamnés, de suivre l'exécution des peines de ceux-ci.
+Le juge de l'application des peines est chargé, auprès des établissements pénitentiaires situés dans le ressort de sa juridiction et dans lesquels sont détenus des condamnés, de suivre l'exécution des peines de ceux-ci, sous réserve des dispositions de l'article D. 116-2.
 
 
 
-Il ne peut se substituer au directeur régional ou au chef de l'établissement, en ce qui concerne l'organisation ou le fonctionnement de celui-ci, mais il doit assurer l'individualisation de l'exécution de la sentence judiciaire en orientant et en contrôlant les conditions de son application. A cet effet, il lui appartient de décider les principales modalités de l'exécution de la peine, et notamment les mesures visées aux articles D. 118 et suivants.
+Il ne peut se substituer au directeur régional ou au chef de l'établissement, en ce qui concerne l'organisation ou le fonctionnement de celui-ci, mais il doit assurer l'individualisation de l'exécution de la sentence judiciaire en orientant et en contrôlant les conditions de son application. A cet effet, il lui appartient de décider les principales modalités de l'exécution de la peine, et notamment les mesures visées aux articles D. 118 et suivants suivant les distinctions prévues par l'article 722 selon la nature des mesures concernées.
 
 
 
-Lorsqu'il n'y a pas urgence, il se prononce au sein de la commission de l'application des peines.
+Lorsqu'il n'y a pas urgence, il se prononce au sein de la commission de l'application des peines en ce qui concerne les réductions de peine, les autorisations de sortie sous escorte et les permissions de sortir.
 
 
 
@@ -15243,12 +15768,14 @@ Le juge de l'application des peines ordonne l'extraction des condamnés, soit en
 
 ##### Article D116-1
 
-Dans l'exercice de ses attributions, le juge de l'application des peines peut procéder ou faire procéder à toutes auditions, enquêtes ou examens utiles.
+Dans l'exercice de ses attributions, le juge de l'application des peines peut procéder ou faire procéder à tous examens, auditions, enquêtes, expertises, réquisitions ou autres mesures utiles. Ces enquêtes peuvent porter, le cas échéant, sur les conséquences des mesures d'individualisation de la peine au regard de la situation de la victime.
+
+Les dispositions du présent article sont également applicables à l'égard des personnes condamnées à des peines restrictives de liberté.
 
 
 ##### Article D117
 
-Lorsque le juge de l'application des peines est appelé à se rendre dans un établissement pénitentiaire pour assumer les fonctions qui lui sont dévolues par le présent code et par l'article R2 du code pénal, les indemnités de frais de voyage et de séjour lui sont allouées dans les conditions visées à l'article R200 du présent code.
+Lorsque le juge de l'application des peines est appelé à se rendre dans un établissement pénitentiaire pour assumer les fonctions qui lui sont dévolues par le présent code et par l'article R. 2 du code pénal, les indemnités de frais de voyage et de séjour lui sont allouées dans les conditions visées à l'article R. 200 du présent code.
 
 
 ##### Article D117-1
@@ -15270,26 +15797,150 @@ Les membres de la commission ainsi que les personnes appelées, à un titre quel
 
 ##### Article D117-2
 
-Si le condamné ne satisfait pas aux obligations qui lui sont imposées ou s'il fait preuve de mauvaise conduite, le juge de l'application des peines peut, après avis de la commission de l'application des peines, prononcer une décision consistant soit dans le rejet ou l'ajournement d'une mesure relevant de sa compétence, soit dans le retrait d'une telle mesure précédemment accordée. Il en est ainsi pour la réduction de peine dont le retrait total ou partiel est prononcé dans les conditions définies à l'article 721.
+Si le condamné ne satisfait pas aux obligations qui lui sont imposées ou s'il fait preuve de mauvaise conduite, le juge de l'application des peines peut décider soit de rejeter ou d'ajourner une mesure relevant de sa compétence, soit retirer une telle mesure précédemment accordée. Il en est ainsi pour la réduction de peine dont le retrait total ou partiel est prononcé dans les conditions définies à l'article 721.
+
+Cette décision intervient après avis de la commission de l'application des peines si elle concerne une mesure de réduction de peine, d'autorisation de sortie sous escorte et de permission de sortir, et après le débat contradictoire prévu au sixième alinéa de l'article 722 dans les autres cas.
+
+
+##### Section 6 : Du juge de l'application des peines, de la chambre des appels correctionnels statuant en matière d'application des peines et la commission de l'application des peines
+
+##### Article D116-2
+
+Les mesures mentionnées au sixième alinéa de l'article 722 relèvent de la compétence du juge de l'application des peines de la juridiction dans le ressort de laquelle est situé soit l'établissement pénitentiaire dans lequel le condamné est écroué, soit, si le condamné est libre, la résidence habituelle de celui-ci.
+
+Lorsqu'une mesure de placement à l'extérieur ou de semi-liberté doit s'exécuter hors du ressort du juge de l'application des peines qui l'a ordonnée, le condamné est alors inscrit au registre d'écrou de l'établissement pénitentiaire situé à proximité du lieu d'exécution de la mesure ; le juge de l'application des peines, compétent pour, le cas échéant, préciser ou modifier les modalités d'exécution de la mesure, prononcer ou proposer son retrait, est celui de la juridiction dans le ressort de laquelle est situé cet établissement pénitentiaire.
+
+Lorsque a été accordée une libération conditionnelle, le juge de l'application des peines compétent est celui de la juridiction dans le ressort de laquelle est située la résidence habituelle du condamné fixée par la décision accordant la libération.
+
+
+##### Article D116-4
+
+Pour l'application des dispositions du sixième alinéa de l'article 722 ou de celles de l'article 722-1, le condamné peut faire connaître au juge de l'application des peines le nom de l'avocat choisi par lui : le choix de l'avocat par le condamné détenu peut aussi résulter du courrier adressé à celui-ci par cette personne et le désignant pour assurer sa défense et dont une copie est remise par l'avocat au juge de l'application des peines. Le condamné peut également demander au juge de l'application des peines qu'il lui en soit désigné un d'office par le bâtonnier de l'ordre des avocats ; le bâtonnier est avisé de cette demande par tous moyens et sans délai. Cet avocat communique librement avec le condamné dans les conditions prévues par les articles D. 68 et D. 69. Le permis prévu par l'article D. 68 est délivré par le juge de l'application des peines.
+
+
+##### Article D116-5
+
+Lorsque le condamné est mineur, il doit être assisté par un avocat pour l'application des dispositions du sixième alinéa de l'article 722 ou de celles de l'article 722-1. A défaut de choix d'un avocat par le mineur ou ses représentants légaux, le juge de l'application des peines ou la juridiction régionale de la libération conditionnelle fait désigner par le bâtonnier un avocat commis d'office.
+
+Le condamné ne peut renoncer à la convocation de son avocat lors des débats prévus par le sixième alinéa de l'article 722 ou l'article 722-1.
+
+Ses représentants légaux sont convoqués pour être entendus par le juge de l'application des peines ou la juridiction régionale de la libération conditionnelle avant de statuer dans les conditions prévues par le sixième alinéa de l'article 722 ou l'article 722-1.
+
+
+##### Article D116-6
+
+Il est tenu au greffe du juge de l'application des peines un dossier individuel concernant chaque condamné suivi par ce magistrat.
+
+Ce dossier comprend des copies des documents issus de la procédure ayant abouti à sa condamnation et qui sont nécessaires à l'exécution de celle-ci.
+
+Il comprend également les rapports établis et les décisions prises au cours de l'exécution de la condamnation.
+
+L'avis du représentant de l'administration pénitentiaire prévu au sixième alinéa de l'article 722 est versé au dossier sous forme d'un rapport de synthèse des avis des différents services pénitentiaires compétents.
+
+Ce dossier peut être consulté par l'avocat du condamné, sous réserve des exigences du bon fonctionnement du cabinet du juge de l'application des peines. L'avocat du condamné peut se faire délivrer, à ses frais, copie de tout ou partie des pièces du dossier.
+
+Le procureur de la République peut consulter ce dossier ou en demander la communication.
+
+Dans les cas prévus aux deuxième et troisième alinéas de l'article D. 116-2, ce dossier est transmis par le juge de l'application des peines initialement saisi au magistrat compétent pour suivre le déroulement de la mesure. Il est également transmis au juge de l'application des peines nouvellement compétent en cas de transfert du condamné détenu dans un autre établissement.
+
+
+##### Article D116-7
+
+Les demandes du condamné tendant au prononcé ou à la modification d'une des mesures mentionnées au sixième alinéa de l'article 722 font l'objet d'une requête écrite adressée au juge de l'application des peines, signée du condamné ou de son avocat.
+
+Cette requête est remise au juge de l'application des peines ou à son secrétariat contre récépissé ou adressée par lettre recommandée avec demande d'avis de réception. Si le condamné est détenu, elle peut faire l'objet d'une déclaration auprès du chef de l'établissement pénitentiaire dans les conditions prévues aux deux derniers alinéas de l'article 148-7.
+
+Le juge de l'application des peines n'est pas tenu de répondre aux demandes formées sans respecter les conditions prévues par le présent article.
+
+
+##### Article D116-8
+
+Le débat contradictoire prévu au sixième alinéa de l'article 722 se tient dans l'établissement pénitentiaire où le condamné est incarcéré.
+
+Le juge de l'application des peines peut toutefois décider que le débat contradictoire se tiendra au tribunal de grande instance lorsqu'est envisagé le retrait ou la révocation d'une mesure à l'encontre d'une personne incarcérée à la suite de la mise à exécution d'un mandat d'amener ou d'arrêt délivré en application de l'article 722-2, si le débat doit avoir lieu dans les délais prévus aux articles 125 ou 130, et que, pendant ces délais, il n'est pas déjà prévu que le juge de l'application des peines procède au sein de l'établissement pénitentiaire à des débats contradictoires concernant d'autres condamnés. Il en est également ainsi, dans les mêmes conditions, lorsque le débat contradictoire doit se tenir à la suite d'une réintégration immédiate, dans le délai prévu à l'avant-dernier alinéa de l'article D. 124 ou à la suite d'une arrestation provisoire, dans les délais prévus à l'article D. 540. Les dispositions du présent alinéa sont applicables, le cas échéant, aux débats différés prévus au premier alinéa de l'article D. 116-9.
+
+Si le condamné n'est pas incarcéré, le débat contradictoire se tient au tribunal de grande instance.
+
+Si le condamné est hospitalisé et ne peut être déplacé en raison de son état de santé, le débat contradictoire se tient sur les lieux de son hospitalisation, sous réserve des dispositions du dernier alinéa de l'article D. 116-12.
+
+
+##### Article D116-9
+
+Le condamné est informé quinze jours avant la date du débat contradictoire prévu au sixième alinéa de l'article 722. S'il est assisté d'un avocat, celui-ci est convoqué par lettre recommandée ou par télécopie au plus tard quinze jours avant le débat. Le condamné peut toutefois déclarer expressément renoncer à la convocation de son avocat ou au respect de ces délais. En cas d'urgence, notamment lorsqu'est envisagé le retrait ou la révocation d'une mesure, le délai de convocation prévu au présent alinéa n'est pas applicable, et l'avocat est avisé de la date du débat contradictoire par tout moyen ; le condamné ou son avocat peut toutefois demander à bénéficier d'un délai pour préparer sa défense ; lorsqu'est envisagé le retrait ou la révocation d'une mesure, le juge de l'application des peines ou, lorsque la personne est présentée à la suite d'un mandat d'arrêt ou d'amener, le magistrat désigné en application du troisième alinéa de l'article 125, peut alors ordonner l'incarcération provisoire du condamné jusqu'à la tenue du débat contradictoire différé, qui doit avoir lieu au plus tard le cinquième jour ouvrable suivant.
+
+Le juge de l'application des peines peut demander au représentant de l'administration pénitentiaire de développer oralement son avis lors du débat contradictoire.
+
+Le juge de l'application des peines peut faire appel à un interprète majeur, à l'exclusion de son greffier. S'il n'est pas assermenté, l'interprète prête serment d'apporter son concours à la justice en son honneur et en sa conscience. Si le condamné est atteint de surdité, il peut être fait application des dispositions du dernier alinéa de l'article 109.
+
+Le débat contradictoire fait l'objet d'un procès-verbal, qui est signé par le juge de l'application des peines et par son greffier.
+
+Le juge de l'application des peines statue par un jugement rendu en chambre du conseil.
+
+Si la décision du juge de l'application des peines est rendue immédiatement, une copie du jugement est remise au condamné, ainsi que, le cas échéant, à son avocat, contre émargement au dossier de la procédure. Si le juge de l'application a mis sa décision en délibéré, le jugement est notifié au condamné détenu par le chef de l'établissement pénitentiaire qui lui en remet une copie contre émargement ; si le condamné n'est pas détenu, copie du jugement lui est adressée par lettre recommandée avec demande d'avis de réception ; une copie du jugement est également adressée par lettre recommandée ou par télécopie à l'avocat du condamné.
+
+Dès qu'il est rendu, le jugement est notifié au ministère public. Une copie en est adressée au directeur du service pénitentiaire d'insertion et de probation et, lorsque le condamné est incarcéré, au chef de l'établissement pénitentiaire.
+
+Lorsque le juge de l'application des peines accorde l'une des mesures mentionnées au sixième alinéa de l'article 722, la mise à exécution de la mesure ne peut intervenir, avant l'expiration du délai de vingt-quatre heures à compter de la notification de la décision au magistrat du ministère public, en l'absence de visa de ce dernier indiquant qu'il ne fait pas appel ; si le procureur de la République forme appel dans les vingt-quatre heures de la notification, il en informe immédiatement le juge de l'application des peines et le chef de l'établissement pénitentiaire.
+
+
+##### Article D116-10
+
+Le débat contradictoire prévu au sixième alinéa de l'article 722 doit avoir lieu au plus tard le troisième mois suivant le dépôt de la demande dans les conditions prévues par l'article D. 116-7. A défaut, le condamné peut directement saisir la chambre des appels correctionnels de sa demande, par lettre recommandée ou selon les modalités prévues à l'article 503.
+
+Le condamné n'est pas recevable à déposer de demande concernant une des mesures mentionnées au sixième alinéa de l'article 722 tant qu'il n'a pas été statué par le juge de l'application des peines sur une précédente demande relative à une même mesure.
+
+En cas de rejet d'une demande formée par le condamné, le juge de l'application des peines peut dans son jugement fixer par décision motivée un délai durant lequel le condamné n'est pas recevable à déposer une demande similaire, sans que ce délai puisse excéder un an.
+
+
+##### Article D116-11
+
+Le juge de l'application des peines peut, sans procéder au débat contradictoire prévu à l'article 116-9, constater par ordonnance motivée qu'une demande d'aménagement de peine est irrecevable en application des dispositions des deuxième et troisième alinéas de l'article D. 116-10 ou parce qu'elle a été présentée par un condamné qui ne justifie pas des délais d'exécution de sa peine prévus par la loi pour être admissible au bénéfice de la mesure demandée.
+
+Cette ordonnance est notifiée au condamné dans les conditions prévues par la deuxième phrase du sixième alinéa de l'article 116-9. Elle peut faire l'objet d'un appel dans les conditions prévues au huitième alinéa de ce même article.
+
+
+##### Article D116-12
+
+Le juge de l'application des peines peut, avec l'accord du ministère public, faire droit à une demande du condamné tendant à la modification des modalités d'exécution d'une mesure déjà accordée, sans procéder au débat contradictoire prévu à l'article 116-9.
+
+En cas d'urgence, il peut également, avec l'accord du ministère public, ordonner, à la demande du condamné, une des mesures mentionnées au sixième alinéa de l'article 722 sans procéder au débat contradictoire prévu à l'article 116-9. Il en est de même lorsque le condamné est hospitalisé et que son état ne lui permet pas de se déplacer.
+
+
+##### Article D116-13
+
+Sauf empêchement, le conseiller chargé de l'application des peines fait partie de la composition de la chambre des appels correctionnels lorsque celle-ci est saisie d'un appel formé contre l'une des décisions mentionnées au sixième alinéa de l'article 722.
+
+
+##### Article D116-14
+
+En cas d'appel, une copie du dossier individuel du condamné et de la décision du juge de l'application des peines est transmise à la chambre des appels correctionnels.
+
+A l'appui de son appel, le condamné ou son avocat peut adresser des observations écrites à la chambre des appels correctionnels. Ces observations doivent être adressées un mois au plus tard après la date de l'appel, sauf dérogation accordée par le président de la juridiction.
+
+Pendant l'instance d'appel, les dispositions de l'article D. 116-6 relatives à la communication du dossier individuel du condamné sont applicables.
+
+
+##### Article D116-15
+
+Préalablement au débat contradictoire tenu devant la chambre des appels correctionnels, le président de la chambre ou l'un des conseillers par lui désigné peut, d'office ou à la demande du condamné, procéder à l'audition de ce dernier en présence de son avocat ou celui-ci convoqué dans les conditions prévues à l'article D. 116-9. Le ministère public est avisé de cette audition et peut y assister. Il est dressé un procès-verbal de l'audition, signé du magistrat, du greffier et de l'intéressé.
+
+Si le condamné est incarcéré, cette audition a lieu dans l'établissement pénitentiaire.
+
+
+##### Article D116-16
+
+La chambre des appels correctionnels statue, au vu du dossier, à la suite d'un débat contradictoire tenu en chambre du conseil hors la présence du condamné, au cours duquel, après le rapport oral d'un conseiller, le procureur général puis l'avocat du condamné présentent leurs observations. Le procureur général peut répliquer, l'avocat du condamné ayant toujours la parole en dernier.
+
+L'avocat du condamné est convoqué par lettre recommandée ou par télécopie au plus tard quinze jours avant le débat contradictoire.
+
+L'arrêt est rendu en chambre du conseil.
+
+Si le président de la chambre des appels correctionnels constate que l'appel n'a manifestement pas été formé dans le délai de dix jours, il déclare celui-ci irrecevable.
 
 
 ##### Section VII : Du placement à l'extérieur, du régime de semi-liberté et des permissions de sortir.
 
 ###### Paragraphe 1er : Dispositions communes
-
-###### Article D119
-
-La décision de placement à l'extérieur des condamnés, d'admission au régime de semi-liberté, sous réserve de l'application des dispositions de l'article 132-25 du code pénal, d'autorisation de sortie sous escorte ou de permission de sortir est prise par le juge de l'application des peines, sur la proposition ou après avis du chef de l'établissement et, sauf urgence, au sein de la commission de l'application des peines.
-
-
-
-Ce magistrat recueille tous les renseignements qu'il estime utiles, sans préjudice de l'application des dispositions de l'article D. 127 lorsqu'il s'agit de l'ouverture d'un chantier de travail.
-
-
-###### Article D120
-
-Par exception au principe posé à l'article D. 119, l'admission au régime de semi-liberté ou au régime de placement à l'extérieur sans surveillance en application de l'article D. 136 est prononcée par le ministre de la justice, lorsqu'elle a lieu à titre probatoire préalablement à la mise à exécution d'un arrêté de libération conditionnelle, dans l'hypothèse visée à l'article D. 535-1°.
-
 
 ###### Article D121
 
@@ -15333,7 +15984,7 @@ Toute inobservation de ces règles, tout manquement à l'obligation de bonne con
 
 
 
-Conformément à l'article D. 117-2, le juge de l'application des peines prononce, le cas échéant, le retrait de la mesure lorsque celle-ci a été accordée par lui.
+Conformément à l'article D. 117-2, le juge de l'application des peines prononce, le cas échéant, le retrait de la mesure lorsque celle-ci a été accordée par lui. Lorsqu'il s'agit d'une mesure mentionnée au sixième alinéa de l'article 722, ce retrait ne peut être prononcé qu'à l'issue du débat contradictoire prévu par cet article, qui doit intervenir dans les huit jours à compter de la réintégration du détenu.
 
 
 
@@ -15400,7 +16051,7 @@ Le chef d'établissement a qualité pour accorder une concession pour une durée
 
 Les concessions envisagées pour une durée supérieure à trois mois ou pour un effectif supérieur à cinq détenus font l'objet d'un contrat qui en fixe les conditions particulières, notamment en ce qui concerne l'effectif et la rémunération des détenus et la durée de la concession. Ce contrat est signé par le représentant de l'entreprise concessionnaire et le directeur régional des services pénitentiaires.
 
-Ainsi qu'il est dit à l'article D. 119, il ne peut recevoir effet à l'égard du placement de chaque détenu qu'après autorisation du juge de l'application des peines.
+Il ne peut recevoir effet à l'égard du placement de chaque détenu qu'après autorisation du juge de l'application des peines.
 
 
 ###### Article D134
@@ -15447,9 +16098,11 @@ Le juge de l'application des peines détermine les jours et heures de sortie et 
 
 ###### Article D142
 
-La permission de sortir est accordée pour une ou plusieurs sorties. Elle autorise le condamné à se rendre en un lieu situé sur le territoire national.
+La permission de sortir est accordée pour une ou plusieurs sorties. Elle autorise le condamné à se rendre en un lieu situé sur le territoire national. Elle peut être assortie d'une ou plusieurs conditions, et notamment des obligations prévues à l'article D. 536.
 
 Un délai de route peut être accordé au bénéficiaire de la permission de sortir ; il est calculé en fonction de la durée du trajet et des horaires des moyens de transport utilisés.
+
+Le juge de l'application des peines peut ordonner le retrait d'une permission de sortir en cours d'exécution de celle-ci et ordonner la réincarcération immédiate du condamné en cas de non-respect par celui-ci des conditions auxquelles cette permission était subordonnée. Le juge peut à cette fin décerner un mandat d'amener ou d'arrêt en application des dispositions de l'article 722-2.
 
 
 ###### Article D142-1
@@ -15495,6 +16148,8 @@ A l'occasion des circonstances familiales graves visées à l'article D. 425, un
 Des permissions de sortir d'une durée maximale de trois jours peuvent être accordées en vue du maintien des liens familiaux ou de la préparation de la réinsertion sociale, aux condamnés qui ont exécuté la moitié de leur peine et qui n'ont plus à subir qu'un temps de détention inférieur à trois ans.
 
 Ces permissions sont accordées sans condition de délai aux condamnés exécutant une ou plusieurs peines d'emprisonnement n'excédant pas au total une durée d'un an.
+
+Ces permissions de sortir peuvent être également accordées sans condition de délai lorsque le juge de l'application des peines ou la juridiction régionale de la libération conditionnelle ont, en application des dispositions du 1° de l'article D. 535 et selon la procédure prévue au sixième alinéa de l'article 722 ou au troisième alinéa de l'article 722-1, décidé de subordonner l'octroi d'une libération conditionnelle à la condition d'avoir bénéficié d'une ou plusieurs permissions de sortir.
 
 
 ###### Article D146
@@ -16397,9 +17052,7 @@ Et, d'autre part :
 
 Le bâtonnier de l'ordre des avocats à la Cour d'appel de Paris ;
 
-Le président du comité consultatif des libérations conditionnelles ;
-
-Le président du comité de probation et d'assistance aux libérés de Paris ;
+Le directeur du service pénitentiaire d'insertion et de probation de Paris ;
 
 Le contrôleur financier au ministère de la justice ;
 
@@ -18230,11 +18883,11 @@ Les prévenus doivent pouvoir être visités au moins trois fois par semaine, et
 
 ##### Article D411
 
-Les défenseurs communiquent, dans les conditions visées à l'article D. 68, avec les prévenus et avec les condamnés qu'ils ont assistés au cours de la procédure. Pour ces derniers, ils doivent justifier auprès du chef de l'établissement de ce qu'ils ont personnellement apporté cette assistance. En outre, dans les maisons centrales et centres de détention, la visite a lieu à l'heure et au jour convenus préalablement avec le chef de l'établissement.
+Les avocats communiquent, dans les conditions prévues à l'article D. 68, avec les prévenus et les condamnés. Dans les maisons centrales et les centres de détention, la visite a lieu à l'heure et au jour convenus préalablement avec le chef de l'établissement.
 
-Les avocats n'ayant pas assisté le condamné au cours de la procédure, les officiers ministériels et les autres auxiliaires de justice peuvent être autorisés à communiquer avec les détenus dans les conditions fixées aux articles D. 403, D. 406 et D. 410.
+Les officiers ministériels et autres auxiliaires de justice peuvent être autorisés à communiquer avec les détenus dans les conditions fixées aux articles D. 403, D. 406 et D. 410.
 
-Pour le cas où ils désirent bénéficier, en vue de leur entretien, des dispositions particulières prévues à l'article D. 68, ils doivent joindre à leur demande une attestation délivrée par le parquet de leur résidence selon laquelle le secret de la communication paraît justifié par la nature des intérêts en cause.
+Pour le cas où ils désirent bénéficier en vue de leur entretien des dispositions particulières prévues à l'article D. 68, ils doivent joindrent à leur demande une attestation délivrée par le parquet de leur résidence selon laquelle le secret de la communication paraît justifié par la nature des intérêts en cause.
 
 
 ##### Article D412
@@ -18290,11 +18943,11 @@ Les lettres écrites en langue étrangère peuvent être traduites aux fins du c
 
 ##### Article D419
 
-Les défenseurs correspondent, dans les conditions visées à l'article D. 69, avec les prévenus et avec les condamnés qu'ils ont assistés au cours de la procédure. Pour ces derniers, ils doivent justifier auprès du chef de l'établissement qu'ils ont personnellement apporté cette assistance.
+Les avocats correspondent, dans les conditions prévues à l'article D. 69, avec les prévenus et les condamnés.
 
-Les avocats n'ayant pas assisté le condamné au cours de la procédure, les officiers ministériels et les autres auxiliaires de justice peuvent être autorisés à correspondre avec les condamnés dans les conditions fixées aux articles D. 414 et D. 416.
+Les officiers ministériels et autres auxiliaires de justice peuvent être autorisés à communiquer avec les détenus dans les conditions fixées aux articles D. 414 et D. 416.
 
-Pour les cas où ils désirent bénéficier dans leur correspondance des dispositions particulières prévues à l'article D. 69, ils doivent joindre à leur demande une attestation délivrée par le parquet de leur résidence, selon laquelle le secret de la communication paraît justifié par la nature des intérêts en cause.
+Pour le cas où ils désirent bénéficier en vue de leur entretien des dispositions particulières prévues à l'article D. 69, ils doivent joindre à leur demande une attestation délivrée par le parquet de leur résidence selon laquelle le secret de la communication paraît justifié par la nature des intérêts en cause.
 
 
 ##### Section 3 : Du maintien des liens familiaux
@@ -18900,123 +19553,118 @@ Les détenus qui sont prévenus pour une cause et condamnés pour une autre doiv
 
 ### Titre III : De la libération conditionnelle
 
-#### Chapitre Ier : Du comité consultatif de libération conditionnelle
+#### Chapitre Ier : De la composition des juridictions régionales et de la juridiction nationale de la libération conditionnelle
 
 #### Article D520
 
-Le comité consultatif de libération conditionnelle est composé ainsi qu'il suit :
+Le premier président de la cour d'appel désigne par ordonnance, après avis de l'assemblée générale des magistrats du siège, le président ou le conseiller de la cour d'appel chargé de présider la juridiction régionale de la libération conditionnelle. Dans la mesure du possible, ce magistrat est choisi parmi les conseillers chargés de l'application des peines.
 
+Le premier président de la cour d'appel désigne chaque année, par ordonnance, les juges de l'application des peines chargés des fonctions d'assesseur de la juridiction régionale de la libération conditionnelle. Ceux-ci, sous réserve des dispositions du deuxième alinéa de l'article 722-1, sont appelés dans l'ordre de leur désignation. Cette ordonnance peut être modifiée en cours d'année, en cas d'absence ou d'empêchement du juge.
 
-1. Un magistrat hors hiérarchie de l'ordre judiciaire, en activité ou honoraire, président ;
-
-
-2. Un magistrat hors hiérarchie de l'ordre judiciaire, en activité ou honoraire, vice-président ;
-
-
-3. Un inspecteur général de l'administration au ministère de l'intérieur et de la décentralisation, titulaire ou suppléant.
-
-
-4. Le magistrat au ministère de la justice, chef du bureau des grâces et de l'application des peines à la direction des affaires criminelles et des grâces, ou le magistrat le suppléant ;
-
-
-5. Le magistrat au ministère de la justice désigné par le directeur de l'administration pénitentiaire parmi les membres de sa direction ;
-
-
-6. Le chef du bureau chargé, au ministère de l'intérieur et de la décentralisation, des questions pénales et de l'interdiction de séjour, ou le fonctionnaire le suppléant ;
-
-
-7. Un représentant du ministre chargé de la défense ayant voix délibérative pour les seules affaires concernant les militaires condamnés par une des juridictions mentionnées à l'article 697 ou une juridiction des forces armées ;
-
-
-8. Un juge de l'application des peines, titulaire ou suppléant ;
-
-
-9. Un fonctionnaire ou ancien fonctionnaire du corps des personnels de direction des services déconcentrés de l'administration pénitentiaire, titulaire ou suppléant ;
-
-
-10. Un membre du barreau, en activité ou honoraire, titulaire ou suppléant ;
-
-
-11. Une personne exerçant des responsabilités dans un organisme ou une association de réinsertion sociale des condamnés, titulaire ou suppléante ;
-
-
-12. Une personne s'étant signalée par l'intérêt qu'elle porte aux problèmes des victimes, titulaire ou suppléante.
+La juridiction régionale est dotée d'un secrétariat-greffe. Les fonctions de secrétaire et de greffier de la juridiction sont remplies par un greffier de la cour d'appel. Sauf dérogation prévue par décret, le siège de la juridiction régionale est celui de la cour d'appel.
 
 
 #### Article D521
 
-Les services du ministère de la justice sont chargés de l'instruction du dossier ; à cette fin, ils peuvent procéder ou faire procéder à tous examens, auditions, enquêtes ou autres mesures utiles. Le comité ou son président peuvent effectuer ou prescrire toutes investigations complémentaires.
+S'il l'estime utile, le premier président de la Cour de cassation désigne pour une durée de trois ans le conseiller de la cour le représentant pour présider la juridiction nationale de la libération conditionnelle ; si cette désignation est intervenue, il peut à tout moment décider de présider lui-même la juridiction.
 
-Un rapport sur les propositions de libération conditionnelle est présenté au comité consultatif par l'un des magistrats qui le composent ou, sur délégation de celui-ci, par un magistrat ou un fonctionnaire du ministère de la justice. A moins qu'il ne soit membre titulaire ou suppléant du comité, le rapporteur a voix consultative seulement pour les affaires qu'il rapporte.
+Les deux magistrats du siège de la Cour de cassation membres de la juridiction nationale sont désignés, pour une durée de trois ans, par le bureau de la Cour de cassation. Deux suppléants sont désignés dans les mêmes formes pour une même durée.
 
-Le comité prend connaissance des observations écrites présentées, le cas échéant, par le condamné ou son avocat.
+Le responsable des associations nationales de réinsertion des condamnés et le responsable des associations nationales d'aide aux victimes membres de la juridiction nationale de la libération conditionnelle sont nommés par arrêté du garde des sceaux, ministre de la justice, pour une durée de trois ans. Deux suppléants sont nommés dans les mêmes formes pour une même durée.
 
+La juridiction nationale est dotée d'un secrétariat-greffe. Les fonctions de secrétaire et de greffier de la juridiction sont remplies par un greffier de la Cour de cassation.
+
+
+#### Chapitre II : De la procédure relative aux demandes de libération conditionnelle
 
 #### Article D522
 
-Un magistrat ou un fonctionnaire de la direction des affaires criminelles et des grâces au ministère de la justice remplit les fonctions de secrétaire.
+Pour faciliter le contrôle de la situation des condamnés au regard de la libération conditionnelle, un fichier est tenu dans tous les établissements pénitentiaires qui fait apparaître la date prévisible de leur libération et la date de l'expiration du temps d'épreuve ou de la période de sûreté.
 
-Il est chargé de la rédaction du procès-verbal de chaque séance qui mentionne les noms et qualités des membres présents ainsi que les avis émis par le comité en ce qui concerne chaque proposition.
+Le greffe de l'établissement pénitentiaire avise en temps utile les condamnés qu'ils sont admissibles à la libération conditionnelle.
+
+Ce fichier est présenté au juge de l'application des peines ainsi qu'aux autorités judiciaires et administratives inspectant ces établissements. Il peut être également présenté, sur leur demande, aux parlementaires visitant des établissements en application de l'article 720-1-A.
 
 
 #### Article D523
 
-Le président, le vice-président, ainsi que les membres visés aux 8° à 12° de l'article D. 520 et leurs suppléants, sont nommés par arrêté du garde des sceaux, ministre de la justice, pour une période de trois ans renouvelable une fois.
+Au moins une fois par an, et même en l'absence de demande de la part des intéressés, le juge de l'application des peines examine en temps utile la situation des condamnés ayant vocation à la libération conditionnelle pour que ces derniers puissent être éventuellement admis au bénéfice de la mesure dès qu'ils remplissent les conditions prévues par la loi. Dans le cas prévu au deuxième alinéa de l'article 730, le juge de l'application des peines peut saisir la juridiction régionale de la libération conditionnelle s'il estime que la mesure peut être accordée.
+
+Sauf s'il est envisagé d'assortir le bénéfice de la mesure de l'une des conditions prévues aux 3° et 4° de l'article D. 535, l'examen prévu à l'alinéa précédent porte essentiellement sur les efforts de réadaptation sociale du condamné en fonction de sa situation personnelle, familiale ou sociale.
+
+Des éléments d'information complémentaires sont, en tant que de besoin, recueillis par l'intermédiaire du service pénitentiaire d'insertion et de probation du lieu où le condamné souhaite établir sa résidence.
 
 
 #### Article D524
 
-La date des réunions et délibérations du comité est fixée par le directeur des affaires criminelles et des grâces.
+Les demandes de libération conditionnelle relevant de la compétence du juge de l'application des peines doivent être examinées dans les trois mois de leur dépôt, conformément aux dispositions de l'article D. 116-10.
 
-En l'absence du président, les séances sont dirigées par le vice-président.
+Celles relevant de la compétence de la juridiction régionale de la libération conditionnelle doivent être examinées dans les six mois de leur dépôt.
 
-Au cas d'absence simultanée du président et du vice-président, le président de séance est désigné par ses collègues.
+A défaut, le condamné peut directement saisir de sa demande, selon les cas, la chambre des appels correctionnels ou la juridiction nationale de la libération conditionnelle, par lettre recommandée ou selon les modalités prévues à l'article 503.
 
-Le comité ne peut valablement statuer que lorsque les membres présents ayant voix délibérative sont au nombre de quatre au moins.
-
-En cas de partage, la voix du président est prépondérante.
+Les dispositions de l'article D. 116-7, des deuxième et troisième alinéas de l'article D. 116-10 ainsi que celles des articles D. 116-11 et D. 116-12 sont applicables aux demandes de libération conditionnelle.
 
 
 #### Article D525
 
-Les délibérations du comité sont secrètes. Ses membres ainsi que les personnes qui, à un titre quelconque, participent ou assistent à des travaux sont tenus au secret professionnel.
+Dès lors qu'il remplit les conditions prévues par l'article 729 ou par l'article 729-3, tout condamné peut, même s'il n'est pas sous écrou, être admis au bénéfice de la libération conditionnelle.
 
-Toutes communications du comité avec les bureaux ou avec les services déconcentrés de l'administration pénitentiaire, comme avec tous services ou toutes personnes étrangers à cette administration, ont exclusivement lieu par l'intermédiaire du directeur des affaires criminelles et des grâces, éventuellement avec le concours du directeur de l'administration pénitentiaire, sous l'autorité et d'après les instructions du ministre.
-
-
-#### Chapitre II : De l'instruction des propositions de libération conditionnelle
 
 #### Article D526
 
-Le cas des condamnés ayant vocation à la libération conditionnelle doit être examiné en temps utile pour que les intéressés puissent éventuellement être admis au bénéficie de la mesure dès qu'ils remplissent les conditions de délai prévues par la loi.
+Sans préjudice des dispositions de l'article D. 523, le juge de l'application des peines recueille les éléments d'information nécessaires à l'examen des demandes de libération conditionnelle. A cette fin, il peut procéder ou faire procéder à tous examens, auditions, enquêtes, expertises, réquisitions ou autres mesures utiles. Ces enquêtes peuvent porter, le cas échéant, sur les conséquences d'une libération conditionnelle au regard de la situation de la victime.
 
-Sauf s'il est envisagé d'assortir le bénéfice de la mesure de l'une des conditions prévues à l'article D. 535 (3° et 4°), cet examen porte essentiellement sur les perspectives de réinsertion du condamné en fonction de sa situation personnelle, familiale et sociale.
+Lorsqu'il s'agit d'une demande de libération conditionnelle relevant de la juridiction régionale de la libération conditionnelle, le juge de l'application des peines recueille l'avis de la commission de l'application des peines.
 
-Des éléments d'information complémentaires sont, en tant que de besoin, recueillis par l'intermédiaire du comité de probation du lieu où le condamné souhaite établir sa résidence.
+Dans tous les cas, le juge de l'application des peines peut également recueillir l'avis du procureur de la République du tribunal de grande instance dans le ressort duquel le condamné souhaite établir sa résidence. Le procureur de la République peut alors procéder aux investigations prévues au premier alinéa du présent article afin de donner son avis.
+
+Pour les affaires concernant les militaires condamnés par une des juridictions mentionnées à l'article 697 ou une juridiction des forces armées, le juge de l'application des peines recueille également l'avis du ministre de la défense.
+
+Ces différents documents ou avis sont versés au dossier individuel du condamné, qui est transmis à la juridiction régionale.
+
+Le juge de l'application des peines présente oralement la synthèse de ces documents et avis lors du débat contradictoire devant la juridiction régionale.
 
 
 #### Article D527
 
-Pour faciliter le contrôle de la situation des condamnés au regard de la libération conditionnelle, un fichier est tenu dans tous les établissements pénitentiaires qui fait apparaître la date de leur libération et la date de l'expiration du délai d'épreuve.
-
-Ce fichier est présenté aux autorités judiciaires et administratives inspectant ces établissements, et spécialement au juge de l'application des peines.
-
-
-#### Article D527-1
-
-Dès lors qu'il remplit les conditions prévues par l'article 729, tout condamné peut, même s'il n'est pas sous écrou, être admis au bénéfice de la libération conditionnelle.
+Lorsqu'elles sont saisies, la juridiction régionale ou la juridiction nationale de la libération conditionnelle peuvent également procéder ou faire procéder à des mesures d'instruction complémentaires. La juridiction qui envisage d'accorder une libération conditionnelle est tenue de demander l'avis du procureur de la République du tribunal de grande instance dans le ressort duquel le condamné souhaite établir sa résidence si cet avis ne figure pas déjà dans le dossier.
 
 
 #### Article D528
 
-La commission de l'application des peines prévue aux articles D. 116, D. 117-1 et D. 119 est chargée d'émettre un avis destiné à permettre au juge de l'application des peines, selon les distinctions de l'article 730, soit d'accorder la libération conditionnelle à un condamné, soit de proposer ce dernier au bénéfice de la mesure.
+Le débat contradictoire tenu devant la juridiction régionale de la libération conditionnelle fait l'objet d'un procès-verbal, qui est signé par le président de la juridiction et par son greffier.
 
-Le chef d'établissement doit transmettre les propositions du juge de l'application des peines pour avis au préfet. Ce préfet est celui du département où le condamné doit résider ; toutefois, dans les hypothèses visées à l'article D. 535 (3° et 4°), le préfet consulté est celui du lieu de détention.
+La juridiction régionale de la libération conditionnelle statue par jugement rendu en chambre du conseil.
+
+L'appel du jugement est formé soit au greffe de la juridiction régionale de la libération conditionnelle selon les modalités prévues aux deux premiers alinéas de l'article 502, soit selon les modalités prévues à l'article 503.
+
+Les dispositions des premier, troisième, sixième, septième et neuvième alinéas de l'article D. 116-9, et des articles D. 116-11 et D. 116-12 sont applicables devant la juridiction régionale. Les débats contradictoires de la juridiction régionale ont lieu au sein de l'établissement pénitentiaire ou au siège de la cour d'appel, selon les distinctions prévues aux trois premiers alinéas de l'article D. 116-8, et les dispositions du dernier alinéa de cet article sont applicables.
 
 
 #### Article D529
 
-L'instruction générale détermine les modalités de la procédure d'admission ou de révocation de la libération conditionnelle et d'exécution des décisions prises en cette matière.
+En cas d'appel, une copie du dossier individuel du condamné et de la décision de la juridiction régionale est transmise à la juridiction nationale de la libération conditionnelle.
+
+A l'appui de son appel, le condamné ou son avocat peuvent adresser des observations écrites à la juridiction nationale. Ces observations doivent être adressées un mois au plus tard après la date de l'appel, sauf dérogation accordée par le président de la juridiction.
+
+Pendant l'instance d'appel, les dispositions de l'article D. 116-6 relatives à la communication du dossier individuel du condamné sont applicables.
+
+
+#### Article D529-1
+
+Préalablement au débat contradictoire tenu devant la juridiction nationale de la libération conditionnelle, le président de la juridiction ou l'un des conseillers par lui désigné peut, d'office ou à la demande du condamné, procéder à l'audition de ce dernier en présence de son avocat ou celui-ci convoqué dans les conditions prévues à l'article D. 116-9. Le ministère public est avisé de cette audition et peut y assister. Il est dressé un procès-verbal de l'audition, signé du magistrat, du greffier et de l'intéressé.
+
+Si le condamné est incarcéré, cette audition a lieu dans l'établissement pénitentiaire.
+
+
+#### Article D529-2
+
+En application des dispositions du sixième alinéa de l'article 722-1, la juridiction nationale de la libération conditionnelle statue, au vu des éléments du dossier, par arrêt rendu à la suite d'un débat contradictoire tenu en chambre du conseil hors la présence du condamné, au cours duquel, après le rapport oral d'un conseiller, le procureur général puis l'avocat du condamné présentent leurs observations. Le procureur général peut répliquer, l'avocat du condamné ayant toujours la parole en dernier.
+
+L'avocat du condamné est convoqué par lettre recommandée ou par télécopie au plus tard quinze jours avant le débat contradictoire.
+
+Si le président de la juridiction nationale de la libération conditionnelle constate que l'appel n'a manifestement pas été formé dans le délai de dix jours, il déclare que celui-ci est irrecevable. Cette décision n'est pas susceptible de recours.
 
 
 #### Chapitre III : Des mesures et des obligations auxquelles peuvent être soumis les libérés conditionnels
@@ -19065,7 +19713,7 @@ L'établissement à l'étranger, s'il n'est pas prévu dans la décision de lib�
 ##### Article D535
 
 La décision accordant à un condamné le bénéfice de la libération conditionnelle peut subordonner l'octroi de cette mesure à l'une des conditions suivantes :
-1. Avoir satisfait à une épreuve de semi-liberté ou de placement à l'extérieur sans surveillance dont les modalités sont déterminées par ladite décision ;
+1. Avoir satisfait à une épreuve de semi-liberté ou de placement à l'extérieur sans surveillance dont les modalités sont déterminées par ladite décision ou avoir bénéficié d'une ou plusieurs permissions de sortir ;
 2. Remettre tout ou partie de son compte nominatif au service pénitentiaire d'insertion et de probation, à charge pour ledit service de restitution par fractions ;
 3. S'engager dans les armées de terre, de mer ou de l'air dans les cas où la loi l'autorise, ou rejoindre une formation des forces armées s'il s'agit d'un détenu appartenant à un contingent d'âge présent ou appelé sous les drapeaux, ou s'il s'agit d'un militaire en activité de service ;
 4. S'il s'agit d'un étranger, être expulsé du territoire national, reconduit à la frontière ou être extradé, ou quitter le territoire national et n'y plus paraître.
@@ -19103,6 +19751,18 @@ Ces mesures et conditions doivent en conséquence être portées à la connaissa
 
 
 #### Chapitre V : Dispositions diverses
+
+#### Article D540
+
+Lorsqu'un libéré conditionnel a fait l'objet d'une arrestation provisoire en application des dispositions du deuxième alinéa de l'article 733, le débat contradictoire relatif à l'éventuelle révocation de la mesure doit intervenir, à compter de la date de l'arrestation de la personne, dans un délai d'un mois si la décision relève de la compétence du juge de l'application des peines et dans un délai de deux mois si elle relève de la compétence de la juridiction régionale de la libération conditionnelle, faute de quoi la personne est mise en liberté si elle n'est pas détenue pour autre cause.
+
+
+#### Article D541
+
+Lorsque l'arrestation provisoire prévue au deuxième alinéa de l'article 733 intervient à la suite de la mise à exécution d'un mandat d'arrêt ou d'amener délivré en application de l'article 722-2, elle doit être ordonnée avant l'expiration des délais de détention prévus par les articles 125, 127, 130 et 133, faute de quoi la personne est mise en liberté si elle n'est pas détenue pour autre cause.
+
+La personne est aussitôt informée par, selon les cas, le juge de l'application des peines, le magistrat désigné en application du troisième alinéa de l'article 125, le chef de l'établissement pénitentiaire ou l'officier de police judiciaire, qu'elle fait l'objet d'une arrestation provisoire et qu'elle comparaîtra, dans un délai d'un ou deux mois, selon les distinctions prévues à l'article précédent, devant la juridiction chargée de statuer sur l'éventuelle révocation de la libération conditionnelle.
+
 
 #### Article D542
 
@@ -19172,7 +19832,7 @@ A défaut d'un tel quartier dans les établissements où la distribution des loc
 
 Les personnes détenues en vertu d'une décision de contrainte par corps sont soumises au même régime que les condamnés.
 
-Pour l'admission au bénéfice des mesures prévues aux articles 723 et 723-3, les conditions de délai fixées aux articles D. 119 à D. 145 ne sont pas applicables.
+Pour l'admission au bénéfice des mesures prévues aux articles 723 et 723-3, les conditions de délai fixées aux articles D. 128 à D. 145 ne sont pas applicables.
 
 
 ### Titre VII : De l'interdiction de séjour
