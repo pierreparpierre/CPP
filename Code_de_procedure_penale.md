@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 1er avril 1977
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19770401)
+- Date de consolidation : 5 septembre 1977
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19770905)
 
 
 # Partie législative
@@ -5407,6 +5407,8 @@ Le recouvrement est effectué au vu d'un extrait de l'ordonnance établi par le 
 ### Titre X
 
 ### Titre XI
+
+### Titre XII
 
 ### Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction
 
