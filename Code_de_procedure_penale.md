@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 13 mars 2004
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20040313)
+- Date de consolidation : 20 mars 2004
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20040320)
 
 
 # Partie législative
@@ -13910,7 +13910,7 @@ Le procès-verbal prévu par le neuvième alinéa de l'article 41-2 précise :
 
 Ce procès-verbal indique que la personne a été informée de son droit de se faire assister d'un avocat avant de donner son accord aux propositions du procureur de la République et de son droit de demander à bénéficier d'un délai de dix jours avant de faire connaître sa réponse.
 
-Le procès-verbal précise que la personne a été informée que la proposition de composition pénale va être adressée pour validation au président du tribunal de grande instance ou au juge d'instance, et qu'elle peut demander à être entendue par ce magistrat. Il indique si la personne demande ou ne demande pas cette audition.
+Le procès-verbal précise que la personne a été informée que la proposition de composition pénale va être adressée pour validation au président du tribunal de grande instance ou au juge d'instance.
 
 Le procès-verbal précise également que la personne sera informée de la décision du président du tribunal de grande instance ou du juge d'instance, et qu'en cas de validation les délais d'exécution des mesures commenceront à courir à la date de notification de cette décision.
 
@@ -13921,7 +13921,7 @@ Le procès-verbal est signé par la personne ainsi que par le procureur de la R�
 
 La remise du permis de conduire ou de chasser prévue par le 3° de l'article 41-2 emporte pour la personne l'engagement de ne pas conduire ou chasser pendant la période de remise de son permis.
 
-Lorsqu'est proposée la remise du permis de conduire, cet engagement peut être limité à la conduite en dehors de l'activité professionnelle, ou à la conduite de certains véhicules. Dans ce cas, la proposition comporte les précisions prévues à l'article R. 131-1 ou R. 131-3 du code pénal.
+Lorsqu'est proposée la remise du permis de conduire, cet engagement peut être limité à la conduite en dehors de l'activité professionnelle, sauf si cette limitation est expressément exclue par la loi ou le règlement qui réprime l'infraction, ou à la conduite de certains véhicules. Dans ce cas, la proposition comporte les précisions prévues à l'article R. 131-1 ou R. 131-3 du code pénal.
 
 
 ###### Article R15-33-42
@@ -14293,6 +14293,11 @@ Lorsque le juge d'instruction fait application des mesures prévues au 12° de l
 Lorsque le juge d'instruction fait application des mesures prévues par le 13° de l'article 138 (alinéa 2), avis en est donné à la succursale ou agence bancaire, à la personne, à l'établissement ou au service qui gèrent le ou les comptes de la personne mise en examen.
 
 
+####### Article R18-2
+
+Le placement sous surveillance électronique des personnes placées sous contrôle judiciaire s'effectue dans les conditions fixées aux articles R. 57-10 à R. 57-35.
+
+
 ####### Paragraphe 3 : Du cautionnement
 
 ####### Article R19
@@ -14340,14 +14345,7 @@ La Caisse des dépôts et consignations distribue sans délai, aux ayants droit,
 Toute contestation relative à l'application du présent article est jugée sur requête, en chambre du conseil, comme incident de l'exécution du jugement ou de l'arrêt.
 
 
-###### Sous-section 2 : De la détention provisoire et du placement sous surveillance électronique
-
-###### Article R25-1
-
-Le placement sous surveillance électronique par le juge des libertés et de la détention des personnes placées en détention provisoire s'effectue dans les conditions fixées aux articles R. 57-10 et suivants.
-
-
-###### Sous-section 3 : De la réparation à raison d'une détention provisoire
+###### Sous-section 2 : De la réparation à raison d'une détention provisoire
 
 ####### Paragraphe 1er : De la réparation demandée devant le premier président de la cour d'appel
 
@@ -14515,7 +14513,7 @@ Si cela n'a pas déjà été demandé lors de la procédure devant le premier pr
 
 ######## B : De la procédure suivie devant la Commission nationale de réparation des détentions
 
-######### a : Des communications et notifications applicables lorsque l'auteur du recours est le demandeur ou l'agent judiciaire du Trésor.
+######### a : Des communications et notifications applicables lorsque l'auteur du recours est le demandeur ou l'agent judiciaire du Trésor
 
 ######### Article R40-8
 
@@ -14529,6 +14527,11 @@ Dès réception des conclusions mentionnées à l'article précédent, le secré
 Cette personne dispose d'un délai de deux mois à compter de la réception de la lettre recommandée prévue à l'alinéa précédent pour déposer ses conclusions au secrétariat de la commission.
 
 Lorsque ces conclusions ont été déposées ou à l'expiration du délai prévu à l'alinéa précédent, le secrétaire de la commission transmet le dossier au procureur général près la Cour de cassation.
+
+
+######### Article R40-10
+
+Le procureur général dépose ses conclusions dans les deux mois.
 
 
 ######### Article R40-11
@@ -14545,11 +14548,6 @@ Dans le délai d'un mois à compter de la dernière des notifications prévues a
 Les dispositions du second alinéa de l'article R. 33 sont applicables.
 
 
-######### Article R40-10
-
-Le procureur général dépose ses conclusions dans les deux mois.
-
-
 ######### b : Des communications et notifications applicables lorsque l'auteur du recours est le procureur général près la cour d'appel
 
 ######### Article R40-13
@@ -14563,7 +14561,7 @@ Les conclusions du procureur général sont communiquées, dans un délai de qui
 Les dispositions du second alinéa de l'article R. 33 sont applicables.
 
 
-######### c : Des autres actes de procédure.
+######### c : Des autres actes de procédure
 
 ######### Article R40-14
 
@@ -14763,15 +14761,11 @@ Draguignan (à titre temporaire)
 
 En application des dispositions du deuxième alinéa de l'article 260, le nombre des jurés figurant sur les listes annuelles établies dans le ressort des cours d'assises énumérées ci-dessous est fixé comme suit :
 
+
+
 Cours d'assises
-
-
-
-DÉPARTEMENTS
-
-NOMBRE DE JURÉS
-
-figurant sur la liste annuelle
+- DÉPARTEMENTS
+- NOMBRE DE JURÉS figurant sur la liste annuelle
 
 
 
@@ -14839,6 +14833,10 @@ Savoie
 
 390
 
+Seine-Saint-Denis
+
+2 000
+
 Val-de-Marne
 
 1 700
@@ -14851,18 +14849,16 @@ Yonne
 
 350
 
-
-
 Les dispositions du présent article cessent d'être applicables si, en raison de l'évolution officiellement constatée du nombre des habitants du ressort de la cour d'assises, le nombre des jurés résultant des dispositions du premier alinéa de l'article 260 dépasse celui fixé ci-dessus.
 
 
 #### Article R41-1
 
 La liste des jurés suppléants prévue par l'article 264 comprend :
-1. Sept cents jurés pour la cour d'assises de Paris ;
+1. Sept cents jurés pour les cours d'assises de Paris et de la Seine-Saint-Denis ;
 2. Six cents jurés pour la cour d'assises du Val-de-Marne ;
 3. Quatre cent cinquante jurés pour les cours d'assises des Bouches-du-Rhône, de la Gironde, du Nord et des Yvelines ;
-4. Trois cent cinquante jurés pour la cour d'assises de la Seine-Saint-Denis ;
+4. (alinéa supprimé)
 5. Deux cent cinquante jurés pour les cours d'assises des Alpes-Maritimes, de la Corse-du-Sud, de la Haute-Corse, de l'Essonne, des Hauts-de-Seine, d'Ille-et-Vilaine, de la Loire-Atlantique, du Pas-de-Calais, du Rhône, de la Seine-Maritime, de Seine-et-Marne, du Val-d'Oise et du Var ;
 6. Deux cents jurés pour les cours d'assises de la Marne et de la Réunion ;
 7. Cent cinquante jurés pour les cours d'assises de l'Aisne, de l'Ardèche, du Calvados, de la Côte-d'Or, de l'Eure, du Finistère, du Gard, de la Guadeloupe, de la Haute-Garonne, de la Haute-Savoie, de l'Hérault, de l'Isère, de Maine-et-Loire, de Meurthe-et-Moselle, de la Meuse, de la Moselle, de l'Oise, des Pyrénées-Atlantiques, des Pyrénées-Orientales, du Bas-Rhin, du Haut-Rhin, de la Sarthe, de la Savoie, de la Somme, de Vaucluse, des Vosges et de l'Yonne ;
@@ -15828,7 +15824,7 @@ Lorsqu'il est fait application des dispositions du deuxième alinéa de l'articl
 
 ### Article R53-40
 
-La juridiction de proximité est compétente pour juger les contraventions de police suivantes, lorsqu'elles sont commises par des personnes physiques :
+La juridiction de proximité est compétente pour juger les contraventions de police suivantes, lorsqu'elles sont commises par des personnes physiques sous les réserves indiquées au dernier alinéa du présent article,
 1. Contraventions réprimées par les articles suivants du code pénal :
 
 a) Contraventions contre les personnes réprimées par :
@@ -15867,6 +15863,8 @@ d) Autres contraventions réprimées par :
 6. Contraventions réprimées par les articles 80-1, 80-2 et 80-3 du décret n° 42-730 du 22 mars 1942 sur la police, la sûreté et l'exploitation des voies ferrées d'intérêt général et local et relatives à la police des chemins de fer ;
 7. Contraventions réprimées par l'article 18 du décret n° 96-596 du 27 juin 1996 relatif à la lutte contre la rage ;
 8. Contraventions réprimées par l'article 8 du décret n° 99-1164 du 29 décembre 1999 pris pour l'application du chapitre III du titre II du livre II du code rural et relatives à la détention de chiens dangereux.
+
+Toutefois, la juridiction de proximité n'est pas compétente en cas de poursuite concomitante de l'une des contraventions susvisées avec des contraventions relevées à l'encontre d'une personne morale ou avec d'autres contraventions connexes ne relevant pas de la compétence de la juridiction de proximité.
 
 
 ### Article R53-41
@@ -15944,7 +15942,7 @@ Le procureur général près la cour d'appel saisie de la procédure est compét
 
 ### Titre III : Du placement sous surveillance électronique
 
-#### Chapitre unique : Dispositions générales
+#### Chapitre Ier : Dispositions générales
 
 ##### Section 1 : Dispositions concernant le procédé prévu par l'article 723-8
 
@@ -15952,9 +15950,11 @@ Le procureur général près la cour d'appel saisie de la procédure est compét
 
 Pour la mise en oeuvre du procédé permettant le placement sous surveillance électronique prévu par l'article 723-8, la personne assignée porte un bracelet comportant un émetteur.
 
-Cet émetteur transmet des signaux à un récepteur placé au lieu d'assignation dont le boîtier envoie par l'intermédiaire d'une ligne téléphonique, à un centre de surveillance, relevant d'un ou plusieurs établissements pénitentiaires, des messages relatifs au fonctionnement du dispositif et à la présence de l'intéressé dans le lieu où il est assigné.
+Cet émetteur transmet des signaux à un récepteur placé au lieu d'assignation dont le boîtier envoie par l'intermédiaire d'une ligne téléphonique, à un centre de surveillance relatifs au fonctionnement du dispositif et à la présence de l'intéressé dans le lieu où il est assigné.
 
 Le bracelet porté par la personne assignée est conçu de façon à ne pouvoir être enlevé par cette dernière sans que soit émis un signal d'alarme.
+
+Ces dispositifs peuvent être complétés par d'autres procédés de surveillance électronique permettant une authentification vocale ou digitale à des fins de vérification à distance de la présence de l'intéressé.
 
 
 ##### Article R57-12
@@ -15966,7 +15966,7 @@ Le procédé décrit à l'article R. 57-11 est homologué par arrêté du garde 
 
 ##### Article R57-13
 
-Lorsqu'il est saisi d'une demande de placement sous surveillance électronique ou lorsqu'il envisage de prononcer d'office une telle mesure, le juge des libertés et de la détention ou le juge de l'application des peines peut charger le service pénitentiaire d'insertion et de probation de s'assurer de la disponibilité du dispositif technique décrit à l'article R. 57-11 et de vérifier la situation familiale, matérielle et sociale de la personne condamnée ou prévenue, notamment aux fins de déterminer les horaires et les lieux d'assignation.
+Lorsqu'il est saisi d'une demande de placement sous surveillance électronique ou lorsqu'il envisage de prononcer d'office une telle mesure, le juge d'instruction, le juge des libertés et de la détention ou le juge de l'application des peines peut charger le service pénitentiaire d'insertion et de probation de s'assurer de la disponibilité du dispositif technique décrit à l'article R. 57-11 et de vérifier la situation familiale, matérielle et sociale de la personne condamnée ou prévenue, notamment aux fins de déterminer les horaires et les lieux d'assignation.
 
 
 ##### Article R57-14
@@ -16004,19 +16004,19 @@ Pour la tenue du débat contradictoire prévu par le deuxième alinéa de l'arti
 
 ##### Article R57-19
 
-Le personnel de l'administration pénitentiaire assure la pose et la dépose du bracelet prévu à l'article R. 57-11.
+Le personnel de l'administration pénitentiaire assure la pose et la dépose du bracelet prévu à l'article R. 57-11. Il peut être assisté des personnes habilitées dans les conditions fixées aux articles R. 57-23 à R. 57-30.
 
 Lorsque la décision de placement sous surveillance électronique est exécutoire, la mise en place du dispositif technique doit intervenir au plus tard, sous réserve de la disponibilité de ce dispositif, dans les cinq jours qui suivent la décision.
 
 
 ##### Article R57-20
 
-La personne placée sous surveillance électronique est inscrite au registre d'écrou de l'un des établissements pénitentiaires dépendant du centre de surveillance.
+La personne condamnée à une peine privative de liberté placée sous surveillance électronique est inscrite au registre d'écrou de l'un des établissements pénitentiaires dépendant du centre de surveillance.
 
 
 ##### Article R57-21
 
-Le service pénitentiaire d'insertion et de probation de l'établissement mentionné à l'article R. 57-20 assure, le cas échéant, le contrôle et le suivi des mesures prévues aux articles 132-43 à 132-46 du code pénal et ordonnées par le juge des libertés ou de la détention ou le juge de l'application des peines.
+Le service pénitentiaire d'insertion et de probation de l'établissement mentionné à l'article R. 57-20 assure, le cas échéant, le contrôle et le suivi des mesures prévues aux articles 132-43 à 132-46 du code pénal et ordonnées par le juge de l'application des peines.
 
 
 ##### Article R57-22
@@ -16024,9 +16024,98 @@ Le service pénitentiaire d'insertion et de probation de l'établissement mentio
 Le contrôle du respect des obligations de la personne assignée s'effectue par vérifications téléphoniques, visites au lieu d'assignation, convocations à l'établissement d'écrou ou, dans les cas prévus à l'article R. 57-21, au service pénitentiaire d'insertion et de probation.
 
 
+##### Section 5 : Habilitation des personnes auxquelles peut être confiée la mise en oeuvre du dispositif technique permettant le contrôle à distance des personnes assujetties
+
+###### Sous-section 1 : Les personnes habilitées
+
+###### Article R57-23
+
+L'habilitation des personnes auxquelles peut être confiée par contrat la mise en oeuvre du dispositif technique permettant le contrôle à distance prévu par l'article 723-8 est accordée par arrêté du garde des sceaux, ministre de la justice.
+
+
+###### Article R57-24
+
+L'habilitation est accordée pour une durée de cinq ans renouvelable en fonction des compétences techniques, des garanties financières et des références qu'offrent ces personnes appréciées au regard de la nature, de l'étendue et du coût des prestations faisant l'objet du contrat prévu à l'article R. 57-23.
+
+
+###### Article R57-25
+
+Pour être habilitées les personnes physiques doivent :
+1. Posséder la nationalité française ou celle de l'un des Etats membres de la Communauté européenne ;
+2. Ne pas avoir fait l'objet d'une mesure de révocation de la fonction publique, civile ou militaire ni d'une condamnation, incapacité ou déchéance justifiant l'inscription au bulletin n° 2 du casier judiciaire.
+
+
+###### Article R57-26
+
+L'habilitation ne peut être accordée à une personne morale :
+1. Dont le bulletin n° 2 du casier judiciaire comporte une condamnation, une incapacité ou une déchéance ;
+2. Dont la situation d'un ou plusieurs de ses dirigeants de droit ou de fait n'est pas conforme au 2° de l'article R. 57-25 ;
+
+
+###### Article R57-27
+
+L'habilitation peut être retirée par le garde des sceaux, ministre de la justice, selon les modalités prévues à l'article R. 57-30, en cas de modification substantielle de la situation des personnes au regard des dispositions des articles R. 57-24, R. 57-25 ou R. 57-26.
+
+
+###### Sous-section 2 : Les agents des personnes habilitées
+
+###### Article R57-28
+
+Chaque employé d'une personne mentionnée à la sous-section 1 appelé à accomplir des tâches pour l'exécution du contrat visé à l'article R. 57-23, fait l'objet d'une habilitation individuelle préalable accordée par le garde des sceaux, ministre de la justice.
+
+
+
+Cette habilitation est accordée pour une durée de cinq ans renouvelable.
+
+
+###### Article R57-29
+
+Pour être habilitées les personnes mentionnées à l'article R. 57-28 doivent :
+1. Posséder la nationalité française ou celle de l'un des Etats membres de la Communauté européenne ;
+2. Ne pas avoir fait l'objet d'une mesure de révocation de la fonction publique, civile ou militaire ni d'une condamnation, incapacité ou déchéance justifiant l'inscription au bulletin n° 2 du casier judiciaire ;
+3. Etre titulaires des diplômes ou qualifications correspondant à la nature des fonctions qu'elles sont appelées à exercer ;
+4. Avoir donné leur accord écrit au projet de contrat de travail proposé par leur employeur ou à un avenant au contrat existant. Ce document rappelle l'obligation de respecter strictement le secret professionnel prévu par les articles 226-13 et 226-14 du code pénal. Il mentionne l'obligation d'adopter, dans l'exercice de leurs fonctions, un comportement conforme à l'honneur, à la probité et aux bonnes moeurs.
+
+
+###### Article R57-30
+
+L'habilitation mentionnée à l'article R. 57-28 peut être retirée par le garde des sceaux, ministre de la justice, après avoir recueilli les observations de la personne habilitée, lorsque l'une des conditions prévues aux 1° et 2° de l'article R. 57-29 cesse d'être remplie ou en cas d'agissements contraires à l'honneur, à la probité ou aux bonnes moeurs.
+
+En cas d'urgence et pour motif grave, l'habilitation peut être suspendue par le garde des sceaux, ministre de la justice, qui décide, dans le mois suivant la suspension, du maintien ou du retrait de l'habilitation, dans les conditions définies à l'alinéa précédent.
+
+
+#### Chapitre II : Dispositions relatives aux personnes placées sous contrôle judiciaire
+
+#### Article R57-31
+
+La personne mise en examen qui a été placée sous contrôle judiciaire emportant l'obligation de ne pas s'absenter de son domicile ou de sa résidence peut, à tout stade de la procédure, être placée pour l'exécution de cette obligation sous le régime du placement sous surveillance électronique par le juge d'instruction ou le juge des libertés et de la détention.
+
+
+#### Article R57-32
+
+Lorsqu'il envisage de prononcer une telle mesure, le juge d'instruction ou le juge des libertés et de la détention, après avoir procédé le cas échéant aux formalités préalables prévues par les articles R. 57-13 à R. 57-15, recueille l'accord de la personne mise en examen en présence de son avocat, soit à l'issue de l'interrogatoire de première comparution ou à l'issue du débat contradictoire sur la détention provisoire, soit dans le cadre d'un interrogatoire réalisé conformément aux dispositions de l'article 121, l'avocat étant dans ce cas convoqué dans les délais prévus à l'article 114.
+
+Le juge d'instruction ou le juge des libertés et de la détention informe la personne mise en examen que dans le cas où elle ne respecterait pas les obligations du placement sous surveillance électronique, elle pourra être placée en détention provisoire.
+
+
+#### Article R57-33
+
+Le placement sous surveillance électronique est prononcé par ordonnance motivée du juge d'instruction. Celle-ci précise la durée du placement.
+
+
+#### Article R57-34
+
+Les articles R. 57-20 et R. 57-21 ne sont pas applicables à la personne mise en examen placée sous surveillance électronique.
+
+
+#### Article R57-35
+
+La personne mise en examen placée sous surveillance électronique est inscrite dans un registre nominatif spécial tenu par l'administration pénitentiaire.
+
+
 ### Article R57-10
 
-Le placement sous surveillance électronique par le juge des libertés et de la détention des personnes placées en détention provisoire ou par le juge de l'application des peines des personnes condamnées à une peine privative de liberté, prévu respectivement par les articles 144-2 et 723-7, s'effectue dans les conditions fixées par les dispositions du présent titre.
+Le placement sous surveillance électronique par le juge d'instruction ou le juge des libertés et de la détention des personnes placées sous contrôle judiciaire ou par le juge de l'application des peines des personnes condamnées à une peine privative de liberté, prévu respectivement par les articles 138 et 723-7, s'effectue dans les conditions fixées par les dispositions du présent titre.
 
 
 ### Titre IV : Du sursis
