@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 1er janvier 1991
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19910101)
+- Date de consolidation : 23 mars 1991
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19910323)
 
 
 # Partie législative
@@ -16053,6 +16053,21 @@ Les sujets des épreuves écrites sont choisis par le président du jury prévu 
 ###### Article A16
 
 Le secrétariat du jury et l'organisation matérielle des épreuves qui se déroulent à l'école supérieure des inspecteurs de police sont assurés par la direction du personnel et des écoles de la police.
+
+
+###### Article A17
+
+Il est interdit aux candidats, sous peine d'exclusion, d'avoir par-devers eux des documents imprimés ou manuscrits ou des codes annotés et commentés article par article par des praticiens du droit. Toutefois, ils peuvent consulter des codes ou recueils de lois et décrets ; ces derniers peuvent comporter des références à des textes législatifs ou réglementaires ainsi qu'à des articles de doctrine ou des décisions de jurisprudence.
+
+
+
+Toute fraude ou tentative de fraude dans l'une quelconque des épreuves écrites entraîne l'exclusion immédiate de l'examen, prononcée sans délai et sans appel.
+
+
+
+
+
+L'enveloppe renfermant chaque sujet d'épreuve écrite est décachetée en présence des candidats à l'ouverture de la séance affectée à l'épreuve.
 
 
 ###### Article A18
