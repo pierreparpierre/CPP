@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 26 décembre 1990
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19901226)
+- Date de consolidation : 1er janvier 1991
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19910101)
 
 
 # Partie législative
@@ -2398,6 +2398,11 @@ Les débats ne peuvent s'ouvrir moins de cinq jours après l'interrogatoire par 
 L'accusé ne cesse pas de pouvoir communiquer librement avec son conseil.
 
 Le conseil peut prendre sur place communication de toutes les pièces du dossier sans que cette communication puisse provoquer un retard dans la marche de la procédure.
+
+
+##### Article 279
+
+Il est délivré gratuitement à chacun des accusés et parties civiles copie des procès-verbaux constatant l'infraction, des déclarations écrites des témoins et des rapports d'expertise.
 
 
 ##### Article 280
@@ -6137,6 +6142,20 @@ Les tribunaux désignés ainsi qu'il est dit à l'article précédent sont comp�
 
 ### Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction
 
+### Article 706-3
+
+Toute personne ayant subi un préjudice résultant de faits volontaires ou non qui présentent le caractère matériel d'une infraction peut obtenir la réparation intégrale des dommages qui résultent des atteintes à la personne, lorsque sont réunies les conditions suivantes :
+1. Ces atteintes n'entrent pas dans le champ d'application de l'article L. 126-1 du code des assurances ni du chapitre Ier de la loi n° 85-677 du 5 juillet 1985 tendant à l'amélioration de la situation des victimes d'accidents de la circulation et à l'accélération des procédures d'indemnisation et n'ont pas pour origine un acte de chasse ou de destruction des animaux nuisibles ;
+2. Ces faits :
+- soit ont entraîné la mort, une incapacité permanente ou une incapacité totale de travail personnel égale ou supérieure à un mois ;
+- soit sont prévus et réprimés par les articles 331 à 333-1 du code pénal ;
+3. La personne lésée est de nationalité française. Dans le cas contraire, les faits ont été commis sur le territoire national et la personne lésée est :
+- soit ressortissante d'un Etat membre de la Communauté économique européenne ;
+- soit, sous réserve des traités et accords internationaux, en séjour régulier au jour des faits ou de la demande.
+
+La réparation peut être refusée ou son montant réduit à raison de la faute de la victime.
+
+
 ### Article 706-4
 
 L'indemnité est allouée par une commission instituée dans le ressort de chaque tribunal de grande instance. Cette commission a le caractère d'une juridiction civile qui se prononce en premier et dernier ressort.
@@ -6150,16 +6169,75 @@ Les fonctions du ministère public sont exercées par le procureur de la Républ
 Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
 
 
+### Article 706-5
+
+A peine de forclusion, la demande d'indemnité doit être présentée dans le délai de trois ans à compter de la date de l'infraction. Lorsque des poursuites pénales sont exercées, ce délai est prorogé et n'expire qu'un an après la décision de la juridiction qui a statué définitivement sur l'action publique ou sur l'action civile engagée devant la juridiction répressive. Toutefois, la commission relève le requérant de la forclusion lorsqu'il n'a pas été en mesure de faire valoir ses droits dans les délais requis ou lorsqu'il a subi une aggravation de son préjudice ou pour tout autre motif légitime.
+
+
+### Article 706-6
+
+La commission ou son président peut procéder ou faire procéder à toutes auditions et investigations utiles, sans que puisse leur être opposé le secret professionnel. Ils peuvent notamment se faire communiquer copie des procès-verbaux constatant l'infraction ou de toutes les pièces de la procédure pénale, même en cours. Ils peuvent également requérir :
+
+
+1. De toute personne ou administration, la communication de renseignements sur la situation professionnelle, financière, fiscale ou sociale des personnes ayant à répondre du dommage causé par l'infraction ou du requérant ;
+
+
+2. De tout service de l'Etat, collectivité publique, organisme de sécurité sociale, organisme assurant la gestion des prestations sociales ou compagnies d'assurance susceptibles de réparer tout ou partie du préjudice, la communication des renseignements relatifs à l'exécution de leurs obligations éventuelles.
+
+
+
+Les renseignements ainsi recueillis ne peuvent être utilisés à d'autres fins que l'instruction de la demande d'indemnité et leur divulgation est interdite.
+
+
+
+Le président de la commission peut accorder une ou plusieurs provisions en tout état de la procédure ; il est statué dans le délai d'un mois à compter de la demande de provision.
+
+
+### Article 706-7
+
+Lorsque des poursuites pénales ont été engagées, la décision de la commission peut intervenir avant qu'il ait été statué sur l'action publique.
+
+La commission peut, pour l'application du dernier alinéa de l'article 706-3, surseoir à statuer jusqu'à décision définitive de la juridiction répressive. Dans tous les cas, elle doit surseoir à statuer à la demande de la victime.
+
+Les débats ont lieu et la décision est rendue en chambre du conseil.
+
+
+### Article 706-8
+
+Lorsque la juridiction statuant sur les intérêts civils a alloué des dommages-intérêts d'un montant supérieur à l'indemnité accordée par la commission, la victime peut demander un complément d'indemnité. Elle doit présenter sa demande dans le délai d'un an après que la décision statuant sur les intérêts civils est devenue définitive.
+
+
+### Article 706-9
+
+La commission tient compte, dans le montant des sommes allouées à la victime au titre de la réparation de son préjudice :
+
+-des prestations versées par les organismes, établissements et services gérant un régime obligatoire de sécurité sociale et par ceux qui sont mentionnés aux articles 1106-9,1234-8 et 1234-20 du code rural ;
+
+-des prestations énumérées au II de l'article 1er de l'ordonnance n° 59-76 du 7 janvier 1959 relative aux actions en réparation civile de l'Etat et de certaines autres personnes publiques ;
+
+-des sommes versées en remboursement des frais de traitement médical et de rééducation ;
+
+-des salaires et des accessoires du salaire maintenus par l'employeur pendant la période d'inactivité consécutive à l'événement qui a occasionné le dommage ;
+
+-des indemnités journalières de maladie et des prestations d'invalidité versées par les groupements mutualistes régis par le code de la mutualité.
+
+Elle tient compte également des indemnités de toute nature reçues ou à recevoir d'autres débiteurs au titre du même préjudice.
+
+Les sommes allouées sont versées par le fonds de garantie des victimes des actes de terrorisme et d'autres infractions.
+
+
 ### Article 706-10
 
-Lorsque la victime, postérieurement au paiement de l'indemnité, obtient, à un titre quelconque, une réparation ou une indemnisation effective de son préjudice, l'Etat peut demander à la commission qui l'avait accordée d'ordonner le remboursement total ou partiel de l'indemnité ou de la provision.
+Lorsque la victime, postérieurement au paiement de l'indemnité, obtient, du chef du même préjudice, une des prestations ou indemnités visées à l'article 706-9, le fonds peut demander à la commission qui l'avait accordée d'ordonner le remboursement total ou partiel de l'indemnité ou de la provision.
 
 
 ### Article 706-11
 
-L'Etat est subrogé dans les droits de la victime pour obtenir des personnes responsables du dommage causé par l'infraction ou tenues à un titre quelconque d'en assurer la réparation totale ou partielle le remboursement de l'indemnité ou de la provision versée par lui, dans la limite du montant des réparations à la charge desdites personnes.
+Le fonds est subrogé dans les droits de la victime pour obtenir des personnes responsables du dommage causé par l'infraction ou tenues à un titre quelconque d'en assurer la réparation totale ou partielle le remboursement de l'indemnité ou de la provision versée par lui, dans la limite du montant des réparations à la charge desdites personnes.
 
-L'Etat peut exercer ses droits par toutes voies utiles, y compris par voie de constitution de partie civile devant la juridiction répressive et ce, même pour la première fois, en cause d'appel.
+Le fonds peut exercer ses droits par toutes voies utiles, y compris par voie de constitution de partie civile devant la juridiction répressive et ce, même pour la première fois, en cause d'appel. Lorsqu'il se constitue partie civile par lettre recommandée, le fonds peut demander le remboursement des sommes mises à sa charge sans limitation de plafond nonobstant les dispositions de l'article 420-1.
+
+Pour l'application des dispositions de l'article 706-9 et du présent article, le fonds peut demander au procureur de la République de requérir de toute personne ou administration la communication de renseignements sur la situation professionnelle, financière, fiscale ou sociale des personnes ayant à répondre du dommage. Le secret professionnel ne peut être opposé au procureur de la République. Les renseignements ainsi recueillis ne peuvent être utilisés à d'autres fins que celles prévues au présent article ; leur divulgation est interdite.
 
 
 ### Article 706-12
@@ -6169,16 +6247,13 @@ Si la victime ou ses ayants droit se constituent partie civile devant la juridic
 A défaut de cette indication, la nullité du jugement en ce qui concerne ses dispositions civiles pourra être demandée par toute personne intéressée pendant deux ans à compter de la date à partir de laquelle ledit jugement est devenu définitif.
 
 
-### Article 706-13
+### Article 706-14
 
-En cas d'infraction commise à l'étranger et relevant de la compétence des juridictions françaises, les dispositions du présent titre sont applicables lorsque la personne lésée est de nationalité française.
+Toute personne qui, victime d'un vol, d'une escroquerie ou d'un abus de confiance, ne peut obtenir à un titre quelconque une réparation ou une indemnisation effective et suffisante de son préjudice, et se trouve de ce fait dans une situation matérielle grave, peut obtenir une indemnité dans les conditions prévues par les articles 706-3 (3° et dernier alinéa) à 706-12, lorsque ses ressources sont inférieures au plafond prévu par les troisième et quatrième alinéas de l'article 2 de la loi n° 72-11 du 3 janvier 1972 relative à l'aide judiciaire et à l'indemnisation des commissions et désignations d'office pour bénéficier de l'aide judiciaire partielle, compte tenu, le cas échéant, de ses charges de famille.
 
+L'indemnité est au maximum égale au triple du montant mensuel de ce plafond de ressources.
 
-### Article 706-15
-
-Ne pourront bénéficier des dispositions prévues par les articles 706-3 et 706-14 que les personnes qui sont de nationalité française ou celles qui sont de nationalité étrangère et justifient :
-- soit qu'elles sont ressortissantes d'un Etat ayant conclu avec la France un accord de réciprocité pour l'application desdites dispositions et qu'elles remplissent les conditions fixées par cet accord ;
-- soit qu'elles sont titulaires de la carte dite carte de résident.
+Ces dispositions sont aussi applicables aux personnes mentionnées à l'article 706-3 qui, victimes d'une atteinte à la personne prévue par cet article, ne peuvent à ce titre prétendre à la réparation intégrale de leur préjudice, les faits générateurs de celui-ci ayant entraîné une incapacité totale de travail inférieure à un mois.
 
 
 ### Titre XV : Des infractions en relation avec une entreprise individuelle ou collective ayant pour but de troubler gravement l'ordre public par l'intimidation ou la terreur
@@ -6605,6 +6680,17 @@ Les condamnés peuvent continuer à communiquer dans les mêmes conditions que l
 #### Article 728
 
 Un décret détermine l'organisation et le régime intérieur des établissements pénitentiaires.
+
+
+#### Chapitre IV : Des valeurs pécuniaires des détenus
+
+#### Article 728-1
+
+Les valeurs pécuniaires des détenus, inscrites à un compte nominatif ouvert à l'établissement pénitentiaire, sont divisées en trois parts : la première sur laquelle seules les parties civiles et les créanciers d'aliments peuvent faire valoir leurs droits ; la deuxième, affectée au pécule de libération, qui ne peut faire l'objet d'aucune voie d'exécution ; la troisième, laissée à la libre disposition des détenus.
+
+Les sommes destinées à l'indemnisation des parties civiles leur sont versées directement, sous réserve des droits des créanciers d'aliments, à la demande du procureur de la République, par l'établissement pénitentiaire.
+
+La consistance des valeurs pécuniaires, le montant respectif des parts et les modalités de gestion du compte nominatif sont fixés par décret.
 
 
 ### Titre III : De la libération conditionnelle
@@ -8517,38 +8603,26 @@ La commission est saisie par une requête signée de la personne lésée, de son
 
 ### Article R50-9
 
-La requête contient tous renseignements utiles à l'instruction de la demande d'indemnité et notamment l'indication :
+La requête contient tous renseignements utiles à l'instruction de la demande d'indemnité, et notamment l'indication :
+1. Des nom, prénoms, date et lieu de naissance et demeure du demandeur ;
+2. De la date, du lieu et des circonstances de l'infraction génératrice du dommage ;
+3. Des atteintes à la personne du demandeur ou des dommages causés à ses biens ;
+4. De la juridiction pénale éventuellement saisie de l'infraction ;
+5. Des liens de parenté ou relations de droit ou de fait existant entre le demandeur et celui qui a personnellement souffert du dommage s'il ne s'agit pas de la même personne ;
+6. Le cas échéant, des organismes publics ou privés dont relève le demandeur ou auprès desquels il est assuré et qui sont susceptibles de l'indemniser de tout ou partie du préjudice subi ;
+7. Des demandes de réparation ou d'indemnité déjà présentées et, en particulier, des actions en dommages-intérêts qui ont été engagées ainsi que des sommes qui ont déjà été versées au demandeur en réparation du préjudice ;
+8. Du montant de l'indemnité réclamée devant la commission ;
+9. De l'adresse à laquelle les notifications doivent être faites au demandeur.
 
-a) Des nom, prénoms et demeure du demandeur ;
-
-b) De la date, du lieu et des circonstances de l'infraction génératrice du dommage corporel ;
-
-c) De la nature du dommage corporel subi ainsi que, s'il y a lieu, de l'incapacité totale temporaire de travail et de l'incapacité permanente qui en sont résultées ;
-
-d) De la juridiction pénale éventuellement saisie de l'infraction ;
-
-e) Des liens de parenté ou relations de droit ou de fait existant entre le demandeur et celui qui a personnellement souffert du dommage corporel lorsqu'il ne s'agit pas de la même personne ;
-
-f) De la perte ou de la diminution de revenus, de l'accroissement de charges ou de l'inaptitude à exercer une activité professionnelle, qui sont la conséquence du dommage ;
-
-g) Le cas échéant, des organismes publics ou privés dont relève le demandeur ou auprès desquels il est assuré et qui sont susceptibles de l'indemniser de tout ou partie du préjudice subi ;
-
-h) Des raisons pour lesquelles il est dans l'impossibilité d'obtenir auprès de ces organismes ou de toute autre personne morale ou physique la réparation effective et suffisante de son préjudice ;
-
-i) Des demandes de réparation ou d'indemnité déjà présentées et, en particulier, des actions en dommages-intérêts qui ont été engagées ainsi que des sommes qui lui ont déjà été versées en réparation d'une partie du préjudice ;
-
-j) Du montant de l'indemnité réclamée devant la commission ;
-
-k) De l'adresse où doivent être faites les notifications au demandeur.
-
-La requête est accompagnée de toutes pièces justificatives.
+La requête est accompagnée de toutes pièces justificatives, notamment d'une copie du certificat médical initial et, le cas échéant, de toutes pièces attestant la consolidation, ainsi que de tout document permettant d'apprécier la perte ou la diminution des revenus, l'accroissement des charges ou l'inaptitude à exercer une activité professionnelle qui sont la conséquence du dommage.
 
 
 ### Article R50-10
 
-Lorsque le préjudice consiste en une perte ou une diminution de revenus, en un accroissement de charges ou en une inaptitude à exercer une activité professionnelle, le demandeur doit faire connaître l'ensemble des ressources dont il dispose. Il doit produire notamment :
-1. Une copie de la déclaration de ses revenus de l'année précédant l'infraction et de l'année précédant celle au cours de laquelle la commission est saisie ou, s'il n'est pas imposable, un certificat de non-imposition ;
-2. Le cas échéant, la liste de ses biens immobiliers.
+Lorsque la demande d'indemnité est fondée sur l'article 706-14, la requête contient en outre :
+1. L'indication du montant des ressources du demandeur avec les justifications utiles, notamment une copie de la déclaration de ses revenus de l'année précédant l'infraction et de l'année précédant celle où la commission est saisie ou, s'il n'est pas imposable, un certificat de non-imposition et, le cas échéant, la liste de ses biens immobiliers ;
+2. Les éléments desquels résulte l'impossibilité d'obtenir auprès des organismes publics ou privés dont relève le demandeur ou de toute autre personne morale ou physique la réparation effective et suffisante de son préjudice ;
+3. La description de la situation matérielle grave dans laquelle il se trouve de ce fait.
 
 
 ### Article R50-11
@@ -8558,7 +8632,7 @@ S'il s'agit d'une requête en complément d'indemnité fondée sur l'article 706
 
 ### Article R50-12
 
-Le secrétaire de la commission transmet, sans délai, copie de la requête et des pièces annexes mentionnées à l'article R. 50-10 au procureur de la République près le tribunal de grande instance et, par lettre simple, à l'agent judiciaire du Trésor.
+Le secrétaire de la commission transmet sans délai copie de la requête et des pièces annexes au procureur de la République près le tribunal de grande instance et, par lettre simple, au fonds de garantie des victimes des actes de terrorisme et d'autres infractions.
 
 
 ### Article R50-13
@@ -8568,16 +8642,14 @@ Le président de la commission ou le magistrat assesseur instruit l'affaire ; il
 
 ### Article R50-14
 
-Le demandeur ainsi que l'agent judiciaire du Trésor peuvent prendre connaissance du dossier au secrétariat de la commission et adresser toutes observations qu'ils estiment utiles à l'instruction de la demande d'indemnité.
+Le demandeur ainsi que le fond de garantie peuvent prendre connaissance du dossier au secrétariat de la commission et adresser toutes observations qu'ils estiment utiles à l'instruction de la demande d'indemnité.
 
-Le requérant peut se faire délivrer, à ses frais, par le secrétariat copie des pièces du dossier. L'agent judiciaire peut, sur sa demande, obtenir que les copies de ces pièces lui soient adressées.
-
-S'il s'agit de procès-verbaux constatant l'infraction ou de pièces de la procédure pénale, la délivrance ou l'envoi des copies est subordonné à l'autorisation du ministère public.
+Le requérant et le fonds de garantie peuvent se faire délivrer, à leurs frais, par le secrétariat, copie des pièces du dossier. S'il s'agit de procès-verbaux constatant l'infraction ou de pièces de la procédure pénale, la délivrance ou l'envoi des copies est subordonné à l'autorisation du ministère public.
 
 
 ### Article R50-15
 
-Lorsque le demandeur sollicite l'attribution d'une provision, le président de la commission communique sans délai la requête au procureur de la République et à l'agent judiciaire du Trésor et recueille leurs observations. Dans le délai d'un mois ou de deux mois selon que la requête est faite dès le dépot de la demande en indemnisation ou ultérieurement, il statue par une ordonnance portée à la connaissance du procureur de la République. Il est procédé comme il est dit à l'article R. 50-22.
+Lorsque le demandeur sollicite l'attribution d'une provision, le président de la commission communique sans délai la requête au procureur de la République et au fonds de garantie et recueille leurs observations. Le président statue dans le délai d'un mois à compter de la demande par une ordonnance portée à la connaissance du procureur de la République. Il est procédé comme il est dit à l'article R. 50-22.
 
 
 ### Article R50-16
@@ -8587,7 +8659,9 @@ Lorsque l'affaire est instruite, le président de la commission fixe la date de 
 
 ### Article R50-17
 
-Le secrétaire de la commission convoque au moins deux mois à l'avance le demandeur et l'agent judiciaire du Trésor à l'audience qui a été fixée. Cette convocation est faite par lettre recommandée avec demande d'avis de réception.
+Le secrétaire de la commission convoque au moins deux mois à l'avance le demandeur et le fonds de garantie à l'audience qui a été fixée. Cette convocation est faite par lettre recommandée avec demande d'avis de réception.
+
+
 
 Les parties sont informées dans la convocation que leurs observations doivent être adressées à la commission au plus tard quinze jours avant la date de l'audience mais qu'elles peuvent consulter le dossier au secrétariat jusqu'au jour de celle-ci.
 
@@ -8599,7 +8673,7 @@ Le procureur de la République est informé de la date de l'audience et dépose 
 
 ### Article R50-19
 
-A l'audience, le magistrat qui a procédé à l'instruction de l'affaire fait son rapport ; le demandeur et l'agent judiciaire du Trésor, s'ils sont présents ou représentés, sont ensuite entendus.
+A l'audience, le magistrat qui a procédé à l'instruction de l'affaire fait son rapport ; le demandeur et le fonds de garantie, s'ils sont présents ou représentés, sont ensuite entendus.
 
 Le procureur de la République développe ses conclusions.
 
@@ -8616,9 +8690,7 @@ Si la requête est rejetée, le demandeur est condamné aux dépens, à moins qu
 
 ### Article R50-22
 
-La décision de la commission est notifiée sans délai, par lettre recommandée avec demande d'avis de réception, au demandeur et à l'agent judiciaire du Trésor.
-
-Si une indemnité est accordée, la décision accompagnée de l'exécutoire établi par le président de la commission est notifiée au comptable direct du Trésor du siège du tribunal de grande instance chargé du paiement des frais de justice ou, en ce qui concerne les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, au comptable des impôts.
+La décision de la commission est notifiée sans délai, par lettre recommandée avec demande d'avis de réception, au demandeur et au fonds de garantie.
 
 
 ### Article R50-23
@@ -8628,27 +8700,27 @@ Les décisions de la commission et du président de la commission ne peuvent êt
 
 ### Article R50-24
 
-Le paiement de la provision ou de l'indemnité est fait par le comptable mentionné à l'article R. 50-22 ; avis du paiement est donné sans délai au président de la commission.
+Les sommes allouées à la victime en application des articles 706-3 à 706-14 sont versées par le fonds de garantie dans le délai d'un mois à compter de la notification de la décision de la commission ; avis du paiement est donné sans délai au président de la commission.
 
 
 ### Article R50-25
 
-Lorsque l'agent judiciaire du Trésor demande, en application de l'article 706-10, le remboursement total ou partiel de l'indemnité qui a été versée par l'Etat, il saisit par simple requête la commission qui se prononce, les parties entendues ou appelées dans les conditions prévues aux articles R. 50-17 et suivants.
+Lorsque le fonds de garantie demande, en application de l'article 706-10, le remboursement total ou partiel de l'indemnité qu'il a versée, il saisit par simple requête la commission qui se prononce, les parties entendues ou appelées, dans les conditions prévues aux articles R. 50-17 et suivants.
 
 
 ### Article R50-26
 
-Lorsque, postérieurement à l'attribution d'une provision ou d'une indemnité par une commission, des poursuites pénales sont engagées contre l'auteur présumé de l'infraction, le ministère public de la juridiction répressive saisie en informe l'agent judiciaire du Trésor.
+Lorsque, postérieurement à l'attribution d'une provision ou d'une indemnité par une commission, des poursuites pénales sont engagées contre l'auteur présumé de l'infraction, le ministère public de la juridiction répressive saisie en informe le fonds de garantie.
 
 
 ### Article R50-27
 
-La déclaration de la victime ou de ses ayants droit faite par application des dispositions de l'article 706-12 est communiquée par le greffier en chef ou le secrétaire-greffier de la juridiction saisie dans le délai de quinze jours, par lettre recommandée avec demande d'avis de réception, à l'agent judiciaire du Trésor. Cette communication est accompagnée des renseignements nécessaires à l'exercice de l'action prévue à l'article 706-11. La date de l'audience au cours de laquelle il sera statué sur les intérêts civils est notifiée au moins un mois à l'avance par le greffier en chef ou le secrétaire-greffier à l'agent judiciaire du Trésor par lettre recommandée avec demande d'avis de réception. En cas de déclaration tardive, l'affaire doit être renvoyée à une audience ultérieure dont l'agent judiciaire du Trésor est informé dans le délai ci-dessus indiqué.
+La déclaration de la victime ou de ses ayants droit faite par application des dispositions de l'article 706-12 est communiquée par le greffier en chef ou le secrétaire-greffier de la juridiction saisie dans le délai de quinze jours, par lettre recommandée avec demande d'avis de réception, au fonds de garantie. Cette communication est accompagnée des renseignements nécessaires à l'exercice de l'action prévue à l'article 706-11. La date de l'audience au cours de laquelle il sera statué sur les intérêts civils est notifiée au moins un mois à l'avance par le greffier en chef ou le secrétaire-greffier au fonds de garantie par lettre recommandée avec demande d'avis de réception. En cas de déclaration tardive, l'affaire doit être renvoyée à une audience ultérieure dont le fonds de garantie est informé dans le délai ci-dessus indiqué.
 
 
 ### Article R50-28
 
-Les dispositions des articles 643 à 647 du nouveau code de procédure civile s'appliquent aux délais de deux mois aux articles R. 50-15 et R. 50-17.
+Les dispositions des articles 643 à 647 du nouveau code de procédure civile s'appliquent aux délais d'un mois et de deux mois prévus aux articles R. 50-15 et R. 50-17.
 
 
 ## Livre V : Des procédures d'exécution.
@@ -9309,7 +9381,7 @@ Les frais de justice criminelle, correctionnelle et de police sont :
 12. Les frais d'impression, d'insertion et de publication des arrêts, jugements et ordonnances de justice selon les dispositions des articles R. 210 et suivants.
 13. Les indemnités accordées aux victimes d'erreurs judiciaires ainsi que les frais de révision et les secours aux individus relaxés ou acquittés.
 14. Les indemnités accordées en application des articles 149 et 150.
-15. Les indemnités accordées en application de l'article 706-9 ainsi que les frais exposés devant les commissions prévues par l'article 706-4.
+15. Les frais exposés devant les commissions prévues par l'article 706-4.
 16. Les frais de copie, droits, redevances et émoluments, dus aux greffiers des tribunaux de commerce pour la délivrance des pièces à l'autorité judiciaire dans le cadre d'une procédure pénale.
 17. Les frais et dépens mis à la charge du Trésor public en cas de décision juridictionnelle rectifiant ou interprétant une précédente décision en matière pénale.
 
