@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 23 septembre 2003
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20030923)
+- Date de consolidation : 2 octobre 2003
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20031002)
 
 
 # Partie législative
@@ -11968,7 +11968,7 @@ Par dérogation aux dispositions du 2° de l'article R. 15-19 et du 3° de l'art
 
 Les officiers et agents de police judiciaire appartenant aux sûretés départementales de sécurité publique ou aux services de police urbaine des circonscriptions de sécurité publique sont compétents pour opérer sur l'ensemble des lignes, stations, gares, arrêts et couloirs affectés aux transports collectifs de voyageurs dans leur département d'affectation et dans les départements limitrophes.
 
-Toutefois, les officiers et agents de police judiciaire appartenant au service de la préfecture de police chargé de la surveillance du métropolitain et du réseau express régional sont compétents pour opérer sur l'ensemble des lignes, stations, gares, arrêts et couloirs de ceux-ci.
+Toutefois, les officiers et agents de police judiciaire affectés au service de police déconcentré chargé, en coordination avec les exploitants, de la sécurité des personnes et des biens sur les réseaux de transport en commun de voyageurs par voie ferrée sont compétents pour opérer sur toute l'étendue de la région d'Ile-de-France.
 
 
 ###### Article R15-31
