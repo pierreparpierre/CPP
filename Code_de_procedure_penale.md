@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 28 juillet 2001
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20010728)
+- Date de consolidation : 1er août 2001
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20010801)
 
 
 # Partie législative
@@ -14290,9 +14290,9 @@ Dans le cas de renvoi des accusés, soit devant une autre juridiction d'instruct
 
 ####### Article R155
 
-En matière criminelle, correctionnelle ou de police, et sans préjudice, le cas échéant, de l'application des dispositions des articles 91 et D. 32, il peut être délivré aux parties et à leurs frais :
+En matière criminelle, correctionnelle et de police, hors les cas prévus par l'article 114, il peut être délivré aux parties :
 1. Sur leur demande, expédition de la plainte ou de la dénonciation des ordonnances définitives, des arrêts, des jugements, des ordonnances pénales et des titres exécutoires prévus à l'article L. 27-I, alinéa 2, du Code de la route ;
-2. Avec l'autorisation du procureur de la République ou du procureur général selon le cas, expédition de toutes les autres pièces de la procédure, notamment, en ce qui concerne les pièces d'une enquête terminée par une décision de classement sans suite.
+2. Avec l'autorisation du procureur de la République ou du procureur général selon le cas, expédition de toutes les autres pièces de la procédure, notamment, en ce qui concerne les pièces d'une enquête terminée par une décision de classement sans suite. Toutefois, cette autorisation n'est pas requise lorsque des poursuites ont été engagées ou qu'il est fait application des articles 41-1 à 41-3 et que la copie est demandée pour l'exercice des droits de la défense ou des droits de la partie civile.
 
 
 ####### Article R156
@@ -14332,7 +14332,7 @@ En matière pénale, la délivrance, lorsqu'elle est autorisée, de reproduction
 
 
 
-Cette délivrance est gratuite pour la première reproduction de chaque acte lorsqu'elle est demandée par un avocat commis d'office ou désigné au titre de l'aide judiciaire ou lorsque la gratuité est prévue par une disposition particulière.
+Toutefois, la délivrance de la première reproduction de chaque acte est gratuite lorsqu'elle est demandée soit par l'avocat de la partie, soit par la partie elle-même si celle-ci n'est pas représentée par un avocat.
 
 
 ##### Section 6 : Des émoluments et indemnités alloués aux huissiers de justice et aux agents de la force publique
