@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 21 janvier 1990
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19900121)
+- Date de consolidation : 22 février 1990
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19900222)
 
 
 # Partie législative
@@ -13056,6 +13056,15 @@ A ce titre, il est disciplinairement responsable des incidents ou des évasions 
 
 ##### Section 1 : Des entrées et sorties des détenus
 
+##### Article D284
+
+A leur arrivée dans un établissement et jusqu'au moment où ils peuvent être conduits soit dans les cellules, soit dans les quartiers où ils sont affectés, les détenus sont placés isolément dans des cellules d'attente ou dans des locaux en tenant lieu.
+
+Ils sont fouillés, soumis aux formalités de l'écrou et aux mensurations anthropométriques, ainsi qu'aux soins de propreté nécessaires. Des vêtements leur sont fournis par l'administration s'ils en expriment le désir.
+
+Chaque détenu doit être immédiatement mis en mesure d'informer sa famille de son incarcération. S'il s'agit d'un détenu âgé de moins de dix-huit ans, le chef de l'établissement procède à cette diligence en l'absence d'initiative de l'intéressé. Il informe également les services de la protection judiciaire de la jeunesse.
+
+
 ##### Article D285
 
 Le jour de son arrivée à la prison ou, au plus tard, le lendemain, chaque détenu doit être visité par le chef de l'établissement ou par un de ses subordonnés immédiats.
@@ -13296,6 +13305,15 @@ Il lui appartient de même de faire conduire, soit à l'aller d'un établissemen
 ####### Article D312
 
 Les mesures qui ont pour objet de refouler à la frontière certains étrangers condamnés par décision de justice ou d'assurer l'exécution des arrêtés d'expulsion n'incombent pas à l'administration pénitentiaire, même lorsque les intéressés y sont soumis à leur sortie de prison.
+
+
+####### Article D313
+
+Les mineurs qui ont été placés provisoirement dans une maison d'arrêt, et qui doivent faire l'objet d'une des mesures prévues par les articles 15, 16 et 28 de l'ordonnance n° 45-174 du 2 février 1945 relatives à l'enfance délinquante sont dirigés sans retard sur l'institution ou auprès de la personne chargée de les recevoir.
+
+A cette fin, le chef de l'établissement pénitentiaire qui en a la garde les signale au procureur de la République du siège du tribunal pour enfants, et à la direction de la protection judiciaire de la jeunesse au ministère de la justice.
+
+Leur prise en charge et leur conduite à destination incombent aux services de la protection judiciaire de la jeunesse et ne comportent aucune intervention de l'administration pénitentiaire.
 
 
 ###### Paragraphe 3 : Extractions
