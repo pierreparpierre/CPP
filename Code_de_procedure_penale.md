@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 8 août 1980
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19800808)
+- Date de consolidation : 20 décembre 1980
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19801220)
 
 
 # Partie législative
@@ -10609,6 +10609,11 @@ Le pourcentage du nombre de condamnés qui peuvent bénéficier des dixièmes su
 ##### Section 1 : De la gestion des biens des détenus
 
 ###### Paragraphe 1er : Pécule.
+
+###### Article A41
+
+Le montant de la participation des détenus aux frais de leur entretien sur le produit de leur travail, prévu à l'article D. 112 du code de procédure pénale est porté à 300 F par mois, soit 10 F par jour.
+
 
 ###### Article A41-1
 
