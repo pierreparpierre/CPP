@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 23 juillet 1996
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19960723)
+- Date de consolidation : 9 août 1996
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19960809)
 
 
 # Partie législative
@@ -12245,15 +12245,15 @@ Le magistrat compétent apprécie souverainement, dans chaque cas d'espèce, en 
 
 Qu'ils appartiennent à la police nationale ou à la gendarmerie nationale, les officiers de police judiciaire s'avisent réciproquement dans les meilleurs délais de tout fait paraissant constituer un crime ou délit d'un caractère particulier en raison de son objet, des circonstances de sa commission ou de son auteur présumé, dès lors qu'il est susceptible d'être mis en rapprochement avec des faits de même nature qui auraient déjà été constatés ou qui pourraient être imputés aux personnes mises en cause dans des affaires similaires.
 
-Lorsqu'un tel fait est de nature à susciter des investigations entrant dans le champ d'application de l'article D. 4, ces officiers de police judiciaire le portent sans délai à la connaissance des services relevant de la direction centrale de la police judiciaire.
+Lorsqu'un tel fait est de nature à susciter des investigations entrant dans le champ d'application de l'article D. 4, ces officiers de police judiciaire le portent sans délai à la connaissance des services relevant de la direction centrale de la police judiciaire ou, lorsqu'il relève du domaine de compétence de l'office central mentionné au 8° de l'article D. 8-1, de la direction centrale du contrôle de l'immigration et de la lutte contre l'emploi des clandestins.
 
 
 ##### Article D4
 
-Le magistrat fait appel aux officiers de police judiciaire relevant de la direction centrale de la police judiciaire, dans les cas de nécessité, en tenant compte des possibilités que procurent à l'officier de police judiciaire premier saisi sa rapidité d'intervention, ses sources d'information, sa connaissance de l'affaire et du milieu humain.
+Le magistrat fait appel aux officiers de police judiciaire relevant de la direction centrale de la police judiciaire ou de la direction centrale du contrôle de l'immigration et de la lutte contre l'emploi des clandestins dans les cas de nécessité, en tenant compte des possibilités que procurent à l'officier de police judiciaire premier saisi sa rapidité d'intervention, ses sources d'information, sa connaissance de l'affaire et du milieu humain.
 
 Le concours de ces officiers de police judiciaire peut se révéler indispensable lorsque la poursuite de l'enquête exige :
-- soit une compétence technique particulière notamment dans les domaines relevant des offices centraux de la police judiciaire énumérés à l'article D. 8-1 ; ces derniers assurent en outre, chaque fois que nécessaire, la coordination entre les services de police et les unités de gendarmerie ;
+- soit une compétence technique particulière notamment dans les domaines relevant des offices centraux de police judiciaire énumérés à l'article D. 8-1 ; ces derniers assurent en outre, chaque fois que nécessaire, la coordination entre les services de police et les unités de gendarmerie ;
 - soit des investigations internationales auprès d'offices ou d'organismes étrangers.
 
 
@@ -12291,24 +12291,25 @@ L'interprétation des résultats des opérations de police technique et scientif
 Dans le cadre des textes législatifs et réglementaires ou des accords interministériels en vigueur :
 1. La police nationale et la gendarmerie nationale s'attachent à organiser et à mettre en oeuvre la convergence de leurs systèmes centraux de documentation criminelle.
 
-Les services de police et les unités de gendarmerie adressent aux services relevant de la direction centrale de la police judiciaire les renseignements relatifs à la délinquance et à la criminalité susceptibles d'être exploités dans un but de centralisation, de classification ou de diffusion (avis, fiches, statistiques).
+Les services de police et les unités de gendarmerie adressent aux services relevant de la direction centrale de la police judiciaire ou, lorsqu'ils entrent dans le domaine de compétence de l'office central mentionné au 8° de l'article D. 8-1, de la direction centrale du contrôle de l'immigration et de la lutte contre l'emploi des clandestins les renseignements relatifs à la délinquance et à la criminalité susceptibles d'être exploités dans un but de centralisation, de classification ou de diffusion (avis, fiches, statistiques).
 
-La direction centrale de la police judiciaire transmet aux autres services de la police nationale ainsi qu'à la gendarmerie, par tout moyen, toutes indications utiles à l'identification ou à la recherche de malfaiteurs. Le service de police ou l'unité de gendarmerie qui est à l'origine d'une demande de diffusion doit figurer parmi les autorités à prévenir dès la découverte des individus recherchés.
-2. Les services de la police nationale et les unités de gendarmerie informent les offices centraux de la police judiciaire et les organes de coopération internationale policière placés au sein de la direction centrale de la police judiciaire, énumérés aux articles D. 8-1 et D. 8-2.
+La direction centrale de la police judiciaire et la direction centrale du contrôle de l'immigration et de la lutte contre l'emploi des clandestins transmettent aux autres services de la police nationale ainsi qu'à la gendarmerie nationale par tout moyen, toutes indications utiles à l'identification ou à la recherche de malfaiteurs. Le service de police ou l'unité de gendarmerie qui est à l'origine d'une demande de diffusion doit figurer parmi les autorités à prévenir dès la découverte des individus recherchés.
+2. Les services de la police nationale et les unités de la gendarmerie nationale informent les offices centraux de police judiciaire et les organes de coopération internationale policière énumérés aux articles D. 8-1 et D. 8-2.
 
 Ces services ont la charge d'assurer, dans les matières relevant de leurs compétences respectives, la centralisation, la coordination et la diffusion nationales de l'information auprès des services de police et des unités de gendarmerie.
 
 
 ##### Article D8-1
 
-Les offices centraux de police judiciaire relevant du 1° de l'article R. 15-18 sont les suivants :
+Les offices centraux de police judiciaire relevant de l'article R. 15-18 sont les suivants :
 1. Office central pour la répression du faux-monnayage ;
 2. Office central pour la répression du trafic illicite des stupéfiants ;
 3. Office central pour la répression de la traite des êtres humains ;
 4. Office central pour la répression du banditisme ;
 5. Office central pour la répression du vol d'oeuvres et objets d'art ;
 6. Office central pour la répression du trafic des armes, des munitions, des produits explosifs et des matières nucléaires, biologiques et chimiques ;
-7. Office central pour la répression de la grande délinquance financière.
+7. Office central pour la répression de la grande délinquance financière ;
+8. Office central pour la répression de l'immigration irrégulière et de l'emploi d'étrangers sans titre.
 
 
 ##### Article D8-2
@@ -12361,7 +12362,7 @@ Lorsque le magistrat a décidé qu'une assistance territoriale est nécessaire, 
 Lorsque le magistrat n'a pas décidé qu'une assistance territoriale était nécessaire, l'officier de police judiciaire bénéficiant de l'extension de compétence doit, dans le plus bref délai et, autant que possible, avant son transport, aviser l'officier de police judiciaire en charge de la sécurité publique dans la circonscription où il doit opérer. Il mentionne cet avis dans sa procédure. Si les circonstances l'exigent, il peut être assisté par des agents de police judiciaire territorialement compétents.
 
 Dans tous les cas, l'officier de police judiciaire ayant bénéficié de l'extension de compétence informe le procureur de la République territorialement compétent du résultat de ses opérations.
-4. Lorsque les investigations portent sur un fait ayant donné lieu à l'information prévue au dernier alinéa de l'article D. 3, l'officier de police judiciaire bénéficiant de l'extension de compétence avise les services relevant de la direction centrale de la police judiciaire.
+4. Lorsque les investigations portent sur un fait ayant donné lieu à l'information prévue au dernier alinéa de l'article D. 3, l'officier de police judiciaire bénéficiant de l'extension de compétence avise, selon les cas, les services relevant de la direction centrale de la police judiciaire ou de la direction centrale du contrôle de l'immigration et de la lutte contre l'emploi des clandestins.
 
 
 ##### Section 3 : Des agents de police judiciaire
