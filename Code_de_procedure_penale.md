@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 7 août 1975
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19750807)
+- Date de consolidation : 9 août 1975
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19750809)
 
 
 # Partie législative
@@ -4602,6 +4602,18 @@ Les officiers de police judiciaire, à l'occasion d'une enquête ou de l'exécut
 ###### Paragraphe 1er : Désignation des officiers de police judiciaire
 
 ####### A - Désignation des gendarmes officiers de police judiciaire
+
+####### Article R3
+
+La commission prévue à l'article 16 (2°) du code de procédure pénale et dont l'avis conforme est requis pour la désignation des gendarmes ayant la qualité d'officier de police judiciaire est composée comme suit :
+1. Le procureur général près la Cour de cassation ou son délégué choisi par lui parmi le premier avocat général et les avocats généraux près la Cour de cassation, président ;
+2. Neuf magistrats du ministère public, dont deux au plus peuvent être des magistrats honoraires ou en retraite ;
+3. Le général inspecteur général de la gendarmerie ou son représentant ;
+
+Huit officiers supérieurs de gendarmerie.
+
+Le secrétariat de la commission est assuré par la direction de la gendarmerie et de la justice militaire.
+
 
 ####### Article R4
 
