@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 16 mai 2001
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20010516)
+- Date de consolidation : 3 juin 2001
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20010603)
 
 
 # Partie législative
@@ -14498,9 +14498,9 @@ III. - Au moment de sa constitution de partie civile, le président de l'associa
 
 ##### Article D2
 
-Dans le ressort de chaque cour d'appel, les officiers de police judiciaire sont égaux devant la loi en prérogative et en responsabilité ; ils sont placés sous la surveillance du procureur général et sous le contrôle de la chambre d'accusation.
+Dans le ressort de chaque cour d'appel, les officiers de police judiciaire sont égaux devant la loi en prérogative et en responsabilité ; ils sont placés sous la surveillance du procureur général et sous le contrôle de la chambre d'instruction.
 
-Dans le ressort de chaque tribunal, le tribunal, le procureur de la République et ses substituts ont seuls qualité pour diriger l'activité des officiers et agents de police judiciaire, par la voie, s'il y a lieu, de leurs supérieurs hiérarchiques.
+Dans le ressort de chaque tribunal, le tribunal, le procureur de la République et ses substituts ont seuls qualité [*compétence*] pour diriger l'activité des officiers et agents de police judiciaire, par la voie, s'il y a lieu, de leurs supérieurs hiérarchiques.
 
 Le procureur de la République et le juge d'instruction ont le libre choix des formations auxquelles appartiennent les officiers de police judiciaire territorialement compétents qui seront chargés de l'exécution de leurs réquisitions ou commissions rogatoires.
 
@@ -14584,7 +14584,8 @@ Les offices centraux de police judiciaire relevant de l'article R. 15-18 sont le
 5. Office central de lutte contre le trafic des biens culturels ;
 6. Office central pour la répression du trafic des armes, des munitions, des produits explosifs et des matières nucléaires, biologiques et chimiques ;
 7. Office central pour la répression de la grande délinquance financière ;
-8. Office central pour la répression de l'immigration irrégulière et de l'emploi d'étrangers sans titre.
+8. Office central pour la répression de l'immigration irrégulière et de l'emploi d'étrangers sans titre ;
+9. Office central de lutte contre la criminalité liée aux technologies de l'information et de la communication.
 
 
 ##### Article D8-2
@@ -14667,65 +14668,6 @@ Les agents de police judiciaire énumérés à l'article 21 rendent compte de to
 
 ##### Section 5
 
-#### Chapitre II : De la médiation pénale
-
-#### Article D15-1
-
-Lorsque le procureur de la République décide de recourir à une médiation dans les conditions de l'article 41, il peut désigner à cette fin toute personne physique ou morale habilitée ainsi qu'il est dit ci-après.
-
-
-#### Article D15-2
-
-La personne physique ou morale selon qu'elle désire être habilitée comme médiateur dans le ressort du tribunal de grande instance ou dans celui de la cour d'appel en fait la demande au procureur de la République ou au procureur général.
-
-
-#### Article D15-3
-
-La demande présentée par une association comporte notamment :
-1. La copie du Journal officiel portant publication de la déclaration de l'association ou, en ce qui concerne les départements du Bas-Rhin, du Haut-Rhin ou de la Moselle, une copie de l'extrait du registre des associations du tribunal d'instance ;
-2. Un exemplaire des statuts et, s'il y a lieu, du règlement intérieur ;
-3. La liste des établissements de l'association avec indication de leur siège ;
-4. Un exposé indiquant les conditions de fonctionnement de l'association et, le cas échéant, l'organisation et les conditions de fonctionnement des comités locaux ainsi que leurs rapports avec l'association ;
-5. La mention des nom, prénoms, date et lieu de naissance, nationalité, profession et domicile des membres du conseil d'administration et du bureau de l'association ainsi que, le cas échéant, ceux de ses représentants locaux ;
-6. Les pièces financières qui doivent comprendre les comptes du dernier exercice, le budget de l'exercice courant et un bilan ou état de l'actif mobilier et immobilier et du passif.
-
-
-#### Article D15-4
-
-Le médiateur doit satisfaire aux conditions suivantes :
-1. Ne pas exercer d'activités judiciaires à titre professionnel ;
-2. Ne pas avoir fait l'objet d'une condamnation, incapacité ou déchéance mentionnée sur le bulletin n° 2 du casier judiciaire ;
-3. Présenter des garanties de compétence, d'indépendance et d'impartialité.
-
-
-#### Article D15-5
-
-Le médiateur est tenu à l'obligation du secret.
-
-Les informations qu'il recueille dans l'exercice de sa mission ne peuvent être divulguées.
-
-
-#### Article D15-6
-
-Après avoir procédé à toutes les diligences qu'il juge utiles, le procureur de la République ou le procureur général soumet la demande d'habilitation à l'assemblée générale des magistrats du siège et du parquet du tribunal ou de la cour d'appel, qui statue à la majorité de ses membres présents.
-
-La commission restreinte de l'assemblée générale des magistrats du siège et du parquet, dans les juridictions où sa constitution est obligatoire, exerce les attributions mentionnées à l'alinéa précédent.
-
-
-#### Article D15-7
-
-En cas d'urgence, une habilitation provisoire, valable jusqu'à la décision de la prochaine assemblée générale, peut être prise par le procureur de la République ou le procureur général.
-
-
-#### Article D15-8
-
-Une habilitation peut être retirée selon la procédure prévue par l'article D. 15-6.
-
-Le procureur de la République ou le procureur général peut, aux fins de retrait de l'habilitation, saisir, selon le cas, l'assemblée générale des magistrats du siège et du parquet du tribunal, celle de la cour d'appel ou la commission restreinte compétente.
-
-En cas d'urgence, le procureur de la République ou le procureur général peut retirer provisoirement l'habilitation jusqu'à la décision de la prochaine assemblée générale ou commission.
-
-
 ### Titre III : Des juridictions d'instruction
 
 #### Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré
@@ -14763,7 +14705,7 @@ Lorsqu'elles ont à apprécier l'opportunité de requérir ou d'ordonner les enq
 
 Le juge d'instruction qui ordonne les enquêtes et examens visés à l'article D. 16, fixe le délai dans lequel les rapports doivent lui être adressés.
 
-En cas de retards injustifiés, la personne désignée peut être remplacée et il en est donné avis aux fins de droit au procureur général et au président de la chambre d'accusation.
+En cas de retards injustifiés, la personne désignée peut être remplacée et il en est donné avis aux fins de droit au procureur général et au président de la chambre d'instruction.
 
 
 ###### Article D19
@@ -14889,16 +14831,16 @@ Il porte également, le cas échéant, l'indication des autorités qui en ont as
 
 ##### Section 9 : De l'expertise
 
-#### Chapitre II : De la chambre d'accusation : juridiction d'instruction du second degré
+#### Chapitre II : De la chambre d'instruction : juridiction d'instruction du second degré
 
 ##### Section 1 : Dispositions générales
 
 ##### Article D43
 
-Dans les cours d'appel comportant quatre chambres au plus, non compris les chambres détachées, et jusqu'à ce qu'il puisse en être autrement disposé, le président de la chambre d'accusation peut, en cas de nécessité, assurer à titre exceptionnel le service d'une autre chambre de la même cour, conformément aux dispositions de l'article 191, alinéa 4.
+Dans les cours d'appel comportant quatre chambres au plus, non compris les chambres détachées, et jusqu'à ce qu'il puisse en être autrement disposé, le président de la chambre d'instruction peut, en cas de nécessité, assurer à titre exceptionnel le service d'une autre chambre de la même cour, conformément aux dispositions de l'article 191, alinéa 4.
 
 
-##### Section 3 : De la notation et du contrôle de l'activité judiciaire des officiers de police judiciaire [ Dispositions prises pour l'application des articles 13, 16, 19-1, 224 à 230 et R. 14 à R. 15-6 du code de procédure pénale ]
+##### Section 3 : De la notation et du contrôle de l'activité judiciaire des officiers de police judiciaire (Dispositions prises pour l'application des articles 13, 16, 19-1, 224 à 230 et R. 14 à R. 15-6 du code de procédure pénale)
 
 ##### Article D44
 
@@ -14911,26 +14853,22 @@ Ce dossier comprend notamment :
 4. La copie de tout document émanant d'un magistrat ou d'un service exerçant des attributions d'inspection et relatif à l'exercice des activités judiciaires de l'intéressé ;
 5. Les notations annuelles établies en application des dispositions ci-après.
 
-Le dossier est communiqué à la chambre d'accusation lorsque celle-ci se trouve saisie dans les conditions fixées à l'article 225.
+Le dossier est communiqué à la chambre d'instruction lorsque celle-ci se trouve saisie dans les conditions fixées à l'article 225.
 
 
 ##### Article D45
 
 Pour les officiers de police judiciaire appartenant à un service ou à une unité dont le ressort n'excède pas celui d'un tribunal de grande instance, le procureur de la République, après avoir recueilli les observations du ou des juges d'instruction et, le cas échéant, des juges des enfants et de l'application des peines et celles du ou des présidents des chambres correctionnelles, établit une proposition de notation qu'il transmet chaque année au procureur général près la cour d'appel.
 
-La notation est établie par le procureur général, après consultation, le cas échéant, des présidents de la chambre d'accusation et des cours d'assises du ressort.
+La notation est établie par le procureur général, après consultation, le cas échéant, des présidents de la chambre d'instruction et des cours d'assises du ressort.
 
 
 ##### Article D45-1
 
 A l'égard des officiers de police judiciaire qui sont affectés à un service ou à une unité dont le ressort excède celui d'un tribunal de grande instance, le procureur de la République du tribunal dans le ressort duquel le service ou l'unité a son siège, après avoir recueilli les observations du ou des juges d'instruction et, le cas échéant, des juges des enfants et de l'application des peines et celles du ou des présidents des chambres correctionnelles, établit une proposition de notation qu'il transmet chaque année au procureur général près la cour d'appel.
 
-Celui-ci établit la notation après avoir, le cas échéant, recueilli les observations des autres procureurs de la République concernés de son ressort, des présidents de la chambre d'accusation et des cours d'assises. Lorsque le service ou l'unité dans lequel l'officier de police judiciaire est affecté excède le ressort de la cour d'appel, le procureur général peut également recueillir l'avis des autres procureurs généraux concernés.
+Celui-ci établit la notation après avoir, le cas échéant, recueilli les observations des autres procureurs de la République concernés de son ressort, des présidents de la chambre d'instruction et des cours d'assises. Lorsque le service ou l'unité dans lequel l'officier de police judiciaire est affecté excède le ressort de la cour d'appel, le procureur général peut également recueillir l'avis des autres procureurs généraux concernés.
 
-
-#### Chapitre II : De la chambre de l'instruction : juridiction d'instruction du second degré
-
-##### Section 3 : De la notation et du contrôle de l'activité judiciaire des officiers de police judiciaire [ Dispositions prises pour l'application des articles 13, 16, 19-1, 224 à 230 et R. 14 à R. 15-6 du code de procédure pénale ]
 
 ##### Article D46
 
@@ -15547,7 +15485,7 @@ PRISON DE RATTACHEMENT : M.A. des Yvelines.
 
 ##### Article D55
 
-Conformément aux dispositions de l'article 715, le juge d'instruction, le président de la chambre d'accusation et le président de la cour d'assises, ainsi que le procureur de la République et le procureur général, peuvent donner tous les ordres nécessaires [*compétence*] soit pour l'instruction, soit pour le jugement, qui devront être exécutés dans les maisons d'arrêt.
+Conformément aux dispositions de l'article 715, le juge d'instruction, le président de la chambre d'instruction et le président de la cour d'assises, ainsi que le procureur de la République et le procureur général, peuvent donner tous les ordres nécessaires [*compétence*] soit pour l'instruction, soit pour le jugement, qui devront être exécutés dans les maisons d'arrêt.
 
 Compte rendu doit leur être adressé d'urgence des difficultés auxquelles pourrait donner lieu l'exécution desdits ordres.
 
@@ -16642,7 +16580,7 @@ Toutefois, à titre exceptionnel, la fiche d'écrou d'un détenu peut être dép
 
 Indépendamment du registre d'écrou, des registres ou livres prévus par la réglementation comptable, le chef de l'établissement doit tenir ou faire tenir les registres et les fichiers suivants :
 1. Répertoire alphabétique des détenus écroués ;
-2. Registre des demandes de mise en liberté, de saisine de la chambre d'accusation, de demandes d'actes ou de mesures utiles à l'instruction et de requêtes en annulation ;
+2. Registre des demandes de mise en liberté, de saisine de la chambre d'instruction, de demandes d'actes ou de mesures utiles à l'instruction et de requêtes en annulation ;
 3. Registre des déclarations d'opposition ;
 4. Registre des déclarations d'appel et de pourvoi ;
 5. Registre des libérations par mois ;
@@ -16658,7 +16596,9 @@ Indépendamment du registre d'écrou, des registres ou livres prévus par la ré
 
 ###### Article D153
 
-Pour l'application des articles 81, 82-1, 148-7, 148-8, 156, 167, 173, 221-2, 490-1, 503, 547 et 577, le chef de l'établissement, ou, sous son autorité, le fonctionnaire chargé du greffe, tient dans chaque établissement un registre des déclarations d'appel ou de pourvoi, un registre des déclarations d'opposition et un registre des demandes de mise en liberté, de saisine de la chambre d'accusation, de demandes d'actes ou de mesures utiles à l'instruction et de requêtes en annulation, dans lesquels sont conservées les déclarations, demandes et requêtes qu'il est appelé à recevoir et à transmettre.
+Pour l'application des articles 81,82-1,148-7,148-8,
+
+156,167,173,221-2,490-1,503,547 et 577, le chef de l'établissement, ou, sous son autorité, le fonctionnaire chargé du greffe, tient dans chaque établissement un registre des déclarations d'appel ou de pourvoi, un registre des déclarations d'opposition et un registre des demandes de mise en liberté, de saisine de la chambre d'instruction, de demandes d'actes ou de mesures utiles à l'instruction et de requêtes en annulation, dans lesquels sont conservées les déclarations, demandes et requêtes qu'il est appelé à recevoir et à transmettre.
 
 Ces registres sont composés de la copie des exemplaires numérotés desdites déclarations, demandes et requêtes.
 
@@ -16799,11 +16739,11 @@ Il adresse chaque année au ministre de la justice, sous le couvert des chefs de
 
 ##### Article D177
 
-Conformément aux dispositions de l'article 222, le président de la chambre d'accusation visite, chaque fois qu'il l'estime nécessaire et au moins une fois par trimestre, les maisons d'arrêt du ressort de la cour d'appel, et y vérifie la situation des personnes mises en examen en état de détention provisoire.
+Conformément aux dispositions de l'article 222, le président de la chambre d'instruction visite, chaque fois qu'il l'estime nécessaire et au moins une fois par trimestre, les maisons d'arrêt du ressort de la cour d'appel, et y vérifie la situation des personnes mises en examen en état de détention provisoire.
 
 
 
-Il transmet ses observations éventuelles au président de la chambre d'accusation compétent à l'égard des prévenus qui ne relèvent pas d'une juridiction du ressort de sa cour d'appel.
+Il transmet ses observations éventuelles au président de la chambre d'instruction compétent à l'égard des prévenus qui ne relèvent pas d'une juridiction du ressort de sa cour d'appel.
 
 
 
