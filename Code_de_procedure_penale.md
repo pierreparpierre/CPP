@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 6 août 1987
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19870806)
+- Date de consolidation : 25 août 1987
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19870825)
 
 
 # Partie législative
@@ -15834,12 +15834,12 @@ La somme prévue à l'article D. 324 du code de procédure pénale à partir de 
 
 ###### Article A41-2
 
-Le plafond des subsides pouvant être reçus chaque mois par les condamnés en application de l'article D. 422 est fixé à 900 F.
+Le plafond des subsides pouvant être reçus chaque mois par les condamnés en application de l'article D. 422 est fixé à 1000 F.
 
 
 ###### Article A42
 
-La somme prévue au premier alinéa de l'article D. 329 du Code de procédure pénale est fixée à 900 F par mois. Cette somme est doublée à l'occasion des fêtes de fin d'année.
+La somme prévue au premier alinéa de l'article D. 329 du Code de procédure pénale est fixée à 1000 F par mois. Cette somme es doublée à l'occasion des fêtes de fin d'année.
 
 
 ###### Article A42-1
