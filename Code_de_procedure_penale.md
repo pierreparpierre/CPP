@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 27 mai 1975
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19750527)
+- Date de consolidation : 13 juillet 1975
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19750713)
 
 
 # Partie législative
@@ -4086,6 +4086,15 @@ Les condamnés sont soumis dans les maisons de correction à l'emprisonnement in
 Il ne peut être dérogé à ce principe qu'en raison de la distribution intérieure des locaux de détention ou de leur encombrement temporaire ou des nécessités d'organisation du travail.
 
 
+#### Article 720
+
+Les condamnés à des peines privatives de liberté pour des faits qualifiés crimes ou délits de droit commun sont astreints au travail.
+
+
+
+Les règles relatives à la répartition des produits du travail des détenus sont fixées par décret.
+
+
 #### Article 723-2
 
 Lorsqu'il a été fait application des dispositions de l'article précédent, si les conditions qui ont permis au tribunal de décider que la peine serait subie sous le régime de la semi-liberté ne sont plus remplies, si le condamné ne satisfait pas aux obligations qui lui sont imposées ou s'il fait preuve de mauvaise conduite, le bénéfice de la semi-liberté peut être retiré, sur rapport du juge de l'application des peines, par le tribunal de grande instance. Ce tribunal est celui du lieu d'exécution de la décision, ou, si le condamné est écroué, du lieu de détention.
@@ -4431,6 +4440,13 @@ Dans le cas prévu à l'alinéa qui précède, la suppression du casier judiciai
 ### Article 772
 
 Il est donné connaissance aux autorités militaires, par l'envoi d'une copie de la fiche du casier judiciaire, des condamnations ou des décisions de nature à modifier les conditions d'incorporation des individus soumis à l'obligation du service militaire. Il est donné avis également aux mêmes autorités de toutes modifications apportées à la fiche ou au casier judiciaire en vertu des articles 769 et 770.
+
+
+### Article 775-1
+
+Le tribunal qui prononce une condamnation peut exclure expressément sa mention au bulletin n. 2 soit dans le jugement de condamnation, soit par jugement rendu postérieurement sur la requête du condamné instruite et jugée selon les règles de compétence et procédure fixées par les articles 55-1 (alinéa 2) du code pénal et 703 du présent code.
+
+L'exclusion de la mention d'une condamnation au bulletin n. 2 emporte relèvement de toutes les interdictions, déchéances ou incapacités de quelque nature qu'elles soient résultant de cette condamnation.
 
 
 ### Article 778
