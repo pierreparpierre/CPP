@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 28 mai 1974
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19740528)
+- Date de consolidation : 7 juillet 1974
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19740707)
 
 
 # Partie législative
@@ -4263,6 +4263,11 @@ Les décisions rendues en application des articles qui précèdent sont suscepti
 Toutefois, la décision prise par le tribunal en application de l'article 742-4 produit effet nonobstant opposition, appel ou pourvoi en cassation.
 
 En cas d'opposition, l'affaire doit venir devant le tribunal à la première audience ou, au plus tard, dans la huitaine du jour de l'opposition, faute de quoi le condamné doit être remis en liberté d'office. S'il y a lieu à remise, la juridiction doit statuer d'office par une décision motivée sur le maintien ou la levée de l'écrou.
+
+
+#### Article 744-2
+
+Lorsque le condamné est placé sous le régime de la mise à l'épreuve par une décision d'une juridiction spéciale aux mineurs, le juge des enfants et le tribunal pour enfants dans le ressort desquels le mineur a sa résidence habituelle exercent les attributions dévolues au juge de l'application des peines et au tribunal correctionnel par les articles 739 à 744-1, jusqu'à l'expiration du délai d'épreuve.
 
 
 #### Article 745-1
