@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 13 novembre 1982
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19821113)
+- Date de consolidation : 1er janvier 1983
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19830101)
 
 
 # Partie législative
@@ -4635,6 +4635,68 @@ Tout Français qui s'est rendu coupable de délits et contraventions en matière
 La réciprocité sera légalement constatée par des conventions internationales ou par décret.
 
 
+### Article 696
+
+Dans les cas prévus au présent titre et dans les cas de crime, délit ou contravention qui sont de la compétence des juridictions françaises en application d'une convention internationale, le tribunal compétent est celui du lieu où réside le prévenu ou celui de sa dernière résidence connue, celui du lieu où il est trouvé ou celui de la résidence de la victime de l'infraction. A défaut de tout autre tribunal, le tribunal compétent est celui de Paris.
+
+La Cour de cassation peut, sur la demande du ministère public ou des parties, renvoyer la connaissance de l'affaire devant une cour ou un tribunal plus voisin du lieu du crime ou du délit.
+
+Dans le cas de crimes ou de délits mentionnés aux articles 697-1 et 702 qui sont de la compétence des juridictions établies sur le territoire de la République, la juridiction territorialement compétente est celle prévue par l'article 697-3. A défaut de toute autre juridiction, la juridiction compétente est celle prévue par cet article siégeant dans le ressort de la cour d'appel de Paris.
+
+
+### Titre XI : Des crimes et délits en matière militaire et en matière de sûreté de l'Etat
+
+#### Chapitre Ier : De la poursuite, de l'instruction et du jugement des crimes et délits en matière militaire en temps de paix
+
+##### Section 1 : Compétence
+
+##### Article 697
+
+Dans le ressort de chaque cour d'appel, un tribunal de grande instance est compétent pour l'instruction et, s'il s'agit de délits, le jugement des infractions mentionnées à l'article 697-1.
+
+Des magistrats sont affectés, après avis de l'assemblée générale, aux formations de jugement, spécialisées en matière militaire, de ce tribunal.
+
+Dans le même ressort, une cour d'assises est compétente pour le jugement des crimes mentionnés à l'article 697-1.
+
+Un décret pris sur le rapport conjoint du garde des sceaux, ministre de la justice, et du ministre chargé de la défense fixe la liste de ces juridictions.
+
+
+##### Article 697-1
+
+Les juridictions mentionnées à l'article 697 connaissent des infractions militaires prévues par le livre III du Code de justice militaire ; elles connaissent également des crimes et délits de droit commun commis dans l'exécution du service par les militaires, tels que ceux-ci sont définis par les articles 61 à 63 du Code de justice militaire.
+
+Ces juridictions sont compétentes à l'égard de toutes personnes majeures, auteurs ou complices, ayant pris part à l'infraction.
+
+Par dérogation aux dispositions du premier alinéa ci-dessus, ces juridictions ne peuvent connaître des infractions de droit commun commises par les militaires de la gendarmerie dans l'exercice de leurs fonctions relatives à la police judiciaire ou à la police administrative ; elles restent néanmoins compétentes [*limites*] à leur égard pour les infractions commises dans le service du maintien de l'ordre.
+
+Si le tribunal correctionnel mentionné à l'article 697 se déclare incompétent pour connaître des faits dont il a été saisi, il renvoie le ministère public à se pourvoir ainsi qu'il avisera ; il peut, le ministère public entendu, décerner par la même décision mandat de dépôt ou d'arrêt contre le prévenu.
+
+
+##### Article 697-2
+
+Lorsqu'en temps de paix, un tribunal aux armées n'a pas été établi auprès d'une force [*militaire*] qui stationne ou opère hors du territoire de la République, les crimes et délits [*atteinte à la sûreté de l'Etat*] qui seraient de la compétence de ce tribunal sont, sous réserve des conventions internationales, portés devant une des juridictions [*tribunal de grande instance*] mentionnées à l'article 697.
+
+
+##### Article 697-3
+
+La compétence territoriale des juridictions mentionnées à l'article 697 est déterminée conformément aux articles 43, 52, 382 et 663. sont également compétentes les juridictions du lieu de l'affectation ou du débarquement. En outre, la juridiction territorialement compétente à l'égard des personnels des navires convoyés est celle à laquelle seraient déférés les personnels du navire convoyeur.
+
+
+##### Section 2 : Procédure
+
+#### Chapitre II : Des juridictions compétentes en cas de guerre, de mobilisation, d'état de siège ou d'état d'urgence
+
+#### Chapitre III : Des crimes et délits contre la sûreté de l'Etat
+
+#### Article 702
+
+En temps de paix, les crimes et délits contre la sûreté de l'Etat sont instruits et jugés par les juridictions de droit commun et selon les règles du présent code.
+
+Lorsque les faits poursuivis constituent un crime ou un délit prévu et réprimé par les articles 70 à 85 du Code pénal ou une infraction connexe, la compétence est dévolue aux juridictions prévues et organisées par les articles 697 et 698-6.
+
+Si le tribunal correctionnel mentionné à l'article 697 se déclare incompétent pour connaître des faits dont il a été saisi, il renvoie le ministère public à se pourvoir ainsi qu'il avisera ; il peut, le ministère public entendu, décerner par la même décision mandat de dépôt ou d'arrêt contre le prévenu.
+
+
 ### Titre XII : Des demandes présentées en vue d'être relevé des interdictions, déchéances, incapacités ou mesures de publication
 
 ### Article 703
@@ -4673,6 +4735,11 @@ Les tribunaux désignés ainsi qu'il est dit à l'article précédent sont comp�
 
 
 ### Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction
+
+### Article 706-5
+
+A peine de forclusion, la demande d'indemnité doit être présentée dans le délai d'un an à compter de la date de l'infraction. Lorsque des poursuites pénales sont exercées, ce délai est prorogé et n'expire qu'un an après la décision de la juridiction qui a statué définitivement sur l'action publique ou sur l'action civile engagée devant la juridiction répressive. Toutefois, la commission relève le requérant de la forclusion lorsqu'il n'a pas été en mesure de faire valoir ses droits dans les délais requis ou lorsqu'il a subi une aggravation de son préjudice ou pour tout autre motif légitime.
+
 
 ### Article 706-7
 
