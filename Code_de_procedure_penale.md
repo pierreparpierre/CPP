@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 13 juin 2004
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20040613)
+- Date de consolidation : 22 juin 2004
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20040622)
 
 
 # Partie législative
@@ -1013,15 +1013,19 @@ Le refus, par une personne à l'encontre de laquelle il existe une ou plusieurs 
 
 #### Article 56
 
-Si la nature du crime est telle que la preuve en puisse être acquise par la saisie des papiers, documents ou autres objets en la possession des personnes qui paraissent avoir participé au crime ou détenir des pièces ou objets relatifs aux faits incriminés, l'officier de police judiciaire se transporte sans désemparer au domicile de ces derniers pour y procéder à une perquisition dont il dresse procès-verbal.
+Si la nature du crime est telle que la preuve en puisse être acquise par la saisie des papiers, documents, données informatiques ou autres objets en la possession des personnes qui paraissent avoir participé au crime ou détenir des pièces, informations ou objets relatifs aux faits incriminés, l'officier de police judiciaire se transporte sans désemparer au domicile de ces derniers pour y procéder à une perquisition dont il dresse procès-verbal.
 
-Il a seul, avec les personnes désignées à l'article 57 et celles auxquelles il a éventuellement recours en application de l'article 60, le droit de prendre connaissance des papiers ou documents avant de procéder à leur saisie.
+Il a seul, avec les personnes désignées à l'article 57 et celles auxquelles il a éventuellement recours en application de l'article 60, le droit de prendre connaissance des papiers, documents ou données informatiques avant de procéder à leur saisie.
 
 Toutefois, il a l'obligation de provoquer préalablement toutes mesures utiles pour que soit assuré le respect du secret professionnel et des droits de la défense.
 
 Tous objets et documents saisis sont immédiatement inventoriés et placés sous scellés. Cependant, si leur inventaire sur place présente des difficultés, ils font l'objet de scellés fermés provisoires jusqu'au moment de leur inventaire et de leur mise sous scellés définitifs et ce, en présence des personnes qui ont assisté à la perquisition suivant les modalités prévues à l'article 57.
 
-Avec l'accord du procureur de la République, l'officier de police judiciaire ne maintient que la saisie des objets et documents utiles à la manifestation de la vérité.
+Il est procédé à la saisie des données informatiques nécessaires à la manifestation de la vérité en plaçant sous main de justice soit le support physique de ces données, soit une copie réalisée en présence des personnes qui assistent à la perquisition.
+
+Si une copie est réalisée, il peut être procédé, sur instruction du procureur de la République, à l'effacement définitif, sur le support physique qui n'a pas été placé sous main de justice, des données informatiques dont la détention ou l'usage est illégal ou dangereux pour la sécurité des personnes ou des biens.
+
+Avec l'accord du procureur de la République, l'officier de police judiciaire ne maintient que la saisie des objets, documents et données informatiques utiles à la manifestation de la vérité.
 
 Le procureur de la République peut également, lorsque la saisie porte sur des espèces, lingots, effets ou valeurs dont la conservation en nature n'est pas nécessaire à la manifestation de la vérité ou à la sauvegarde des droits des personnes intéressées, autoriser leur dépôt à la Caisse des dépôts et consignations ou à la Banque de France.
 
@@ -1871,7 +1875,7 @@ Si les nécessités de l'information l'exigent, le juge d'instruction peut, apr�
 
 ###### Article 94
 
-Les perquisitions sont effectuées dans tous les lieux où peuvent se trouver des objets dont la découverte serait utile à la manifestation de la vérité.
+Les perquisitions sont effectuées dans tous les lieux où peuvent se trouver des objets ou des données informatiques dont la découverte serait utile à la manifestation de la vérité.
 
 
 ###### Article 95
@@ -1892,15 +1896,23 @@ Les dispositions des articles 56, 56-1, 56-2 et 56-3 sont applicables aux perqui
 
 ###### Article 97
 
-Lorsqu'il y a lieu, en cours d'information, de rechercher des documents et sous réserve des nécessités de l'information et du respect, le cas échéant, de l'obligation stipulée par l'alinéa 3 de l'article précédent, le juge d'instruction ou l'officier de police judiciaire par lui commis a seul le droit d'en prendre connaissance avant de procéder à la saisie.
+Lorsqu'il y a lieu, en cours d'information, de rechercher des documents ou des données informatiques et sous réserve des nécessités de l'information et du respect, le cas échéant, de l'obligation stipulée par l'alinéa 3 de l'article précédent, le juge d'instruction ou l'officier de police judiciaire par lui commis a seul le droit d'en prendre connaissance avant de procéder à la saisie.
 
 
 
-Tous les objets et documents placés sous main de justice sont immédiatement inventoriés et placés sous scellés. Cependant, si leur inventaire sur place présente des difficultés, l'officier de police judiciaire procède comme il est dit au quatrième alinéa de l'article 56.
+Tous les objets, documents ou données informatiques placés sous main de justice sont immédiatement inventoriés et placés sous scellés. Cependant, si leur inventaire sur place présente des difficultés, l'officier de police judiciaire procède comme il est dit au quatrième alinéa de l'article 56.
 
 
 
-Avec l'accord du juge d'instruction, l'officier de police judiciaire ne maintient que la saisie des objets et documents utiles à la manifestation de la vérité.
+Il est procédé à la saisie des données informatiques nécessaires à la manifestation de la vérité en plaçant sous main de justice soit le support physique de ces données, soit une copie réalisée en présence des personnes qui assistent à la perquisition.
+
+
+
+Si une copie est réalisée dans le cadre de cette procédure, il peut être procédé, sur ordre du juge d'instruction, à l'effacement définitif, sur le support physique qui n'a pas été placé sous main de justice, des données informatiques dont la détention ou l'usage est illégal ou dangereux pour la sécurité des personnes ou des biens.
+
+
+
+Avec l'accord du juge d'instruction, l'officier de police judiciaire ne maintient que la saisie des objets, documents et données informatiques utiles à la manifestation de la vérité.
 
 
 
@@ -1908,7 +1920,7 @@ Lorsque ces scellés sont fermés, ils ne peuvent être ouverts et les documents
 
 
 
-Si les nécessités de l'instruction ne s'y opposent pas, copie ou photocopie des documents placés sous main de justice peuvent être délivrées à leurs frais, dans le plus bref délai, aux intéressés qui en font la demande.
+Si les nécessités de l'instruction ne s'y opposent pas, copie ou photocopie des documents ou des données informatiques placés sous main de justice peuvent être délivrées à leurs frais, dans le plus bref délai, aux intéressés qui en font la demande.
 
 
 
@@ -3114,13 +3126,9 @@ Le juge d'instruction statue par la même ordonnance sur la restitution des obje
 
 ##### Article 177-1
 
-Le juge d'instruction peut ordonner, sur la demande de la personne concernée ou, avec l'accord de cette personne, d'office ou à la demande du ministère public soit la publication intégrale ou partielle de sa décision de non-lieu, soit l'insertion d'un communiqué informant le public des motifs et du dispositif de celle-ci, dans un ou plusieurs journaux, écrits périodiques ou services de communication audiovisuelle qu'il désigne.
-
-
+Le juge d'instruction peut ordonner, sur la demande de la personne concernée ou, avec l'accord de cette personne, d'office ou à la demande du ministère public, soit la publication intégrale ou partielle de sa décision de non-lieu, soit l'insertion d'un communiqué informant le public des motifs et du dispositif de celle-ci, dans un ou plusieurs journaux, écrits périodiques ou services de communication au public par voie électronique qu'il désigne.
 
 Il détermine, le cas échéant, les extraits de la décision qui doivent être publiés ou fixe les termes du communiqué à insérer.
-
-
 
 Si le juge ne fait pas droit à la demande de la personne concernée, il doit rendre une ordonnance motivée, qui est susceptible d'appel devant la chambre de l'instruction.
 
@@ -3534,7 +3542,7 @@ La chambre de l'instruction statue par le même arrêt sur la restitution des ob
 
 ##### Article 212-1
 
-La chambre de l'instruction peut ordonner, sur la demande de la personne concernée, ou, avec l'accord de cette personne, d'office ou à la demande du ministère public soit la publication intégrale ou partielle de l'arrêt de non-lieu, soit l'insertion d'un communiqué informant le public des motifs et du dispositif de celui-ci, dans un ou plusieurs journaux, écrits périodiques ou services de communication audiovisuelle désignés par cette chambre.
+La chambre de l'instruction peut ordonner, sur la demande de la personne concernée, ou, avec l'accord de cette personne, d'office ou à la demande du ministère public soit la publication intégrale ou partielle de l'arrêt de non-lieu, soit l'insertion d'un communiqué informant le public des motifs et du dispositif de celui-ci, dans un ou plusieurs journaux, écrits périodiques ou services de communication au public par voie électronique désignés par cette chambre.
 
 Elle détermine, le cas échéant, les extraits de l'arrêt qui doivent être publiés ou fixe les termes du communiqué à insérer.
 
@@ -3713,7 +3721,9 @@ Les dispositions de la présente section sont applicables aux agents de police j
 
 #### Article 230-1
 
-Sans préjudice des dispositions des articles 60, 77-1 et 156, lorsqu'il apparaît que des données saisies ou obtenues au cours de l'enquête ou de l'instruction ont fait l'objet d'opérations de transformation empêchant d'accéder aux informations en clair qu'elles contiennent ou de les comprendre, le procureur de la République, la juridiction d'instruction ou la juridiction de jugement saisie de l'affaire peut désigner toute personne physique ou morale qualifiée, en vue d'effectuer les opérations techniques permettant d'obtenir la version en clair de ces informations ainsi que, dans le cas où un moyen de cryptologie a été utilisé, la convention secrète de déchiffrement, si cela apparaît nécessaire.
+Sans préjudice des dispositions des articles 60,77-1 et 156, lorsqu'il apparaît que des données saisies ou obtenues au cours de l'enquête ou de l'instruction ont fait l'objet d'opérations de transformation empêchant d'accéder aux informations en clair qu'elles contiennent ou de les comprendre, le procureur de la République, la juridiction d'instruction ou la juridiction de jugement saisie de l'affaire peut désigner toute personne physique ou morale qualifiée, en vue d'effectuer les opérations techniques permettant d'obtenir la version en clair de ces informations ainsi que, dans le cas où un moyen de cryptologie a été utilisé, la convention secrète de déchiffrement, si cela apparaît nécessaire.
+
+Si la personne ainsi désignée est une personne morale, son représentant légal soumet à l'agrément du procureur de la République ou de la juridiction saisie de l'affaire le nom de la ou des personnes physiques qui, au sein de celle-ci et en son nom, effectueront les opérations techniques mentionnées au premier alinéa. Sauf si elles sont inscrites sur une liste prévue à l'article 157, les personnes ainsi désignées prêtent, par écrit, le serment prévu au premier alinéa de l'article 160.
 
 Si la peine encourue est égale ou supérieure à deux ans d'emprisonnement et que les nécessités de l'enquête ou de l'instruction l'exigent, le procureur de la République, la juridiction d'instruction ou la juridiction de jugement saisie de l'affaire peut prescrire le recours aux moyens de l'Etat soumis au secret de la défense nationale selon les formes prévues au présent chapitre.
 
