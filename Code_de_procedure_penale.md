@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 1er octobre 1994
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19941001)
+- Date de consolidation : 22 octobre 1994
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19941022)
 
 
 # Partie législative
@@ -9933,9 +9933,8 @@ L'avis lui est adressé dans les plus brefs délais :
 5. Pour les dates de l'expiration des peines corporelles et l'exécution de la contrainte judiciaire ainsi que pour les arrêtés de mise en liberté conditionnelle, par les directeurs et surveillants chefs des établissements pénitentiaires et par l'intermédiaire du procureur de la République de leur résidence ; pour les arrêtés supprimant les mesures d'assistance et de contrôle prévues par les arrêtés de libération conditionnelle et pour les arrêtés de révocation de liberté conditionnelle, par le ministre de la Justice ;
 6. Pour le paiement de l'amende par les trésoriers-payeurs généraux, les receveurs particuliers des finances et les percepteurs ;
 7. Pour les décisions prononçant une peine ou une dispense de peine après ajournement du prononcé de la peine, par le greffier de la juridiction qui a statué ;
-8. Pour les décisions prises en application des articles 132-21 du code pénal, 702-1, 775-1 et 777-1 du code de procédure pénale, par le greffier de la juridiction qui a statué.
-
-Les homologations de concordat sont également enregistrées d'après l'avis qui en est donné par le greffier de la juridiction qui a prononcé.
+8. Pour les décisions prises en application des articles 132-21 du code pénal, 702-1, 775-1 et 777-1 du code de procédure pénale, par le greffier de la juridiction qui a statué ;
+9. Pour les décisions visées à l'article 768 5°, par le greffier de la juridiction qui a statué après visa du ministère public.
 
 Ces avis peuvent être adressés au service du casier judiciaire national automatisé sous la forme d'un support magnétique ou par téléinformatique.
 
