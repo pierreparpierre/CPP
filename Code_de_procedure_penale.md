@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 10 avril 1984
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19840410)
+- Date de consolidation : 20 avril 1984
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19840420)
 
 
 # Partie législative
@@ -7772,6 +7772,39 @@ En sus du remboursement de leurs frais de déplacement, il est alloué aux enqu�
 900 F lorsque la mission de contrôle judiciaire dure plus d'un an.
 
 
+###### Paragraphe 3 : Des interprètes traducteurs
+
+###### Article R122
+
+Les traductions par écrit sont payées 60 F la page de texte français.
+
+
+
+Lorsque les interprètes traducteurs sont appelés devant le procureur de la République, les officiers de police judiciaire ou leurs auxiliaires, devant les juges d'instruction ou devant les juridictions répressives pour faire les traductions orales, il leur est alloué :
+
+
+1. Pour la première heure de présence, qui est toujours due en entier :
+
+
+
+A Paris et dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne : 80 F ;
+
+
+
+Dans les autres départements : 72 F ;
+
+
+2. Par demi-heure supplémentaire, due en entier dès qu'elle est commencée : 40 F ou 36 F suivant la distinction ci-dessus.
+
+
+
+Les sommes fixées par le présent article sont majorées de 25 % lorsque la traduction porte sur une langue autre que l'anglais, l'allemand, l'espagnol ou l'italien.
+
+
+
+Les interprètes traducteurs ont droit aux indemnités de voyage et de séjour prévues aux articles R. 110 et R. 111.
+
+
 ##### Section 3 : Des indemnités qui peuvent être accordées aux témoins et aux jurés
 
 ###### Paragraphe 1er : Des témoins
@@ -8081,6 +8114,16 @@ Par dérogation au principe posé dans l'article précédent, il est payé une i
 
 ###### Paragraphe 2 : Citations et significations
 
+###### Article R181
+
+Il est alloué aux huissiers de justice pour toutes citations en matière criminelle, correctionnelle et de police, pour les significations des mandats de comparution, pour toutes significations d'ordonnances, jugements et arrêts et tous autres actes ou pièces en matière criminelle, correctionnelle et de police, une somme forfaitaire de 18 F pour l'original, les copies et l'envoi par lettre recommandée avec avis de réception prévue par les articles 557 et 558 et ce, en sus du coût d'affranchissement.
+
+
+###### Article R182
+
+Dans les cas prévus à l'article précédent, il est alloué, en outre, aux huissiers de justice une somme de 36 F si la délivrance de l'acte a été faite à personne.
+
+
 ###### Article R183
 
 Lorsqu'il n'a pas été délivré au ministère public d'expédition des actes ou jugements à signifier, les significations sont faites par les huissiers de justice sur les minutes qui leur sont confiées par les greffiers contre récépissé, à la charge par eux de les rétablir au greffe dans les vingt-quatre heures qui suivent la signification.
@@ -8091,6 +8134,11 @@ Lorsqu'un acte ou jugement a été remis en expédition au ministère public, la
 ###### Article R184
 
 Les copies de tous actes, jugements et pièces à signifier sont toujours faites par les huissiers de justice ou leurs clercs.
+
+
+###### Article R185
+
+Lorsqu'il doit être donné copie de certaines pièces, il est alloué, quel que soit le nombre de pages copiées, une somme forfaitaire de 6 F en matière de police et de 9 F en matière correctionnelle et criminelle.
 
 
 ###### Article R187
