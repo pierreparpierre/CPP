@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 2 mai 2002
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20020502)
+- Date de consolidation : 3 mai 2002
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20020503)
 
 
 # Partie législative
@@ -13410,7 +13410,7 @@ En cas de non-lieu ou de relaxe, le ministère public adresse au greffier, selon
 
 ### Titre XIX : De la procédure applicable aux infractions de nature sexuelle et aux mineurs victimes
 
-#### Chapitre Ier : De l'administrateur ad hoc
+#### Chapitre unique : De l'administrateur ad hoc
 
 ##### Section 1 : De la liste des administrateurs ad hoc
 
@@ -13454,7 +13454,7 @@ L'assemblée générale dresse la liste des administrateurs ad hoc après avoir 
 Tous les quatre ans, les administrateurs ad hoc figurant sur la liste prévue à l'article R. 53 formulent une nouvelle demande d'inscription qui est instruite conformément aux dispositions de l'article R. 53-3. Ils justifient à cette occasion qu'ils ont respecté les obligations résultant des missions qui leur ont été confiées, et notamment celles qui figurent à l'article R. 53-8.
 
 
-##### Article R53-58
+##### Article R53-5
 
 La radiation d'un administrateur ad hoc peut être prononcée chaque année par l'assemblée générale de la cour d'appel, soit à la demande de l'intéressé, soit à l'initiative du premier président ou du procureur général, après que l'intéressé ait été mis à même de présenter ses observations, dès lors que l'une des conditions prévues aux articles R. 53-1 et R. 53-2 cesse d'être remplie ou que l'administrateur ad hoc n'a pas respecté les obligations résultant de sa mission.
 
@@ -13480,23 +13480,29 @@ La désignation d'un administrateur ad hoc en application des dispositions de l'
 Dans les trois mois de l'achèvement de sa mission, l'administrateur ad hoc transmet à l'autorité qui l'a désigné un rapport dans lequel sont détaillées les démarches effectuées pour l'exercice de la mission définie à l'article 706-50, et précisées, le cas échéant, les formalités accomplies en vue du placement des sommes perçues par le mineur à l'occasion de la procédure.
 
 
-#### Chapitre II : Du fichier national automatisé des empreintes génétiques et du service central de préservation des prélèvements biologiques
+#### Chapitre Ier : De l'administrateur ad hoc
 
-#### Article R53-9
+##### Section 1 : De la liste des administrateurs ad hoc
+
+##### Section 2 : De la désignation d'un administrateur ad hoc
+
+### Titre XX : Du fichier national automatisé des empreintes génétiques et du service central de préservation des prélèvements biologiques
+
+### Article R53-9
 
 Le traitement, au moyen du fichier national automatisé des empreintes génétiques, des informations mentionnées au premier alinéa de l'article 706-54 est mis en oeuvre par la direction centrale de la police judiciaire du ministère de l'intérieur.
 
 Ce fichier est placé sous le contrôle d'un magistrat du parquet.
 
 
-#### Article R53-10
+### Article R53-10
 
 Font l'objet d'un enregistrement au fichier :
-1. Les résultats des analyses d'identification par empreintes génétiques des traces de matériel biologique issu de personnes inconnues, recueillies dans le cadre d'une enquête préliminaire, d'une enquête pour crime ou délit flagrant, ou d'une instruction préparatoire concernant l'une des infractions mentionnées à l'article 706-47 ;
-2. Avec l'autorisation, selon le cas, du procureur de la République ou du procureur général, les résultats des analyses d'identification par empreintes génétiques des échantillons de matériel biologique prélevés dans le cadre d'une enquête préliminaire, d'une enquête pour crime ou délit flagrant, d'une instruction préparatoire ou de la procédure prévue à l'article R. 53-21 sur une personne définitivement condamnée pour l'une des infractions mentionnées à l'article 706-47.
+1. Les résultats des analyses d'identification par empreintes génétiques des traces de matériel biologique issu de personnes inconnues, recueillies dans le cadre d'une enquête préliminaire, d'une enquête pour crime ou délit flagrant, ou d'une instruction préparatoire concernant l'une des infractions mentionnées à l'article 706-55 ;
+2. Avec l'autorisation, selon le cas, du procureur de la République ou du procureur général, les résultats des analyses d'identification par empreintes génétiques des échantillons de matériel biologique prélevés dans le cadre d'une enquête préliminaire, d'une enquête pour crime ou délit flagrant, d'une instruction préparatoire ou de la procédure prévue à l'article R. 53-21 sur une personne définitivement condamnée pour l'une des infractions mentionnées à l'article 706-55.
 
 
-#### Article R53-11
+### Article R53-11
 
 Les données enregistrées, visées au 1° de l'article R. 53-10, sont accompagnées des informations suivantes :
 1. La nature de l'affaire et la référence de la procédure ;
@@ -13507,7 +13513,7 @@ Les données enregistrées, visées au 1° de l'article R. 53-10, sont accompagn
 6. Les rapprochements déjà effectués avec d'autres traces figurant au fichier.
 
 
-#### Article R53-12
+### Article R53-12
 
 Les données enregistrées, visées au 2° de l'article R. 53-10, sont accompagnées des informations suivantes :
 1. Les nom, prénoms, date et lieu de naissance, filiation et sexe du condamné ;
@@ -13518,29 +13524,29 @@ Les données enregistrées, visées au 2° de l'article R. 53-10, sont accompagn
 6. Les segments d'ADN analysés pour l'identification.
 
 
-#### Article R53-13
+### Article R53-13
 
 Les analyses d'identification par empreintes génétiques ne peuvent porter, outre le segment correspondant au marqueur du sexe, que sur des segments d'ADN non codants.
 
 Le nombre et la nature de ces segments d'ADN sont définis par arrêté du ministre de la justice, du ministre de l'intérieur et du ministre de la défense pris après avis de la commission chargée d'agréer les personnes habilitées à effectuer des missions d'identification par empreintes génétiques dans le cadre des procédures judiciaires, prévue par l'article 1er du décret n° 97-109 du 6 février 1997 relatif aux conditions d'agrément des personnes habilitées à procéder à des identifications par empreintes génétiques dans le cadre d'une procédure judiciaire.
 
 
-#### Article R53-14
+### Article R53-14
 
 Les informations enregistrées ne peuvent être conservées au-delà d'une durée de quarante ans, soit à compter de l'analyse d'identification lorsqu'il s'agit des résultats visés au 1° de l'article R. 53-10, soit, lorsqu'il s'agit des résultats visés au 2° du même article, à compter du jour où la condamnation est devenue définitive sans que cette durée puisse dépasser la date du quatre-vingtième anniversaire du condamné.
 
 
-#### Article R53-15
+### Article R53-15
 
 Le droit d'accès prévu par l'article 34 de la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés s'exerce auprès du directeur central de la police judiciaire au ministère de l'intérieur.
 
 
-#### Article R53-16
+### Article R53-16
 
 Le fichier national automatisé des empreintes génétiques est placé sous le contrôle d'un magistrat du parquet hors hiérarchie, nommé pour trois ans par arrêté du garde des sceaux, ministre de la justice, et assisté par un comité composé de trois membres nommés dans les mêmes conditions.
 
 
-#### Article R53-17
+### Article R53-17
 
 Le magistrat mentionné à l'article R. 53-16 et, à sa demande, les membres du comité prévu au même article disposent d'un accès permanent au fichier et au lieu où se trouve celui-ci.
 
@@ -13551,21 +13557,21 @@ Ce magistrat peut ordonner toutes mesures nécessaires à l'exercice de son cont
 Les pouvoirs qui lui sont confiés s'exercent sans préjudice du contrôle exercé par la Commission nationale de l'informatique et des libertés en application des dispositions et selon les modalités prévues par l'article 21 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
 
 
-#### Article R53-18
+### Article R53-18
 
 Les fonctionnaires de la sous-direction de la police technique et scientifique du ministère de l'intérieur et les personnels de l'institut de recherche criminelle de la gendarmerie nationale, spécialement affectés dans le service mettant en oeuvre le traitement, et dûment habilités, pourront seuls, à la demande de l'autorité judiciaire ou des officiers de police judiciaire de la police nationale ou de la gendarmerie nationale, assurer l'alimentation du fichier, avoir accès aux informations enregistrées et procéder aux opérations de rapprochement.
 
 Un dispositif permettant de retracer, par suivi informatique, la consultation du fichier sera mis en place par l'autorité gestionnaire de celui-ci.
 
 
-#### Article R53-19
+### Article R53-19
 
 Le fichier national automatisé des empreintes génétiques ne peut faire l'objet d'aucune interconnexion ni de rapprochement ou de mise en relation avec un autre traitement automatisé d'informations nominatives, sous réserve des dispositions du deuxième alinéa de l'article R. 53-20.
 
 
-#### Article R53-20
+### Article R53-20
 
-Sur décision du procureur de la République ou, en cours d'information, du juge d'instruction, les scellés contenant des échantillons de matériel biologique saisis dans le cadre d'une enquête préliminaire, d'une enquête pour crime ou délit flagrant, ou d'une instruction préparatoire suivie pour l'une des infractions mentionnées à l'article 706-47 et ayant fait l'objet d'un conditionnement normalisé, sont conservés, jusqu'à l'expiration des délais prévus par l'article R. 53-14, par le service central de préservation des prélèvements biologiques de l'institut de recherche criminelle de la gendarmerie nationale.
+Sur décision du procureur de la République ou, en cours d'information, du juge d'instruction, les scellés contenant des échantillons de matériel biologique saisis dans le cadre d'une enquête préliminaire, d'une enquête pour crime ou délit flagrant, ou d'une instruction préparatoire suivie pour l'une des infractions mentionnées à l'article 706-55 et ayant fait l'objet d'un conditionnement normalisé, sont conservés, jusqu'à l'expiration des délais prévus par l'article R. 53-14, par le service central de préservation des prélèvements biologiques de l'institut de recherche criminelle de la gendarmerie nationale.
 
 Dans les conditions prévues par la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, les informations transmises au service central pourront faire l'objet d'un traitement informatisé. Celui-ci pourra, par dérogation à l'article R. 53-19, comporter un numéro d'ordre commun avec le fichier mentionné à l'article R. 53-9. Il ne pourra, en aucun cas, contenir des résultats d'analyses d'identification par empreintes génétiques.
 
@@ -13574,9 +13580,9 @@ Le magistrat mentionné à l'article R. 53-16 contrôle les conditions dans lesq
 L'autorité responsable du service lui adresse un rapport annuel d'activité ainsi que, sur sa demande, toutes informations relatives au fonctionnement du service.
 
 
-#### Article R53-21
+### Article R53-21
 
-Lorsqu'elle n'a pas été réalisée au cours de la procédure d'enquête, d'instruction ou de jugement, l'analyse d'identification par empreintes génétiques d'une personne définitivement condamnée pour l'une des infractions énumérées à l'article 706-47 est ordonnée par le procureur de la République. Cette analyse est effectuée par un expert habilité conformément aux dispositions de l'article 16-12 du code civil.
+Lorsqu'elle n'a pas été réalisée au cours de la procédure d'enquête, d'instruction ou de jugement, l'analyse d'identification par empreintes génétiques d'une personne définitivement condamnée pour l'une des infractions énumérées à l'article 706-55 est ordonnée par le procureur de la République. Cette analyse est effectuée par un expert habilité conformément aux dispositions de l'article 16-12 du code civil.
 
 Cette analyse est ordonnée dans les six mois suivant la date à laquelle la condamnation est devenue définitive. Si, en raison de sa condamnation, la personne exécute une peine privative de liberté, un travail d'intérêt général, fait l'objet d'un sursis avec mise à l'épreuve ou se trouve placée sous le régime de la libération conditionnelle, l'analyse est ordonnée pendant la période d'exécution de peine ou le temps d'épreuve.
 
