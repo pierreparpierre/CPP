@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 23 janvier 1981
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19810123)
+- Date de consolidation : 30 janvier 1981
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19810130)
 
 
 # Partie législative
@@ -6319,6 +6319,17 @@ Toutefois, le montant total des acomptes ne pourra pas dépasser le tiers du mon
 
 ####### B : Dispositions spéciales
 
+######## a) Expertise en matière de fraudes commerciales
+
+######## Article R116
+
+Il est alloué à chaque expert désigné conformément aux lois et règlements sur la répression des fraudes en matière commerciale, pour l'analyse de chaque échantillon, y compris les frais de laboratoire :
+
+Pour le premier échantillon : 12,96 euros.
+
+Pour les échantillons suivants dans la même affaire : 7,17 euros.
+
+
 ######## b) Médecine légale
 
 ######## Article R116-1
@@ -6385,6 +6396,17 @@ Il est alloué à chaque médecin expert ou radiologiste qualifié, régulièrem
 1. Lorsqu'il s'agit d'examen radiographique ou radioscopique d'une personne vivante, des honoraires calculés en fonction des cotations fixées dans la troisième partie de la nomenclature générale des actes professionnels des médecins ... Z
 2. Lorsqu'il s'agit de la localisation de corps étrangers dans un cadavre, des honoraires calculés en fonction de la cotation ... Z 20
 3. Lorsqu'il s'agit de la localisation de corps étrangers dans un cadre putréfié, des honoraires calculés en fonction de la cotation ... Z 35.
+
+
+######## f) Expertise mécanique
+
+######## Article R120-1
+
+Il est alloué à chaque expert, pour une expertise mécanique complète portant sur un ou plusieurs véhicules automobiles, ordonnée par une juridiction siégeant à Paris ou dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis ou du Val-de-Marne, à la suite d'accident de la circulation, à l'exclusion des examens simples ne portant que sur des organes déterminés du véhicule, et à l'exclusion de toute indemnité d'établissement de plans, prise de photographies et frais de séjour : [*francs*] 330 F.
+
+Pour une expertise ordonnée dans les mêmes conditions, par les juridictions des autres départements, à l'exclusion de toute indemnité autre que les indemnités de transport et de séjour :
+
+300 F.
 
 
 ###### Paragraphe 2 : Des personnes chargées des enquêtes sociales et de personnalité ou contribuant au contrôle judiciaire
@@ -6557,6 +6579,19 @@ Mention de ces ordonnances de taxe partielle est faite sur la copie de la notifi
 
 
 ##### Section 4 : Des frais de garde des scellés, de mise en fourrière et de l'immobilisation décidée en application de l'article 43-3-3° bis du code pénal
+
+##### Article R147
+
+Dans les cas prévus aux articles 54, 56, 97 et 151, il n'est accordé de taxe pour la garde des scellés que lorsqu'il n'a pas été jugé à propos de confirmer cette garde à des habitants de l'immeuble où les scellés ont été apposés.
+
+Dans ces cas, il est alloué pour chaque jour, pendant le premier mois, au gardien nommé d'office :
+
+A Paris : 3 F ;
+
+Dans les autres localités : 2 F. Le premier mois écoulé, ces indemnités sont réduites de moitié.
+
+Lorsque les scellés sont apposés sur des véhicules automobiles, les tarifs des frais de garde sont fixés ainsi qu'il est prévu par l'article R. 289 du Code de la Route.
+
 
 ##### Article R148
 
@@ -6911,6 +6946,24 @@ La partie prenante dépose ou adresse son état ou mémoire au parquet près la 
 Lorsque le mémoire porte sur des frais devant une juridiction de l'ordre judiciaire autre que le tribunal de grande instance, le parquet compétent est celui du ressort dans lequel la juridiction a son siège.
 
 Le magistrat du ministère public transmet l'état ou mémoire, assorti de ses réquisitions, au magistrat taxateur.
+
+
+###### Article R226
+
+Le président de chaque juridiction ou le magistrat qu'il délègue taxe tous les états ou mémoires relatifs à des frais engagés sur l'ordre des autorités appartenant à cette juridiction ou des personnes agissant sous le contrôle de ces autorités.
+
+Les frais faits en vertu des ordres d'un juge d'instruction ou d'un juge des enfants sont taxés par ce magistrat.
+
+Toutefois, lorsque les états ou mémoires portent sur des frais engagés par un huissier de justice pour des actes effectués en dehors de la juridiction qui a rendu la décision, ils sont taxés selon le montant des frais, par le président du tribunal de grande instance ou du tribunal d'instance, dans le ressort duquel l'huissier a sa résidence.
+
+
+###### Article R226
+
+Le président de chaque juridiction ou le magistrat qu'il délègue taxe tous les états ou mémoires relatifs à des frais engagés sur l'ordre des autorités appartenant à cette juridiction ou des personnes agissant sous le contrôle de ces autorités.
+
+Les frais faits en vertu des ordres d'un juge d'instruction ou d'un juge des enfants sont taxés par ce magistrat.
+
+Toutefois, lorsque les états ou mémoires portent sur des frais engagés par un huissier de justice pour des actes effectués en dehors de la juridiction qui a rendu la décision, ils sont taxés selon le montant des frais, par le président du tribunal de grande instance ou du tribunal d'instance, dans le ressort duquel l'huissier a sa résidence.
 
 
 ###### Article R227
