@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 9 octobre 1986
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19861009)
+- Date de consolidation : 31 décembre 1986
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19861231)
 
 
 # Partie législative
@@ -6057,6 +6057,8 @@ Par dérogation aux dispositions de l'article 76, si les nécessités de l'enqu�
 #### Article 706-25
 
 Pour le jugement des accusés majeurs, la cour d'assises est composée conformément aux dispositions de l'article 698-6.
+
+Pour l'application de l'alinéa précédent, la chambre de l'instruction, losrqu'elle prononce la mise en accusation conformément au premier alinéa de l'article 214, constate que les faits entrent dans le champ d'application de l'article 706-16.
 
 
 ### Article 706-16
