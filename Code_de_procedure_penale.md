@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 16 juin 1982
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19820616)
+- Date de consolidation : 13 novembre 1982
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19821113)
 
 
 # Partie législative
@@ -6576,6 +6576,13 @@ Le transport par chemin de fer doit, à moins de circonstances exceptionnelles, 
 ##### Article R96
 
 La réquisition, soit à la compagnie de chemin de fer, soit au voiturier, doit être établie en deux exemplaires dont l'un est remis au greffier chargé de la liquidation des frais du procès et l'autre à la compagnie de chemin de fer ou au voiturier, pour qu'ils le produisent à l'appui de leur mémoire.
+
+
+##### Article R97
+
+Les prévenus ou accusés peuvent être, en cas de nécessité, transférés par des véhicules de la gendarmerie ou de la police.
+
+Dans ce cas, une indemnité kilométrique, fixée chaque année par arrêté du garde des sceaux, ministre de la Justice, et du ministre chargé du Budget, est attribuée pour le trajet aller et retour parcouru. Son taux est uniforme quels que soient le type de véhicule utilisé et le nombre de personnes transportées.
 
 
 ##### Article R98
