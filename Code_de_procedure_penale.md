@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 24 janvier 1995
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19950124)
+- Date de consolidation : 3 février 1995
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19950203)
 
 
 # Partie législative
@@ -5200,7 +5200,7 @@ Sur les intérêts civils seulement si aucune opposition n'a été formée ou si
 
 ##### Article 529
 
-Pour les contraventions des quatre premières classes à la réglementation des transports par route, au Code des assurances en ce qui concerne l'assurance obligatoire des véhicules terrestres à moteur et de leurs remorques et semi-remorques et à la règlementation sur les parcs nationaux qui sont punies seulement d'une peine d'amende, l'action publique est éteinte par le paiement d'une amende forfaitaire qui est exclusive de l'application des règles de la récidive.
+Pour les contraventions des quatre premières classes à la réglementation des transports par route, au Code des assurances en ce qui concerne l'assurance obligatoire des véhicules terrestres à moteur et de leurs remorques et semi-remorques et à la réglementation sur les parcs nationaux et les réserves naturelles qui sont punies seulement d'une peine d'amende, l'action publique est éteinte par le paiement d'une amende forfaitaire qui est exclusive de l'application des règles de la récidive.
 
 
 
