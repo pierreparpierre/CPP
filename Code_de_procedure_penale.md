@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 12 mai 2001
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20010512)
+- Date de consolidation : 16 mai 2001
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20010516)
 
 
 # Partie législative
@@ -8094,7 +8094,7 @@ Dès le début de la garde à vue, le procureur de la République ou le juge d'i
 
 ### Article 706-30
 
-En cas d'information ouverte pour infraction aux articles 222-34 à 222-38 du code pénal, et afin de garantir le paiement des amendes encourues, ainsi que l'exécution de la confiscation prévue au deuxième alinéa de l'article 222-49 du code pénal, le président du tribunal de grande instance ou un juge délégué par lui, sur requête du procureur de la République, peut ordonner, aux frais avancés du Trésor et selon les modalités prévues par le code de procédure civile, des mesures conservatoires sur les biens de la personne mise en examen.
+En cas d'information ouverte pour infraction aux articles 222-34 à 222-38, 324-1 et 324-2 du code pénal, et afin de garantir le paiement des amendes encourues, ainsi que l'exécution de la confiscation prévue au deuxième alinéa de l'article 222-49 et au 12° de l'article 324-7 du code pénal, le président du tribunal de grande instance ou un juge délégué par lui, sur requête du procureur de la République, peut ordonner, aux frais avancés du Trésor et selon les modalités prévues par le code de procédure civile, des mesures conservatoires sur les biens de la personne mise en examen.
 
 La condamnation vaut validation des saisies conservatoires et permet l'inscription définitive des sûretés.
 
