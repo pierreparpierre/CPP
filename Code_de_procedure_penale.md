@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 20 décembre 1991
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19911220)
+- Date de consolidation : 1er janvier 1992
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19920101)
 
 
 # Partie législative
@@ -3169,7 +3169,7 @@ L'accusé qui succombe est condamné aux dépens envers la partie civile.
 
 La partie civile qui a obtenu des dommages intérêts n'est jamais tenue des dépens. Celle qui a succombé n'est condamnée aux dépens que si elle a, elle-même, mis en mouvement l'action publique. Toutefois, même en ce cas, elle peut, eu égard aux circonstances de la cause, être déchargée de la totalité ou d'une partie de ces dépens, par décision spéciale et motivée de la cour.
 
-Lorsqu'il apparaît inéquitable de laisser à la charge de la partie civile les sommes exposées par elle et non comprises dans les frais et dépens, le juge peut condamner l'auteur de l'infraction à lui payer le montant qu'il détermine.
+La cour condamne l'auteur de l'infraction à payer à la partie civile la somme qu'elle détermine, au titre des frais exposés par celle-ci et non compris dans les dépens. La cour tient compte de l'équité ou de la situation économique de la partie condamnée. Elle peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à cette condamnation.
 
 
 ##### Section 3 : De la décision sur l'action civile
@@ -4121,7 +4121,7 @@ Le tribunal peut toutefois, par décision spéciale et motivée, l'en décharger
 
 ##### Article 475-1
 
-Lorsqu'il apparaît inéquitable de laisser à la charge de la partie civile les sommes exposées par elle et non comprises dans les frais et dépens, le juge peut condamner l'auteur de l'infraction à lui payer le montant qu'il détermine.
+Le tribunal condamne l'auteur de l'infraction à payer à la partie civile la somme qu'il détermine, au titre des frais exposés par celle-ci et non compris dans les dépens. Le tribunal tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à cette condamnation.
 
 
 ##### Article 476
@@ -6309,7 +6309,7 @@ A défaut de cette indication, la nullité du jugement en ce qui concerne ses di
 
 ### Article 706-14
 
-Toute personne qui, victime d'un vol, d'une escroquerie ou d'un abus de confiance, ne peut obtenir à un titre quelconque une réparation ou une indemnisation effective et suffisante de son préjudice, et se trouve de ce fait dans une situation matérielle grave, peut obtenir une indemnité dans les conditions prévues par les articles 706-3 (3° et dernier alinéa) à 706-12, lorsque ses ressources sont inférieures au plafond prévu par les troisième et quatrième alinéas de l'article 2 de la loi n° 72-11 du 3 janvier 1972 relative à l'aide judiciaire et à l'indemnisation des commissions et désignations d'office pour bénéficier de l'aide judiciaire partielle, compte tenu, le cas échéant, de ses charges de famille.
+Toute personne qui, victime d'un vol, d'une escroquerie ou d'un abus de confiance, ne peut obtenir à un titre quelconque une réparation ou une indemnisation effective et suffisante de son préjudice, et se trouve de ce fait dans une situation matérielle grave, peut obtenir une indemnité dans les conditions prévues par les articles 706-3 (3° et dernier alinéa) à 706-12, lorsque ses ressources sont inférieures au plafond prévu par l'article 4 de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique pour béneficier de l'aide juridictionnelle partielle, compte tenu, le cas échéant, de ses charges de famille.
 
 L'indemnité est au maximum égale au triple du montant mensuel de ce plafond de ressources.
 
@@ -9457,7 +9457,7 @@ Sont, en outre, assimilées aux frais de justice criminelle, correctionnelle et 
 6. Des avances faites en matière de règlement judiciaire ou de liquidation des biens dans les cas prévus à l'article 94 de la loi n° 67-563 du 13 juillet 1967, ainsi que des frais relatifs aux jugements de clôture pour insuffisance d'actif.
 7. Des avances faites par le Trésor public en matière de redressement et de liquidation judiciaire des entreprises, en application de l'article 215 de la loi n° 85-98 du 25 janvier 1985.
 8. Des frais de copie, droits, redevances et émoluments dus aux greffiers des tribunaux de commerce à l'occasion de toute procédure pour la délivrance des pièces à l'autorité judiciaire.
-9. De l'aide judiciaire et de l'indemnisation des commissions et désignations d'office.
+9. De la contribution versée par l'Etat au titre de l'aide juridictionnelle.
 10. Des frais et dépens mis à la charge du Trésor public soit en application d'une disposition législative ou réglementaire, soit en cas de décision juridictionnelle rectifiant ou interprétant une précédente décision.
 11. Des frais exposés devant la commission prévue par l'article 16-2.
 12. Des enquêtes ordonnées en matière d'exercice de l'autorité parentale.
@@ -10311,15 +10311,6 @@ Par dérogation à la règle établie à l'article précédent, sont payés conf
 
 ##### Section 2 : Règles spéciales
 
-###### Paragraphe 1 : Aide judiciaire.
-
-###### Article R216
-
-En matière d'aide judiciaire, les frais qui sont exposés dans les instances portées devant les juridictions administratives sont admis en dépense par le ministre de la Justice.
-
-Si au cours de l'instance suivie avec le bénéfice de l'aide judiciaire devant un tribunal administratif, des témoins sont appelés à déposer, l'indemnité qui leur est allouée, après taxation régulière par le président du tribunal administratif, est acquittée provisoirement et sans délai par le comptable direct du Trésor.
-
-
 ###### Paragraphe 2 : Procédures suivies en application de la législation sur les incapables
 
 ###### Article R217
@@ -10393,7 +10384,7 @@ Les parties prenantes déposent ou adressent leur état ou mémoire au greffe de
 
 La procédure de certification est applicable aux frais suivants énumérés à l'article R. 93 :
 1. Indemnités accordées aux témoins ;
-2. Indemnités forfaitaires en matière d'aide judiciaire et de commissions et désignations d'office ;
+2. Part contributive de l'Etat à la rétribution des auxiliaires de justice en matière d'aide juridictionnelle.
 3. Indemnités de transport et de séjour des magistrats, des greffiers et des secrétaires des juridictions de l'ordre judiciaire ;
 4. Frais postaux des greffes des juridictions civiles nécessités par les actes et procédures ;
 5. Frais tarifés des actes faits d'office en matière de mesures conservatoires prises après l'ouverture d'une succession.
@@ -10559,14 +10550,13 @@ Ce mémoire est payé comme les autres frais de justice criminelle, correctionne
 
 Sont déclarés dans tous les cas à la charge de l'Etat et sans recours envers les condamnés :
 1. Les frais de voyage et de séjour des magistrats délégués pour la tenue des cours d'assises ;
-2. Les honoraires et indemnités des interprètes désignés pour assister les inculpés, prévenus et accusés dans les conditions prévues par les articles 102, 121, 272, 344, 407, 408 et 443 du présent code ;
+2. Les honoraires et indemnités des interprètes désignés pour assister les inculpés, prévenus et accusés dans les conditions prévues par les articles 102, 121, 272, 344, 407, 408 et 443 du présent code.
 3. Toutes les indemnités payées aux jurés ;
 4. Les frais de transport des prévenus et accusés dans les cas prévus à l'article R100 ;
 5. Les indemnités et les frais payés aux enquêteurs de personnalité et aux personnes physiques ou représentants de personnes morales désignés par le juge d'instruction pour l'application du contrôle judiciaire ;
-6. Les frais et dépens engagés en cas de décision juridictionnelle rectifiant ou interprétant une précédente décision ;
+6. Les frais et dépens engagés en cas de décision juridictionnelle rectifiant ou interprétant une précédente décision.
 7. Les frais exposés devant la commission prévue à l'article 16-2.
-
-[*8° abrogé*]
+8. La contribution versée par l'Etat au titre de l'aide juridictionnelle à l'avocat du condamné et, le cas échéant, celle versée dans le cadre de la même procédure à l'avocat du témoin assisté ou de l'inculpé ayant bénéficié d'une décision de non-lieu, de relaxe ou d'acquittement.
 
 
 ###### Article R242
