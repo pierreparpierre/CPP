@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 8 avril 2001
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20010408)
+- Date de consolidation : 10 mai 2001
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20010510)
 
 
 # Partie législative
@@ -53,11 +53,13 @@ Toute association régulièrement déclarée depuis au moins cinq ans à la date
 
 
 
-Toutefois, en ce qui concerne les infractions aux dispositions du dernier alinéa de l'article L. 123-1 du code du travail et aux quatre derniers alinéas de l'article 6 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires, l'association ne sera recevable dans son action que si elle justifie avoir reçu l'accord écrit de la personne intéressée, ou, si celle-ci est mineure et après l'avis de cette dernière, celui du titulaire de l'autorité parentale ou du représentant légal.
+Toutefois, en ce qui concerne les infractions aux dispositions du dernier alinéa de l'article L. 123-1 du code du travail et à l'article 6 ter de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires, l'association ne sera recevable dans son action que si elle justifie avoir reçu l'accord écrit de la personne intéressée, ou, si celle-ci est mineure et après l'avis de cette dernière, celui du titulaire de l'autorité parentale ou du représentant légal.
 
 
 
-L'association peut également exercer les droits reconnus à la partie civile en cas d'atteintes volontaires à la vie ou à l'intégrité de la personne et de destructions, dégradations et détériorations réprimées par les articles 221-1 à 221-4, 222-1 à 222-18 et 322-1 à 322-13 du code pénal, lorsque ces faits ont été commis en raison du sexe ou des moeurs de la victime, dès lors qu'elle justifie avoir reçu l'accord de la victime ou, si celle-ci est un mineur ou un majeur protégé, celui de son représentant légal.
+L'association peut également exercer les droits reconnus à la partie civile en cas d'atteintes volontaires à la vie ou à l'intégrité de la personne et de destructions, dégradations et détériorations réprimées par les articles 221-1 à 221-4,
+
+222-1 à 222-18 et 322-1 à 322-13 du code pénal, lorsque ces faits ont été commis en raison du sexe ou des moeurs de la victime, dès lors qu'elle justifie avoir reçu l'accord de la victime ou, si celle-ci est un mineur ou un majeur protégé, celui de son représentant légal.
 
 
 ## Article 2-7
