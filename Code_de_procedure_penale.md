@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 17 juin 2001
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20010617)
+- Date de consolidation : 11 juillet 2001
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20010711)
 
 
 # Partie législative
@@ -4884,7 +4884,8 @@ Sont jugés dans les conditions prévues au troisième alinéa de l'article 398 
 3. Les délits en matière de coordination des transports ;
 4. Les délits prévus par le 2° de l'article 32 du décret-loi du 18 avril 1939 fixant le régime des matériels de guerre, armes et munitions ;
 5. Les délits prévus par les articles 222-11, 222-12 (1° à 10°), 222-13 (1° à 10°), 222-16, 222-17, 222-18, 222-32, 227-3 à 227-11, 311-3, 311-4 (1° à 8°), 313-5, 314-5, 314-6, 321-1, 322-1 à 322-4, 322-12, 322-13, 322-14, 433-3, premier alinéa, 433-5 et 521-1 du code pénal et L. 628 du code de la santé publique ;
-6. Les délits prévus par le code rural en matière de chasse, de pêche et de protection de la faune et de la flore et les délits prévus par le décret-loi du 9 janvier 1852 en matière de pêche maritime.
+6. Les délits prévus par le code rural en matière de chasse, de pêche et de protection de la faune et de la flore et les délits prévus par le décret-loi du 9 janvier 1852 en matière de pêche maritime ;
+7. Les délits prévus par le code forestier et par le code de l'urbanisme pour la protection des bois et forêts.
 
 Toutefois, le tribunal statue obligatoirement dans les conditions prévues par le premier alinéa de l'article 398 lorsque le prévenu est en état de détention provisoire lors de sa comparution à l'audience ou lorsqu'il est poursuivi selon la procédure de comparution immédiate. Il statue également dans les conditions prévues par le premier alinéa de l'article 398 pour le jugement des délits prévus au présent article lorsque ces délits sont connexes à d'autres délits non prévus par cet article.
 
@@ -21539,7 +21540,11 @@ Les médecins inspecteurs des directions départementales des affaires sanitaire
 
 Les médecins inspecteurs des directions régionales des affaires sanitaires et sociales (DRASS) ;
 
-Les directeurs d'établissement de santé.
+Les directeurs d'établissement de santé ;
+
+Le président de la Commission nationale de l'informatique et des libertés ;
+
+Le Défenseur des enfants.
 
 II. - En ce qui concerne les détenus militaires ou relevant d'une autorité militaire :
 
