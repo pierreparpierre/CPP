@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 5 février 2004
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20040205)
+- Date de consolidation : 12 février 2004
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20040212)
 
 
 # Partie législative
@@ -2222,7 +2222,7 @@ Ce contrôle astreint la personne concernée à se soumettre, selon la décision
 9. S'abstenir de recevoir ou de rencontrer certaines personnes spécialement désignées par le juge d'instruction, ainsi que d'entrer en relation avec elles, de quelque façon que ce soit ;
 10. Se soumettre à des mesures d'examen, de traitement ou de soins, même sous le régime de l'hospitalisation, notamment aux fins de désintoxication ;
 11. Fournir un cautionnement dont le montant et les délais de versement, en une ou plusieurs fois, sont fixés par le juge d'instruction, compte tenu notamment des ressources et des charges de la personne mise en examen ;
-12. Ne pas se livrer à certaines activités de nature professionnelle ou sociale, à l'exclusion de l'exercice des mandats électifs et des responsabilités syndicales, lorsque l'infraction a été commise dans l'exercice ou à l'occasion de l'exercice de ces activités et lorsqu'il est à redouter qu'une nouvelle infraction soit commise. Lorsque l'activité concernée est celle d'un avocat, le conseil de l'ordre, saisi par le juge d'instruction, a seul le pouvoir de prononcer cette mesure à charge d'appel, dans les conditions prévues aux articles 23 et 24 de la loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques ; le conseil de l'ordre statue dans les quinze jours ;
+12. Ne pas se livrer à certaines activités de nature professionnelle ou sociale, à l'exclusion de l'exercice des mandats électifs et des responsabilités syndicales, lorsque l'infraction a été commise dans l'exercice ou à l'occasion de l'exercice de ces activités et lorsqu'il est à redouter qu'une nouvelle infraction soit commise. Lorsque l'activité concernée est celle d'un avocat, le conseil de l'ordre, saisi par le juge d'instruction, a seul le pouvoir de prononcer cette mesure à charge d'appel, dans les conditions prévues à l'article 24 de la loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques ; le conseil de l'ordre statue dans les quinze jours ;
 13. Ne pas émettre de chèques autres que ceux qui permettent exclusivement le retrait de fonds par le tireur auprès du tiré ou ceux qui sont certifiés et, le cas échéant, remettre au greffe les formules de chèques dont l'usage est ainsi prohibé ;
 14. Ne pas détenir ou porter une arme et, le cas échéant, remettre au greffe contre récépissé les armes dont elle est détentrice ;
 15. Constituer, dans un délai, pour une période et un montant déterminés par le juge d'instruction, des sûretés personnelles ou réelles ;
@@ -2664,9 +2664,7 @@ Les experts procèdent à leur mission sous le contrôle du juge d'instruction o
 
 ##### Article 157
 
-Les experts sont choisis parmi les personnes physiques ou morales qui figurent soit sur une liste nationale établie par le bureau de la Cour de cassation, soit sur une des listes dressées par les cours d'appel, le procureur général entendu.
-
-Les modalités d'inscription et de radiation sur ces listes sont fixées par un décret en Conseil d'Etat.
+Les experts sont choisis parmi les personnes physiques ou morales qui figurent sur la liste nationale dressée par la Cour de cassation ou sur une des listes dressées par les cours d'appel dans les conditions prévues par la loi n° 71-498 du 29 juin 1971 relative aux experts judiciaires.
 
 A titre exceptionnel, les juridictions peuvent, par décision motivée, choisir des experts ne figurant sur aucune de ces listes.
 
@@ -2690,9 +2688,7 @@ Si les circonstances le justifient, il désigne plusieurs experts.
 
 ##### Article 160
 
-Lors de leur inscription sur l'une des listes prévues à l'article 157, les experts prêtent, devant la cour d'appel du ressort de leur domicile, serment d'apporter leur concours à la justice en leur honneur et en leur conscience. Ces experts n'ont pas à renouveler leur serment chaque fois qu'ils sont commis.
-
-Les experts ne figurant sur aucune de ces listes prêtent, chaque fois qu'ils sont commis, le serment prévu à l'alinéa précédent devant le juge d'instruction ou le magistrat désigné par la juridiction. Le procès-verbal de prestation de serment est signé par le magistrat compétent, l'expert et le greffier. En cas d'empêchement dont les motifs doivent être précisés, le serment peut être reçu par écrit et la lettre de serment est annexée au dossier de la procédure.
+Les experts ne figurant sur aucune des listes mentionnées à l'article 157 prêtent, chaque fois qu'ils sont commis, le serment prévu par la loi n° 71-498 du 29 juin 1971 relative aux experts judiciaires devant le juge d'instruction ou le magistrat désigné par la juridiction. Le procès-verbal de prestation de serment est signé par le magistrat compétent, l'expert et le greffier. En cas d'empêchement dont les motifs doivent être précisés, le serment peut être reçu par écrit et la lettre de serment est annexée au dossier de la procédure.
 
 
 ##### Article 161
@@ -2710,7 +2706,7 @@ Le juge d'instruction, au cours de ses opérations, peut toujours, s'il l'estime
 
 Si les experts demandent à être éclairés sur une question échappant à leur spécialité, le juge peut les autoriser à s'adjoindre des personnes nommément désignées, spécialement qualifiées par leur compétence.
 
-Les personnes ainsi désignées prêtent serment dans les conditions prévues au deuxième alinéa de l'article 160.
+Les personnes ainsi désignées prêtent serment dans les conditions prévues à l'article 160.
 
 Leur rapport sera annexé intégralement au rapport mentionné à l'article 166.
 
