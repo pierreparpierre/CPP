@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 5 janvier 1980
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19800105)
+- Date de consolidation : 1er avril 1980
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19800401)
 
 
 # Partie législative
@@ -7668,11 +7668,6 @@ Les diligences prévues aux articles D280 et D283 doivent en conséquence être 
 
 ###### Paragraphe 3 : Régime de semi-liberté
 
-###### Article D140
-
-[Article abrogé]
-
-
 ###### Article D141
 
 Par exception au principe rappelé à l'article D110, les condamnés admis au régime de semi-liberté relèvent du régime général de la sécurité sociale, ou le cas échéant, du régime applicable aux professions agricoles. Dans les deux cas, la déclaration d'emploi est souscrite à la diligence et sous la responsabilité de l'employeur, conformément aux obligations qui lui incombent selon la nature de son entreprise.
@@ -7797,6 +7792,15 @@ Il ne saurait en toute hypothèse dépasser 30 % de la rémunération après dé
 
 
 Les rémunérations versées sur crédits budgétaires sont nettes de tout prélèvement au profit du Trésor.
+
+
+##### Article D113
+
+Une part égale à 20 % [*pourcentage*] de la rémunération telle qu'elle résulte de l'article D111 est affectée à la constitution d'un pécule de libération ainsi qu'à l'indemnisation des parties civiles.
+
+Les prélèvements relatifs à l'indemnisation des parties civiles sont limités à la moitié de cette part.
+
+La part prévue par le premier alinéa du présent article est réduite à 10 % [*pourcentage*] pour les semi-libres. Elle est exclusivement réservée à l'indemnisation des parties civiles.
 
 
 ##### Article D114
