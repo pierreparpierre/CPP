@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 1er octobre 1983
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19831001)
+- Date de consolidation : 23 décembre 1983
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19831223)
 
 
 # Partie législative
@@ -7491,6 +7491,11 @@ A Paris : 3 F ;
 Dans les autres localités : 2 F. Le premier mois écoulé, ces indemnités sont réduites de moitié.
 
 Lorsque les scellés sont apposés sur des véhicules automobiles, les tarifs des frais de garde sont fixés ainsi qu'il est prévu par l'article R. 289 du Code de la Route.
+
+
+##### Article R147-1
+
+Le tarif des frais de garde entraînés par l'immobilisation d'un véhicule décidée en application de l'article 43-3-3° bis du Code pénal est celui qui est fixé conformément à l'article R. 289 du Code de la route.
 
 
 ##### Article R148
