@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 16 septembre 1971
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19710916)
+- Date de consolidation : 19 septembre 1971
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19710919)
 
 
 # Partie législative
@@ -6881,6 +6881,11 @@ Conformément à l'article 717, les condamnés à l'emprisonnement de police son
 
 ##### Section 2 : Des détenus bénéficiant d'un régime spécial
 
+##### Article D496
+
+[Article abrogé].
+
+
 ##### Article D497
 
 [Article abrogé].
@@ -7440,6 +7445,93 @@ Le pourcentage du nombre de condamnés qui peuvent bénéficier des dixièmes su
 ##### Section 4
 
 #### Chapitre VI
+
+#### Chapitre VIII
+
+#### Chapitre IX
+
+#### Chapitre X
+
+#### Chapitre XI : Des différentes catégories de détenus.
+
+##### Section 1
+
+##### Section 2 : Des détenus bénéficiant d'un régime spécial
+
+##### Article A43
+
+La commission consultative du régime spécial institué à l'article D. 490 est composée ainsi qu'il suit :
+
+
+
+
+1. Un conseiller à la Cour de cassation, président ;
+
+
+
+
+
+Un conseiller à ladite cour, président suppléant ;
+
+
+
+
+2. Un membre de l'Institut ;
+
+
+
+
+3. Un membre du Conseil d'Etat ; un membre dudit conseil, suppléant ;
+
+
+
+
+4. Le bâtonnier de l'ordre des avocats près la cour d'appel de Paris ou son représentant ;
+
+
+
+
+5. Le directeur des affaires criminelles et des grâces au ministère de la justice ou son représentant ;
+
+
+
+
+6. Le directeur de l'administration pénitentiaire au ministère de la justice ou son représentant ;
+
+
+
+
+7. Un conseiller référendaire à la Cour de cassation ;
+
+
+
+
+
+Un conseiller référendaire à ladite cour, suppléant.
+
+
+
+
+
+Les présidents et membres visés aux 1°, 2°, 3° et 7° sont désignés par arrêté du ministre de la justice.
+
+
+##### Article A43-1
+
+La commission établit son règlement intérieur.
+
+
+
+Elle peut faire appel, à titre de rapporteurs, à des magistrats du ministère de la justice non membres de la commission, lesquels n'ont pas voix délibérative.
+
+
+##### Section 3
+
+##### Section 4
+
+##### Section 5
+
+##### Section 6
 
 ### Titre IV : Du sursis
 
