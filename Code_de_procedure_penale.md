@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 1er janvier 1989
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19890101)
+- Date de consolidation : 14 janvier 1989
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19890114)
 
 
 # Partie législative
@@ -55,6 +55,11 @@ Toute association régulièrement déclarée depuis au moins cinq ans à la date
 ## Article 2-7
 
 En cas de poursuites pénales pour incendie volontaire commis dans les bois, forêts, landes, maquis, garrigues, plantations ou reboisements, les personnes morales de droit public peuvent se constituer partie civile devant la juridiction de jugement en vue d'obtenir le remboursement, par le condamné, des frais qu'elles ont exposés pour lutter contre l'incendie.
+
+
+## Article 2-8
+
+Toute association régulièrement déclarée depuis au moins cinq ans à la date des faits ayant, en vertu de ses statuts, vocation à défendre ou à assister les personnes handicapées peut exercer les droits reconnus à la partie civile en ce qui concerne les infractions prévues par les 1° et 2° de l'article 416 du code pénal qui ont été commises au préjudice d'une personne à raison de son handicap.
 
 
 ## Article 3
