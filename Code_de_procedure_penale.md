@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 3 août 2001
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20010803)
+- Date de consolidation : 1er octobre 2001
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20011001)
 
 
 # Partie législative
@@ -13883,17 +13883,19 @@ Les tarifs d'honoraires correspondant aux actes d'expertise prévus par les arti
 
 ######## Article R117
 
-Chaque médecin régulièrement requis ou commis reçoit à titre d'honoraires une somme calculée en fonction des cotations suivantes [*lettres clés et coefficients*] :
-1. a) Pour une visite judiciaire comportant un ou plusieurs examens et le dépôt d'un rapport ... C 2,5
+Chaque médecin régulièrement requis ou commis reçoit à titre d'honoraires une somme calculée en fonction des cotations [*lettres clés et coefficients*] suivantes :
+1. a) Pour une visite judiciaire comportant un ou plusieurs examens et le dépôt d'un rapport ... C 2,5 ;
 
-b) Pour une visite judiciaire comportant un ou plusieurs examens d'une victime, la fixation des taux d'incapacité et le dépôt d'un rapport ... C 3,5
+b) Pour une visite judiciaire comportant un ou plusieurs examens d'une victime, la fixation des taux d'incapacité et le dépôt d'un rapport ... C 3,5 ;
 
-c) Pour l'examen clinique et la prise de sang prévus aux articles R. 20 à R. 25 du Code des débits de boissons :
+c) Pour l'examen clinique et la prise de sang prévus aux articles R. 20 à R. 25 du Code des débits de boissons et pour l'examen clinique et le prélèvement biologique prévus par l'article R. 235-6 du code de la route, ainsi que le recueil de liquide biologique et le dépistage de stupéfiants prévus par l'article R. 235-4 du même code ;
 - auxquels il est procédé entre 7 heures et 22 heures ... C 1,5
 - auxquels il est procédé entre 22 heures et 7 heures ... C 1,5 (plus une indemnité de 70 F).
 - auxquels il est procédé les dimanches et jours fériés ... C 1,5 (plus une indemnité de 50 F).
 
-d) Pour chaque examen prévu par l'article 706-29 du code de procédure pénale ... C 2
+d) Pour chaque examen prévu par l'article 706-29 du code de procédure pénale ... C 2.
+
+e) Lorsque, par dérogation aux dispositions de l'article R. 235-3 du code de la route, le matériel nécessaire au dépistage est fourni par le praticien requis, les honoraires prévus au c ci-dessus sont augmentés d'une indemnité égale au prix unitaire d'acquisition de ce matériel sans pouvoir excéder 25 euros.
 2. Pour un transport sur les lieux et description de cadavre ... C 2,5
 
 Lorsque ces opérations sont effectuées par l'expert qui procède ultérieurement à l'autopsie ... C 1,5
@@ -13916,15 +13918,17 @@ CNPSY 5 ;
 Les analyses toxicologiques sont ainsi cotées, pour chaque expert, lorsque les dosages de plusieurs éléments ne peuvent être groupés en une seule opération :
 1. Pour recherche et dosage de l'alcool dans le sang : B 50 ;
 
-Et, en cas de recours à la chromatographie en phase gazeuse : B 120
-2. Dosage de l'oxycarbonémie ... B 50
-3. Dosage de l'oxyde de carbone dans l'atmosphère ... B 50
-4. Dosage de la benzolémie ... B 70
-5. Recherche et dosage du trichloréthylène et de l'acide trichloracétique ... B 70
-6. Recherche et dosage d'un élément toxique dans les viscères ... B 220
-7. Expertise toxicologique complète ... B 1500
-8. Recherche et dosage des amphétamines dans le sang ou les urines ... B 60
-9. Recherche et dosage des stupéfiants dans le sang ou les urines ... B 150.
+Et, en cas de recours à la chromatographie en phase gazeuse : B 120 ;
+2. Dosage de l'oxycarbonémie : B 50 ;
+3. Dosage de l'oxyde de carbone dans l'atmosphère : B 50 ;
+4. Dosage de la benzolémie : B 70 ;
+5. Recherche et dosage du trichloréthylène et de l'acide trichloracétique : B 70 ;
+6. Recherche et dosage d'un élément toxique dans les viscères : B 220 ;
+7. Expertise toxicologique complète : B 1500 ;
+8. Recherche et dosage des amphétamines dans le sang ou les urines : B 60 ;
+9. Recherche et dosage des stupéfiants dans le sang ou les urines : B 150 ;
+10. Recherche et dosage des stupéfiants (cannabis, amphétamines, cocaïne et opiacés) en ayant recours à la chromatographie en phase gazeuse couplée à la spectrométrie de masse GC/SM B.800.
+11. Recherche des médicaments psychoactifs en ayant recours à la chromatographie en phase liquide haute performance couplée à une barrette de diodes ainsi qu'à la chromatographie en phase gazeuse couplée à la spectrométrie de masse GC/SM B.900.
 
 
 ######## d) Biologie
