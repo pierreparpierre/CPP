@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 16 juin 2000
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20000616)
+- Date de consolidation : 1er juillet 2000
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20000701)
 
 
 # Partie législative
@@ -6994,6 +6994,14 @@ c) Délit prévu au quatrième alinéa (3°) de l'article L. 282-1 du code de l'
 2. De l'infraction définie au sixième alinéa (5°) de l'article L. 282-1 du code de l'aviation civile, lorsqu'elle a été commise à l'encontre des services d'un aérodrome affecté à l'aviation civile internationale.
 
 
+#### Article 689-8
+
+Pour l'application du protocole à la convention relative à la protection des intérêts financiers des Communautés européennes fait à Dublin le 27 septembre 1996 et de la convention relative à la lutte contre la corruption impliquant des fonctionnaires des Communautés européennes ou des fonctionnaires des Etats membres de l'Union européenne faite à Bruxelles le 26 mai 1997, peut être poursuivi et jugé dans les conditions prévues à l'article 689-1 :
+1. Tout fonctionnaire communautaire au service d'une institution des Communautés européennes ou d'un organisme créé conformément aux traités instituant les Communautés européennes et ayant son siège en France, coupable du délit prévu à l'article 435-1 du code pénal ou d'une infraction portant atteinte aux intérêts financiers des Communautés européennes au sens de la convention relative à la protection des intérêts financiers des Communautés européennes faite à Bruxelles le 26 juillet 1995 ;
+2. Tout Français ou toute personne appartenant à la fonction publique française coupable d'un des délits prévus aux articles 435-1 et 435-2 du code pénal ou d'une infraction portant atteinte aux intérêts financiers des Communautés européennes au sens de la convention relative à la protection des intérêts financiers des Communautés européennes faite à Bruxelles le 26 juillet 1995 ;
+3. Toute personne coupable du délit prévu à l'article 435-2 du code pénal ou d'une infraction portant atteinte aux intérêts financiers des Communautés européennes au sens de la convention relative à la protection des intérêts financiers des Communautés européennes faite à Bruxelles le 26 juillet 1995, lorsque ces infractions sont commises à l'encontre d'un ressortissant français.
+
+
 #### Article 689-9
 
 Pour l'application de la convention internationale pour la répression des attentats terroristes, ouverte à la signature à New York le 12 janvier 1998, peut être poursuivie et jugé dans les conditions prévues à l'article 689-1 toute personne coupable d'un crime ou d'un délit d'acte de terrorisme défini par les articles 421-1 et 421-2 du code pénal ou du délit d'association terroriste prévu par l'article 421-2-1 du même code lorsque l'infraction a été commise en employant un engin explosif ou un autre engin meurtrier défini à l'article 1er de ladite convention.
@@ -7008,7 +7016,7 @@ Dans les cas prévus au chapitre précédent, aucune poursuite ne peut être exe
 
 #### Article 693
 
-La juridiction compétente est celle du lieu où réside le prévenu, celle de sa dernière résidence connue, celle du lieu où il est trouvé, celle de la résidence de la victime ou, si l'infraction a été commise à bord ou à l'encontre d'un aéronef, celle du lieu d'atterrissage de celui-ci. Ces dispositions ne sont pas exclusives de l'application éventuelle des règles particulières de compétence prévues par les articles 697-3, 705 et 706-17.
+La juridiction compétente est celle du lieu où réside le prévenu, celle de sa dernière résidence connue, celle du lieu où il est trouvé, celle de la résidence de la victime ou, si l'infraction a été commise à bord ou à l'encontre d'un aéronef, celle du lieu d'atterrissage de celui-ci. Ces dispositions ne sont pas exclusives de l'application éventuelle des règles particulières de compétence prévues par les articles 697-3, 705, 706-1 et 706-17.
 
 Lorsque les dispositions de l'alinéa précédent ne peuvent recevoir application, la juridiction compétente est celle de Paris, à moins que la connaissance de l'affaire ne soit renvoyée à une juridiction plus voisine du lieu de l'infraction par la Cour de cassation statuant sur la requête du ministère public ou à la demande des parties.
 
