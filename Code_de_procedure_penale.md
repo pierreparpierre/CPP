@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 20 décembre 1997
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19971220)
+- Date de consolidation : 31 décembre 1997
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19971231)
 
 
 # Partie législative
@@ -7093,6 +7093,13 @@ Pour la poursuite, l'instruction et le jugement des infractions entrant dans le 
 En ce qui concerne les mineurs, le procureur de la République, le juge d'instruction, le juge des enfants, le tribunal pour enfants et la cour d'assises des mineurs de Paris exercent une compétence concurrente à celle qui résulte de l'application des dispositions de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante.
 
 Lorsqu'ils sont compétents pour la poursuite et l'instruction des infractions entrant dans le champ d'application de l'article 706-16, le procureur de la République et le juge d'instruction de Paris exercent leurs attributions sur toute l'étendue du territoire national.
+
+
+#### Article 706-17-1
+
+Pour le jugement des délits et des crimes entrant dans le champ d'application de l'article 706-16, le premier président de la cour d'appel de Paris peut, sur les réquisitions du procureur général, après avis des chefs des tribunaux de grande instance intéressés, du bâtonnier de Paris et, le cas échéant, du président de la cour d'assises de Paris, décider que l'audience du tribunal correctionnel, de la chambre des appels correctionnels de Paris ou de la cour d'assises de Paris se tiendra, à titre exceptionnel et pour des motifs de sécurité, dans tout autre lieu du ressort de la cour d'appel que celui où ces juridictions tiennent habituellement leurs audiences.
+
+L'ordonnance prise en application du précédent alinéa est portée à la connaissance des tribunaux intéressés par les soins du procureur général. Elle constitue une mesure d'administration judiciaire qui n'est pas susceptible de recours.
 
 
 #### Article 706-18
