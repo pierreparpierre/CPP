@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 26 août 2003
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20030826)
+- Date de consolidation : 27 août 2003
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20030827)
 
 
 # Partie législative
@@ -11859,10 +11859,16 @@ Les services actifs de la police nationale au sein desquels les officiers et age
 
 ###### Article R15-19
 
-Les catégories de services actifs de la police nationale au sein desquels les officiers et agents de police judiciaire exercent leurs fonctions habituelles et dont la compétence s'exerce sur le ressort d'une ou plusieurs cours d'appel ou parties de celles-ci sont les suivantes :
-1. Les services régionaux de police judiciaire et la direction régionale de police judiciaire de Paris ainsi que leurs détachements, antennes et services départementaux ;
-2. Les directions interrégionales et la direction interdépartementale du contrôle de l'immigration et de la lutte contre l'emploi des clandestins ainsi que les unités de police des chemins de fer, les brigades mobiles de recherches et les brigades de police aéronautique qui leur sont rattachées, dans la zone de défense où elles ont leur siège ;
-3. Les unités autoroutières des compagnies républicaines de sécurité pour les voies de circulation auxquelles elles sont affectées et, pour les infractions visées à l'article L. 23-1 du code de la route, les sections motocyclistes dans les départements du ressort de leur groupement d'affectation ;
+Les catégories de services actifs de la police nationale au sein desquels les officiers et agents de police judiciaire exercent leurs fonctions habituelles et dont la compétence s'exerce dans le ressort d'une ou plusieurs zones de défense ou parties de celles-ci sont les suivantes :
+1. Les directions interrégionales de la police judiciaire, ainsi que leurs services régionaux et antennes de police judiciaire et les directions régionales de la police judiciaire ainsi que leurs services départementaux et antennes de police judiciaire ;
+2. Au titre de la police aux frontières :
+
+a) Les directions zonales ainsi que les brigades des chemins de fer, les brigades mobiles de recherches, les brigades de police aéronautique et les unités d'éloignement, dans la zone de défense où leur direction zonale a son siège ;
+
+b) La direction des aérodromes Charles-de-Gaulle et Le Bourget, sur l'emprise de ces aérodromes ;
+
+c) La direction de l'aérodrome d'Orly, sur l'emprise de cet aérodrome ;
+3. Au titre de la police de la circulation : les unités autoroutières des compagnies républicaines de sécurité pour les voies de circulation auxquelles elles sont affectées et les unités motocyclistes régionales pour les infractions visées à l'article L. 130-1 du code de la route ;
 4. La direction des renseignements généraux de la préfecture de police ;
 5. L'inspection générale des services de la préfecture de police, dans les départements de Paris, des Hauts-de-Seine, du Val-de-Marne et de la Seine-Saint-Denis ;
 6. La direction de la logistique de la préfecture de police dans les départements de Paris, des Hauts-de-Seine, du Val-de-Marne et de la Seine-Saint-Denis.
@@ -11870,10 +11876,14 @@ Les catégories de services actifs de la police nationale au sein desquels les o
 
 ###### Article R15-20
 
-Les catégories de services actifs de la police nationale au sein desquels les officiers et agents de police judiciaire exercent leurs fonctions habituelles et dont la compétence s'exerce dans le ressort d'un ou de plusieurs tribunaux de grande instance d'une même cour d'appel sont les suivantes :
-1. Les sûretés départementales de sécurité publique, pour l'ensemble des circonscriptions de sécurité publique du département où elles ont leur siège ;
-2. Les services de police urbaine des circonscriptions de sécurité publique, pour l'ensemble des circonscriptions de sécurité publique du ressort du tribunal de grande instance où ils ont leur siège ;
-3. Les directions départementales du contrôle de l'immigration et de la lutte contre l'emploi des clandestins, dans le département où elles ont leur siège.
+Les catégories de services actifs de la police nationale au sein desquels les officiers et agents de police judiciaire exercent leurs fonctions habituelles et dont la compétence s'exerce dans le ressort d'un département ou d'une collectivité d'outre-mer ainsi qu'en Nouvelle-Calédonie sont les suivantes :
+1. Les sûretés départementales et les circonscriptions de sécurité publique ;
+2. A Paris, la direction de la police urbaine de proximité et la direction de l'ordre public et de la circulation de la préfecture de police ;
+3. Au titre de la police aux frontières :
+
+a) Les directions départementales ainsi que, sous réserve des dispositions du a du 2° de l'article R. 15-19, les brigades des chemins de fer, les brigades mobiles de recherche et les unités d'éloignement qui leur sont rattachées, dans le département où elles ont leur siège ;
+
+b) Les directions de la Nouvelle-Calédonie et des îles Wallis-et-Futuna, de la Polynésie française, de Saint-Pierre-et-Miquelon et de Mayotte ainsi que les brigades mobiles de recherche et les unités d'éloignement qui leur sont rattachées, dans les territoires de ces collectivités.
 
 
 ###### Article R15-21
@@ -11951,7 +11961,7 @@ La compétence territoriale des directeurs et chefs de services, des commandants
 
 ###### Article R15-29
 
-Les officiers et agents de police judiciaire appartenant aux directions interrégionales, interdépartementale ou départementales du contrôle de l'immigration et de la lutte contre l'emploi des clandestins sont compétents pour opérer sur l'ensemble du domaine ferroviaire du ressort de la direction interrégionale à laquelle ils appartiennent et des directions interrégionales ou interdépartementale limitrophes.
+Par dérogation aux dispositions du 2° de l'article R. 15-19 et du 3° de l'article R. 15-20, les officiers et agents de police judiciaire appartenant aux directions zonales ou départementales de la police aux frontières sont compétents pour opérer sur l'ensemble du domaine ferroviaire du ressort de la direction zonale à laquelle ils appartiennent et des directions zonales limitrophes.
 
 
 ###### Article R15-30
@@ -11963,7 +11973,7 @@ Toutefois, les officiers et agents de police judiciaire appartenant au service d
 
 ###### Article R15-31
 
-Les officiers et agents de police judiciaire affectés à la direction régionale de la police judiciaire de la préfecture de police et au service régional de la police judiciaire de Versailles sont compétents pour opérer sur l'ensemble des lignes, stations, gares, arrêts et couloirs des transports en commun de la région Ile-de-France.
+Les officiers et agents de police judiciaire affectés aux directions régionales de la police judiciaire de Paris et de Versailles sont compétents pour exercer leur mission sur l'ensemble des lignes, stations, gares, arrêts et couloirs des transports en commun de la région Ile-de-France.
 
 
 ###### Paragraphe 2 : Des officiers et agents de police judiciaire de la gendarmerie nationale
@@ -16025,12 +16035,12 @@ Le magistrat compétent apprécie souverainement, dans chaque cas d'espèce, en 
 
 Qu'ils appartiennent à la police nationale ou à la gendarmerie nationale, les officiers de police judiciaire s'avisent réciproquement dans les meilleurs délais de tout fait paraissant constituer un crime ou délit d'un caractère particulier en raison de son objet, des circonstances de sa commission ou de son auteur présumé, dès lors qu'il est susceptible d'être mis en rapprochement avec des faits de même nature qui auraient déjà été constatés ou qui pourraient être imputés aux personnes mises en cause dans des affaires similaires.
 
-Lorsqu'un tel fait est de nature à susciter des investigations entrant dans le champ d'application de l'article D. 4, ces officiers de police judiciaire le portent sans délai à la connaissance des services relevant de la direction centrale de la police judiciaire ou, lorsqu'il relève du domaine de compétence de l'office central mentionné au 8° de l'article D. 8-1, de la direction centrale du contrôle de l'immigration et de la lutte contre l'emploi des clandestins.
+Lorsqu'un tel fait est de nature à susciter des investigations entrant dans le champ d'application de l'article D. 4, ces officiers de police judiciaire le portent sans délai à la connaissance des services relevant de la direction centrale de la police judiciaire ou, lorsqu'il relève du domaine de compétence de l'office central mentionné au 8° de l'article D. 8-1, de la direction centrale de la police aux frontières.
 
 
 ##### Article D4
 
-Le magistrat fait appel aux officiers de police judiciaire relevant de la direction centrale de la police judiciaire ou de la direction centrale du contrôle de l'immigration et de la lutte contre l'emploi des clandestins dans les cas de nécessité, en tenant compte des possibilités que procurent à l'officier de police judiciaire premier saisi sa rapidité d'intervention, ses sources d'information, sa connaissance de l'affaire et du milieu humain.
+Le magistrat fait appel aux officiers de police judiciaire relevant de la direction centrale de la police judiciaire ou de la direction centrale de la police aux frontières dans les cas de nécessité, en tenant compte des possibilités que procurent à l'officier de police judiciaire premier saisi sa rapidité d'intervention, ses sources d'information, sa connaissance de l'affaire et du milieu humain.
 
 Le concours de ces officiers de police judiciaire peut se révéler indispensable lorsque la poursuite de l'enquête exige :
 - soit une compétence technique particulière notamment dans les domaines relevant des offices centraux de police judiciaire énumérés à l'article D. 8-1 ; ces derniers assurent en outre, chaque fois que nécessaire, la coordination entre les services de police et les unités de gendarmerie ;
@@ -16071,9 +16081,9 @@ L'interprétation des résultats des opérations de police technique et scientif
 Dans le cadre des textes législatifs et réglementaires ou des accords interministériels en vigueur :
 1. La police nationale et la gendarmerie nationale s'attachent à organiser et à mettre en oeuvre la convergence de leurs systèmes centraux de documentation criminelle.
 
-Les services de police et les unités de gendarmerie adressent aux services relevant de la direction centrale de la police judiciaire ou, lorsqu'ils entrent dans le domaine de compétence de l'office central mentionné au 8° de l'article D. 8-1, de la direction centrale du contrôle de l'immigration et de la lutte contre l'emploi des clandestins les renseignements relatifs à la délinquance et à la criminalité susceptibles d'être exploités dans un but de centralisation, de classification ou de diffusion (avis, fiches, statistiques).
+Les services de police et les unités de gendarmerie adressent aux services relevant de la direction centrale de la police judiciaire ou, lorsqu'ils entrent dans le domaine de compétence de l'office central mentionné au 8° de l'article D. 8-1, de la direction centrale de la police aux frontières les renseignements relatifs à la délinquance et à la criminalité susceptibles d'être exploités dans un but de centralisation, de classification ou de diffusion (avis, fiches, statistiques).
 
-La direction centrale de la police judiciaire et la direction centrale du contrôle de l'immigration et de la lutte contre l'emploi des clandestins transmettent aux autres services de la police nationale ainsi qu'à la gendarmerie nationale par tout moyen, toutes indications utiles à l'identification ou à la recherche de malfaiteurs. Le service de police ou l'unité de gendarmerie qui est à l'origine d'une demande de diffusion doit figurer parmi les autorités à prévenir dès la découverte des individus recherchés.
+La direction centrale de la police judiciaire et la direction centrale de la police aux frontières transmettent aux autres services de la police nationale ainsi qu'à la gendarmerie nationale par tout moyen, toutes indications utiles à l'identification ou à la recherche de malfaiteurs. Le service de police ou l'unité de gendarmerie qui est à l'origine d'une demande de diffusion doit figurer parmi les autorités à prévenir dès la découverte des individus recherchés.
 2. Les services de la police nationale et les unités de la gendarmerie nationale informent les offices centraux de police judiciaire et les organes de coopération internationale policière énumérés aux articles D. 8-1 et D. 8-2.
 
 Ces services ont la charge d'assurer, dans les matières relevant de leurs compétences respectives, la centralisation, la coordination et la diffusion nationales de l'information auprès des services de police et des unités de gendarmerie.
@@ -16144,7 +16154,7 @@ Lorsque le magistrat a décidé qu'une assistance territoriale est nécessaire, 
 Lorsque le magistrat n'a pas décidé qu'une assistance territoriale était nécessaire, l'officier de police judiciaire bénéficiant de l'extension de compétence doit, dans le plus bref délai et, autant que possible, avant son transport, aviser l'officier de police judiciaire en charge de la sécurité publique dans la circonscription où il doit opérer. Il mentionne cet avis dans sa procédure. Si les circonstances l'exigent, il peut être assisté par des agents de police judiciaire territorialement compétents.
 
 Dans tous les cas, l'officier de police judiciaire ayant bénéficié de l'extension de compétence informe le procureur de la République territorialement compétent du résultat de ses opérations.
-4. Lorsque les investigations portent sur un fait ayant donné lieu à l'information prévue au dernier alinéa de l'article D. 3, l'officier de police judiciaire bénéficiant de l'extension de compétence avise, selon les cas, les services relevant de la direction centrale de la police judiciaire ou de la direction centrale du contrôle de l'immigration et de la lutte contre l'emploi des clandestins.
+4. Lorsque les investigations portent sur un fait ayant donné lieu à l'information prévue au dernier alinéa de l'article D. 3, l'officier de police judiciaire bénéficiant de l'extension de compétence avise, selon les cas, les services relevant de la direction centrale de la police judiciaire ou de la direction centrale de la police aux frontières.
 
 
 ##### Section 3 : Des agents de police judiciaire
