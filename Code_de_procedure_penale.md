@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 28 mars 1997
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19970328)
+- Date de consolidation : 31 mars 1997
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19970331)
 
 
 # Partie législative
@@ -1065,6 +1065,19 @@ La demande mentionnée à l'alinéa précédent doit faire l'objet d'une déclar
 Faute par le juge d'instruction d'avoir statué dans le délai d'un mois, la partie peut saisir directement le président de la chambre d'accusation, qui statue et procède conformément aux troisième, quatrième et cinquième alinéas de l'article 186-1.
 
 
+##### Article 82
+
+Dans son réquisitoire introductif, et à toute époque de l'information par réquisitoire supplétif, le procureur de la République peut requérir du magistrat instructeur tous actes lui paraissant utiles à la manifestation de la vérité et toutes mesures de sûreté nécessaires.
+
+Il peut, à cette fin, se faire communiquer la procédure, à charge de la rendre dans les vingt-quatre heures [*délai*].
+
+S'il requiert le placement ou le maintien en détention provisoire de la personne mise en examen, ses réquisitions doivent être écrites et motivées par référence aux seules dispositions de l'article 144.
+
+Si le juge d'instruction ne suit pas les réquisitions du procureur de la République, il doit, sauf dans les cas prévus par le second alinéa de l'article 137, rendre une ordonnance motivée dans les cinq jours de ces réquisitions.
+
+A défaut d'ordonnance du juge d'instruction, le procureur de la République peut, dans les dix jours, saisir directement la chambre d'accusation.
+
+
 ##### Article 82-1
 
 Les parties peuvent, au cours de l'information, saisir le juge d'instruction d'une demande écrite et motivée tendant à ce qu'il soit procédé à leur audition ou à leur interrogatoire, à l'audition d'un témoin, à une confrontation ou à un transport sur les lieux, ou à ce qu'il soit ordonné la production par l'une d'entre elles d'une pièce utile à l'information. Cette demande doit être formée conformément aux dispositions du dixième alinéa de l'article 81.
@@ -1333,6 +1346,36 @@ Toute personne nommément visée par une plainte avec constitution de partie civ
 
 
 ##### Section 5 : Des interrogatoires et confrontations
+
+##### Article 114
+
+Les parties ne peuvent être entendues, interrogées ou confrontées, à moins qu'elles n'y renoncent expressément, qu'en présence de leurs avocats ou ces derniers dûment appelés.
+
+Les avocats sont convoqués au plus tard cinq jours ouvrables avant l'interrogatoire ou l'audition de la partie qu'ils assistent par lettre recommandée avec demande d'avis de réception, télécopie avec récépissé ou verbalement avec émargement au dossier de la procédure.
+
+La procédure est mise à leur disposition quatre jours ouvrables au plus tard avant chaque interrogatoire de la personne mise en examen ou chaque audition de la partie civile. Après la première comparution de la personne mise en examen ou la première audition de la partie civile, la procédure est également mise à tout moment à la disposition des avocats durant les jours ouvrables, sous réserve des exigences du bon fonctionnement du cabinet d'instruction. Lorsqu'il a été fait application des dispositions du dernier alinéa de l'article 80-1, la procédure est mise à la disposition de l'avocat, sous réserve des exigences du bon fonctionnement du cabinet du juge d'instruction, quinze jours après l'envoi de la lettre recommandée ou de la notification par procès-verbal, s'il n'a pas été entre-temps procédé à la première comparution.
+
+Après la première comparution ou la première audition, les avocats des parties peuvent se faire délivrer, à leurs frais, copie de tout ou partie des pièces et actes du dossier.
+
+Les avocats peuvent transmettre une reproduction des copies ainsi obtenues à leur client. Celui-ci atteste au préalable, par écrit, avoir pris connaissance des dispositions de l'alinéa suivant et de l'article 114-1.
+
+Seules les copies des rapports d'expertise peuvent être communiquées par les parties ou leurs avocats à des tiers pour les besoins de la défense.
+
+L'avocat doit donner connaissance au juge d'instruction, par déclaration à son greffier ou par lettre ayant ce seul objet et adressée en recommandé avec accusé de réception, de la liste des pièces ou actes dont il souhaite remettre une reproduction à son client.
+
+Le juge d'instruction dispose d'un délai de cinq jours ouvrables à compter de la réception de la demande pour s'opposer à la remise de tout ou partie de ces reproductions par une ordonnance spécialement motivée au regard des risques de pression sur les victimes, les personnes mises en examen, leurs avocats, les témoins, les enquêteurs, les experts ou toute autre personne concourant à la procédure.
+
+Cette décision est notifiée par tout moyen et sans délai à l'avocat. A défaut de réponse du juge d'instruction notifiée dans le délai imparti, l'avocat peut communiquer à son client la reproduction des pièces ou actes dont il avait fourni la liste. Il peut, dans les deux jours de sa notification, déférer la décision du juge d'instruction au président de la chambre d'accusation, qui statue dans un délai de cinq jours ouvrables par une décision écrite et motivée, non susceptible de recours. A défaut de réponse notifiée dans le délai imparti, l'avocat peut communiquer à son client la reproduction des pièces ou actes mentionnés sur la liste.
+
+Les modalités selon lesquelles ces documents peuvent être remis par son avocat à une personne détenue et les conditions dans lesquelles cette personne peut détenir ces documents sont déterminées par décret en Conseil d'Etat.
+
+Par dérogation aux dispositions des huitième et neuvième alinéas, l'avocat d'une partie civile dont la recevabilité fait l'objet d'une contestation ne peut transmettre à son client une reproduction des pièces ou actes de la procédure sans l'autorisation préalable du juge d'instruction, qui peut lui être notifiée par tout moyen. En cas de refus du juge d'instruction ou à défaut de réponse de ce dernier dans les cinq jours ouvrables, l'avocat peut saisir le président de la chambre d'accusation, qui statue dans un délai de cinq jours ouvrables, par une décision écrite et motivée non susceptible de recours. En l'absence d'autorisation préalable du président de la chambre d'accusation, l'avocat ne peut transmettre la reproduction de pièces ou actes de la procédure à son client.
+
+
+##### Article 114-1
+
+Sous réserve des dispositions du sixième alinéa de l'article 114, le fait, pour une partie à qui une reproduction des pièces ou actes d'une procédure d'instruction a été remise en application de cet article, de la diffuser auprès d'un tiers est puni de 25 000 F d'amende.
+
 
 ##### Article 115
 
@@ -1650,14 +1693,76 @@ Les conditions d'application du présent article sont fixées par un décret en 
 Lorsqu'une juridiction de jugement est appelée à statuer dans les cas prévus à la présente sous-section, elle le fait dans les conditions déterminées par l'article 148-2.
 
 
+###### Sous-section 2 : De la détention provisoire
+
+###### Article 144
+
+En matière criminelle et en matière correctionnelle, si la peine encourue est égale ou supérieure soit à un an d'emprisonnement en cas de délit flagrant, soit à deux ans d'emprisonnement dans les autres cas et si les obligations du contrôle judiciaire sont insuffisantes au regard des fonctions définies à l'article 137, la détention provisoire peut, à titre exceptionnel, être ordonnée ou prolongée :
+
+
+1. Lorsque la détention provisoire de la personne mise en examen est l'unique moyen de conserver les preuves ou les indices matériels ou d'empêcher soit une pression sur les témoins ou les victimes, soit une concertation frauduleuse entre personnes mises en examen et complices ;
+
+
+2. Lorsque cette détention est l'unique moyen de protéger la personne mise en examen, de garantir son maintien à la disposition de la justice, de mettre fin à l'infraction ou de prévenir son renouvellement ;
+
+
+3. Lorsque l'infraction, en raison de sa gravité, des circonstances de sa commission ou de l'importance du préjudice qu'elle a causé, a provoqué un trouble exceptionnel et persistant à l'ordre public, auquel la détention est l'unique moyen de mettre fin.
+
+
+
+La détention provisoire peut également être ordonnée, dans les conditions prévues par l'article 141-2, lorsque la personne mise en examen se soustrait volontairement aux obligations du contrôle judiciaire.
+
+
+###### Article 144-1
+
+La détention provisoire ne peut excéder une durée raisonnable, au regard de la gravité des faits reprochés à la personne mise en examen et de la complexité des investigations nécessaires à la manifestation de la vérité.
+
+Le juge d'instruction doit ordonner la mise en liberté immédiate de la personne placée en détention provisoire, selon les modalités prévues par l'article 147, dès que les conditions prévues à l'article 144 et au présent article ne sont plus remplies.
+
+
+###### Article 145
+
+En toute matière, le placement en détention provisoire est prescrit par une ordonnance spécialement motivée qui doit comporter l'énoncé des considérations de droit et de fait sur le caractère insuffisant des obligations du contrôle judiciaire et le motif de la détention par référence aux seules dispositions de l'article 144. Cette ordonnance est notifiée verbalement à la personne qui en reçoit copie intégrale contre émargement au dossier de la procédure.
+
+Le juge d'instruction qui envisage de placer en détention la personne mise en examen l'avise de son droit de disposer d'un délai pour préparer sa défense.
+
+Si cette personne n'est pas déjà assistée d'un avocat, il l'avise qu'elle a droit à l'assistance d'un avocat de son choix ou commis d'office. L'avocat choisi ou, dans le cas d'une demande de commission d'office, le bâtonnier de l'ordre des avocats en est avisé par tout moyen et sans délai ; mention de cette formalité est faite au procès-verbal.
+
+Le juge d'instruction statue en audience de cabinet, après un débat contradictoire au cours duquel il entend le ministère public qui développe ses réquisitions prises conformément au troisième alinéa de l'article 82 puis les observations de la personne mise en examen et, le cas échéant, celles de son avocat.
+
+Toutefois, le juge d'instruction ne peut ordonner immédiatement le placement en détention lorsque la personne mise en examen ou son avocat sollicite un délai pour préparer sa défense.
+
+Dans ce cas, il peut, au moyen d'une ordonnance motivée par référence aux dispositions de l'alinéa précédent et non susceptible d'appel, prescrire l'incarcération de la personne pour une durée déterminée qui ne peut en aucun cas excéder quatre jours ouvrables. Dans ce délai, il fait comparaître à nouveau la personne et, que celle-ci soit ou non assistée d'un avocat, procède comme il est dit aux deuxième et troisième alinéas. S'il n'ordonne pas le placement de la personne en détention provisoire, celle-ci est mise en liberté d'office.
+
+L'incarcération provisoire est, le cas échéant, imputée sur la durée de la détention provisoire pour l'application des articles 145-1 et 145-2. Elle est assimilée à une détention provisoire au sens de l'article 149 du présent code et de l'article 24 du code pénal (article abrogé, cf. article 716-4 du code de procédure pénale).
+
+
+###### Article 145-1
+
+En matière correctionnelle, la détention ne peut excéder quatre mois. Toutefois, à l'expiration de ce délai, le juge d'instruction peut la prolonger par une décision motivée comme il est dit à l'article 145, alinéa premier. Aucune prolongation ne peut être prescrite pour une durée de plus de quatre mois.
+
+Lorsque la personne mise en examen n'a pas déjà été condamnée pour crime ou délit de droit commun, soit à une peine criminelle, soit à une peine d'emprisonnement sans sursis d'une durée supérieure à un an et lorsqu'elle n'encourt pas une peine d'emprisonnement supérieure à cinq ans, la prolongation de la détention prévue à l'alinéa précédent ne peut être ordonnée qu'une fois et pour une durée n'excédant pas deux mois.
+
+Dans les autres cas, la personne mise en examen ne peut être maintenue en détention au-delà d'un an. Toutefois, à titre exceptionnel, et sous réserve des dispositions de l'article 145-3, le juge d'instruction peut, à l'expiration de ce délai, décider de prolonger la détention pour une durée qui ne peut être supérieure à quatre mois par une ordonnance motivée. Celle-ci est rendue conformément aux dispositions des premier et quatrième alinéas de l'article 145, l'avocat ayant été convoqué conformément aux dispositions du deuxième alinéa de l'article 114. Cette décision peut être renouvelée selon la même procédure. Néanmoins, la personne mise en examen ne peut être maintenue en détention au-delà de deux ans, lorsque la peine encourue ne dépasse pas cinq ans.
+
+Les ordonnances visées aux premier et deuxième alinéas du présent article sont rendues après avis du procureur de la République et, s'il y a lieu, observations de la personne mise en examen ou de son avocat.
+
+
 ###### Article 145-2
 
-En matière criminelle, la personne mise en examen ne peut être maintenue en détention au-delà d'un an. Toutefois, le juge d'instruction peut, à l'expiration de ce délai, prolonger la détention pour une durée qui ne peut être supérieure à un an par une décision rendue conformément aux dispositions des premier et quatrième alinéas de l'article 145, l'avocat ayant été convoqué conformément aux dispositions du deuxième alinéa de l'article 114. Cette décision peut être renouvelée selon la même procédure.
+En matière criminelle, la personne mise en examen ne peut être maintenue en détention au-delà d'un an. Toutefois, sous réserve des dispositions de l'article 145-3, le juge d'instruction peut, à l'expiration de ce délai, prolonger la détention pour une durée qui ne peut être supérieure à six mois par une décision rendue conformément aux dispositions des premier et quatrième alinéas de l'article 145, l'avocat ayant été convoqué conformément aux dispositions du deuxième alinéa de l'article 114. Cette décision peut être renouvelée selon la même procédure.
 
 Les dispositions du présent article sont applicables jusqu'à l'ordonnance de règlement.
 
 
 ###### Article 145-3
+
+Lorsque la durée de la détention provisoire excède un an en matière criminelle ou huit mois en matière délictuelle, les décisions ordonnant sa prolongation ou rejetant les demandes de mise en liberté doivent aussi comporter les indications particulières qui justifient en l'espèce la poursuite de l'information et le délai prévisible d'achèvement de la procédure.
+
+Le juge d'instruction n'est toutefois pas tenu d'indiquer la nature des investigations auxquelles il a l'intention de procéder lorsque cette indication risquerait d'entraver l'accomplissement de ces investigations.
+
+
+###### Article 145-4
 
 Lorsque la personne mise en examen est placée en détention provisoire, le juge d'instruction peut prescrire à son encontre l'interdiction de communiquer pour une période de dix jours. Cette mesure peut être renouvelée, mais pour une nouvelle période de dix jours seulement. En aucun cas, l'interdiction de communiquer ne s'applique à l'avocat de la personne mise en examen.
 
@@ -1665,10 +1770,8 @@ Sous réserve des dispositions qui précèdent, toute personne placée en déten
 
 A l'expiration d'un délai d'un mois à compter du placement en détention provisoire, le juge d'instruction ne peut refuser de délivrer un permis de visite à un membre de la famille de la personne détenue que par une décision écrite et spécialement motivée au regard des nécessités de l'instruction.
 
-Cette décision est notifiée par tout moyen et sans délai au demandeur. Ce dernier peut la déférer au président de la chambre de l'instruction qui statue dans un délai de cinq jours par une décision écrite et motivée non susceptible de recours. Lorsqu'il infirme la décision du juge d'instruction, le président de la chambre de l'instruction délivre le permis de visite.
+Cette décision est notifiée par tout moyen et sans délai au demandeur. Ce dernier peut la déférer au président de la chambre d'accusation qui statue dans un délai de cinq jours par une décision écrite et motivée non susceptible de recours. Lorsqu'il infirme la décision du juge d'instruction, le président de la chambre d'accusation délivre le permis de visite.
 
-
-###### Sous-section 2 : De la détention provisoire
 
 ###### Article 146
 
@@ -1764,6 +1867,11 @@ Lorsque le président de la chambre d'accusation constate que cette juridiction 
 
 
 ###### Sous-section 3 : De l'indemnisation à raison d'une détention provisoire
+
+###### Article 149
+
+Sans préjudice de l'application des dispositions des articles 505 et suivants du code de procédure civile, une indemnité peut être accordée à la personne ayant fait l'objet d'une détention provisoire au cours d'une procédure terminée à son égard par une décision de non-lieu, de relaxe ou d'acquittement devenue définitive, lorsque cette détention lui a causé un préjudice.
+
 
 ###### Article 149-1
 
@@ -2072,7 +2180,7 @@ Si le juge estime que les faits constituent un délit, il prononce, par ordonnan
 
 L'ordonnance de règlement met fin à la détention provisoire ou au contrôle judiciaire.
 
-Toutefois, le juge d'instruction peut, par ordonnance distincte spécialement motivée, maintenir le prévenu en détention ou sous contrôle judiciaire jusqu'à sa comparution devant le tribunal. En cas de maintien en détention provisoire, les éléments de l'espèce expressément énoncés dans l'ordonnance doivent justifier cette mesure particulière par la nécessité d'empêcher une pression sur les témoins ou les victimes, de prévenir le renouvellement de l'infraction, de protéger le prévenu, de garantir son maintien à la disposition de la justice ou de préserver l'ordre public du trouble causé par l'infraction.
+Toutefois, le juge d'instruction peut, par ordonnance distincte spécialement motivée, maintenir le prévenu en détention ou sous contrôle judiciaire jusqu'à sa comparution devant le tribunal. En cas de maintien en détention provisoire, les éléments de l'espèce expressément énoncés dans l'ordonnance doivent justifier cette mesure particulière par la nécessité d'empêcher une pression sur les témoins ou les victimes, de prévenir le renouvellement de l'infraction, de protéger le prévenu ou de garantir son maintien à la disposition de la justice. La même ordonnance peut également être prise lorsque l'infraction, en raison de sa gravité, des circonstances de sa commission ou de l'importance du préjudice qu'elle a causé, a provoqué un trouble exceptionnel et persistant à l'ordre public auquel le maintien en détention provisoire demeure l'unique moyen de mettre fin.
 
 L'ordonnance prescrivant le maintien en détention provisoire cesse de produire effet à l'expiration d'un délai de deux mois.
 
@@ -2168,6 +2276,23 @@ Lorsqu'il est interjeté appel d'une ordonnance autre qu'une ordonnance de règl
 Il en est de même lorsque la chambre d'accusation est saisie d'une requête en nullité en application de l'article 173.
 
 
+##### Article 187-1
+
+En cas d'appel d'une ordonnance de placement en détention provisoire, la personne mise en examen ou le procureur de la République peut, si l'appel est interjeté au plus tard le jour suivant la décision de placement en détention, demander au président de la chambre d'accusation ou, en cas d'empêchement, au magistrat   t qui le remplace, d'examiner immédiatement son appel sans attendre l'audience de la chambre d'accusation. Cette demande doit, à peine d'irrecevabilité, être formée en même temps que l'appel devant la chambre d'accusation. La personne mise en examen, son avocat ou le procureur de la République peut joindre toutes observations écrites à l'appui de la demande. A sa demande, l'avocat de la personne mise en examen présente oralement des observations devant le président de la chambre d'accusation ou le magistrat qui le remplace, lors d'une audience de cabinet dont est avisé le ministère public pour qu'il y prenne, le cas échéant, ses réquisitions, l'avocat ayant la parole en dernier.
+
+Le président de la chambre d'accusation ou le magistrat qui le remplace statue au plus tard le troisième jour ouvrable suivant la demande, au vu des éléments du dossier de la procédure, par une ordonnance non motivée qui n'est pas susceptible de recours.
+
+Le président de la chambre d'accusation ou le magistrat qui le remplace peut, s'il estime que les conditions prévues par l'article 144 ne sont pas remplies, infirmer l'ordonnance du juge d'instruction et ordonner la remise en liberté de la personne. La chambre d'accusation est alors dessaisie.
+
+Dans le cas contraire, il doit renvoyer l'examen de l'appel à la chambre d'accusation.
+
+S'il infirme l'ordonnance du juge d'instruction, le président de la chambre d'accusation ou le magistrat qui le remplace peut ordonner le placement sous contrôle judiciaire de la personne mise en examen.
+
+Si l'examen de l'appel est renvoyé à la chambre d'accusation, la décision est portée à la connaissance du procureur général. Elle est notifiée à la personne mise en examen par le greffe de l'établissement pénitentiaire qui peut, le cas échéant, recevoir le désistement d'appel de cette dernière.
+
+La déclaration d'appel et la demande prévue au premier alinéa du présent article peuvent être constatées par le juge d'instruction à l'issue du débat contradictoire prévu par le quatrième alinéa de l'article 145. Pour l'application du deuxième alinéa du présent article, la transmission du dossier de la procédure au président de la chambre d'accusation peut être effectuée par télécopie.
+
+
 ##### Section 13 : De la reprise de l'information sur charges nouvelles
 
 ##### Article 188
@@ -2261,121 +2386,6 @@ La chambre de l'instruction statue par un arrêt rendu dans les deux mois de l'o
 L'accusé qui se trouve en liberté doit se constituer prisonnier au plus tard la veille de l'audience de la cour d'assises. Jusqu'à ce qu'il se constitue prisonnier, le contrôle judiciaire continue à produire ses effets.
 
 L'ordonnance de prise de corps est exécutée si, dûment convoqué par la voie administrative au greffe de la cour d'assises et sans motif légitime d'excuse, l'accusé ne se présente pas au jour fixé pour être interrogé par le président de la cour d'assises. Il en est de même dans le cas prévu à l'article 141-2.
-
-
-#### Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré
-
-##### Section 1 : Dispositions générales
-
-##### Article 82
-
-Dans son réquisitoire introductif, et à toute époque de l'information par réquisitoire supplétif, le procureur de la République peut requérir du magistrat instructeur tous actes lui paraissant utiles à la manifestation de la vérité et toutes mesures de sûreté nécessaires.
-
-
-
-Il peut, à cette fin, se faire communiquer la procédure, à charge de la rendre dans les vingt-quatre heures.
-
-
-
-Si le juge d'instruction ne suit pas les réquisitions du procureur de la République, il doit, sauf dans les cas prévus par le second alinéa de l'article 137, rendre une ordonnance motivée dans les cinq jours de ces réquisitions.
-
-
-
-A défaut d'ordonnance du juge d'instruction, le procureur de la République peut, dans les dix jours, saisir directement la chambre d'accusation.
-
-
-##### Section 5 : Des interrogatoires et confrontations
-
-##### Article 114
-
-Les parties ne peuvent être entendues, interrogées ou confrontées, à moins qu'elles n'y renoncent expressément, qu'en présence de leurs avocats ou ces derniers dûment appelés.
-
-Les avocats sont convoqués au plus tard cinq jours ouvrables avant l'interrogatoire ou l'audition de la partie qu'ils assistent par lettre recommandée avec demande d'avis de réception, télécopie avec récépissé ou verbalement avec émargement au dossier de la procédure.
-
-La procédure est mise à leur disposition quatre jours ouvrables au plus tard avant chaque interrogatoire de la personne mise en examen ou chaque audition de la partie civile. Après la première comparution de la personne mise en examen ou la première audition de la partie civile, la procédure est également mise à tout moment à la disposition des avocats durant les jours ouvrables, sous réserve des exigences du bon fonctionnement du cabinet d'instruction. Lorsqu'il a été fait application des dispositions du dernier alinéa de l'article 80-1, la procédure est mise à la disposition de l'avocat, sous réserve des exigences du bon fonctionnement du cabinet du juge d'instruction, quinze jours après l'envoi de la lettre recommandée ou de la notification par procès-verbal, s'il n'a pas été entre-temps procédé à la première comparution.
-
-Après la première comparution ou la première audition, les avocats des parties peuvent se faire délivrer, à leurs frais, copie de tout ou partie des pièces et actes du dossier pour leur usage exclusif et sans pouvoir en établir de reproduction.
-
-
-##### Section 7 : Du contrôle judiciaire et de la détention provisoire
-
-###### Sous-section 1 : Du contrôle judiciaire
-
-###### Article 144
-
-En matière correctionnelle et en matière criminelle, si la peine encourue est égale ou supérieure à deux ans d'emprisonnement et si les obligations du contrôle judiciaire sont insuffisantes au regard des fonctions définies à l'article 137, la détention provisoire peut être ordonnée ou prolongée :
-
-
-1. Lorsque la détention provisoire de la personne mise en examen est l'unique moyen de conserver les preuves ou les indices matériels ou d'empêcher soit une pression sur les témoins ou les victimes, soit une concertation frauduleuse entre personnes mises en examen et complices ;
-
-
-2. Lorsque cette détention est nécessaire pour protéger la personne concernée, pour mettre fin à l'infraction ou prévenir son renouvellement, pour garantir le maintien de la personne concernée à la disposition de la justice ou pour préserver l'ordre public du trouble causé par l'infraction.
-
-
-
-La détention provisoire peut également être ordonnée, dans les conditions prévues par l'article 141-2, lorsque la personne mise en examen se soustrait volontairement aux obligations du contrôle judiciaire.
-
-
-###### Article 145
-
-En toute matière, le placement en détention provisoire est prescrit par une ordonnance qui doit comporter l'énoncé des considérations de droit et de fait qui constituent le fondement de cette décision par référence aux seules dispositions de l'article 144. Cette ordonnance est notifiée verbalement à la personne qui en reçoit copie intégrale contre émargement au dossier de la procédure.
-
-
-
-Le juge d'instruction qui envisage de placer en détention la personne mise en examen l'avise de son droit de disposer d'un délai pour préparer sa défense.
-
-
-
-Si cette personne n'est pas déjà assistée d'un avocat, il l'avise qu'elle a droit à l'assistance d'un avocat de son choix ou commis d'office. L'avocat choisi ou, dans le cas d'une demande de commission d'office, le bâtonnier de l'ordre des avocats en est avisé par tout moyen et sans délai ; mention de cette formalité est faite au procès-verbal.
-
-
-
-Le juge d'instruction statue en audience de cabinet, après un débat contradictoire au cours duquel il entend les réquisitions du ministère public, puis les observations de la personne mise en examen et, le cas échéant, celles de son avocat.
-
-
-
-Toutefois, le juge d'instruction ne peut ordonner immédiatement le placement en détention lorsque la personne mise en examen ou son avocat sollicite un délai pour préparer sa défense.
-
-
-
-Dans ce cas, il peut, au moyen d'une ordonnance motivée par référence aux dispositions de l'alinéa précédent et non susceptible d'appel, prescrire l'incarcération de la personne pour une durée déterminée qui ne peut en aucun cas excéder quatre jours ouvrables. Dans ce délai, il fait comparaître à nouveau la personne et, que celle-ci soit ou non assistée d'un avocat, procède comme il est dit aux deuxième et troisième alinéas. S'il n'ordonne pas le placement de la personne en détention provisoire, celle-ci est mise en liberté d'office.
-
-
-
-L'incarcération provisoire est, le cas échéant, imputée sur la durée de la détention provisoire pour l'application des articles 145-1 et 145-2. Elle est assimilée à une détention provisoire au sens de l'article 149 du présent code et de l'article 24 du code pénal.
-
-
-###### Sous-section 2 : De la détention provisoire
-
-###### Article 145-1
-
-En matière correctionnelle, la détention ne peut excéder quatre mois. Toutefois, à l'expiration de ce délai, le juge d'instruction peut la prolonger par une décision motivée comme il est dit à l'article 145, alinéa premier. Aucune prolongation ne peut être prescrite pour une durée de plus de quatre mois.
-
-Lorsque la personne mise en examen n'a pas déjà été condamnée pour crime ou délit de droit commun, soit à une peine criminelle, soit à une peine d'emprisonnement sans sursis d'une durée supérieure à un an et lorsqu'elle n'encourt pas une peine d'emprisonnement supérieure à cinq ans, la prolongation de la détention prévue à l'alinéa précédent ne peut être ordonnée qu'une fois et pour une durée n'excédant pas deux mois.
-
-Dans les autres cas, la personne mise en examen ne peut être maintenue en détention au-delà d'un an. Toutefois, à titre exceptionnel, le juge d'instruction peut, à l'expiration de ce délai, décider de prolonger la détention pour une durée qui ne peut être supérieure à quatre mois par une ordonnance motivée. Celle-ci est rendue conformément aux dispositions des premier et quatrième alinéas de l'article 145, l'avocat ayant été convoqué conformément aux dispositions du deuxième alinéa de l'article 114. Cette décision peut être renouvelée selon la même procédure. Néanmoins, la personne mise en examen ne peut être maintenue en détention au-delà de deux ans, lorsque la peine encourue ne dépasse pas cinq ans.
-
-Les ordonnances visées aux premier et deuxième alinéas du présent article sont rendues après avis du procureur de la République et, s'il y a lieu, observations de la personne mise en examen ou de son avocat.
-
-
-###### Sous-section 3 : De l'indemnisation à raison d'une détention provisoire
-
-###### Article 149
-
-Sans préjudice de l'application des dispositions des articles 505 et suivants du Code de procédure civile, une indemnité peut être accordée à la personne ayant fait l'objet d'une détention provisoire au cours d'une procédure terminée à son égard par une décision de non-lieu, de relaxe ou d'acquittement devenue définitive, lorsque cette détention lui a causé un préjudice manifestement anormal et d'une particulière gravité.
-
-
-##### Section 12 : De l'appel des ordonnances du juge d'instruction
-
-##### Article 187-1
-
-En cas d'appel d'une ordonnance de placement en détention provisoire, la personne mise en examen ou le procureur de la République peut, si l'appel est interjeté au plus tard le jour suivant la décision de placement en détention, demander au président de la chambre d'accusation ou, en cas d'empêchement, au magistrat   t qui le remplace de déclarer cet appel suspensif. Cette demande doit, à peine d'irrecevabilité, être formée en même temps que l'appel. L'avocat de la personne mise en examen ou le procureur de la République peut joindre toutes observations écrites à l'appui de la demande.
-
-Le président de la chambre d'accusation ou le magistrat qui le remplace statue au plus tard le troisième jour ouvrable suivant la demande, au vu des éléments du dossier de la procédure, par une ordonnance non motivée qui n'est pas susceptible de recours.
-
-Si le président de la chambre d'accusation ou le magistrat qui le remplace estime qu'il n'est manifestement pas nécessaire que la personne mise en examen soit détenue jusqu'à ce qu'il soit statué sur l'appel, il ordonne la suspension des effets du mandat de dépôt jusqu'à l'intervention de la décision de cette juridiction et la personne est alors remise en liberté. Si ce magistrat ne fait pas droit à la demande, sa décision est notifiée à la personne mise en examen par le greffe de l'établissement pénitentiaire qui peut, le cas échéant, recevoir le désistement d'appel de cette dernière.
-
-La déclaration d'appel et la demande prévue au premier alinéa du présent article peuvent être constatées par le juge d'instruction à l'issue du débat contradictoire prévu par le quatrième alinéa de l'article 145. Pour l'application du deuxième alinéa du présent article, la transmission du dossier de la procédure au président de la chambre d'accusation peut être effectuée par télécopie.
 
 
 #### Chapitre II : De la chambre d'accusation : juridiction d'instruction du second degré
@@ -2564,6 +2574,11 @@ En cas d'empêchement de ce président, ses pouvoirs propres sont attribués, pa
 Le président peut déléguer tout ou partie de ses pouvoirs à un magistrat du siège de la chambre d'accusation et, dans les cours où il existe plusieurs chambres d'accusation, à un magistrat du siège d'une autre chambre d'accusation après accord du président de cette chambre. Il peut également déléguer tout ou partie de ses pouvoirs à un premier vice-président du tribunal de grande instance désigné par le président de ce tribunal.
 
 
+##### Article 220
+
+Le président de la chambre d'accusation s'assure du bon fonctionnement des cabinets d'instruction du ressort de la cour d'appel. Il vérifie notamment les conditions d'application des alinéas 4 et 5 de l'article 81 et de l'article 144 et s'emploie à ce que les procédures ne subissent aucun retard injustifié. Chaque fois qu'il le juge nécessaire et au moins une fois par an, il transmet ses observations écrites au premier président de la cour d'appel, au procureur général près ladite cour ainsi qu'au président du tribunal de grande instance concerné et au procureur de la République près ledit tribunal.
+
+
 ##### Article 221
 
 A cette fin, il est établi, chaque trimestre, dans chaque cabinet d'instruction, un état de toutes les affaires en cours portant mention, pour chacune des affaires, de la date du dernier acte d'information exécuté.
@@ -2578,6 +2593,19 @@ Les états prévus par le présent article sont adressés au président de la ch
 Lorsqu'un délai de quatre mois s'est écoulé depuis la date du dernier acte d'instruction nécessaire à la manifestation de la vérité, le président de la chambre d'accusation peut, par requête, saisir cette juridiction. La chambre d'accusation peut, dans l'intérêt d'une bonne administration de la justice, soit évoquer et procéder dans les conditions prévues par les articles 201, 202, 204 et 205, soit renvoyer le dossier au juge d'instruction ou à tel autre afin de poursuivre l'information.
 
 
+##### Article 221-2
+
+Lorsqu'un délai de quatre mois s'est écoulé depuis la date du dernier acte d'instruction, les parties peuvent saisir la chambre d'accusation dans les conditions prévues par le troisième alinéa de l'article 173. Ce délai est ramené à deux mois au profit de la personne mise en examen lorsque celle-ci est placée en détention provisoire.
+
+Dans les huit jours de la réception du dossier par le greffe de la chambre d'accusation, le président peut, par ordonnance motivée non susceptible de recours, décider qu'il n'y a pas lieu de saisir la chambre d'accusation.
+
+La chambre d'accusation, lorsqu'elle est saisie, peut, soit évoquer et procéder dans les conditions prévues par les articles 201, 202, 204 et 205, soit renvoyer le dossier au juge d'instruction ou à tel autre afin de poursuivre l'information.
+
+Si, dans les deux mois suivant le renvoi du dossier au juge d'instruction initialement saisi, aucun acte d'instruction n'a été accompli, la chambre d'accusation peut être à nouveau saisie selon la procédure prévue aux premier et deuxième alinéas du présent article. Ce délai est ramené à un mois au profit de la personne mise en examen lorsque celle-ci est placée en détention provisoire.
+
+La chambre d'accusation doit alors, soit évoquer comme il est dit au troisième alinéa du présent article, soit renvoyer le dossier à un autre juge d'instruction afin de poursuivre l'information.
+
+
 ##### Article 222
 
 Le président, chaque fois qu'il l'estime nécessaire et au moins une fois par trimestre, visite les maisons d'arrêt du ressort de la cour d'appel et y vérifie la situation des personnes mises en examen en état de détention provisoire.
@@ -2586,13 +2614,6 @@ Le président, chaque fois qu'il l'estime nécessaire et au moins une fois par t
 ##### Article 223
 
 Il peut saisir la chambre d'accusation, afin qu'il soit par elle statué sur le maintien en détention d'une personne mise en examen en état de détention provisoire.
-
-
-##### Section 2 : Des pouvoirs propres du président de la chambre d'accusation
-
-##### Article 220
-
-Le président de la chambre d'accusation s'assure du bon fonctionnement des cabinets d'instruction du ressort de la cour d'appel. Il vérifie notamment les conditions d'application des alinéas 4 et 5 de l'article 81 et s'emploie à ce que les procédures ne subissent aucun retard injustifié.
 
 
 ##### Section 3 : Du contrôle de l'activité des officiers et agents de police judiciaire
@@ -4022,7 +4043,7 @@ Dans le cas prévu par l'article précédent, si la réunion du tribunal est imp
 
 Le président du tribunal ou le juge, après avoir recueilli les déclarations du prévenu, son avocat ayant été avisé, et après avoir fait procéder, s'il y a lieu, aux vérifications prévues par le sixième alinéa de l'article 41, statue sur les réquisitions du ministère public aux fins de détention provisoire, après avoir recueilli les observations éventuelles du prévenu ou de son avocat ; l'ordonnance rendue n'est pas susceptible d'appel.
 
-Il peut placer le prévenu en détention provisoire jusqu'à sa comparution devant le tribunal. L'ordonnance prescrivant la détention est rendue suivant les modalités prévues par les articles 135 et 145-1, quatrième alinéa, et doit comporter l'énoncé des considérations de droit et de fait qui constituent le fondement de la décision par référence aux dispositions des 1° et 2° de l'article 144. Cette décision énonce les faits retenus et saisit le tribunal ; elle est notifiée verbalement au prévenu et mentionnée au procès-verbal dont copie lui est remise sur-le-champ. Le prévenu doit comparaître devant le tribunal au plus tard le deuxième jour ouvrable suivant. A défaut, il est mis d'office en liberté.
+Il peut placer le prévenu en détention provisoire jusqu'à sa comparution devant le tribunal. L'ordonnance prescrivant la détention est rendue suivant les modalités prévues par les articles 135 et 145-1, quatrième alinéa, et doit comporter l'énoncé des considérations de droit et de fait qui constituent le fondement de la décision par référence aux dispositions des 1°, 2° et 3° de l'article 144. Cette décision énonce les faits retenus et saisit le tribunal ; elle est notifiée verbalement au prévenu et mentionnée au procès-verbal dont copie lui est remise sur-le-champ. Le prévenu doit comparaître devant le tribunal au plus tard le deuxième jour ouvrable suivant. A défaut, il est mis d'office en liberté.
 
 Si le président du tribunal ou le juge estime que la détention provisoire n'est pas nécessaire, le ministère public procède comme il est dit à l'article 394.
 
@@ -4054,7 +4075,7 @@ Le tribunal statue au préalable sur le maintien du prévenu en détention provi
 
 Dans tous les cas prévus par le présent paragraphe, le tribunal peut, conformément aux dispositions de l'article 141-1, placer ou maintenir le prévenu sous contrôle judiciaire. Cette décision est exécutoire par provision.
 
-Dans les cas prévus par les articles 395 et suivants, le tribunal peut également placer ou maintenir le prévenu en détention provisoire par décision spécialement motivée. La décision prescrivant la détention est rendue suivant les modalités prévues par les articles 135, 145, alinéa premier, 145-1, quatrième alinéa et 464-1 et est motivée par référence aux dispositions des 1. et 2. de l'article 144. Elle est exécutoire par provision.
+Dans les cas prévus par les articles 395 et suivants, le tribunal peut également placer ou maintenir le prévenu en détention provisoire par décision spécialement motivée. La décision prescrivant la détention est rendue suivant les modalités prévues par les articles 135, 145, alinéa premier, 145-1, quatrième alinéa et 464-1 et est motivée par référence aux dispositions des 1°, 2° et 3° de l'article 144. Elle est exécutoire par provision.
 
 Lorsque le prévenu est en détention provisoire, le jugement au fond doit être rendu dans les deux mois qui suivent le jour de sa première comparution devant le tribunal. Faute de décision au fond à l'expiration de ce délai, il est mis fin à la détention provisoire. Le prévenu, s'il n'est pas détenu pour autre cause, est mis d'office en liberté.
 
@@ -7113,21 +7134,6 @@ Dans le cas où la prolongation est décidée, un examen médical est de droit. 
 
 Par dérogation aux dispositions de l'article 76, si les nécessités de l'enquête relatives à l'une des infractions entrant dans le champ d'application de l'article 706-16 l'exigent, le président du tribunal de grande instance ou le juge délégué par lui peut, à la requête du procureur de la République, décider que les perquisitions, visites domiciliaires et saisies de pièces à conviction pourront être faites sans l'assentiment de la personne chez laquelle elles ont lieu.
 
-[Les trois premiers alinéas de l'article 10 sont déclarés non conformes à la Constitution par décision du Conseil constitutionnel n° 96-377 DC du 16 juillet 1996 dans la mesure où ils visent les cas d'enquête préliminaire.]
-
-Si les nécessités de l'enquête [Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 96-377 DC du 16 juillet 1996] l'exigent, les visites, perquisitions et saisies peuvent être opérées en dehors des heures prévues par l'article 59.
-
-Les opérations prévues à l'alinéa précédent doivent, à peine de nullité, être autorisées sur requête du procureur de la République par le président du tribunal de grande instance ou le juge délégué par lui, [Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 96-377 DC du 16 juillet 1996] les autorisations sont données pour des perquisitions déterminées. Chaque autorisation fait l'objet d'une décision écrite, précisant la qualification de l'infraction dont la preuve est recherchée ainsi que l'adresse des lieux dans lesquels les visites, perquisitions et saisies peuvent être effectuées, et motivée par référence aux éléments de fait justifiant que ces opérations sont nécessaires. Celles-ci sont effectuées sous le contrôle du magistrat qui les a autorisées, et qui peut se déplacer sur les lieux pour veiller au respect des dispositions légales.
-
-Ces opérations ne peuvent, à peine de nullité, avoir un autre objet que la recherche et la constatation des infractions entrant dans le champ d'application de l'article 706-16.
-
-Pour l'application des dispositions du présent article, le président du tribunal de grande instance est le président du tribunal de grande instance dans le ressort duquel les opérations sont effectuées ou le président du tribunal de grande instance de Paris, ce dernier exerçant alors ses attributions sur toute l'étendue du territoire national.
-
-
-#### Article 706-24
-
-Par dérogation aux dispositions de l'article 76, si les nécessités de l'enquête relatives à l'une des infractions entrant dans le champ d'application de l'article 706-16 l'exigent, le président du tribunal de grande instance ou le juge délégué par lui peut, à la requête du procureur de la République, décider que les perquisitions, visites domiciliaires et saisies de pièces à conviction pourront être faites sans l'assentiment de la personne chez laquelle elles ont lieu.
-
 (Les trois premiers alinéas de l'article 10 sont déclarés non conformes à la Constitution par décision du Conseil constitutionnel n° 96-377 DC du 16 juillet 1996 dans la mesure où ils visent les cas d'enquête préliminaire).
 
 Si les nécessités de l'enquête (Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 96-377 DC du 16 juillet 1996) de flagrance l'exigent, les visites, perquisitions et saisies peuvent être opérées en dehors des heures prévues par l'article 59.
@@ -9932,6 +9938,42 @@ La somme consignée est remise à la partie civile sur simple récépissé lorsq
 
 En cas de condamnation à une amende civile, la somme consignée est employée au paiement de celle-ci.
 
+
+##### Section 4
+
+##### Section 5 : De la remise de la reproduction des pièces d'une procédure d'instruction à une personne détenue
+
+##### Article R15-42
+
+Les reproductions des copies de pièces ou actes d'une procédure d'instruction que l'avocat d'une personne détenue transmet à cette dernière en application de l'article 114 doivent être adressées au greffe de l'établissement pénitentiaire par envoi recommandé avec demande d'avis de réception ou par remise directe contre récépissé.
+
+
+##### Article R15-43
+
+Le greffe de l'établissement pénitentiaire doit, dans les trois jours ouvrables qui suivent la réception des documents, les remettre au détenu concerné après lui avoir donné connaissance des dispositions du sixième alinéa de l'article 114 et de l'article 114-1. Le détenu atteste par écrit avoir pris connaissance de ces dispositions.
+
+Cette attestation ainsi que la notification écrite de remise des pièces au détenu sont transmises dans les meilleurs délais au juge d'instruction et à l'avocat du détenu.
+
+
+##### Article R15-44
+
+Par dérogation aux dispositions de l'article R. 15-43, le juge d'instruction saisi d'une demande de remise de reproductions à une partie, en application des huitième ou onzième alinéas de l'article 114, peut subordonner l'autorisation de remise à la condition que ces documents soient conservés au greffe de l'établissement pénitentiaire sous réserve du droit du détenu de les consulter selon les modalités fixées par l'article R. 15-45.
+
+Cette décision est notifiée à l'avocat conformément aux dispositions du neuvième alinéa de l'article 114. Le juge d'instruction en informe sans délai l'établissement pénitentiaire.
+
+En outre, même lorsque le juge d'instruction n'a pas prescrit de conditions particulières de remise des pièces, les documents sont conservés au greffe de l'établissement pénitentiaire lorsque le détenu le demande et après qu'il les a consultés.
+
+
+##### Article R15-45
+
+Lorsqu'il a été fait application des dispositions de l'article R. 15-44, le détenu peut à tout moment solliciter la consultation des reproductions des pièces ou actes de la procédure d'instruction auprès du chef d'établissement. Ce dernier organise cette consultation dans les trois jours ouvrables suivant la demande, sous réserve des exigences du bon fonctionnement de l'établissement pénitentiaire.
+
+La consultation est organisée dans un local permettant d'en garantir la confidentialité. A l'issue de la consultation, les documents sont restitués au greffe de l'établissement.
+
+Ces documents sont remis au détenu à sa libération. Ils lui sont également restitués lorsque l'information est définitivement terminée.
+
+
+##### Section 6
 
 ##### Section 7 : Du contrôle judiciaire et de la détention provisoire
 
