@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 17 octobre 1978
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19781017)
+- Date de consolidation : 23 novembre 1978
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19781123)
 
 
 # Partie législative
@@ -980,6 +980,11 @@ En cas de pourvoi et jusqu'à l'arrêt de la Cour de cassation,
 il est statué sur la demande de mise en liberté par la juridiction qui a connu en dernier lieu de l'affaire au fond. Si le pourvoi a été formé contre un arrêt de la cour d'assises, il est statué sur la détention par la chambre d'accusation.
 
 En cas de décision d'incompétence et généralement dans tous les cas où aucune juridiction n'est saisie, la chambre d'accusation connaît des demandes de mise en liberté.
+
+
+###### Article 148-5
+
+En toute matière et en tout état de la procédure, la juridiction d'instruction ou de jugement peut, à titre exceptionnel, accorder une autorisation de sortie sous escorte à l'inculpé, au prévenu ou à l'accusé.
 
 
 ###### Sous-section 3 : De l'indemnisation à raison d'une détention provisoire
@@ -4561,6 +4566,28 @@ Le juge de l'application des peines peut, si l'urgence l'exige, suspendre l'appl
 Dans ce cas, le tribunal doit statuer dans les cinq jours sur le maintien ou le retrait de ce régime.
 
 
+#### Article 723-3
+
+La permission de sortir autorise un condamné à s'absenter d'un établissement pénitentiaire pendant une période de temps déterminée qui s'impute sur la durée de la peine en cours d'exécution.
+
+Elle a pour objet de préparer la réinsertion professionnelle ou sociale du condamné, de maintenir ses liens familiaux ou de lui permettre d'accomplir une obligation exigeant sa présence.
+
+
+#### Article 723-4
+
+[Article abrogé].
+
+
+#### Article 723-5
+
+Sans préjudice de l'application de l'article 245 du code pénal, en cas de condamnation pour un crime ou un délit volontaire commis à l'occasion d'une permission de sortir, la juridiction peut décider que le condamné perdra le bénéfice des réductions de peine qui lui ont été accordées antérieurement.
+
+
+#### Article 723-6
+
+Tout condamné peut, dans les conditions de l'article 722, obtenir, à titre exceptionnel, une autorisation de sortie sous escorte.
+
+
 #### Chapitre III : Des dispositions communes aux différents établissements pénitentiaires
 
 #### Article 724
@@ -4609,6 +4636,11 @@ Dans les prisons établies pour peines, ce régime sera institué en vue de favo
 
 
 ### Titre III : De la libération conditionnelle
+
+### Article 729-2
+
+Dans les formes et conditions prévues par les articles 721, 721-1, et 729-1, mais dans la limite de quarante-cinq jours par année d'incarcération, des réductions du temps d'épreuve nécessaire à l'octroi de la libération conditionnelle peuvent être accordées aux condamnés à la réclusion criminelle à perpétuité. Elles ne sont, le cas échéant, imputables que sur la partie de la peine excédant la période de sûreté prévue à l'article 720-2.
+
 
 ### Article 730
 
