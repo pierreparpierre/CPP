@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 15 avril 1979
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19790415)
+- Date de consolidation : 5 juillet 1979
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19790705)
 
 
 # Partie législative
@@ -7576,11 +7576,6 @@ Le régime appliqué dans les maisons d'arrêt est celui de l'emprisonnement ind
 Cette règle ne fait pas obstacle, toutefois, à ce que soient organisées des activités collectives ou des activités dirigées, dans les conditions prévues aux articles D362, D446 et D452.
 
 
-###### Article D83-1
-
-[Article abrogé].
-
-
 ##### Section 6 : Du juge de l'application des peines et de la commission de l'application des peines
 
 ##### Article D117
@@ -7611,6 +7606,32 @@ Outre les renseignements d'état civil et d'anthropométrie utiles, ce document 
 Il doit être produit à toute réquisition de l'autorité publique.
 
 
+###### Article D124
+
+Les condamnés qui se trouvent en dehors d'un établissement en vertu d'une des autorisations prévues aux articles 723 et 723-3 demeurent soumis à l'ensemble des règles disciplinaires relatives au régime des détenus de leur catégorie, sous la seule réserve des dérogations édictées à la présente section.
+
+
+
+Toute inobservation de ces règles, tout manquement à l'obligation de bonne conduite, tout incident, doit être signalé au juge de l'application des peines. En cas d'urgence, le chef de l'établissement peut faire procéder à la réintégration immédiate du détenu sauf à en rendre compte sans délai à ce magistrat.
+
+
+
+Le juge de l'application des peines prononce, le cas échéant, le retrait de la mesure lorsque celle-ci a été accordée par lui.
+
+
+
+Lorsque le régime de semi-liberté a été décidé par la juridiction de jugement, le tribunal de grande instance du lieu de détention prononce son retrait éventuel, sur rapport du juge de l'application des peines. Ce magistrat peut, si l'urgence l'exige, suspendre l'application de la semi-liberté. Dans ce cas, le tribunal doit statuer dans les cinq jours sur le maintien ou le retrait de ce régime.
+
+
+###### Article D125
+
+Les détenus qui, bénéficiant d'une des autorisations prévues aux articles 723 et 723-3, n'ont pas regagné l'établissement pénitentiaire dans les délais fixés, doivent être considérés comme se trouvant en état d'évasion.
+
+
+
+Les diligences prévues aux articles D280 et D283 doivent en conséquence être effectuées, et les intéressés, de même que ceux qui auraient tenté de se soustraire à l'obligation de réintégrer la prison, encourent des sanctions disciplinaires sans préjudice des poursuites pénales qui pourraient être exercées en application de l'article 245 du code pénal.
+
+
 ###### Paragraphe 3 : Régime de semi-liberté
 
 ###### Article D140
@@ -7631,6 +7652,11 @@ Par exception au principe rappelé à l'article D110, les condamnés admis au r�
 
 
 ###### Paragraphe 4 : Permissions de sortir
+
+###### Article D142-1
+
+Les conditions de délai prévues aux articles D143 à D146 ne sont applicables que si le condamné n'est pas en cours d'exécution de la période de sûreté.
+
 
 ###### Article D143
 
@@ -7660,6 +7686,11 @@ A leur égard, la durée de ces permissions peut être portée à cinq jours et,
 Le détenu bénéficiaire d'une permission de sortir doit supporter les frais occasionnés par son séjour hors de l'établissement et notamment le coût des moyens de transport qu'il serait éventuellement obligé d'utiliser.
 
 En conséquence, aucune autorisation de sortir ne peut être accordée si une somme suffisante ne figure pas à la part disponible du condamné ou si l'intéressé ne justifie pas de possibilités licites d'hébergement et de transport.
+
+
+##### Article D118
+
+Indépendamment des cas où il est procédé à leur extraction ou à leur transfèrement et des cas où ils sont chargés d'exécuter des corvées sous la surveillance directe ou constante du personnel, des condamnés peuvent se trouver régulièrement en dehors des établissements pénitentiaires dans les hypothèses prévues aux articles 723 et 723-3 qui prévoient soit le placement à l'extérieur et l'admission au régime de semi-liberté, soit les permissions de sortir.
 
 
 ##### Section 4 : Du travail des détenus
@@ -7747,6 +7778,17 @@ La portion attribuée aux détenus sur les produits de leur travail peut toutefo
 
 ###### Paragraphe 1 : Registre et formalités d'écrou.
 
+###### Article D148.
+
+Tout établissement pénitentiaire est pourvu d'un registre d'écrou.
+
+Le chef de l'établissement, ou sous son autorité le fonctionnaire chargé du greffe, tient ce registre et veille à la légalité de la détention des individus incarcérés ainsi qu'à l'élargissement des libérables.
+
+Le registre d'écrou [*définition*] est constitué de feuilles mobiles préalablement revêtues d'une numérotation continue et classées dans un fichier.
+
+Il doit être présenté aux fins de contrôle et de visa, aux différentes autorités judiciaires à chacune de leurs visites, ainsi qu'aux autorités administratives qui procèdent à l'inspection générale de l'établissement [*obligation*].
+
+
 ###### Article D149
 
 Lors de la conduite de toute personne dans un établissement pénitentiaire par l'exécuteur d'un arrêt ou jugement de condamnation, d'une ordonnance de prise de corps, d'un mandat de dépôt ou d'arrêt, d'un mandat d'amener lorsque ce mandat doit être suivi d'incarcération provisoire, ou un ordre d'arrestation établi conformément par la loi, un acte d'écrou est dressé sur le registre visé à l'article D148. Le chef de l'établissement constate par cet acte la remise de la personne et inscrit la nature et la date du titre de détention, ainsi que l'autorité dont il émane.  L'acte d'écrou est signé par le chef de l'établissement et par le chef d'escorte.
@@ -7763,6 +7805,13 @@ Il n'y a pas lieu de lever l'écrou des détenus qui viennent à faire l'objet d
 ###### Article D150
 
 Outre les écritures exigées pour l'incarcération ou la libération et la mention des ordonnances prévues aux articles 133, 145, 148 et 179, ainsi que des jugements ou arrêts prévus aux articles 213, 464-1 et 569, des indications doivent être portées pour prévenir les fraudes, fixer l'identité des détenus et faire connaître les modifications subies par la situation pénale ou administrative de ceux-ci pendant leur détention ou au moment de leur mise en liberté.
+
+
+###### Article D151
+
+Le registre d'écrou ne doit pas quitter l'établissement pénitentiaire.
+
+Toutefois, à titre exceptionnel, la fiche d'écrou d'un détenu peut être déplacée en dehors de cet établissement afin de permettre soit l'écrou d'un individu hospitalisé immédiatement après son arrestation et momentanément intransportable, soit la levée d'écrou d'un détenu hospitalisé au moment de sa libération.
 
 
 ###### Paragraphe 2 : Autres registres et écritures du greffe.
@@ -8452,6 +8501,21 @@ Toute réquisition ou ordre de transfèrement ou d'extraction régulièrement d�
 Il en est notamment ainsi lorsque le médecin juge intransportable le détenu à transférer ou à extraire. Le certificat délivré par ce praticien permet l'application éventuelle des dispositions de l'article 416.
 
 Au surplus, la situation du détenu du point de vue judiciaire peut faire obstacle à son transfèrement ou en faire différer l'exécution ainsi qu'il est précisé à l'article D302.
+
+
+###### Article D293
+
+Aucun transfèrement, aucune extraction ne peut être opéré sans un ordre écrit que délivre l'autorité compétente.
+
+Cet ordre, lorsqu'il n'émane pas de l'administration pénitentiaire elle-même, est adressé par le procureur de la République du lieu de l'autorité requérante au procureur de la République du lieu de détention.
+
+Ce magistrat transmet l'ordre au chef de l'établissement pénitentiaire après y avoir apposé son visa et prend toutes dispositions nécessaires pour que le transfèrement ou l'extraction ait lieu dans les conditions de sécurité prévues aux articles D294 à D296.
+
+L'ordre ainsi donné est conservé au greffe de l'établissement pénitentiaire, en original ou en copie certifiée conforme.
+
+Le chef de l'établissement de détention doit vérifier avec soin, et au besoin auprès du signataire indiqué, l'authenticité de ce document.
+
+Si les personnes chargées de procéder à l'opération sont inconnues des services de la prison, elles doivent justifier de leur identité et de leur qualité.
 
 
 ###### Article D294
@@ -9306,6 +9370,11 @@ Le mariage des détenus, sauf application éventuelle des dispositions des artic
 Lorsque parvient à l'établissement la nouvelle du décès ou de la maladie grave d'un membre de la proche famille d'un détenu, celui-ci doit en être immédiatement informé.
 
 
+##### Article D425
+
+En application des dispositions de l'article 723-3 relatives aux permissions de sortir, et dans les conditions fixées à l'article D. 144, les condamnés peuvent être autorisés à se rendre auprès d'un membre de leur proche famille gravement malade ou décédé.
+
+
 ##### Section 5 : Des renseignements concernant les détenus et de leurs relations avec le monde extérieur
 
 ##### Article D430
@@ -9564,6 +9633,13 @@ La délivrance des permis de visite et le contrôle de la correspondance les con
 
 ##### Section 4 : Des détenus appartenant aux forces armées
 
+##### Article D508
+
+Les détenus militaires et marins en état de prévention devant un tribunal des forces armées ne doivent pas être placés en commun avec des détenus non militaires.
+
+Après condamnation, ils sont soumis au même régime que les autres condamnés de leur catégorie, compte tenu des dispositions de l'article 718. Toutefois, les mesures visées aux articles 723 et 723-3 ne peuvent être accordées aux condamnés militaires ou marins qu'avec l'accord préalable de l'autorité militaire ou maritime dont relèvent les intéressés.
+
+
 ##### Article D509
 
 Les officiers en prévention et ceux qui ont conservé leur grade malgré leur condamnation, sont placés en cellule individuelle, dans toute la mesure du possible, et effectuent leur promenade séparément.
@@ -9684,6 +9760,28 @@ Ces mesures et conditions doivent en conséquence être portées à la connaissa
 #### Article D543
 
 [Article abrogé].
+
+
+#### Chapitre VI : Du recours pour violation de la loi contre les mesures d'administration judiciaire mentionnées à l'article 733-1
+
+#### Article D544-1
+
+La notification des mesures d'administration judiciaire mentionnées à l'article 733-1 est faite à la diligence du juge de l'application des peines qui adresse au procureur de la République une copie de la décision dès que celle-ci a été prise.
+
+
+#### Article D544-2
+
+Lorsque le procureur de la République a, dans les vingt-quatre heures [*délai*] de la notification, formé le recours en annulation prévu à l'article 733-1, il en informe immédiatement le juge de l'application des peines et le chef de l'établissement pénitentiaire.
+
+
+#### Article D544-3
+
+En cas de recours, le procureur de la République transmet aussitôt le dossier, par l'intermédiaire du procureur général, à la chambre de l'instruction qui doit statuer à bref délai [*obligation*], le ministère public entendu.
+
+
+#### Article D544-4
+
+La décision de la chambre de l'instruction est notifiée immédiatement au procureur de la République qui en informe le juge de l'application des peines et le chef de l'établissement pénitentiaire.
 
 
 ### Titre IV : Du sursis
