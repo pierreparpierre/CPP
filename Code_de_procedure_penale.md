@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 5 mai 2002
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20020505)
+- Date de consolidation : 16 juin 2002
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20020616)
 
 
 # Partie législative
@@ -4875,13 +4875,13 @@ Le prévenu est retenu jusqu'à sa comparution qui doit avoir lieu le jour même
 
 ###### Article 396
 
-Dans le cas prévu par l'article précédent, si la réunion du tribunal est impossible le jour même et si les éléments de l'espèce lui paraissent exiger une mesure de détention provisoire, le procureur de la République peut traduire le prévenu devant le président du tribunal ou le juge délégué par lui, statuant en chambre du conseil avec l'assistance d'un greffier.
+Dans le cas prévu par l'article précédent, si la réunion du tribunal est impossible le jour même et si les éléments de l'espèce lui paraissent exiger une mesure de détention provisoire, le procureur de la République peut traduire le prévenu devant le juge des libertés et de la détention, statuant en chambre du conseil avec l'assistance d'un greffier.
 
-Le président du tribunal ou le juge, après avoir recueilli les déclarations du prévenu, son avocat ayant été avisé, et après avoir fait procéder, s'il y a lieu, aux vérifications prévues par le sixième alinéa de l'article 41, statue sur les réquisitions du ministère public aux fins de détention provisoire, après avoir recueilli les observations éventuelles du prévenu ou de son avocat ; l'ordonnance rendue n'est pas susceptible d'appel.
+Le juge, après avoir recueilli les déclarations du prévenu, son avocat ayant été avisé, et après avoir fait procéder, s'il y a lieu, aux vérifications prévues par le sixième alinéa de l'article 41, statue sur les réquisitions du ministère public aux fins de détention provisoire, après avoir recueilli les observations éventuelles du prévenu ou de son avocat ; l'ordonnance rendue n'est pas susceptible d'appel.
 
 Il peut placer le prévenu en détention provisoire jusqu'à sa comparution devant le tribunal. L'ordonnance prescrivant la détention est rendue suivant les modalités prévues par les articles 135 et 145-1, quatrième alinéa, et doit comporter l'énoncé des considérations de droit et de fait qui constituent le fondement de la décision par référence aux dispositions des 1°, 2° et 3° de l'article 144. Cette décision énonce les faits retenus et saisit le tribunal ; elle est notifiée verbalement au prévenu et mentionnée au procès-verbal dont copie lui est remise sur-le-champ. Le prévenu doit comparaître devant le tribunal au plus tard le deuxième jour ouvrable suivant. A défaut, il est mis d'office en liberté.
 
-Si le président du tribunal ou le juge estime que la détention provisoire n'est pas nécessaire, le ministère public procède comme il est dit à l'article 394.
+Si le juge estime que la détention provisoire n'est pas nécessaire, le ministère public procède comme il est dit à l'article 394.
 
 
 ###### Article 397
@@ -8165,13 +8165,9 @@ Les dispositions du présent article sont applicables à l'arrêt rendu sur le f
 
 #### Article 706-23
 
-Pour l'application des articles 63, 77 et 154, si les nécessités de l'enquête ou de l'instruction relatives à l'une des infractions entrant dans le champ d'application de l'article 706-16 l'exigent, la garde à vue d'une personne majeure peut faire l'objet d'une prolongation supplémentaire de quarante-huit heures. Cette prolongation est autorisée soit, à la requête du procureur de la République, par le président du tribunal dans le ressort duquel s'exerce la garde à vue ou le juge délégué par lui, soit, dans les cas prévus par les articles 72 et 154, par le juge d'instruction.
-
-
+Pour l'application des articles 63, 77 et 154, si les nécessités de l'enquête ou de l'instruction relatives à l'une des infractions entrant dans le champ d'application de l'article 706-16 l'exigent, la garde à vue d'une personne majeure peut faire l'objet d'une prolongation supplémentaire de quarante-huit heures.     Cette prolongation est autorisée soit, à la requête du procureur de la République, par le juge des libertés et de la détention, soit, dans les cas prévus par les articles 72 et 154, par le juge d'instruction.
 
 L'intéressé doit être présenté à l'autorité qui statue sur la prolongation préalablement à sa décision.
-
-
 
 Dans le cas où la prolongation est décidée, un examen médical est de droit. Le procureur de la République ou, dans les cas prévus par les articles 72 et 154, le juge d'instruction est compétent pour désigner le médecin chargé de cet examen.
 
@@ -8255,7 +8251,7 @@ Pour l'application de l'alinéa précédent, la chambre de l'instruction, lorsqu
 
 Pour la recherche et la constatation des infractions visées à l'article 706-26, les visites, perquisitions et saisies prévues par l'article 59 peuvent être opérées en dehors des heures prévues par cet article à l'intérieur des locaux où l'on use en société de stupéfiants ou dans lesquels sont fabriqués, transformés ou entreposés illicitement des stupéfiants.
 
-Les opérations prévues à l'alinéa précédent doivent, à peine de nullité, être autorisées, sur requête du procureur de la République, par le président du tribunal de grande instance ou le juge délégué par lui, lorsqu'il s'agit de les effectuer dans une maison d'habitation ou un appartement, à moins qu'elles ne soient autorisées par le juge d'instruction. Chaque autorisation fait l'objet d'une décision écrite, précisant la qualification de l'infraction dont la preuve est recherchée ainsi que l'adresse des lieux dans lesquels les visites, perquisitions et saisies peuvent être effectuées, et motivée par référence aux éléments de fait justifiant que ces opérations sont nécessaires. Celles-ci sont effectuées sous le contrôle du magistrat qui les a autorisées, et qui peut se déplacer sur les lieux pour veiller au respect des dispositions légales.
+Les opérations prévues à l'alinéa précédent doivent, à peine de nullité, être autorisées, sur requête du procureur de la République, par le juge des libertés et de la détention, lorsqu'il s'agit de les effectuer dans une maison d'habitation ou un appartement, à moins qu'elles ne soient autorisées par le juge d'instruction. Chaque autorisation fait l'objet d'une décision écrite, précisant la qualification de l'infraction dont la preuve est recherchée ainsi que l'adresse des lieux dans lesquels les visites, perquisitions et saisies peuvent être effectuées, et motivée par référence aux éléments de fait justifiant que ces opérations sont nécessaires. Celles-ci sont effectuées sous le contrôle du magistrat qui les a autorisées, et qui peut se déplacer sur les lieux pour veiller au respect des dispositions légales.
 
 Les actes prévus au présent article ne peuvent, à peine de nullité, avoir un autre objet que la recherche et la constatation des infractions visées à l'article 706-26.
 
@@ -8264,7 +8260,7 @@ Les actes prévus au présent article ne peuvent, à peine de nullité, avoir un
 
 Pour l'application des articles 63, 77 et 154, si les nécessités de l'enquête ou de l'instruction relative à l'une des infractions visées par l'article 706-26 l'exigent, la garde à vue d'une personne peut faire l'objet d'une prolongation supplémentaire de quarante-huit heures.
 
-Cette prolongation est autorisée soit, à la requête du procureur de la République, par le président du tribunal de grande instance dans le ressort duquel s'exerce la garde à vue ou un juge délégué par lui, soit, dans les cas prévus par les articles 72 et 154, par le juge d'instruction.
+Cette prolongation est autorisée soit, à la requête du procureur de la République, par le juge des libertés et de la détention, soit, dans les cas prévus par les articles 72 et 154, par le juge d'instruction.
 
 La personne gardée à vue doit être présentée à l'autorité qui statue sur la prolongation préalablement à cette décision. A titre exceptionnel, la prolongation peut être accordée par décision écrite et motivée sans présentation préalable.
 
