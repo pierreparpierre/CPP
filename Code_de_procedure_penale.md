@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 19 juillet 1974
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19740719)
+- Date de consolidation : 5 janvier 1975
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19750105)
 
 
 # Partie législative
@@ -4760,8 +4760,6 @@ Les fonctions de secrétaire et de greffier de la commission sont remplies par u
 
 ##### Section 8
 
-##### Section 9 : De l'expertise. Modalités d'inscription et de radiation sur les listes d'experts
-
 ##### Section 10
 
 ##### Section 11
@@ -6113,36 +6111,6 @@ Il porte également, le cas échéant, l'indication des autorités qui en ont as
 
 
 ##### Section 9 : De l'expertise
-
-##### Article D37
-
-(Article abrogé).
-
-
-##### Article D38
-
-(Aarticle abrogé).
-
-
-##### Article D39
-
-*article abrogé*.
-
-
-##### Article D40
-
-(Article abrogé).
-
-
-##### Article D41
-
-(Article abrogé).
-
-
-##### Article D42
-
-(Article abrogé).
-
 
 #### Chapitre II : De la chambre d'accusation : juridiction d'instruction du second degré
 
