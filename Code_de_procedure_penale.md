@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 5 mars 1977
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19770305)
+- Date de consolidation : 1er avril 1977
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19770401)
 
 
 # Partie législative
@@ -9361,6 +9361,21 @@ Peuvent être admis à subir l'examen technique destiné à l'attribution de la 
 
 
 Cette période, qui part de l'admission de l'intéressé dans la gendarmerie, ne comprend que le temps passé en activité de service dans cette armée.
+
+
+###### Article A3
+
+L'examen technique d'officier de police judiciaire a lieu chaque année, au cours du dernier trimestre, et comporte deux épreuves écrites à savoir :
+
+
+1. Une composition sur des notions de droit pénal ou de procédure pénale (durée : trois heures) ;
+
+
+2. Une épreuve pratique de procédure sur un cas de crime ou de délit (durée : quatre heures).
+
+
+
+La valeur de chaque épreuve est constatée par une note de 0 à 20. Toute note égale ou inférieure à 5 dans l'une ou l'autre épreuve est éliminatoire.
 
 
 ###### Article A4
