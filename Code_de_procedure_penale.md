@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 4 janvier 1990
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19900104)
+- Date de consolidation : 6 janvier 1990
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19900106)
 
 
 # Partie législative
@@ -9535,13 +9535,9 @@ Pour une expertise ordonnée dans les mêmes conditions, par les juridictions de
 
 En sus du remboursement de leurs frais de déplacement, calculés dans les conditions fixées pour les déplacements des fonctionnaires du groupe II, il est alloué aux personnes habilitées :
 
+Pour la vérification de la situation matérielle, familiale ou sociale des personnes faisant l'objet d'une enquête prévue par les articles 41 (alinéa 5) et 81 (alinéa 7) ainsi que pour l'information sur les mesures propres à favoriser l'insertion sociale des intéressés : 255 F.
 
-
-Pour la vérification de la situation matérielle, familiale ou sociale des personnes faisant l'objet d'une enquête, prévue par l'article 41 (alinéa 5) : 220 F.
-
-
-
-Pour l'enquête sur la personnalité des inculpés ainsi que sur leur situation matérielle, familiale ou sociale, prévue par l'article 81 (alinéa 6) : 330 F.
+Pour l'enquête sur la personnalité des inculpés ainsi que sur leur situation matérielle, familiale ou sociale, prévue par l'article 81 (alinéa 6) : 383 F..
 
 
 ###### Article R121-1
@@ -9550,15 +9546,15 @@ En sus du remboursement de leurs frais de déplacement, calculés dans les condi
 
 
 
-300 F  lorsque la mission de contrôle judiciaire dure trois mois ou moins ;
+340 F lorsque la mission de contrôle judiciaire dure trois mois ou moins ;
 
 
 
-600 F lorsque la mission de contrôle judiciaire dure plus de trois mois sans excéder un an ;
+725 F lorsque la mission de contrôle judiciaire dure plus de trois mois sans excéder un an ;
 
 
 
-900 F lorsque la mission de contrôle judiciaire dure plus d'un an.
+1.000 F lorsque la mission de contrôle judiciaire dure plus d'un an.
 
 
 ###### Paragraphe 3 : Des interprètes traducteurs
