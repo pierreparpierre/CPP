@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 14 juillet 1990
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19900714)
+- Date de consolidation : 26 décembre 1990
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19901226)
 
 
 # Partie législative
@@ -5955,6 +5955,16 @@ Pour l'application de la Convention européenne pour la répression du terrorism
 Pour l'application de la convention sur la protection physique des matières nucléaires, ouverte à la signature à Vienne et New York le 3 mars 1980, peut être poursuivi et jugé par les juridictions françaises, s'il se trouve en France, quiconque, hors du territoire de la République, se sera rendu coupable :
 1. du délit prévu par l'article 6-1 de la loi n° 80-572 du 25 juillet 1980 sur la protection et le contrôle des matières nucléaires ;
 2. de l'un des crimes ou délits prévus par les articles 295 à 298, 301, 304, 305, 306, 309, 310, 311, 312, 318, 379, 381, 382, 384, 400, 405, 408, 434, 435, 436, 437 et 460 du code pénal ainsi que du délit d'appropriation indue prévu par l'article 6 de la loi n° 80-572 du 25 juillet 1980 précitée, dès lors que l'infraction aura été commise au moyen des matières nucléaires entrant dans le champ d'application des articles premier et 2 de la convention précitée ou qu'elle aura porté sur ces dernières.
+
+
+### Article 689-5
+
+Pour l'application de la convention pour la répression d'actes illicites contre la sécurité de la navigation maritime et pour l'application du protocole pour la répression d'actes illicites contre la sécurité des plates-formes fixes situées sur le plateau continental, faits à Rome le 10 mars 1988, peut être poursuivi et jugé par les juridictions françaises quiconque, s'il se trouve en France, s'est rendu coupable, hors du territoire de la République :
+1. Du crime défini par l'article 462 du code pénal ;
+2. De l'une des infractions définies par les articles 295 à 298, 301, 303, 304, 305, 309, 310, 311, 312, 434, 435, 436, 437, 462-1 du code pénal et L. 331-2 du code des ports maritimes, si celle-ci compromet ou est de nature à compromettre la sécurité soit de la navigation maritime, soit d'une plate-forme fixe située sur le plateau continental ;
+3. De l'une des infractions définies par les articles 295 à 298, 301, 303, 304, 309 à 312 du code pénal, si celle-ci est connexe soit à l'infraction définie au 1°, soit à une ou plusieurs infractions de nature à compromettre la sécurité de la navigation maritime ou d'une plate-forme visées au 2° du présent article.
+
+Les dispositions du présent article sont applicables à la tentative des infractions ci-dessus énumérés, si celle-ci est punissable.
 
 
 ### Article 690
