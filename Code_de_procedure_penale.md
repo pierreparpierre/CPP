@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 1er octobre 2004
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20041001)
+- Date de consolidation : 20 octobre 2004
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20041020)
 
 
 # Partie législative
@@ -20774,253 +20774,329 @@ Toutefois, au cas où il n'y a pas de maison d'arrêt dans cette ville ou lorsqu
 
 ##### Article D54
 
-Il y a une maison d'arrêt auprès de chaque cour d'assises. Toutefois, les accusés ressortissant aux cours d'assises du Gers, de la Haute-Savoie et du Vaucluse sont retenus respectivement à la maison d'arrêt d'Agen, à la maison d'arrêt de Bonneville et à la maison d'arrêt d'Avignon.
+Il y a une maison d'arrêt auprès de chaque cour d'assises. Toutefois, les accusés ressortissant aux cours d'assises du Gers et de la Haute-Savoie sont retenus respectivement à la maison d'arrêt d'Agen et à la maison d'arrêt de Bonneville.
 
 La liste des tribunaux de grande instance auprès desquels il n'y a pas de maison d'arrêt est fixée conformément au tableau ci-dessous, qui détermine en outre la ou les maisons d'arrêt où sont retenus les prévenus ou appelants ressortissant à ces juridictions.
 
 
 
-COURS D'APPEL : AGEN
+I- COURS D'APPEL
 
-JURIDICTION : Auch.
+II- JURIDICTIONS
 
-PRISON DE RATTACHEMENT : Agen.
+III- PRISONS DE RATTACHEMENT
 
-JURIDICTION : Marmande.
 
-PRISON DE RATTACHEMENT : Agen.
 
+I- Agen
 
+II- Auch
 
-COURS D'APPEL : AIX.
+III- Agen.
 
-JURIDICTION : Tarascon.
+II- Marmande
 
-PRISON DE RATTACHEMENT : Avignon.
+III- Agen.
 
-COURS D'APPEL : AMIENS.
 
-JURIDICTION : Abbeville.
 
-PRISON DE RATTACHEMENT : Amiens.
+I- Aix-en-Provence
 
-JURIDICTION : Laon.
+II- Tarascon
 
-PRISON DE RATTACHEMENT : Saint-Quentin et Soissons.
+III- Avignon - Le Pontet.
 
-JURIDICTION : Péronne.
 
-PRISON DE RATTACHEMENT : Amiens et Saint-Quentin.
 
-JURIDICTION : Senlis.
+I- Amiens
 
-PRISON DE RATTACHEMENT : Compiègne.
+II- Abbeville
 
+III- Amiens.
 
+II- Péronne
 
-COURS D'APPEL : ANGERS.
+III- Amiens.
 
-JURIDICTION : Saumur.
+II- Saint-Quentin
 
-PRISON DE RATTACHEMENT : Angers.
+III- Laon.
 
+II- Senlis
 
+III- Liancourt.
 
-COURS D'APPEL : BESANCON.
+II- Soissons
 
-JURIDICTION : Dôle.
+III- Laon.
 
-PRISON DE RATTACHEMENT : Besançon.
 
 
+I- Angers
 
-COURS D'APPEL : BORDEAUX.
+II- Saumur
 
-JURIDICTION : Bergerac.
+III- Angers.
 
-PRISON DE RATTACHEMENT : Périgueux.
 
-JURIDICTION : Libourne.
 
-PRISON DE RATTACHEMENT : Bordeaux.
+I- Besançon
 
+II- Dole
 
+III- Besançon.
 
-COURS D'APPEL : CHAMBERY.
 
-JURIDICTION : Albertville.
 
-PRISON DE RATTACHEMENT : Chambéry.
+I- Bordeaux
 
-JURIDICTION : Annecy.
+II- Bergerac
 
-PRISON DE RATTACHEMENT : Bonneville.
+III- Périgueux.
 
-JURIDICTION : Thonon-les-Bains.
+II- Libourne
 
-PRISON DE RATTACHEMENT : Bonneville.
+III- Bordeaux-Gradignan.
 
 
 
-COURS D'APPEL : DOUAI.
+I- Caen
 
-JURIDICTION : Avesnes-sur-Helpe.
+II- Argentan
 
-PRISON DE RATTACHEMENT : Valenciennes.
+III- Alençon et Caen.
 
-JURIDICTION : Boulogne.
+II- Avranches
 
-PRISON DE RATTACHEMENT : Béthune et Saint-Omer.
+III- Saint-Malo et Coutances.
 
-JURIDICTION : Hazebrouck.
+II- Lisieux
 
-PRISON DE RATTACHEMENT : Saint-Omer.
+III- Caen.
 
 
 
-COURS D'APPEL : GRENOBLE.
+I- Chambéry
 
-JURIDICTION : Vienne.
+II- Anneçy
 
-PRISON DE RATTACHEMENT : Lyon. COURS D'APPEL : LYON.
+III- Bonneville.
 
-JURIDICTION : Belley.
+II- Thonon-les-Bains
 
-PRISON DE RATTACHEMENT : Chambéry.
+III- Bonneville.
 
-JURIDICTION : Montbrison.
 
-PRISON DE RATTACHEMENT : Saint-Etienne.
 
-JURIDICTION : Villefranche-sur-Saône.
+I- Colmar
 
-PRISON DE RATTACHEMENT : Lyon et Trévoux.
+II- Saverne
 
+III- Strasbourg.
 
 
-COURS D'APPEL : METZ.
 
-JURIDICTION : Thionville.
+I- Dijon
 
-PRISON DE RATTACHEMENT : Metz.
+II- Mâcon
 
+III- Varennes-le-Grand.
 
 
-COURS D'APPEL : MONTPELLIER.
 
-JURIDICTION : Narbonne.
+I- Douai
 
-PRISON DE RATTACHEMENT : Carcassonne.
+II- Boulogne-sur-Mer
 
-JURIDICTION : Millau.
+III- Longuenesse.
 
-PRISON DE RATTACHEMENT : Rodez.
+II- Cambrai
 
+III- Douai.
 
+II- Hazebrouck
 
-COURS D'APPEL : NANCY.
+III- Longuenesse.
 
-JURIDICTION : Saint-Dié.
 
-PRISON DE RATTACHEMENT : Remiremont en Epinal.
 
+I- Grenoble
 
+II- Bourgoin-Jallieu
 
-COURS D'APPEL : NIMES.
+III- Saint-Quentin-Fallavier.
 
-JURIDICTION : Carpentras.
 
-PRISON DE RATTACHEMENT : Avignon.
 
+I- Limoges
 
+II- Brive-la-Gaillarde
 
-COURS D'APPEL : PARIS.
+III- Tulle.
 
-JURIDICTION : Bobigny.
 
-PRISON DE RATTACHEMENT : Fleury-Mérogis et Fresnes.
 
-JURIDICTION : Sens.
+I- Lyon
 
-PRISON DE RATTACHEMENT : Auxerre.
+II- Belley
 
+III- Chambéry.
 
+II- Montbrizon
 
-COURS D'APPEL : PAU.
+III- Saint-Etienne - La Talaudière.
 
-JURIDICTION : Dax.
+II- Roanne
 
-PRISON DE RATTACHEMENT : Bayonne et Mont-de-Marsan.
+III- Villefranche-sur-Saône et Saint-Etienne - La Talaudière.
 
 
 
-COURS D'APPEL : POITIERS.
+I- Metz
 
-JURIDICTION : La Rochelle.
+II- Thionville
 
-PRISON DE RATTACHEMENT : Fontenay-le-Comte.
+III- Metz.
 
-JURIDICTION : Rochefort.
 
-PRISON DE RATTACHEMENT : Saintes.
 
-JURIDICTION : Bressuire.
+I- Montpellier
 
-PRISON DE RATTACHEMENT : Fontenay-le-Comte.
+II- Narbonne
 
-JURIDICTION : Les Sables-d'Olonne.
+III- Carcassonne.
 
-PRISON DE RATTACHEMENT : La Roche-sur-Yon.
+II- Millau
 
+III- Rodez.
 
 
-COURS D'APPEL : RENNES.
 
-JURIDICTION : Dinan.
+I- Nancy
 
-PRISON DE RATTACHEMENT : Saint-Malo.
+II- Briey
 
-JURIDICTION : Guingamp.
+III- Metz.
 
-PRISON DE RATTACHEMENT : Saint-Brieuc.
+II- Saint-Dié
 
-JURIDICTION : Morlaix.
+III- Epinal.
 
-PRISON DE RATTACHEMENT : Brest et Saint-Brieuc. COURS D'APPEL :
+II- Verdun
 
-RIOM.
+III- Bar-le-Duc.
 
-JURIDICTION : Cusset.
 
-PRISON DE RATTACHEMENT : Moulins-Yzeure.
 
+I- Nîmes
 
+II- Alès
 
-COURS D'APPEL : ROUEN.
+III- Nîmes.
 
-JURIDICTION : Bernay.
+II- Carpentras
 
-PRISON DE RATTACHEMENT : Evreux.
+III- Avignon - Le Pontet.
 
 
 
-COURS D'APPEL : TOULOUSE.
+I- Orléans
 
-JURIDICTION : Saint-Gaudens.
+II- Montargis
 
-PRISON DE RATTACHEMENT : Toulouse.
+III- Orléans.
 
-JURIDICTION : Castres.
 
-PRISON DE RATTACHEMENT : Albi et Toulouse.
 
+I- Paris
 
+II- Fontainebleau
 
-COURS D'APPEL : VERSAILLES.
+III- Melun et Fleury-Mérogis.
 
-JURIDICTION : Nanterre.
+II- Sens
 
-PRISON DE RATTACHEMENT : M.A. des Yvelines.
+III- Auxerre.
+
+
+
+I- Pau
+
+II- Dax
+
+III- Bayonne et Mont-de-Marsan.
+
+
+
+I- Poitiers
+
+II- La Rochelle
+
+III- Fontenay-le-Comte.
+
+II- Bressuire
+
+III- Fontenay-le-Comte.
+
+II- Les Sables-d'Olonne
+
+III- La Roche-sur-Yon.
+
+
+
+I- Rennes
+
+II- Dinan
+
+III- Saint-Malo.
+
+II- Guingamp
+
+III- Saint-Brieuc.
+
+II- Morlaix
+
+III- Brest et Saint-Brieuc.
+
+II- Quimper
+
+III- Brest et Lorient-Ploemeur.
+
+II- Saint-Nazaire
+
+III- Nantes.
+
+
+
+I- Riom
+
+II- Cusset
+
+III- Moulins-Yzeure.
+
+
+
+I- Rouen
+
+II- Bernay
+
+III- Evreux.
+
+II- Dieppe
+
+III- Rouen et Caen.
+
+
+
+I- Toulouse
+
+II- Saint-Gaudens
+
+III- Toulouse-Seysses.
+
+II- Castres
+
+III- Albi et Toulouse-Seysses.
 
 
 ##### Section 2 : Des ordres donnés par l'autorité judiciaire
@@ -27275,7 +27351,9 @@ Quartier centre de détention du centre pénitentiaire de Lannemezan (Hautes-Pyr
 
 Quartier centre de détention du centre pénitentiaire de Laon (Aisne).
 
-Centre de détention de Liancourt (Oise).
+Quartier centre de détention (avenue Robert-Badinter) du centre pénitentiaire de Liancourt (Oise).
+
+Quartier centre de détention (chemin de Verderonne) du centre pénitentiaire de Liancourt (Oise).
 
 Quartier centre de détention du centre pénitentiaire de Longuenesse (Pas-de-Calais).
 
@@ -27324,6 +27402,8 @@ Centre de détention de Salon-de-Provence (Bouches-du-Rhône).
 Centre de détention de Tarascon (Bouches-du-Rhône).
 
 Centre de détention de Toul (Meurthe-et-Moselle).
+
+Quartier centre de détention du centre pénitentiaire de Toulon-La Farlède (Var).
 
 Centre de détention d'Uzerche (Corrèze).
 
