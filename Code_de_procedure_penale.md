@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 29 juillet 1978
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19780729)
+- Date de consolidation : 29 septembre 1978
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19780929)
 
 
 # Partie législative
@@ -1158,6 +1158,13 @@ Il peut saisir la chambre d'accusation, afin qu'il soit par elle statué sur le 
 ##### Article 224
 
 La chambre d'accusation exerce un contrôle sur l'activité des fonctionnaires civils et des militaires, officiers et agents de police judiciaire, pris en cette qualité.
+
+
+##### Article 225
+
+Elle est saisie soit par le procureur général, soit par son président.
+
+Elle peut se saisir d'office à l'occasion de l'examen de la procédure qui lui est soumise.
 
 
 ##### Article 226
