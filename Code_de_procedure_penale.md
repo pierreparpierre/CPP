@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 7 juillet 1974
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19740707)
+- Date de consolidation : 19 juillet 1974
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19740719)
 
 
 # Partie législative
@@ -3896,6 +3896,39 @@ Si le fait commis est un crime, la cour ou le tribunal, après avoir fait arrêt
 Lorsqu'un membre du Conseil d'Etat, de la Cour de cassation ou de la Cour des comptes, un préfet, un magistrat de l'ordre judiciaire, un magistrat consulaire ou un magistrat des tribunaux administratifs, est susceptible d'être inculpé d'un crime ou d'un délit commis hors l'exercice de ses fonctions, le procureur de la République, saisi de l'affaire, présente requête à la chambre criminelle de la Cour de cassation qui procède et statue comme en matière de règlement de juges et désigne la juridiction chargée de l'instruction et du jugement de l'affaire.
 
 La chambre criminelle doit se prononcer dans la huitaine qui suit le jour où la requête lui sera parvenue.
+
+
+### Article 682
+
+La chambre d'accusation saisie commet un de ses membres qui prescrit tous actes d'instruction nécessaires dans les formes et conditions prévues par le chapitre Ier du titre III du livre Ier. Ce magistrat a compétence même en dehors des limites prévues par l'article 93.
+
+
+
+Il peut requérir par commission rogatoire tout juge, tout officier de police judiciaire ou tout juge d'instruction dans les conditions prévues par les articles 151 à 155.
+
+
+
+Les décisions de caractère juridictionnel, notamment celles relatives à la mise ou au maintien en détention ou à la mise en liberté de l'inculpé ainsi que celles qui terminent l'information sont rendues par la chambre d'accusation après communication du dossier au procureur général.
+
+
+
+Sur réquisitions du procureur général, le président de cette chambre peut, avant sa réunion, décerner mandat contre l'inculpé. Dans les cinq jours qui suivent l'arrestation de l'inculpé, la chambre décide s'il y a lieu ou non de le maintenir en détention.
+
+
+### Article 683
+
+Lorsque l'instruction est terminée, la chambre d'accusation peut :
+
+Soit dire qu'il n'y a lieu à suivre ;
+
+Soit, si l'infraction retenue à la charge de l'inculpé constitue un délit, le renvoyer devant une juridiction correctionnelle du premier degré autre que celle dans le ressort de laquelle l'inculpé exerçait ses fonctions ;
+
+Soit, si l'infraction retenue à la charge de l'inculpé constitue un crime, le renvoyer devant une cour d'assises, autre que celle dans le ressort de laquelle l'accusé exerçait ses fonctions.
+
+
+### Article 684
+
+Les arrêts de la chambre d'accusation sont susceptibles de pourvoi dans les conditions déterminées par le titre Ier du livre III. Toutefois, par dérogation à l'article 574, l'arrêt de la chambre d'accusation portant renvoi de l'inculpé devant le tribunal correctionnel peut, dans tous les cas, faire l'objet d'un pourvoi en cassation. L'arrêt de renvoi devenu définitif couvre, s'il en existe, les vices de la procédure antérieure.
 
 
 ### Article 688
