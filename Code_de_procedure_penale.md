@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 10 septembre 2002
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20020910)
+- Date de consolidation : 1er novembre 2002
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20021101)
 
 
 # Partie législative
@@ -2318,6 +2318,15 @@ En cas de pourvoi et jusqu'à l'arrêt de la Cour de cassation, il est statué s
 En cas de décision d'incompétence et généralement dans tous les cas où aucune juridiction n'est saisie, la chambre de l'instruction connaît des demandes de mise en liberté.
 
 
+###### Article 148-1-1
+
+Lorsqu'une ordonnance de mise en liberté d'une personne placée en détention provisoire est rendue par le juge des libertés et de la détention ou le juge d'instruction contrairement aux réquisitions du procureur de la République, cette ordonnance est immédiatement notifiée à ce magistrat. Pendant un délai de quatre heures à compter de la notification de l'ordonnance du procureur de la République, et sous réserve de l'application des dispositions du dernier alinéa du présent article, la personne mise en examen ne peut être remise en liberté et cette décision ne peut être adressée pour exécution au chef de l'établissement pénitentiaire.
+
+Le procureur de la République peut interjeter appel de l'ordonnance devant le greffier du juge des libertés et de la détention ou du juge d'instruction, en saisissant dans le même temps le premier président de la cour d'appel d'un référé-détention, conformément aux dispositions de l'article 187-3 ; l'appel et le référé-détention sont mentionnés sur l'ordonnance. La personne mise en examen et son avocat en sont avisés en même temps que leur est notifiée l'ordonnance, qui ne peut être mise à exécution, la personne restant détenue tant que n'est pas intervenue la décision du premier président de la cour d'appel et, le cas échéant, celle de la chambre de l'instruction. La personne mise en examen et son avocat sont également avisés de leur droit de faire des observations écrites devant le premier président de la cour d'appel. Faute pour le procureur de la République d'avoir formé un référé-détention, dans un délai de quatre heures à compter de la notification de l'ordonnance de mise en liberté, celle-ci, revêtue d'une mention du greffier indiquant l'absence de référé-détention, est adressée au chef d'établissement pénitentiaire et la personne est mise en liberté sauf si elle est détenue pour une autre cause.
+
+Si le procureur de la République, ayant pris des réquisitions de maintien en détention, estime néanmoins ne pas avoir à s'opposer à la mise en liberté immédiate de la personne, et sans préjudice de son droit de former ultérieurement appel dans le délai prévu par l'article 185, il retourne l'ordonnance au magistrat qui l'a rendue en mentionnant sur celle-ci qu'il ne s'oppose pas à sa mise à exécution. La personne est alors mise en liberté, si elle n'est pas détenue pour une autre cause.
+
+
 ###### Article 148-2
 
 Toute juridiction appelée à statuer, en application des articles 141-1 et 148-1, sur une demande de mainlevée totale ou partielle du contrôle judiciaire ou sur une demande de mise en liberté se prononce après audition du ministère public, du prévenu ou de son avocat ; le prévenu non détenu et son avocat sont convoqués, par lettre recommandée, quarante-huit heures au moins avant la date de l'audience.
@@ -2926,6 +2935,23 @@ La déclaration d'appel et la demande prévue au premier alinéa du présent art
 ##### Article 187-2
 
 La personne qui forme le recours prévu par l'article 187-1 peut demander à ce qu'il soit directement examiné par la chambre de l'instruction. Il est alors statué au plus tard, au vu des éléments du dossier, le cinquième jour ouvrable suivant la demande.
+
+
+##### Article 187-3
+
+Dans le cas prévu par le deuxième alinéa de l'article 148-1-1, le procureur de la République qui interjette appel d'une ordonnance de mise en liberté contraire à ses réquisitions dans un délai de quatre heures à compter de sa notification doit, à peine d'irrecevabilité, saisir dans le même temps le premier président de la cour d'appel ou, en cas d'empêchement, le magistrat qui le remplace, d'un référé-détention afin de déclarer cet appel suspensif. Le procureur de la République joint à sa demande les observations écrites justifiant le maintien en détention de la personne. La personne mise en examen et son avocat peuvent également présenter les observations écrites qu'ils jugent utiles.
+
+Le premier président de la cour d'appel ou le magistrat qui le remplace statue au plus tard le deuxième jour ouvrable suivant la demande. Pendant cette durée, les effets de l'ordonnance de mise en liberté sont suspendus et la personne reste détenue. A défaut pour le premier président de la cour d'appel ou le magistrat qui le remplace de statuer dans ce délai, la personne est remise en liberté, sauf si elle est détenue pour une autre cause.
+
+Le premier président de la cour d'appel ou le magistrat qui le remplace statue, au vu des éléments du dossier de la procédure, par une ordonnance motivée qui n'est pas susceptible de recours. A sa demande, l'avocat de la personne mise en examen peut présenter des observations orales devant ce magistrat, lors d'une audience de cabinet dont le ministère public est avisé pour qu'il y prenne, le cas échéant, ses réquisitions.
+
+Si le premier président de la cour d'appel ou le magistrat qui le remplace estime que le maintien en détention de la personne est manifestement nécessaire au vu d'au moins deux des critères prévus par les dispositions de l'article 144 jusqu'à ce que la chambre d'instruction statue sur l'appel du ministère public, il ordonne la suspension des effets de l'ordonnance de mise en liberté jusqu'à cette date. La personne mise en examen ne peut alors être mise en liberté jusqu'à l'audience de la chambre de l'instruction devant laquelle sa comparution personnelle est de droit ; la chambre de l'instruction doit se prononcer dans les plus brefs délais et au plus tard dans les dix jours de l'appel, faute de quoi la personne est mise d'office en liberté si elle n'est pas détenue pour une autre cause.
+
+Dans le cas contraire, le premier président de la cour d'appel ou le magistrat qui le remplace ordonne que la personne soit mise en liberté si elle n'est pas détenue pour une autre cause.
+
+A peine de nullité, le magistrat ayant statué sur la demande de référé-détention ne peut faire partie de la composition de la chambre de l'instruction qui statuera sur l'appel du ministère public.
+
+La transmission du dossier de la procédure au premier président de la cour d'appel ou au magistrat qui le remplace peut être effectuée par télécopie.
 
 
 ##### Section 13 : De la reprise de l'information sur charges nouvelles
