@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 18 juin 1998
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19980618)
+- Date de consolidation : 3 juillet 1998
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19980703)
 
 
 # Partie législative
