@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 2 mars 1984
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19840302)
+- Date de consolidation : 10 avril 1984
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19840410)
 
 
 # Partie législative
@@ -6566,6 +6566,15 @@ Le dossier de la procédure pénale est renvoyé avec une copie de la décision.
 ###### Article R40-1
 
 Lorsqu'il apparaît manifestement, au vu des renseignements recueillis sur les énonciations de la requête, que le demandeur ne remplit pas la condition d'avoir fait l'objet d'une détention provisoire au cours d'une procédure terminée à son égard par une décision de non-lieu, de relaxe ou d'acquittement devenue définitive, le président peut décider qu'il n'y a pas lieu à plus ample instruction et fixer sans délai la date de l'audience.
+
+
+###### Article R40-2
+
+L'admission au bénéfice de l'aide judiciaire devant la commission peut être accordée dans les mêmes formes et conditions et avec les mêmes effets qu'en matière civile, soit par le bureau établi près la Cour de cassation, soit par le bureau établi près la juridiction qui a rendu la décision de non-lieu, de relaxe ou d'acquittement, selon que le demandeur aura demandé à être représenté ou assisté par un avocat au Conseil d'Etat et à la Cour de cassation ou par un avocat régulièrement inscrit à un barreau.
+
+La demande d'aide judiciaire est directement adressée au bureau compétent pour en connaître.
+
+Cette demande interrompt le délai prévu à l'article 149-2.
 
 
 ###### Article R40-3
