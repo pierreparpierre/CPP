@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 10 mai 1995
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19950510)
+- Date de consolidation : 6 août 1995
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19950806)
 
 
 # Partie législative
@@ -10686,6 +10686,27 @@ En cas de nouvelle poursuite exercée contre un condamné placé sous son contr�
 Le premier président désigne, après avis de l'Assemblée générale des magistrats du siège, un ou plusieurs conseillers chargés de suivre l'application des peines et de coordonner l'action des juges de l'application des peines dans le ressort de la cour d'appel.
 
 Il est mis fin à leurs fonctions et pourvu à leur remplacement dans les mêmes formes.
+
+
+### Titre II : Des conditions de détention.
+
+### Article R50-33
+
+Les personnes condamnées pour le meurtre ou l'assassinat d'un mineur de quinze ans précédé ou accompagné d'un viol, de tortures ou d'actes de barbarie ou pour toute infraction visée aux articles 222-23 à 222-32 et 227-25 à 227-27 du code pénal exécutent leur peine dans les établissements pénitentiaires permettant d'assurer un suivi médical et psychologique adapté. Ces établissements sont les suivants :
+1. Les établissements pénitentiaires sièges d'un service médico-psychologique régional ;
+2. Les établissements pour peines dotés d'une unité fonctionnelle rattachée à un service médico-psychologique régional ;
+3. Les établissements pénitentiaires dans lesquels intervient le secteur de psychiatrie générale en application des protocoles prévus par les articles R. 711-10 et R. 711-17 du code de la santé publique ;
+4. Les établissements pénitentiaires dans lesquels le suivi médical est régi par une convention passée dans le cadre de la loi n° 87-432 du 22 juin 1987 relative au service public pénitentiaire.
+
+
+### Article R50-34
+
+Les personnes mentionnées à l'article R. 50-33 sont signalées au psychiatre intervenant en milieu pénitentiaire par le chef d'établissement qui met en outre à la disposition de ce praticien un résumé de la situation pénale ainsi que les expertises psychologiques ou psychiatriques conservées dans le dossier individuel.
+
+
+### Article R50-35
+
+Avant leur libération les personnes mentionnées à l'article R. 50-33 font l'objet d'un examen psychiatrique en vue de préparer, le cas échéant, une prise en charge post-pénale adaptée.
 
 
 ### Titre IV : Du sursis
