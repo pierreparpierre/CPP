@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 12 février 2005
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20050212)
+- Date de consolidation : 24 février 2005
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20050224)
 
 
 # Partie législative
@@ -573,6 +573,17 @@ VIII. - Les agents de l'administration des douanes mentionnés aux I et II ne pe
 Les gardes particuliers assermentés constatent par procès-verbaux tous délits et contraventions portant atteinte aux propriétés dont ils ont la garde.
 
 Les procès-verbaux sont remis ou envoyés par lettre recommandée directement au procureur de la République. Cet envoi doit avoir lieu, à peine de nullité, dans les trois jours au plus tard, y compris celui où ils ont constaté le fait, objet de leur procès-verbal.
+
+
+###### Article 29-1
+
+Les gardes particuliers mentionnés à l'article 29 sont commissionnés par le propriétaire ou tout autre titulaire de droits sur la propriété qu'ils sont chargés de surveiller. Ils doivent être agréés par le préfet du département dans lequel se situe la propriété désignée dans la commission.
+
+Ne peuvent être agréés comme gardes particuliers :
+1. Les personnes dont le comportement est incompatible avec l'exercice de ces fonctions, en particulier si elles ne remplissent pas les conditions de moralité et d'honorabilité requises, au vu notamment des mentions portées au bulletin n° 2 de leur casier judiciaire ou dans les traitements automatisés de données personnelles mentionnés à l'article 21 de la loi n° 2003-239 du 18 mars 2003 pour la sécurité intérieure ;
+2. Les personnes qui ne remplissent pas les conditions d'aptitude technique, fixées par décret en Conseil d'Etat, qui sont exigées pour l'exercice de leurs fonctions ;
+3. Les agents mentionnés aux articles 15 (1° et 2°) et 22 ;
+4. Les personnes membres du conseil d'administration de l'association qui les commissionne, ainsi que les propriétaires ou titulaires de droits réels sur les propriétés gardées. Les conditions d'application du présent article, notamment les modalités d'obtention de l'agrément, les conditions dans lesquelles celui-ci peut être suspendu ou retiré, les conditions d'assermentation des gardes particuliers, les principaux éléments de leur tenue ainsi que les conditions d'exercice de leurs missions, sont déterminées par décret en Conseil d'Etat.
 
 
 #### Chapitre Ier bis : Des attributions du garde des sceaux, ministre de la justice
@@ -21228,6 +21239,8 @@ Le président de la chambre ou l'un ou plusieurs de ses membres sont choisis par
 
 Le responsable d'une association de réinsertion des condamnés et le responsable d'une association d'aide aux victimes, membres de la chambre de l'application des peines de la cour d'appel en application des dispositions du deuxième alinéa de l'article 712-13, sont désignés par le premier président, après avis de l'assemblée générale des magistrats du siège, pour une durée de trois ans. Deux suppléants sont désignés dans les mêmes formes pour une même durée.
 
+Avant d'entrer en fonction, les personnes mentionnées à l'alinéa précédent prêtent devant la cour d'appel le serment de bien et fidèlement remplir leurs fonctions et de conserver le secret des délibérations. Les dispositions de l'article R. 522-10 du code de l'organisation judiciaire leur sont applicables.
+
 
 ###### Article D49-10
 
@@ -21323,7 +21336,7 @@ Le jugement est rendu en chambre du conseil.
 
 Si la décision est rendue immédiatement, une copie du jugement est remise au condamné, ainsi que, le cas échéant, à son avocat, contre émargement au dossier de la procédure.
 
-Si la décision a été mise en délibéré, le jugement est notifié au condamné détenu par le chef de l'établissement pénitentiaire qui lui en remet une copie contre émargement ; si le condamné n'est pas détenu, copie du jugement lui est adressée par lettre recommandée ; une copie du jugement est également adressée par lettre recommandée ou par télécopie à l'avocat du condamné.
+Si la décision a été mise en délibéré, le jugement est notifié au condamné détenu par le chef de l'établissement pénitentiaire qui lui en remet une copie contre émargement ; si le condamné n'est pas détenu, copie du jugement lui est adressée par lettre recommandée ; une copie du jugement est également adressée par lettre recommandée ou par télécopie à l'avocat du condamné ; lorsqu'il s'agit d'un jugement révoquant ou retirant une mesure, la copie du jugement adressée au condamné non détenu l'est par lettre recommandée avec demande d'avis de réception.
 
 Dès qu'il est rendu, le jugement est notifié au ministère public. Une copie en est adressée au directeur du service pénitentiaire d'insertion et de probation et, lorsque le condamné est incarcéré, au chef de l'établissement pénitentiaire.
 
@@ -21340,7 +21353,7 @@ Sans préjudice de la possibilité de décerner mandat d'amener ou d'arrêt conf
 
 ###### Article D49-21
 
-Les ordonnances prévues par l'article 712-5 sont notifiées au condamné détenu par le chef de l'établissement pénitentiaire qui lui en remet une copie contre émargement ; si le condamné n'est pas détenu, copie de l'ordonnance lui est adressée par lettre recommandée ; une copie de l'ordonnance est également adressée par lettre recommandée ou par télécopie à l'avocat du condamné.
+Les ordonnances prévues par les articles 712-5 et 712-8 sont notifiées au condamné détenu par le chef de l'établissement pénitentiaire qui lui en remet une copie contre émargement ; si le condamné n'est pas détenu, copie de l'ordonnance lui est adressée par lettre recommandée ; une copie de l'ordonnance est également adressée par lettre recommandée ou par télécopie à l'avocat du condamné ; lorsqu'il s'agit d'une ordonnance refusant de faire droit à une demande du condamné non détenu, la copie de la décision adressée à celui-ci l'est par lettre recommandée avec demande d'avis de réception.
 
 
 ###### Article D49-22
@@ -22591,7 +22604,7 @@ Le crédit de réduction de peine ne s'applique pas à l'emprisonnement résulta
 
 ####### Article D115-6
 
-Lorsqu'un détenu condamné à l'étranger est transféré en France, le calcul du crédit de réduction de peine se fait conformément à l'article 721 sur la partie de la détention restant à subir au titre de la condamnation en cours d'exécution au jour de l'arrivée sur le sol français. Pour les condamnations n'ayant pas reçu un commencement d'exécution à cette date, quelle que soit la date d'inscription sur la fiche pénale, le crédit de réduction de peine est calculé en application de l'article 721.
+Lorsqu'un détenu condamné à l'étranger est transféré en France, le calcul du crédit de réduction de peine se fait conformément à l'article 721 sur la partie de la détention restant à subir au titre de la condamnation en cours d'exécution. Pour les condamnations n'ayant pas reçu un commencement d'exécution à cette date, quelle que soit la date d'inscription sur la fiche pénale, le crédit de réduction de peine est calculé en application de l'article 721.
 
 
 ####### Paragraphe 2 : Du retrait du crédit de réduction de peine.
@@ -22950,9 +22963,9 @@ A leur égard, la durée de ces permissions peut être portée à cinq jours.
 
 ###### Article D146-2
 
-Lorsque le condamné est en état de récidive légale, la condition d'exécution de la moitié de la peine pour accorder une permission de sortir prévue par les articles D. 143, D. 144, D. 145 (premier alinéa) et D. 146 est remplacée par la condition d'exécution des deux tiers de la peine.
+Lorsque le condamné est en état de récidive légale, la condition d'exécution de la moitié ou du tiers de la peine pour accorder une permission de sortir prévue par les articles D. 143, D. 144, D. 145 (premier alinéa) et D. 146 est remplacée par la condition d'exécution des deux tiers de la peine.
 
-Toutefois, si la situation du condamné le justifie, le juge de l'application des peines peut, par ordonnance spécialement motivée, accorder ces permissions de sortir après exécution de la moitié de la peine.
+Toutefois, si la situation du condamné le justifie, le juge de l'application des peines peut, par ordonnance spécialement motivée, accorder ces permissions de sortir après exécution de la moitié ou du tiers de la peine.
 
 
 ###### Article D147
@@ -23827,9 +23840,7 @@ Toulouse - Ariège, Aude, Aveyron, Gard, Haute-Garonne, Gers, Hérault, Lot, Loz
 
 ##### Article D193
 
-Une mission des services pénitentiaires de l'outre-mer, confiée à un directeur régional des services pénitentiaires, a compétence sur les établissements et services pénitentiaires des départements d'outre-mer, du territoire de la Polynésie française et de la Nouvelle-Calédonie.
-
-Cette mission est, en outre, chargée, dans le domaine pénitentiaire, des relations avec les collectivités territoriales de Saint-Pierre-et-Miquelon et de Mayotte, liées par convention avec l'Etat.
+Une mission des services pénitentiaires de l'outre-mer, confiée à un directeur régional des services pénitentiaires, a compétence sur les établissements et services pénitentiaires des départements d'outre-mer, du territoire de la Polynésie française et de la Nouvelle-Calédonie ainsi que de Saint-Pierre-et-Miquelon et de Mayotte.
 
 
 ##### Section 2 : Du personnel de l'administration pénitentiaire
