@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 11 juillet 2001
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20010711)
+- Date de consolidation : 13 juillet 2001
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20010713)
 
 
 # Partie législative
@@ -9903,16 +9903,7 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 
 ## Livre VI : Dispositions relatives aux territoires d'outre mer, à la Nouvelle-Calédonie, à Mayotte et à la collectivité territoriale de Saint-Pierre-et-Miquelon.
 
-### Titre III : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon
-
-### Article 902-1
-
-Pour l'application du présent code dans la collectivité territoriale de Saint-Pierre-et-Miquelon, il est tenu compte des adaptations prévues par le présent titre.
-
-
-## Livre VI : Dispositions relatives aux territoires d'outre-mer, à la Nouvelle-Calédonie et aux collectivités territoriales de Mayotte et Saint-Pierre-et-Miquelon
-
-### Titre Ier : Dispositions applicables en Nouvelle-Calédonie et dans les territoires de la Polynésie française et des îles Wallis-et-Futuna
+### Titre Ier : Dispositions applicables en Nouvelle-Calédonie et dans les territoires de la Polynésie française et des îles Wallis-et-Futuna.
 
 #### Chapitre Ier : Dispositions générales
 
@@ -9930,7 +9921,7 @@ De même, les références à des dispositions non applicables dans ces territoi
 
 #### Article 806
 
-Dans les territoires d'outre-mer et en Nouvelle-Calédonie, les sanctions pécuniaires encourues en vertu du présent code sont prononcées en monnaie locale, compte tenu de la contre-valeur du franc métropolitain dans cette monnaie.
+Dans les territoires d'outre-mer et en Nouvelle-Calédonie, les sanctions pécuniaires encourues en vertu du présent code sont prononcées en monnaie locale, compte tenu de la contre-valeur de l'euro dans cette monnaie.
 
 
 #### Chapitre II : De l'action publique et de l'action civile
@@ -9960,7 +9951,7 @@ II. - Les agents assermentés des territoires et, en Nouvelle-Calédonie, des pr
 
 #### Article 809-1
 
-Pour l'application de l'article 41-2, les références aux articles 28 et 32 (2°) du décret-loi du 18 avril 1939 fixant le régime des matériels de guerre, armes et munitions et à l'article L. 1er du code de la route sont remplacées par les références aux dispositions applicables localement qui répriment la détention ou le port d'arme et aux dispositions applicables localement en matière de circulation routière qui répriment la conduite sous l'empire d'un état alcoolique ou en état d'ivresse manifeste.
+Pour l'application de l'article 41-2, les références aux articles L. 2339-5 et L. 2339-9 du code de la défense et à l'article L. 1er du code de la route (1) sont remplacées par les références aux dispositions applicables localement qui répriment la détention ou le port d'arme et aux dispositions applicables localement en matière de circulation routière qui répriment la conduite sous l'empire d'un état alcoolique ou en état d'ivresse manifeste.
 
 
 #### Article 810
@@ -9976,6 +9967,55 @@ Pour l'application du deuxième alinéa de l'article 46, les fonctions du minist
 
 
 #### Chapitre IV : Des enquêtes
+
+#### Article 812
+
+Pour l'application des articles 63, 77 et 154, lorsque les conditions de transport ne permettent pas de conduire devant le magistrat compétent la personne retenue, l'officier de police judiciaire peut prescrire à cette personne de se présenter à lui périodiquement, à charge d'en informer immédiatement le magistrat compétent. Ce dernier décide de la mainlevée de la mesure ou de son maintien pour une durée qu'il fixe et qui ne peut se prolonger au-delà du jour de la première liaison aérienne ou maritime.
+
+Le fait de se soustraire à l'obligation définie au précédent alinéa est puni d'un an de prison et 100 000 F d'amende.
+
+
+#### Article 812
+
+Pour l'application des articles 63, 77 et 154, lorsque les conditions de transport ne permettent pas de conduire devant le magistrat compétent la personne retenue, l'officier de police judiciaire peut prescrire à cette personne de se présenter à lui périodiquement, à charge d'en informer immédiatement le magistrat compétent. Ce dernier décide de la mainlevée de la mesure ou de son maintien pour une durée qu'il fixe et qui ne peut se prolonger au-delà du jour de la première liaison aérienne ou maritime.
+
+
+
+Le fait de se soustraire à l'obligation définie au précédent alinéa est puni d'un an de prison et 15 000 euros d'amende.
+
+
+#### Article 813
+
+Dans le territoire de la Polynésie française, en l'absence d'un médecin dans l'île où se déroule la garde à vue, l'examen prévu par l'article 63-3 est effectué par un infirmier diplômé ou, à défaut, par un membre du corps des auxiliaires de santé publique.
+
+
+#### Article 814
+
+En Nouvelle-Calédonie, lorsque la garde à vue se déroule en dehors des communes de Nouméa, Mont-Doré, Dumbea et Paita et que le déplacement d'un avocat paraît matériellement impossible, l'entretien prévu au premier alinéa de l'article 63-4 peut avoir lieu avec une personne choisie par la personne gardée à vue, qui n'est pas mise en cause pour les mêmes faits ou pour des faits connexes et qui n'a fait l'objet d'aucune condamnation, incapacité ou déchéance mentionnée au bulletin n° 2 du casier judiciaire. Les dispositions des deuxième et quatrième alinéas de l'article 63-4 sont applicables à la personne choisie, qui en est informée par l'officier de police judiciaire.
+
+Le fait pour une personne, qui a été appelée à intervenir dans les conditions prévues à l'alinéa précédent, de faire état auprès de quiconque de cet entretien dans le but d'entraver le cours de la justice est puni d'un an d'emprisonnement et 100 000 F d'amende.
+
+Les dispositions des alinéas précédents s'appliquent dans le territoire de la Polynésie française, lorsque la garde à vue se déroule dans une île où il n'y a pas d'avocat et que le déplacement d'un avocat paraît matériellement impossible.
+
+Dans les territoires des îles Wallis-et-Futuna, il peut être fait appel pour l'entretien prévu au premier alinéa de l'article 63-4 à une personne agréée par le président du tribunal de première instance. Lorsque cette personne n'est pas désignée par la personne gardée à vue, elle l'est d'office par le président de cette juridiction. Les dispositions des deuxième au quatrième alinéas de l'article 63-4 et celles du deuxième alinéa du présent article sont applicables à la personne choisie, qui en est informée par l'officier de police judiciaire.
+
+
+#### Article 814
+
+En Nouvelle-Calédonie, lorsque la garde à vue se déroule en dehors des communes de Nouméa, Mont-Doré, Dumbea et Paita et que le déplacement d'un avocat paraît matériellement impossible, l'entretien prévu au premier alinéa de l'article 63-4 peut avoir lieu avec une personne choisie par la personne gardée à vue, qui n'est pas mise en cause pour les mêmes faits ou pour des faits connexes et qui n'a fait l'objet d'aucune condamnation, incapacité ou déchéance mentionnée au bulletin n° 2 du casier judiciaire. Les dispositions des deuxième et quatrième alinéas de l'article 63-4 sont applicables à la personne choisie, qui en est informée par l'officier de police judiciaire.
+
+
+
+Le fait pour une personne, qui a été appelée à intervenir dans les conditions prévues à l'alinéa précédent, de faire état auprès de quiconque de cet entretien dans le but d'entraver le cours de la justice est puni d'un an d'emprisonnement et 15 000 euros d'amende.
+
+
+
+Les dispositions des alinéas précédents s'appliquent dans le territoire de la Polynésie française, lorsque la garde à vue se déroule dans une île où il n'y a pas d'avocat et que le déplacement d'un avocat paraît matériellement impossible.
+
+
+
+Dans les territoires des îles Wallis-et-Futuna, il peut être fait appel pour l'entretien prévu au premier alinéa de l'article 63-4 à une personne agréée par le président du tribunal de première instance. Lorsque cette personne n'est pas désignée par la personne gardée à vue, elle l'est d'office par le président de cette juridiction. Les dispositions des deuxième au quatrième alinéas de l'article 63-4 et celles du deuxième alinéa du présent article sont applicables à la personne choisie, qui en est informée par l'officier de police judiciaire.
+
 
 #### Chapitre V : Des juridictions d'instruction
 
@@ -10036,6 +10076,64 @@ En cas d'empêchement d'un membre de la chambre de l'instruction, celui-ci est r
 
 
 #### Chapitre VI : De la cour d'assises
+
+#### Article 825
+
+Par dérogation à l'article 236, la tenue des assises a lieu chaque fois qu'il est nécessaire.
+
+
+#### Article 826
+
+Pour l'application de l'article 244, et sous réserve de l'application des dispositions de l'article 247, la cour d'assises peut également être présidée par le président du tribunal de première instance ou par le magistrat du siège le plus ancien dans le grade le plus élevé de ce tribunal.
+
+
+#### Article 827
+
+Pour l'application des articles 245 et 250, il est procédé annuellement à la désignation du président de la cour d'assises et des assesseurs.
+
+
+#### Article 828
+
+Le 8° de l'article 256 est rédigé comme suit :
+
+" 8° Les majeurs sous sauvegarde de justice, les majeurs en tutelle, les majeurs en curatelle et ceux qui sont placés dans un établissement accueillant les malades atteints de troubles mentaux en vertu des dispositions applicables localement. "
+
+
+#### Article 829
+
+Sans préjudice de l'application de l'article 257, les fonctions de juré sont également incompatibles avec les fonctions suivantes : assesseurs du tribunal du travail ; assesseurs du tribunal mixte de commerce ; assesseurs du tribunal de première instance de Wallis-et-Futuna ; membres du gouvernement de la Polynésie française ; membres des assemblées territoriales ; membres du conseil du territoire des îles Wallis-et-Futuna ; membres des assemblées provinciales de la Nouvelle-Calédonie ; représentants de l'Etat dans les territoires ; secrétaires généraux des territoires ; chefs de circonscription ou de subdivision administratives.
+
+
+#### Article 830
+
+Le nombre minimum de jurés prévus par le premier alinéa de l'article 260 est fixé à 80 pour le territoire des îles Wallis-et-Futuna.
+
+
+#### Article 831
+
+Dans le territoire des îles Wallis-et-Futuna, la liste préparatoire de la liste annuelle, prévue par les articles 261 et 261-1, est dressée par circonscription territoriale et les attributions du maire sont exercées par le chef de circonscription administrative.
+
+
+#### Article 832
+
+I. - Pour l'application en Nouvelle-Calédonie et dans le territoire de la Polynésie française du deuxième alinéa de l'article 262 fixant la composition de la commission prévue à cet article, les conseillers généraux sont remplacés par cinq membres désignés chaque année en son sein par le Congrès ou l'assemblée de la Polynésie française.
+
+II. - Dans le territoire des îles Wallis-et-Futuna, la commission prévue à l'article 262 comprend :
+- le président du tribunal de première instance, président ;
+- le procureur de la République ou son délégué ;
+- un citoyen désigné dans les conditions définies à l'article L. 933-2 du code de l'organisation judiciaire ;
+- deux membres de l'assemblée territoriale désignés chaque année par celle-ci.
+
+
+#### Article 833
+
+La liste spéciale de jurés suppléants, prévue à l'article 264, comprend trente noms dans le territoire des îles Wallis-et-Futuna.
+
+
+#### Article 834
+
+Pour l'application de l'article 269, l'accusé peut être transféré dans un établissement pénitentiaire autre qu'une maison d'arrêt.
+
 
 #### Chapitre VII : Du jugement des délits
 
@@ -10119,7 +10217,7 @@ Pour l'application de l'article 420-1, le montant de la demande ne doit pas exc�
 
 Le deuxième alinéa de l'article 470-1 est ainsi rédigé :
 
-"Toutefois, lorsqu'il apparaît que des tiers responsables doivent être mis en cause, le tribunal renvoie l'affaire, par une décision non susceptible de recours, devant la juridiction civile compétente".
+" Toutefois, lorsqu'il apparaît que des tiers responsables doivent être mis en cause, le tribunal renvoie l'affaire, par une décision non susceptible de recours, devant la juridiction civile compétente. "
 
 
 #### Article 845
@@ -10134,16 +10232,16 @@ Le délai supplémentaire prévu à l'article 500 est porté à quinze jours pou
 
 #### Article 847
 
-Si l'appelant réside hors de l'île où la juridiction qui a rendu la décision attaquée a son siège, la déclaration d'appel prévue à l'article 502 peut être adressée au greffier de la juridiction par lettre signée de l'appelant. Dès réception de cette lettre, le greffier dresse l'acte d'appel et y annexe la lettre de l'appelant. Dans le délai prévu par les articles 498, 500 et 846, l'appelant est tenu de confirmer son appel à la mairie ou à la gendarmerie la plus proche de sa résidence.
+Si l'appelant réside hors de l'île où la juridiction qui a rendu la décision attaquée a son siège, la déclaration d'appel prévue à l'article 502 peut être adressée au greffier de la juridiction par lettre signée de l'appelant. Dès réception de cette lettre, le greffier dresse l'acte d'appel et y annexe la lettre de l'appelant. Dans le délai prévu par les articles 498,500 et 846, l'appelant est tenu de confirmer son appel à la mairie ou à la gendarmerie la plus proche de sa résidence.
 
 
 #### Chapitre VIII : Du jugement des contraventions
 
 #### Article 848
 
-A Nouméa, Mata-Utu et Papeete, le tribunal de police est constitué par un juge du tribunal de première instance, un officier du ministère public ainsi qu'il est dit aux articles 45 à 48, 810 et 811, et un greffier.
+A Nouméa, Mata-Utu et Papeete, le tribunal de police est constitué par un juge du tribunal de première instance, un officier du ministère public ainsi qu'il est dit aux articles 45 à 48,810 et 811, et un greffier.
 
-Dans les sections du tribunal de première instance et lors des audiences foraines, le tribunal est constitué par le juge chargé du service de la section ou le juge forain, un officier du ministère public ainsi qu'il est dit aux articles 45 à 48, 810 et 811, et un greffier.
+Dans les sections du tribunal de première instance et lors des audiences foraines, le tribunal est constitué par le juge chargé du service de la section ou le juge forain, un officier du ministère public ainsi qu'il est dit aux articles 45 à 48,810 et 811, et un greffier.
 
 
 #### Article 849
@@ -10211,6 +10309,11 @@ Le délai et les formes d'opposition à l'arrêt rendu par la Cour de cassation 
 
 #### Chapitre XI : De quelques procédures particulières
 
+#### Article 859-1
+
+Le délai prévu au premier alinéa de l'article 627-6 est porté à quinze jours lorsque le transfèrement se fait à partir de la Nouvelle-Calédonie, de la Polynésie française ou des îles Wallis-et-Futuna.
+
+
 #### Article 860
 
 L'ordonnance mentionnée à l'article 628 et l'extrait de condamnation mentionné à l'article 634 sont insérés dans l'un des journaux du territoire, affichés à la porte du domicile de l'intéressé et, lorsqu'il n'y a pas de mairie, affichés à la diligence du chef de circonscription administrative.
@@ -10244,8 +10347,6 @@ Les sommes allouées sont versées par le fonds de garantie des victimes des act
 #### Article 864
 
 Le premier alinéa de l'article 706-14 est ainsi rédigé :
-
-
 
 " Toute personne qui, victime d'un vol, d'une escroquerie ou d'un abus de confiance, ne peut obtenir à un titre quelconque une réparation ou une indemnisation effective et suffisante de son préjudice, et se trouve de ce fait dans une situation matérielle grave, peut obtenir une indemnité dans les conditions prévues par les articles 706-3 (troisième et dernier alinéa)(1) à 706-12, lorsque ses ressources sont inférieures au plafond pour bénéficier de l'aide juridictionnelle partielle, affectée le cas échéant de correctif pour charges de famille, prévu par l'article 3 de l'ordonnance n° 92-1147 du 12 octobre 1992 relative à l'aide juridictionnelle en matière pénale dans les territoires d'outre-mer. "
 
@@ -10288,7 +10389,7 @@ Les attributions dévolues au ministre de la justice par les articles 730 à 733
 
 L'article 752 est ainsi rédigé :
 
-" Art. 752. - La contrainte judiciaire ne peut être exécutée contre les condamnés qui justifient de leur insolvabilité en produisant :
+" Art. 752. - La contrainte par corps ne peut être exécutée contre les condamnés qui justifient de leur insolvabilité en produisant :
 1. Un certificat du percepteur ou de l'agent qui exerce les fonctions dévolues au percepteur de leur domicile constatant qu'ils ne sont pas imposés ;
 2. Un certificat du maire ou du commissaire de police de leur commune ou du chef de leur circonscription administrative.
 
@@ -10299,7 +10400,7 @@ La preuve que le condamné est en réalité solvable peut être rapportée par t
 
 L'article 758 est ainsi rédigé :
 
-" Art. 758. - La contrainte judiciaire est subie dans un établissement pénitentiaire. "
+" Art. 758. - La contrainte par corps est subie dans un établissement pénitentiaire. "
 
 
 #### Article 872
@@ -10318,7 +10419,9 @@ L'article 763 est ainsi rédigé :
 
 Le premier alinéa de l'article 763-7 est ainsi rédigé :
 
-"Lorsqu'une personne condamnée à un suivi socio-judiciaire comprenant une injonction de soins doit subir une peine privative de liberté, elle exécute cette peine dans un établissement pénitentiaire permettant de lui assurer un suivi médical et psychologique adapté."
+
+
+" Lorsqu'une personne condamnée à un suivi socio-judiciaire comprenant une injonction de soins doit subir une peine privative de liberté, elle exécute cette peine dans un établissement pénitentiaire permettant de lui assurer un suivi médical et psychologique adapté. "
 
 
 #### Chapitre XIII : Du casier judiciaire
@@ -10340,18 +10443,18 @@ L'article 773 est ainsi rédigé :
 " Art. 773. - Il est adressé une copie de chaque fiche constatant une décision entraînant la privation des droits électoraux à l'autorité administrative compétente du territoire. "
 
 
-### Titre II : Dispositions applicables dans la collectivité territoriale de Mayotte
+### Titre II : Dispositions applicables à Mayotte
 
 #### Chapitre Ier : Dispositions générales
 
 #### Article 877
 
-A l'exception des articles 191, 232, 235, 240, 243 à 267, 288 à 303, 305, 398 à 398-2, 399, 510, 717 à 719, le présent code (Dispositions législatives) est applicable dans la collectivité territoriale de Mayotte sous réserve des adaptations prévues au présent titre.
+A l'exception des articles 191, 232, 235, 240, 243 à 267, 288 à 303, 305, 398 à 398-2, 399, 510, 717 à 719, le présent code (Dispositions législatives) est applicable à Mayotte sous réserve des adaptations prévues au présent titre.
 
 
 #### Article 878
 
-Pour l'application du présent code dans la collectivité territoriale de Mayotte :
+Pour l'application du présent code à Mayotte :
 
 
 
@@ -10367,7 +10470,7 @@ Les termes : "cour d'assises" ou : "la cour et le jury" sont remplacés par les 
 
 
 
-Le terme : "département" est remplacé par les termes :  "collectivité territoriale" ;
+Le terme : "département" est remplacé par les termes : "collectivité territoriale" ;
 
 
 
@@ -10389,18 +10492,9 @@ Les attributions dévolues par le présent code aux avocats et aux conseils des 
 
 #### Article 879-1
 
-Pour l'application des articles 16 à 19, les officiers de police de la collectivité territoriale de Mayotte mis à la disposition de l'Etat sont assimilés, selon les dispositions et dans les conditions prévues par ces articles, aux fonctionnaires titulaires du corps de commandement et d'encadrement de la police nationale.
+Pour l'application des articles 16 à 19, les officiers de police de Mayotte mis à la disposition de l'Etat sont assimilés, selon les dispositions et dans les conditions prévues par ces articles, aux fonctionnaires titulaires du corps de commandement et d'encadrement de la police nationale.
 
-Pour l'application des articles 20 et 21, les agents de police de la collectivité territoriale de Mayotte mis à la disposition de l'Etat sont assimilés, selon les dispositions et dans les conditions prévues par ces articles, aux agents de la police nationale.
-
-
-#### Chapitre II : Des enquêtes
-
-#### Article 880
-
-Lorsque le déplacement d'un avocat ou d'une personne agréée en application de l'article 879 paraît matériellement impossible, l'entretien prévu au premier alinéa de l'article 63-4 peut avoir lieu avec une personne choisie par la personne gardée à vue, qui n'est pas mise en cause pour les mêmes faits ou pour des faits connexes et qui n'a fait l'objet d'aucune condamnation, incapacité ou déchéance mentionnée au bulletin n° 2 du casier judiciaire. Les dispositions des deuxième au quatrième alinéas de l'article 63-4 sont applicables à la personne choisie, qui en est informée par l'officier de police judiciaire.
-
-Le fait pour une personne qui a été appelée à intervenir dans les conditions prévues à l'alinéa précédent, de faire état auprès de quiconque de cet entretien dans le but d'entraver le cours de la justice est puni d'un an d'emprisonnement et de 100 000 F d'amende.
+Pour l'application des articles 20 et 21, les agents de police de Mayotte mis à la disposition de l'Etat sont assimilés, selon les dispositions et dans les conditions prévues par ces articles, aux agents de la police nationale.
 
 
 #### Chapitre III : Des juridictions d'instruction
@@ -10526,7 +10620,9 @@ Les sommes allouées sont versées par le fonds de garantie des victimes des act
 
 Le premier alinéa de l'article 706-14 est ainsi rédigé :
 
-Toute personne qui, victime d'un vol, d'une escroquerie ou d'un abus de confiance ne peut obtenir à un titre quelconque une réparation ou une indemnisation effective et suffisante de son préjudice, et se trouve de ce fait dans une situation matérielle grave, peut obtenir une indemnité dans les conditions prévues par les articles 706-3 (troisième et dernier alinéa) à 706-12, lorsque ses ressources sont inférieures au plafond pour bénéficier de l'aide juridictionnelle partielle, affectées le cas échéant de correctif pour charges de famille, prévu par l'article 3 de l'ordonnance n° 92-1143 du 12 octobre 1992 relative à l'aide juridictionnelle en matière pénale dans la collectivité territoriale de Mayotte.
+
+
+" Toute personne qui, victime d'un vol, d'une escroquerie ou d'un abus de confiance ne peut obtenir à un titre quelconque une réparation ou une indemnisation effective et suffisante de son préjudice, et se trouve de ce fait dans une situation matérielle grave, peut obtenir une indemnité dans les conditions prévues par les articles 706-3 (troisième et dernier alinéa) à 706-12, lorsque ses ressources sont inférieures au plafond pour bénéficier de l'aide juridictionnelle partielle, affectées le cas échéant de correctif pour charges de famille, prévu par l'article 3 de l'ordonnance n° 92-1143 du 12 octobre 1992 relative à l'aide juridictionnelle en matière pénale à Mayotte. "
 
 
 #### Chapitre IX : Des procédures d'exécution
@@ -10547,22 +10643,238 @@ Par dérogation aux dispositions des deuxième et troisième alinéas de l'artic
 
 Le premier alinéa de l'article 763-7 est ainsi rédigé :
 
-"Lorsqu'une personne condamnée à un suivi socio-judiciaire comprenant une injonction de soins doit subir une peine privative de liberté, elle exécute cette peine dans un établissement pénitentiaire permettant de lui assurer un suivi médical et psychologique adapté."
+
+
+" Lorsqu'une personne condamnée à un suivi socio-judiciaire comprenant une injonction de soins doit subir une peine privative de liberté, elle exécute cette peine dans un établissement pénitentiaire permettant de lui assurer un suivi médical et psychologique adapté. "
 
 
 ### Titre III : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon
 
 #### Chapitre Ier : Dispositions générales
 
+#### Article 903
+
+Le tribunal supérieur d'appel exerce les compétences attribuées par le présent code à la cour d'appel et à la chambre de l'instruction.
+
+
+#### Article 904
+
+Les compétences attribuées par le présent code au tribunal de grande instance, à la cour d'assises, au premier président de la cour d'appel et au juge du tribunal d'instance sont exercées respectivement par le tribunal de première instance, le tribunal criminel, le président du tribunal supérieur d'appel et par un juge du tribunal de première instance. Les compétences attribuées au procureur de la République et au procureur général près la cour d'appel sont exercées par le procureur de la République près le tribunal supérieur d'appel.
+
+
+#### Article 905
+
+Les attributions dévolues par le présent code aux avocats et aux conseils des parties peuvent être exercées par des personnes agréées dans la collectivité territoriale par le président du tribunal supérieur d'appel. Ces personnes sont dispensées de justifier d'un mandat.
+
+
 #### Chapitre II : De l'exercice de l'action publique
+
+#### Article 906
+
+Par dérogation à l'article 193, le tribunal supérieur d'appel, en tant que chambre de l'instruction, ne se réunit que sur convocation de son président ou à la demande du procureur de la République, toutes les fois qu'il est nécessaire.
+
+
+#### Article 907
+
+Les articles L. 952-11 et L. 952-12 du code de l'organisation judiciaire relatifs au remplacement du président du tribunal supérieur d'appel et des assesseurs et aux modalités particulières d'exercice des fonctions juridictionnelles sont applicables à la chambre de l'instruction et à son président.
+
 
 #### Chapitre III : Des juridictions de jugement
 
-##### Section I : Du jugement des crimes
+##### Section 1 : Du jugement des crimes
 
-##### Section II : Du jugement des délits
+##### Article 908
 
-##### Section III : Du jugement des contraventions
+Les articles 233, 245, 261 et 261-1 du présent code ne sont pas applicables.
+
+
+##### Article 909
+
+Pour l'application de l'article 236, le président du tribunal supérieur d'appel convoque, en cas de besoin, le tribunal criminel par ordonnance prise après avis du procureur de la République.
+
+
+##### Article 910
+
+Pour l'application de l'article 240, le tribunal criminel est composé du tribunal proprement dit et du jury.
+
+
+##### Article 911
+
+Pour l'application de l'article 243, le tribunal proprement dit comprend le président et les assesseurs.
+
+
+##### Article 912
+
+Pour l'application de l'article 244, le tribunal criminel est présidé par le président du tribunal supérieur d'appel.
+
+En cas de vacance de poste, d'absence, d'empêchement ou d'incompatibilité légale, les fonctions de président du tribunal supérieur d'appel sont exercées par un magistrat du siège désigné par le premier président de la cour d'appel de Paris sur une liste arrêtée par lui pour chaque année civile.
+
+
+##### Article 913
+
+Pour l'application de l'article 249, les conditions que doivent remplir les assesseurs au tribunal criminel sont celles énoncées à l'article L. 951-2 du code de l'organisation judiciaire.
+
+
+##### Article 914
+
+Pour l'application de l'article 250, les assesseurs sont désignés par ordonnance du président du tribunal supérieur d'appel, après avis du procureur de la République.
+
+
+##### Article 915
+
+Pour l'application de l'article 251, en cas d'empêchement survenu avant ou au cours de la session, les assesseurs sont remplacés par ordonnance du président du tribunal supérieur d'appel.
+
+
+##### Article 916
+
+Pour l'application de l'alinéa 1er de l'article 260, le nombre des jurés ne peut être inférieur à trente-quatre.
+
+
+##### Article 917
+
+Pour l'application de l'article 262, la commission comprend :
+- le président du tribunal supérieur d'appel, président ;
+- le président du tribunal de première instance ;
+- le procureur de la République ou son suppléant ;
+- une personne agréée dans les conditions définies à l'article 905 et désignée par le président du tribunal supérieur d'appel ;
+- trois conseillers généraux désignés chaque année par le conseil général ;
+- trois conseillers municipaux désignés chaque année par les conseils municipaux, à raison de deux pour la commune de Saint-Pierre et un pour la commune de Miquelon-Langlade.
+
+
+##### Article 918
+
+Pour l'application de l'article 264, une liste spéciale de dix jurés suppléants est formée chaque année, en dehors de la liste annuelle du jury et dans les mêmes conditions que celle-ci.
+
+
+##### Article 919
+
+Pour l'application de l'article 266, seize jurés, dont les noms sont tirés sur la liste annuelle, forment la liste de la session. En outre, les noms de trois jurés suppléants sont tirés sur la liste spéciale.
+
+Si par suite des décès, des incapacités ou des incompatibilités légales survenues depuis l'établissement des listes, le nombre des citoyens parmi lesquels les jurés de la session doivent être tirés au sort est inférieur à trente, la commission chargée de dresser la liste annuelle des jurés est réunie de nouveau pour compléter la liste principale et former une nouvelle liste spéciale de dix citoyens.
+
+
+##### Article 920
+
+Pour l'application du premier alinéa de l'article 289-1, si, à la suite des absences ou des radiations, il reste moins de quatorze jurés sur la liste, ce nombre est complété par les jurés suppléants, suivant l'ordre de leur inscription ; en cas d'insuffisance, par des jurés tirés au sort, en audience publique, parmi les jurés inscrits sur la liste spéciale.
+
+
+##### Article 921
+
+Pour l'application des articles 296 et 297, le jury de jugement est formé de quatre jurés lorsque le tribunal criminel statue en premier ressort et de six jurés lorsqu'il statue en appel.
+
+
+##### Article 922
+
+Pour l'application de l'article 298, l'accusé et le ministère public ne peuvent récuser chacun plus de quatre jurés.
+
+
+##### Article 923
+
+Les majorités de huit ou dix voix prévues par les articles 359 et 362, deuxième alinéa, sont remplacées par des majorités de quatre ou cinq voix.
+
+
+##### Section 2 : Du jugement des délits
+
+##### Article 924
+
+Pour l'application de l'article 398, le tribunal correctionnel est toujours composé du président ou d'un juge du tribunal de première instance.
+
+Les articles L. 952-6 et L. 952-7 du code de l'organisation judiciaire relatifs au remplacement de ces magistrats et aux modalités particulières d'exercice des fonctions juridictionnelles sont applicables au tribunal correctionnel.
+
+
+##### Article 925
+
+Les articles 398-1 et 398-2 du présent code ne sont pas applicables.
+
+
+##### Article 926
+
+Pour l'application du premier alinéa de l'article 399, le président du tribunal supérieur d'appel, après avis du président du tribunal de première instance et du procureur de la République, fixe par ordonnance, pendant la première quinzaine du mois de décembre, le nombre des audiences correctionnelles pour l'année judiciaire suivante.
+
+
+##### Article 927
+
+Pour l'application des articles 491 et 492, les délais d'opposition sont de dix jours si le prévenu réside dans la collectivité territoriale et d'un mois s'il réside en dehors de celle-ci.
+
+
+##### Article 928
+
+Pour l'application de l'article 510, la chambre des appels correctionnels est composée du président du tribunal supérieur d'appel ainsi que de deux assesseurs figurant sur la liste prévue à l'article L. 951-3 du code de l'organisation judiciaire.
+
+Les articles L. 952-10 et L. 952-11 du code de l'organisation judiciaire relatifs au remplacement du président du tribunal supérieur d'appel et des assesseurs et aux modalités particulières d'exercice des fonctions juridictionnelles sont applicables à la chambre des appels correctionnels.
+
+
+##### Article 928-1
+
+Pour l'application du premier alinéa de l'article 511, le président du tribunal supérieur d'appel, après avis du procureur de la République, fixe par ordonnance, pendant la première quinzaine du mois de décembre, le nombre des audiences correctionnelles pour l'année judiciaire suivante.
+
+
+##### Article 929
+
+Pour l'application de l'article 513, l'appel est jugé sur le rapport oral du président.
+
+
+##### Section 3 : Du jugement des contraventions
+
+##### Article 930
+
+Pour l'application de l'article 523, le procureur de la République occupe le siège du ministère public devant le tribunal de police.
+
+
+##### Article 931
+
+Les articles L. 952-6 et L. 952-7 du code de l'organisation judiciaire relatifs au remplacement des magistrats du tribunal de première instance et aux modalités particulières d'exercice des fonctions juridictionnelles sont applicables au tribunal de police.
+
+
+##### Section 4 : Des citations et significations
+
+##### Article 932
+
+Le délai prévu au premier alinéa de l'article 552 s'applique lorsque la partie citée réside dans la collectivité territoriale. Le délai est augmenté d'un mois si la partie citée réside en tout autre lieu du territoire de la République.
+
+
+##### Section 5 : Des recours en indemnité
+
+##### Article 933
+
+Par dérogation aux dispositions des deuxième et troisième alinéas de l'article 706-4, le président du tribunal de première instance exerce les attributions dévolues à la commission d'indemnisation.
+
+
+##### Section 6 : De l'exécution des sentences pénales
+
+##### Article 934
+
+Par dérogation aux dispositions des deuxième et troisième alinéas de l'article 709-1, le président du tribunal de première instance exerce les fonctions de juge de l'application des peines.
+
+
+### Article 902-1
+
+Pour l'application du présent code dans la collectivité territoriale de Saint-Pierre-et-Miquelon, il est tenu compte des adaptations prévues par le présent titre.
+
+
+## Livre VI : Dispositions relatives aux territoires d'outre-mer, à la Nouvelle-Calédonie et aux collectivités territoriales de Mayotte et Saint-Pierre-et-Miquelon
+
+### Titre Ier : Dispositions applicables en Nouvelle-Calédonie et dans les territoires de la Polynésie française et des îles Wallis-et-Futuna
+
+#### Chapitre Ier : Dispositions générales
+
+#### Article 806
+
+Dans les territoires d'outre-mer et en Nouvelle-Calédonie, les sanctions pécuniaires encourues en vertu du présent code sont prononcées en monnaie locale, compte tenu de la contre-valeur du franc métropolitain dans cette monnaie.
+
+
+#### Chapitre IV : Des enquêtes
+
+### Titre II : Dispositions applicables à Mayotte
+
+#### Chapitre II : Des enquêtes
+
+#### Article 880
+
+Lorsque le déplacement d'un avocat ou d'une personne agréée en application de l'article 879 paraît matériellement impossible, l'entretien prévu au premier alinéa de l'article 63-4 peut avoir lieu avec une personne choisie par la personne gardée à vue, qui n'est pas mise en cause pour les mêmes faits ou pour des faits connexes et qui n'a fait l'objet d'aucune condamnation, incapacité ou déchéance mentionnée au bulletin n° 2 du casier judiciaire. Les dispositions des deuxième au quatrième alinéas de l'article 63-4 sont applicables à la personne choisie, qui en est informée par l'officier de police judiciaire.
+
+Le fait pour une personne qui a été appelée à intervenir dans les conditions prévues à l'alinéa précédent, de faire état auprès de quiconque de cet entretien dans le but d'entraver le cours de la justice est puni d'un an d'emprisonnement et de 100 000 F d'amende.
+
 
 # Article préliminaire
 
