@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 19 juillet 1970
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19700719)
+- Date de consolidation : 4 août 1970
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19700804)
 
 
 # Partie législative
@@ -5565,6 +5565,11 @@ Un rapport conjoint du premier président et du procureur général rend compte 
 ##### Article D181
 
 Le premier président de la cour d'appel et le procureur général près ladite cour peuvent désigner respectivement un magistrat du siège et un magistrat du parquet afin de les représenter et de prendre part aux travaux de la commission de surveillance, s'ils ne désirent y assister eux-mêmes.
+
+
+##### Article D185
+
+Les commissions de surveillance instituées auprès d'établissements pénitentiaires d'un même département peuvent avoir la même composition.
 
 
 ##### Section 5 : Des conditions dans lesquelles certaines personnes sont admises à visiter les détenus
