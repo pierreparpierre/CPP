@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 8 juillet 1989
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19890708)
+- Date de consolidation : 14 juillet 1989
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19890714)
 
 
 # Partie législative
@@ -99,7 +99,7 @@ Elle peut, en outre, s'éteindre par transaction lorsque la loi en dispose expre
 
 En matière de crime, l'action publique se prescrit par dix années révolues à compter du jour où le crime a été commis si, dans cet intervalle, il n'a été fait aucun acte d'instruction ou de poursuite.
 
-S'il en a été effectué dans cet intervalle, elle ne se prescrit qu'après dix années révolues à compter du dernier acte. Il en est ainsi même à l'égard des personnes qui ne seraient pas impliquées dans cet acte d'instruction ou de poursuite.
+S'il en a été effectué dans cet intervalle, elle ne se prescrit qu'après dix années révolues à compter du dernier acte. Il en est ainsi même à l'égard des personnes qui ne seraient pas impliquées dans cet acte d'instruction ou de poursuite. Lorsque la victime est mineure et que le crime a été commis par un ascendant légitime, naturel ou adoptif ou par une personne ayant autorité sur elle, le délai de prescription est réouvert ou court à nouveau à son profit, pour la même durée à partir de sa majorité.
 
 
 ## Article 8
@@ -840,6 +840,13 @@ L'instruction préparatoire est obligatoire en matière de crime ; sauf disposit
 ##### Article 85
 
 Toute personne qui se prétend lésée par un crime ou un délit peut en portant plainte se constituer partie civile devant le juge d'instruction compétent.
+
+
+##### Article 87-1
+
+Le juge d'instruction saisi de faits commis volontairement à l'encontre d'un enfant mineur par les titulaires de l'exercice de l'autorité parentale ou par l'un d'entre eux peut procéder à la désignation d'un administrateur ad hoc pour exercer, s'il y a lieu, au nom de l'enfant les droits reconnus à la partie civile. En cas de constitution de partie civile, le juge fait désigner un avocat d'office pour le mineur s'il n'en a pas déjà été choisi un.
+
+Les dispositions qui précèdent sont applicables à la juridiction de jugement.
 
 
 ##### Article 89
