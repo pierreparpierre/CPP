@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 7 août 2004
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20040807)
+- Date de consolidation : 22 août 2004
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20040822)
 
 
 # Partie législative
@@ -18191,6 +18191,8 @@ S'il ordonne le placement de la personne en détention provisoire, le juge des l
 
 Les documents mentionnés à l'alinéa précédent peuvent être, le cas échéant, transmis au chef d'établissement par le juge d'instruction si le dossier de la procédure est retourné à ce magistrat avant la mise à exécution du titre de détention.
 
+Lorsque le juge des libertés et de la détention ordonne le placement en détention après avoir été directement saisi par le procureur de la République en application des dispositions du deuxième alinéa de l'article 137-4, il remplit lui-même la notice individuelle prévue au premier alinéa du présent article.
+
 
 ##### Section 8 : Des commissions rogatoires
 
@@ -19379,6 +19381,8 @@ Le juge de l'application des peines ordonne l'extraction des condamnés, soit en
 Dans l'exercice de ses attributions, le juge de l'application des peines peut procéder ou faire procéder à tous examens, auditions, enquêtes, expertises, réquisitions ou autres mesures utiles. Ces enquêtes peuvent porter, le cas échéant, sur les conséquences des mesures d'individualisation de la peine au regard de la situation de la victime.
 
 Les dispositions du présent article sont également applicables à l'égard des personnes condamnées à des peines restrictives de liberté.
+
+Pour les condamnés relevant des dispositions du cinquième alinéa de l'article 722, le juge de l'application des peines peut, avec l'accord du procureur de la République, dire, par ordonnance motivée, qu'il n'y a pas lieu d'ordonner une nouvelle expertise psychiatrique préalablement à une décision d'aménagement de la peine, dès lors que figure au dossier du condamné une expertise datant de moins de deux ans, y compris si celle-ci a été réalisée avant la condamnation.
 
 
 ##### Article D117
