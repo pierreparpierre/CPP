@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 29 septembre 1978
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19780929)
+- Date de consolidation : 17 octobre 1978
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19781017)
 
 
 # Partie législative
@@ -6277,13 +6277,6 @@ S'ils ne doivent ou ne peuvent être restitués, ils sont mis en vente, et les f
 
 
 ##### Section 5 : Des frais de copie
-
-###### A : Dispositions générales
-
-###### Article R151
-
-[Article abrogé].
-
 
 ###### B : Expéditions
 
