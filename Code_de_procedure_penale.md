@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 27 décembre 1983
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19831227)
+- Date de consolidation : 1er janvier 1984
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19840101)
 
 
 # Partie législative
@@ -4989,9 +4989,33 @@ Les tribunaux désignés ainsi qu'il est dit à l'article précédent sont comp�
 
 ### Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction
 
+### Article 706-4
+
+L'indemnité est allouée par une commission instituée dans le ressort de chaque tribunal de grande instance. Cette commission a le caractère d'une juridiction civile qui se prononce en premier et dernier ressort.
+
+La commission est composée de deux magistrats du siège du tribunal de grande instance et d'une personne majeure, de nationalité française et jouissant de ses droits civiques, s'étant signalée par l'intérêt qu'elle porte aux problèmes des victimes. Elle est présidée par l'un des magistrats.
+
+Les membres de la commission et leurs suppléants sont désignés pour une durée de trois ans par l'assemblée générale des magistrats du siège du tribunal.
+
+Les fonctions du ministère public sont exercées par le procureur de la République ou l'un de ses substituts.
+
+Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
+
+
 ### Article 706-5
 
 A peine de forclusion, la demande d'indemnité doit être présentée dans le délai d'un an à compter de la date de l'infraction. Lorsque des poursuites pénales sont exercées, ce délai est prorogé et n'expire qu'un an après la décision de la juridiction qui a statué définitivement sur l'action publique ou sur l'action civile engagée devant la juridiction répressive. Toutefois, la commission relève le requérant de la forclusion lorsqu'il n'a pas été en mesure de faire valoir ses droits dans les délais requis ou lorsqu'il a subi une aggravation de son préjudice ou pour tout autre motif légitime.
+
+
+### Article 706-6
+
+La commission ou son président peut procéder ou faire procéder à toutes auditions et investigations utiles, sans que puisse leur être opposé le secret professionnel. Ils peuvent notamment se faire communiquer copie des procès-verbaux constatant l'infraction ou de toutes les pièces de la procédure pénale, même en cours. Ils peuvent également requérir :
+1. De toute personne ou administration, la communication de renseignements sur la situation professionnelle, financière, fiscale ou sociale des personnes ayant à répondre du dommage causé par l'infraction ou du requérant ;
+2. De tout service de l'Etat, collectivité publique, organisme de sécurité sociale, organisme assurant la gestion des prestations sociales ou compagnies d'assurance susceptibles de réparer tout ou partie du préjudice, la communication des renseignements relatifs à l'exécution de leurs obligations éventuelles.
+
+Les renseignements ainsi recueillis ne peuvent être utilisés à d'autres fins que l'instruction de la demande d'indemnité et leur divulgation est interdite.
+
+Des provisions peuvent être accordées par le président. Lorsqu'une provision est demandée, dès le dépôt de la requête en indemnisation, le président statue dans le délai d'un mois ; dans ce cas, elle ne peut excéder le quart du maximum fixé en application de l'article 706-9.
 
 
 ### Article 706-7
@@ -5011,6 +5035,11 @@ Lorsque la juridiction statuant sur les intérêts civils a alloué des dommages
 ### Article 706-9
 
 Les indemnités allouées par la commission sont à la charge de l'Etat. Elles sont payées comme frais de justice criminelle. Leurs montants ne peuvent dépasser des maxima fixés, chaque année, par décret.
+
+
+### Article 706-10
+
+Lorsque la victime, postérieurement au paiement de l'indemnité, obtient, à un titre quelconque, une réparation ou une indemnisation effective de son préjudice, l'Etat peut demander à la commission qui l'avait accordée d'ordonner le remboursement total ou partiel de l'indemnité ou de la provision.
 
 
 ### Article 706-11
@@ -6250,11 +6279,69 @@ Le secrétariat du jury d'examen est assuré par la direction du personnel et de
 
 #### Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré
 
+##### Section 1 : Dispositions générales
+
+##### Article R15-18
+
+Lorsqu'il ne procède pas lui-même ou ne fait pas procéder par un officier de police judiciaire à l'enquête de personnalité prévue par l'alinéa 6 de l'article 81, le juge d'instruction saisi de la procédure ou, sur délégation ou, sur délégation, celui dans le ressort duquel réside l'inculpé peut désigner à cette fin toute personne physique ou morale habilitée comme il est dit ci-après ou, à titre exceptionnel, un contrôleur judiciaire.
+
+
+##### Article R15-19
+
+La personne physique ou morale, selon qu'elle désire être habilitée à procéder à des enquêtes de personnalité dans le ressort du tribunal de grande instance ou dans celui de la cour d'appel, en fait la demande au moyen des juges d'instruction ou au président de la chambre de l'instruction.
+
+La demande présentée par une association comporte notamment :
+1. La copie du Journal officiel portant publication de la déclaration de l'association ou, en ce qui concerne les départements du Bas-Rhin, du Haut-Rhin ou de la Moselle, une copie de l'extrait du registre des associations du tribunal d'instance :
+2. Un exemplaire des statuts et, s'il y a lieu, du règlement intérieur ;
+3. La liste des établissements de l'association avec indication de leur siège ;
+4. Un exposé indiquant les conditions de fonctionnement de l'association et, le cas échéant, l'organisation et les conditions de fonctionnement des comités locaux, ainsi que leurs rapports avec l'association ;
+5. La mention des nom, prénoms, date et lieu de naissance, nationalité, profession et domicile des membres du conseil d'administration et du bureau de l'association ainsi que, le cas échéant, ceux de ses représentants locaux ;
+6. Les pièces financières qui doivent comprendre les comptes du dernier exercice, le budget de l'exercice courant et un bilan ou un état de l'actif mobilier et immobilier et du passif.
+
+
+##### Article R15-20
+
+Après avoir procédé à toute les diligences qu'il juge utiles, le doyen des juges d'instruction ou le président de la chambre de l'instruction communique la demande au président du tribunal ou au premier président.
+
+
+##### Article R15-21
+
+L'assemblée générale des magistrats du siège et du parquet du tribunal ou de la cour d'appel, sur le rapport du magistrat saisi de la demande, statue sur l'habilitation à la majorité de ses membres présents.
+
+La commission restreinte de l'assemblée générale des magistrats du siège et du parquet, dans les juridictions où sa constitution est obligatoire, exerce les attributions mentionnées à l'alinéa précédent.
+
+
+##### Article R15-22
+
+En cas d'urgence, une habilitation provisoire, valable jusqu'à la décision de la prochaine assemblée générale ou commission restreinte, peut être prise par le doyen des juges d'instruction, sur proposition ou après avis conforme du procureur de la République, ou par le président de la chambre de l'instruction, sur proposition ou après avis conforme du procureur général.
+
+
+##### Article R15-23
+
+Ne peut être habilitée une personne qui a fait l'objet d'une condamnation, incapacité ou déchéance mentionnée au bulletin n° 2 du casier judiciaire.
+
+
+##### Article R15-24
+
+L'habilitation peut être retirée selon la procédure prévue par les articles R. 15-20 et R. 15-21.
+
+Le procureur de la République ou le procureur général peut, aux fins de retrait d'habilitation, saisir, selon le cas, l'assemblée générale des magistrats du siège et du parquet du tribunal, celle de la cour d'appel ou la commission restreinte compétente.
+
+En cas d'urgence, le doyen des juges d'instruction, sur proposition ou avis conforme du procureur de la République, ou le président de la chambre de l'instruction, sur proposition ou avis conforme du procureur général, peut retirer provisoirement l'habilitation jusqu'à la décision de la prochaine assemblée générale ou commissaire restreinte.
+
+
 ##### Section 7 : Du contrôle judiciaire et de la détention provisoire
 
 ###### Sous-section 1 : Du contrôle judiciaire
 
 ####### Paragraphe 1er : Des autorités ou personnes contribuant au contrôle judiciaire
+
+####### Article R16
+
+Le juge d'instruction saisi de la procédure ou, sur délégation, celui dans le ressort duquel l'inculpé, désigne, pour contribuer à l'application du contrôle judiciaire, soit une personne physique ou morale habilitée à cette fin, soit un service de police ou de gendarmerie ou tout service judiciaire ou administratif compétent, soit, à titre exceptionnel, un enquêteur de personnalité.
+
+Les contrôleurs judiciaires sont habilités sous les conditions et selon les règles de compétence et de procédure définies par les articles R. 15-19 à R. 15-24.
+
 
 ####### Article R16-1
 
@@ -6546,6 +6633,19 @@ Département : Vaucluse.
 Siège : Carpentras (à titre temporaire).
 
 
+### Titre II : Du jugement des délits
+
+#### Chapitre Ier : Du tribunal correctionnel
+
+#### Article R41-2
+
+Dans le cas prévu par l'alinéa 2 de l'article 470-1, la décision de renvoi de la juridiction pénale désigne la juridiction civile compétente et précise l'identité des tiers responsables qui paraissent devoir être mis en cause.
+
+Une copie de la décision de renvoi et le dossier de l'affaire sont aussitôt transmis par le secrétariat-greffe à la juridiction désignée.
+
+
+#### Chapitre II
+
 ### Titre III : Du jugement des contraventions
 
 #### Chapitre II : Procédure simplifiée
@@ -6599,6 +6699,19 @@ Si le contrevenant n'a pas payé l'amende et les frais de justice et s'il n'a pa
 Le recouvrement est effectué au vu d'un extrait de l'ordonnance établi par le secrétaire-greffier en chef du tribunal de police, sur une formule dont le modèle est arrêté par le garde des sceaux, ministre de la justice, et par le ministre de l'Economie et des Finances.
 
 
+#### Chapitre III : De l'instruction définitive devant le tribunal de police
+
+#### Article R50
+
+Dans le cas prévu par l'alinéa 2 de l'article 470-1, il est procédé comme il est dit à l'article R. 41-1.
+
+
+#### Chapitre IV
+
+#### Chapitre V
+
+#### Chapitre VI
+
 ### Titre IV
 
 ## Livre III
@@ -6631,6 +6744,50 @@ Le recouvrement est effectué au vu d'un extrait de l'ordonnance établi par le 
 
 ### Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction
 
+### Article R50-1
+
+Tous les trois ans, au cours du dernier trimestre, l'assemblée générale des magistrats du siège du tribunal de grande instance désigne les membres titulaires de la commission prévue par l'article 706-4 ainsi que parmi ceux-ci, le magistrat qui en assure la présidence. Elle désigne également deux magistrats du siège suppléants ainsi que la personne susceptible de suppléer le troisième membre de la commission.
+
+Elle peut décider que la commission comportera plusieurs formations composées comme il est dit à l'alinéa précédent.
+
+En cas d'empêchement ou de cessation de fonctions du président, la présidence de la commission est assurée par l'autre magistrat.
+
+En cas d'empêchement ou de cessation de fonctions d'un des membres, la composition de la commission est complétée en faisant appel aux suppléants dans les conditions prévues par le présent article. Les fonctions du nouveau membre expirent à la date du renouvellement normal de la commission. Il est procédé au remplacement du membre suppléant par l'assemblée générale des magistrats du siege.
+
+En cas d'urgence, s'il ne peut être fait immédiatement application des dispositions qui précèdent, le président du tribunal pourvoit provisoirement, par ordonnance, au remplacement du membre de la commission. Cette ordonnance ne peut produire effet au-delà de la prochaine assemblée générale.
+
+
+### Article R50-1-1
+
+Les personnes, autres que les magistrats en activité, qui souhaitent faire acte de candidature en qualité d'assesseurs à la commission d'indemnisation du tribunal de grande instance de leur lieu de résidence en font la demande auprès du président de ce tribunal avant le 30 avril de l'année au cours de laquelle doit être renouvelée la commission.
+
+
+
+Le président du tribunal procède ou fait procéder à toutes diligences utiles pour l'instruction de la demande. L'assemblée générale statue sur son rapport.
+
+
+
+Avant de prendre leurs fonctions, les assesseurs désignés, titulaires et suppléants, prêtent serment devant le tribunal de bien et fidèlement remplir leur mission et de garder le secret des délibérations. Une indemnité horaire est allouée aux assesseurs qui siègent à la commission ; le montant et les modalités de versement de cette indemnité sont fixés par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé du budget.
+
+
+
+Lorsqu'ils se sont abstenus, sans motif légitime, de déférer à trois convocations successives, les assesseurs peuvent être déclarés démissionnaires. En cas de fautre grave entachant l'honneur ou la probité, ils sont déchus de leurs fonctions.
+
+
+
+Les décisions prévues par l'alinéa précédent sont prises, à la demande du président de la commission ou du procureur de la République, par l'assemblée générale des magistrats du siège du tribunal ; en cas d'urgence, le président du tribunal peut, par ordonnance, prononcer une suspension provisoire. Cette ordonnance ne peut produire effet au-delà de la prochaine assemblée générale.
+
+
+### Article R50-2
+
+Le secrétariat de la commission est assuré par le greffier en chef ou par un secrétaire-greffier du tribunal de grande instance.
+
+
+### Article R50-3
+
+Le siège et le ressort de la commission sont les mêmes que ceux du tribunal de grande instance.
+
+
 ### Article R50-4
 
 La commission territorialement compétente est :
@@ -6642,9 +6799,23 @@ Soit, si une juridiction pénale a été saisie en France métropolitaine ou dan
 Le demandeur peut, à son choix, présenter sa requête devant l'une ou l'autre de ces deux commissions.
 
 
+### Article R50-5
+
+Si le demandeur ne demeure pas en France métropolitaine ou dans les départements d'outre-mer et si aucune juridiction pénale n'a été saisie dans ces départements ou en métropole, la commission compétente est celle du tribunal de grande instance.
+
+
 ### Article R50-6
 
 En cas de pluralité de demandeurs victimes d'une même infraction, la commission saisie par l'un d'entre eux peut être également saisie par les autres.
+
+
+### Article R50-7
+
+L'admission au bénéfice de l'aide juridictionnelle devant la commission peut être accordée par le bureau établi près le tribunal de grande instance.
+
+
+
+La demande d'aide juridictionnelle interrompt les délais prévus aux articles 706-5 et 706-8.
 
 
 ### Article R50-8
@@ -6681,9 +6852,26 @@ k) De l'adresse où doivent être faites les notifications au demandeur.
 La requête est accompagnée de toutes pièces justificatives.
 
 
+### Article R50-10
+
+Lorsque le préjudice consiste en une perte ou une diminution de revenus, en un accroissement de charges ou en une inaptitude à exercer une activité professionnelle, le demandeur doit faire connaître l'ensemble des ressources dont il dispose. Il doit produire notamment :
+1. Une copie de la déclaration de ses revenus de l'année précédant l'infraction et de l'année précédant celle au cours de laquelle la commission est saisie ou, s'il n'est pas imposable, un certificat de non-imposition ;
+2. Le cas échéant, la liste de ses biens immobiliers.
+
+
 ### Article R50-11
 
 S'il s'agit d'une requête en complément d'indemnité fondée sur l'article 706-8, elle doit être accompagnée d'une expédition de la décision, passée en force de chose jugée, qui a statué sur les intérêts civils.
+
+
+### Article R50-12
+
+Le secrétaire de la commission transmet, sans délai, copie de la requête et des pièces annexes mentionnées à l'article R. 50-10 au procureur de la République près le tribunal de grande instance et, par lettre simple, à l'agent judiciaire du Trésor.
+
+
+### Article R50-13
+
+Le président de la commission ou le magistrat assesseur instruit l'affaire ; il peut procéder ou faire procéder à toutes auditions et investigations utiles. Toutefois, lorsqu'il est manifeste au vu des énonciations de la requête ou des pièces annexes que le demandeur ne remplit par une des conditions prévues à l'article 706-3, il est procédé immédiatement comme il est dit aux articles R. 50-17 et suivants.
 
 
 ### Article R50-14
@@ -6693,6 +6881,11 @@ Le demandeur ainsi que l'agent judiciaire du Trésor peuvent prendre connaissanc
 Le requérant peut se faire délivrer, à ses frais, par le secrétariat copie des pièces du dossier. L'agent judiciaire peut, sur sa demande, obtenir que les copies de ces pièces lui soient adressées.
 
 S'il s'agit de procès-verbaux constatant l'infraction ou de pièces de la procédure pénale, la délivrance ou l'envoi des copies est subordonné à l'autorisation du ministère public.
+
+
+### Article R50-15
+
+Lorsque le demandeur sollicite l'attribution d'une provision, le président de la commission communique sans délai la requête au procureur de la République et à l'agent judiciaire du Trésor et recueille leurs observations. Dans le délai d'un mois ou de deux mois selon que la requête est faite dès le dépot de la demande en indemnisation ou ultérieurement, il statue par une ordonnance portée à la connaissance du procureur de la République. Il est procédé comme il est dit à l'article R. 50-22.
 
 
 ### Article R50-16
@@ -6707,6 +6900,18 @@ Le secrétaire de la commission convoque au moins deux mois à l'avance le deman
 Les parties sont informées dans la convocation que leurs observations doivent être adressées à la commission au plus tard quinze jours avant la date de l'audience mais qu'elles peuvent consulter le dossier au secrétariat jusqu'au jour de celle-ci.
 
 
+### Article R50-18
+
+Le procureur de la République est informé de la date de l'audience et dépose ses conclusions quinze jours au moins avant cette date.
+
+
+### Article R50-19
+
+A l'audience, le magistrat qui a procédé à l'instruction de l'affaire fait son rapport ; le demandeur et l'agent judiciaire du Trésor, s'ils sont présents ou représentés, sont ensuite entendus.
+
+Le procureur de la République développe ses conclusions.
+
+
 ### Article R50-20
 
 A l'audience, la commission, lorsqu'elle estime qu'il y a lieu de renvoyer l'affaire à une autre audience, fixe immédiatement la date de celle-ci. Les parties, lorsqu'elles ne sont ni présentes ni représentées, sont informées, par lettre recommandée avec demande d'avis de réception, de ce renvoi.
@@ -6715,6 +6920,23 @@ A l'audience, la commission, lorsqu'elle estime qu'il y a lieu de renvoyer l'aff
 ### Article R50-21
 
 Si la requête est rejetée, le demandeur est condamné aux dépens, à moins que la commission ne l'en décharge en partie ou en totalité.
+
+
+### Article R50-22
+
+La décision de la commission est notifiée sans délai, par lettre recommandée avec demande d'avis de réception, au demandeur et à l'agent judiciaire du Trésor.
+
+Si une indemnité est accordée, la décision accompagnée de l'exécutoire établi par le président de la commission est notifiée au comptable direct du Trésor du siège du tribunal de grande instance chargé du paiement des frais de justice ou, en ce qui concerne les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, au comptable des impôts.
+
+
+### Article R50-23
+
+Les décisions de la commission et du président de la commission ne peuvent être frappées d'opposition. Elles peuvent être l'objet d'un pourvoi en cassation.
+
+
+### Article R50-24
+
+Le paiement de la provision ou de l'indemnité est fait par le comptable mentionné à l'article R. 50-22 ; avis du paiement est donné sans délai au président de la commission.
 
 
 ### Article R50-25
@@ -6800,6 +7022,213 @@ Ces mesures et obligations ne sauraient porter atteinte à la liberté d'opinion
 Pendant le temps de sa présence sous les drapeaux, le condamné placé sous le régime de la mise à l'épreuve est soustrait aux mesures de surveillance et d'assistance, et le cas échéant, aux obligations imposées spécialement par l'arrêt ou le jugement.
 
 Dès son retour à la vie civile, il doit se présenter au juge de l'application des peines de sa résidence, si le délai de mise à l'épreuve n'est pas expiré.
+
+
+### Titre V : Le travail d'intérêt général
+
+#### Chapitre Ier : Modalités d'habilitation des associations et d'établissement de la liste des travaux d'intérêt général
+
+##### Section 1 : Des modalités d'habilitation des associations
+
+##### Article R61-1
+
+Les associations qui désirent obtenir l'habilitation prévue par l'article 43-3-5 du Code pénal et l'article 747-7 du Code de procédure pénale en font la demande au juge de l'application des peines du ressort dans lequel elles envisagent de mettre en oeuvre des travaux d'intérêt général.
+
+La demande comporte :
+1. La copie du Journal officiel portant publication de la déclaration de l'association ou, pour les associations déclarées dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, une copie du registre des associations du tribunal d'instance ;
+2. Un exemplaire des statuts et, s'il y a lieu, du règlement intérieur de l'association ;
+3. La liste des établissements de l'association avec indication de leur siège ;
+4. Un exposé indiquant les conditions de fonctionnement de l'association et, le cas échéant, l'organisation et les conditions de fonctionnement des comités locaux, ainsi que leurs rapports avec l'association ;
+5. La mention des nom, prénoms, date et lieu de naissance, nationalité, profession et domicile des membres du conseil d'administration et du bureau de l'association ainsi que, le cas échéant, ceux de leurs représentants locaux ;
+6. Les pièces financières qui doivent comprendre les comptes du dernier exercice, le budget de l'exercice courant et un bilan ou un état de l'actif mobilier et immobilier et du passif.
+
+
+##### Article R61-2
+
+Le juge de l'application des peines procède à toutes diligences qu'il juge utiles. Il consulte le conseil départemental de prévention de la délinquance prévu par le décret n° 83-459 du 8 juin 1983 qui a trois mois pour donner son avis. Il communique ensuite la demande d'habilitation au président du tribunal.
+
+L'assemblée générale des magistrats du siège et du parquet du tribunal statue sur la demande d'habilitation [*compétence*], après rapport du juge de l'application des peines et à la majorité des membres présents.
+
+La commission restreinte de l'assemblée générale des magistrats du siège et du parquet, dans les tribunaux où sa constitution est obligatoire, exerce les attributions mentionnées à l'alinéa précédent.
+
+L'habilitation accordée est valable pour une durée de trois ans.
+
+
+##### Article R61-3
+
+En cas d'urgence ou à titre probatoire, le juge de l'application des peines peut, sur proposition ou après avis conforme du procureur de la République, habiliter provisoirement l'association.
+
+L'habilitation provisoire accordée en raison de l'urgence est valable jusqu'à la décision de la prochaine assemblée générale ou commission restreinte. Celle accordée à titre probatoire est valable pour une durée non renouvelable qui est fixée par le juge de l'application des peines dans la limite d'un an.
+
+
+##### Article R61-4
+
+L'association habilitée porte à la connaissance du juge de l'application des peines toute modification de l'un des éléments mentionnés à l'article R. 61-1. Elle est tenue de faire parvenir chaque année le budget et ses comptes.
+
+
+##### Article R61-5
+
+L'habilitation peut être retirée selon la procédure prévue par l'article R. 61-2.
+
+Le procureur de la République peut saisir l'assemblée générale des magistrats du siège et du parquet du tribunal ou la commission restreinte aux fins de retrait de l'habilitation.
+
+En cas d'urgence, le juge de l'application des peines peut, sur proposition ou après avis conforme du procureur de la République, retirer provisoirement l'habilitation jusqu'à la décision de la prochaine assemblée générale ou commission restreinte.
+
+
+##### Section 2 : De l'établissement de la liste des travaux d'intérêt général
+
+##### Article R61-6
+
+Les collectivités publiques, les établissements publics et les associations qui désirent faire inscrire des travaux d'intérêt général sur la liste prévue par les articles 43-3-5 du Code pénal et 747-7 du Code de procédure pénale en font la demande au juge de l'application des peines du ressort dans lequel ils envisagent de faire exécuter ces travaux.
+
+Pour les collectivités publiques et les établissements publics, la demande mentionne les nom, prénoms, date et lieu de naissance ainsi que les fonctions des représentants qualifiés.
+
+Pour les associations qui ne sont pas encore habilitées, la demande prévue par l'alinéa 1er du présent article est jointe à la demande d'habilitation. Pour les associations déjà habilitées, elle comporte mention de la date de cette habilitation.
+
+A la demande est annexée une note indiquant la nature et les modalités d'exécution des travaux proposés, les nom et qualité des personnes chargées de l'encadrement technique ainsi que le nombre de postes de travail susceptibles d'être offerts.
+
+
+##### Article R61-7
+
+Le juge de l'application des peines procède à toutes diligences et consultations utiles. A cette fin, il adresse copie de la demande au conseil départemental de prévention de la délinquance.
+
+
+##### Article R61-8
+
+Après que le procureur de la République a donné son avis ou dix jours au plus tôt après l'avoir saisi, le juge de l'application des peines prend sa décision en tenant compte de l'utilité sociale des travaux proposés et des perspectives d'insertion sociale ou professionnelle qu'ils offrent aux condamnés.
+
+
+##### Article R61-9
+
+La radiation d'un travail inscrit sur la liste peut être prononcée selon la procédure prévue par l'article R. 61-8.
+
+
+##### Section 3 : Disposition diverses
+
+##### Article R61-10
+
+Les décisions relatives à l'habilitation provisoire des associations et à l'établissement de las liste des travaux d'intérêt général sont communiquées au président du tribunal de grande instance et au procureur de la République.
+
+Toutes les décisions relatives à l'habilitation ou au retrait d'habilitation des associations sont protées à la connaissance du garde des sceaux et du commissaire de la République par le juge de l'application des peines.
+
+
+##### Section 3 : Dispositions diverses
+
+##### Article R61-11
+
+Les organismes mettant en oeuvre des travaux d'intérêt général adressent chaque année un rapport au juge de l'application des peines.
+
+
+#### Chapitre II : De l'exécution du travail d'intérêt général
+
+##### Section 1 : De la décision du juge de l'application des peines fixant les modalités d'exécution du travail d'intérêt général
+
+##### Article R61-13
+
+La décision prise en application de l'article R. 61-12 peut être modifiée à tout moment.
+
+
+##### Article R61-14
+
+Le juge de l'application des peines choisit un travail d'intérêt général parmi ceux inscrits sur la liste de son ressort ou, avec l'accord du juge de l'application des peines territorialement compétent, sur la liste d'un autre ressort.
+
+
+##### Article R61-15
+
+Lorsqu'un condamné exerce une activité salariée, la durée hebdomadaire cumulée de cette activité et du travail d'intérêt général ne peut excéder de plus de douze heures la durée légale du travail.
+
+
+##### Article R61-16
+
+La durée du travail d'intérêt général n'inclut pas les délais de route et le temps des repas.
+
+
+##### Article R61-17
+
+Le juge de l'application des peines notifie sa décision au condamné et à l'organisme au profit duquel le travail d'intérêt général sera accompli. Il en donne avis au procureur de la République.
+
+
+##### Article R61-18
+
+Avant d'exécuter sa peine, le condamné se soumet à un examen médical qui a pour but :
+1. De rechercher s'il n'est pas atteint d'une affection dangereuse pour les autres travailleurs ;
+2. De s'assurer qu'il est médicalement apte au travail auquel le juge de l'application des peines entend l'affecter.
+
+
+##### Section 2 : Des mesures de contrôle du condamné au travail d'intérêt général
+
+##### Article R61-19
+
+Le condamné au travail d'intérêt général doit se soumettre aux mesures de contrôle suivantes [*obligation*] :
+1. Répondre aux convocations du juge de l'application des peines ou de l'agent de probation désigné ;
+2. Se soumettre à l'examen médical prévu par l'article R. 61-18 ;
+3. Justifier des motifs de ses changements d'emploi ou de résidence qui font obstacle à l'exécution du travail d'intérêt général selon les modalités fixées ;
+4. Obtenir l'autorisation préalable du juge de l'application des peines pour tout déplacement qui ferait obstacle à l'exécution du travail d'intérêt général selon les modalités fixées ;
+5. Recevoir les visites de l'agent de probation et lui communiquer tous documents ou renseignements relatifs à l'exécution de la peine.
+
+
+##### Article R61-22
+
+Pour chaque condamné, l'organisme au profit duquel le travail d'intérêt général est effectué fait connaître au juge de l'application des peines ou à l'agent de probation le responsable désigné pour assurer la direction et le contrôle techniques du travail.
+
+
+##### Article R61-23
+
+Le juge de l'application des peines ou l'agent de probation s'assure de l'exécution du travail auprès du responsable désigné. Il visite, le cas échéant, le condamné sur son lieu de travail.
+
+
+##### Article R61-24
+
+Le responsable désigné informe sans délai le juge de l'application des peines ou l'agent de probation de toute violation de l'obligation de travail et de tout incident causé ou subi par le condamné à l'occasion de l'exécution de sa tâche.
+
+
+##### Article R61-25
+
+En cas de danger immédiat pour le condamné ou pour autrui ou en cas de faute grave du condamné, le responsable désigné peut suspendre l'exécution du travail. Il en donne sans délai avis au juge de l'application des peines ou à l'agent de probation.
+
+
+##### Article R61-26
+
+L'organisme au profit duquel le travail d'intérêt général a été accompli délivre au juge de l'application des peines ou à l'agent de probation ainsi qu'au cOndamné un document attestant que ce travail a été exécuté.
+
+
+#### Chapitre III : Dispositions applicables aux condamnations prononcées par les juridictions pour mineurs.
+
+#### Article R61-27
+
+Lorsque la condamnation à un travail d'intérêt général ou à une peine d'emprisonnement avec sursis assorti de l'obligation d'accomplir un travail d'intérêt général est prononcée par une juridiction pour mineurs, les attributions du juge de l'application des peines sont dévolues au juge des enfants. Les dispositions des sarticles R. 61-1 à R. 61-18 et R. 61-20 à R. 61-26 sont applicables sous réserve des dispositions particulières édictées par les articles R. 61-28 à R. 61-32.
+
+
+#### Article R61-28
+
+Pour l'habilitation des associations désirant mettre en oeuvre des travaux d'intérêt général spécifiquement adaptés aux mineurs, le juge des enfants, avant de communiquer la demande au président du tribunal, saisit le directeur départemental de la protection judiciaire de la jeunesse. Celui-ci fait connaître par écrit son avis sur les garanties offertes par l'association.
+
+
+#### Article R61-29
+
+Pour l'inscription sur la liste, prévue par les articles 43-3-5 du Code pénal et 747-7 du Code de procédure pénale, des travaux d'intérêt général applicables aux mineurs, le juge des enfants recueille l'avis du directeur départemental de l'éducation surveillée et prend sa décision en tenant compte du caractère formateur du travail proposé ou de son apport à l'insertion sociale des jeunes condamnés.
+
+
+#### Article R61-30
+
+La décision du juge des enfants fixant les modalités d'exécution du travail d'intérêt général est notifiée au condamné mineur et à ses parents tuteurs ou gardiens ; avis en est donné au procureur de la République.
+
+
+#### Article R61-31
+
+Le jeune condamné au travail d'intérêt général doit se soumettre aux mesures de contrôles suivantes.
+1. Répondre aux convocations du juge des enfants ;
+2. Se soumettre à l'examen médical prévu par l'article R. 61-18 ;
+3. Informer le juge des enfants de tout changement d'emploi ou de résidence ou de tout déplacement qui ferait obstacle à l'exécution de travaux d'intérêt général selon les modalités fixées.
+
+
+#### Article R61-32
+
+Le juge des enfants s'assure de l'exécution du travail d'intérêt général.
+
+Il peut demander à un éducateur ou à une structure éducative de l'éducation surveillée d'apprécier si le travail effectué conserve son caractère formateur ou de nature à permettre l'insertion sociale du jeune condamné et s'il demeure adapté à la personnalité de celui-ci.
+
+Lorsque le mineur est condamné à une peine d'emprisonnement avec sursis assortie de l'obligation d'accomplir un travail d'intérêt général, le juge des enfants peut faire application des dispositions de l'article R. 60.
 
 
 ### Titre VI
