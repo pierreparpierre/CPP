@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 1er janvier 1990
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19900101)
+- Date de consolidation : 4 janvier 1990
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19900104)
 
 
 # Partie législative
@@ -6428,9 +6428,7 @@ Il ne peut être dérogé à ce principe qu'en raison de la distribution intéri
 
 Les activités de travail et de formation professionnelle sont prises en compte pour l'appréciation des gages de réinsertion et de bonne conduite des condamnés.
 
-Au sein des établissements pénitentiaires, toutes dispositions sont prises pour assurer une activité professionnelle aux personnes incarcérées qui le souhaitent.
-
-Les relations de travail des personnes incarcérées ne font pas l'objet d'un contrat de travail.
+Au sein des établissements pénitentiaires, toutes dispositions sont prises pour assurer une activité professionnelle aux personnes incarcérées qui le souhaitent. Les relations de travail des personnes incarcérées ne font pas l'objet d'un contrat de travail. Il peut être dérogé à cette règle pour les activités exercées à l'extérieur des établissements pénitentiaires.
 
 Les règles relatives à la répartition des produits du travail des détenus sont fixées par décret.
 
