@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 12 juillet 1985
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19850712)
+- Date de consolidation : 26 juillet 1985
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19850726)
 
 
 # Partie législative
@@ -32,6 +32,11 @@ Toute association régulièrement déclarée depuis au moins cinq ans à la date
 Toute association régulièrement déclarée depuis au moins cinq ans à la date des faits, dont l'objet statutaire comporte la lutte contre les violences sexuelles, peut exercer les droits reconnus à la partie civile, en ce qui concerne les infractions prévues par les articles 332, 333 et 333-1 du code pénal. Toutefois, l'association ne sera recevable dans son action que si elle justifie avoir reçu l'accord de la victime ou, si celle-ci est mineure, celui du titulaire de l'autorité parentale ou du représentant légal.
 
 
+## Article 2-3
+
+Toute association, régulièrement déclarée depuis au moins cinq ans à la date des faits, se proposant, par ses statuts, de défendre ou d'assister l'enfance martyrisée, peut exercer les droits reconnus à la partie civile en ce qui concerne les infractions définies aux articles 312, 331, 332, 333 et 334-2 du code pénal, lorsque l'action publique a été mise en mouvement par le ministère public ou la partie lésée.
+
+
 ## Article 2-4
 
 Toute association régulièrement déclarée depuis au moins cinq ans qui se propose, par ses statuts, de combattre les crimes contre l'humanité ou les crimes de guerre ou de défendre les intérêts moraux et l'honneur de la Résistance ou des déportés peut exercer les droits reconnus à la partie civile en ce qui concerne les crimes de guerre et les crimes contre l'humanité.
@@ -40,6 +45,11 @@ Toute association régulièrement déclarée depuis au moins cinq ans qui se pro
 ## Article 2-5
 
 Toute association régulièrement déclarée depuis au moins cinq ans à la date des faits qui se propose, par ses statuts, de défendre les intérêts moraux et l'honneur de la Résistance ou des déportés peut exercer les droits reconnus à la partie civile en ce qui concerne soit l'apologie des crimes de guerre ou des crimes ou délits de collaboration avec l'ennemi, soit les destructions ou dégradations de monuments ou les violations de sépultures, soit les délits de diffamation ou injures, qui ont causé un préjudice direct ou indirect à la mission qu'elle remplit.
+
+
+## Article 2-6
+
+Toute association régulièrement déclarée depuis au moins cinq ans à la date des faits, se proposant par ses statuts de combattre les discriminations fondées sur le sexe ou sur les moeurs, peut exercer les droits reconnus à la partie civile en ce qui concerne les infractions prévues par les articles 187-1, 187-2, les 1° et 2° de l'article 416 de l'article 416-1 du code pénal et celles relatives au refus d'embauche, au licenciement ou à l'offre d'emploi définis par le 3° de l'article 416 du code pénal et l'article L. 123-1 du code du travail.
 
 
 ## Article 3
