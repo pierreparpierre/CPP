@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 7 août 1993
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19930807)
+- Date de consolidation : 11 août 1993
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19930811)
 
 
 # Partie législative
@@ -862,13 +862,11 @@ L'officier de police judiciaire dresse procès-verbal de leurs déclarations. Le
 Les procès-verbaux sont dressés dans les conditions prévues par l'article 62.
 
 
-#### Chapitre III : Des contrôles d'identité
+#### Chapitre III : Des contrôles et vérifications d'identité
 
 #### Article 78-1
 
 L'application des règles prévues par le présent chapitre est soumise au contrôle des autorités judiciaires mentionnées aux articles 12 et 13.
-
-
 
 Toute personne se trouvant sur le territoire national doit accepter de se prêter à un contrôle d'identité effectué dans les conditions et par les autorités de police visées aux articles suivants.
 
@@ -881,7 +879,11 @@ Les officiers de police judiciaire et, sur l'ordre et sous la responsabilité de
 - ou qu'elle est susceptible de fournir des renseignements utiles à l'enquête en cas de crime ou de délit ;
 - ou qu'elle fait l'objet de recherches ordonnées par une autorité judiciaire.
 
-L'identité de toute personne peut également être contrôlée, selon les mêmes modalités, pour prévenir une atteinte à l'ordre public, notamment une atteinte à la sécurité des personnes et des biens.
+Sur réquisitions écrites du procureur de la République aux fins de recherche et de poursuite d'infractions qu'il précise, l'identité de toute personne peut être également contrôlée, selon les mêmes modalités, dans les lieux et pour une période de temps déterminés par ce magistrat. Le fait que le contrôle d'identité révèle des infractions autres que celles visées dans les réquisitions du procureur de la République ne constitue pas une cause de nullité des procédures incidentes.
+
+L'identité de toute personne, quel que soit son comportement, peut également être contrôlée, selon les modalités prévues au premier alinéa, pour prévenir une atteinte à l'ordre public, notamment à la sécurité des personnes ou des biens.
+
+Dans une zone comprise entre la frontière terrestre de la France avec les Etats parties à la convention signée à Schengen le 19 juin 1990 et une ligne tracée à 20 kilomètres en deçà, [Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 93-323 DC du 5 août 1993] ainsi que dans les zones accessibles au public des ports, aéroports et gares ferroviaires ou routières ouverts au trafic international et désignés par arrêté [Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 93-323 DC du 5 août 1993] l'identité de toute personne peut également être contrôlée, selon les modalités prévues au premier alinéa, en vue de vérifier le respect des obligations de détention, de port et de présentation des titres et documents prévues par la loi. Le fait que le contrôle d'identité révèle une infraction autre que celle de non-respect des obligations susvisées ne constitue pas une cause de nullité des procédures incidentes.
 
 La personne de nationalité étrangère dont l'identité est contrôlée en application des dispositions du présent article doit être en mesure de présenter les pièces ou documents sous le couvert desquels elle est autorisée à séjourner en France.
 
@@ -905,8 +907,6 @@ Si la personne interpellée maintient son refus de justifier de son identité ou
 
 
 La prise d'empreintes ou de photographies doit être mentionnée et spécialement motivée dans le procès-verbal prévu ci-après.
-
-
 
 L'officier de police judiciaire mentionne, dans un procès-verbal, les motifs qui justifient le contrôle ainsi que la vérification d'identité, et les conditions dans lesquelles la personne a été présentée devant lui, informée de ses droits et mise en mesure de les exercer. Il précise le jour et l'heure à partir desquels le contrôle a été effectué, le jour et l'heure de la fin de la rétention et la durée de celle-ci.
 
