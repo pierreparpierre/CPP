@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 9 mars 1975
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19750309)
+- Date de consolidation : 1er avril 1975
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19750401)
 
 
 # Partie législative
@@ -7341,6 +7341,15 @@ Une instruction de service précise les conditions dans lesquelles les demandes 
 ###### Article D327
 
 La répartition prévue aux articles D111 à D114 est applicable aux détenus soumis à la contrainte judiciaire.
+
+
+###### Article D329
+
+Les sommes qui échoient aux détenus sont considérées comme ayant un caractère alimentaire, dans la mesure où elles n'excèdent pas chaque mois la somme fixée par arrêté du ministre de la justice.
+
+Elles sont dès lors entièrement versées à la part disponible jusqu'à concurrence de cette somme et pour le surplus elles sont soumises au prélèvement prévu à l'article D. 113 sous réserve des dispositions particulières concernant les rentes, les pensions et les indemnités.
+
+Les gratifications exceptionnelles visées au dernier alinéa de l'article D. 114 sont entièrement versées à la part disponible.
 
 
 ###### Article D330
