@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 7 août 1981
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19810807)
+- Date de consolidation : 10 octobre 1981
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19811010)
 
 
 # Partie législative
@@ -4753,11 +4753,6 @@ Des comités de probation et d'assistance aux libérés sont institués auprès 
 Tous incidents contentieux relatifs à l'exécution sont portés devant le tribunal ou la cour qui a prononcé la sentence ; cette juridiction  peut également procéder à la rectification des erreurs purement matérielles contenues dans ses décisions.
 
 Par exception, la chambre de l'instruction connaît des rectifications et des incidents d'exécution auxquels peuvent donner lieu les arrêts de la cour d'assises.
-
-
-### Article 713
-
-
 
 
 ### Titre II : De la détention
