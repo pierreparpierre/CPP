@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 9 janvier 1978
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19780109)
+- Date de consolidation : 24 janvier 1978
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19780124)
 
 
 # Partie législative
@@ -5761,6 +5761,11 @@ Les bulletins n° 1 établis par le casier judiciaire central sont délivrés gr
 Les bulletins n° 2 du casier judiciaire sont délivrés gratuitement.
 
 
+#### Article R87
+
+Les bulletins n° 3 du casier judiciaire sont délivrés gratuitement.
+
+
 #### Article R90
 
 Les fiches du casier judiciaire, les copies de ces fiches destinées à l'échange international ou au recrutement de l'armée ainsi que les bulletins n° 1, n° 2 et n° 3 et les déclarations de perte de pièces d'identité prévues au premier alinéa de l'article précédent sont établis conformément aux modèles fixés par le garde des sceaux, ministre de la justice.
@@ -6104,17 +6109,7 @@ S'ils ne doivent ou ne peuvent être restitués, ils sont mis en vente, et les f
 
 ###### A : Dispositions générales
 
-###### Article R150
-
-[Article abrogé].
-
-
 ###### Article R151
-
-[Article abrogé].
-
-
-###### Article R153
 
 [Article abrogé].
 
@@ -6169,25 +6164,6 @@ Ne doivent pas être insérés dans la rédaction des arrêts et jugements les r
 ####### Article R166
 
 Il est alloué un droit fixe de 0,50 F au surveillant chef de la maison d'arrêt pour l'expédition de l'acte d'écrou qui doit être jointe au dossier, soit dans le cas prévu à l'article 583, soit pour assurer l'exécution des dispositions de la loi du 17 juillet 1970 relative à la tutelle pénale.
-
-
-###### C : Droits forfaitaires
-
-###### Article R168
-
-[Article abrogé].
-
-
-###### D : Droits fixes
-
-###### Article R169
-
-[Article abrogé].
-
-
-###### Article R170
-
-[article abrogé].
 
 
 ###### E : Indemnités
@@ -6386,18 +6362,6 @@ Toutefois, à défaut d'un tel marché, il peut être traité de gré à gré ch
 Des règlements spéciaux déterminent les dépenses nécessaires pour l'exécution des arrêts criminels et règlent le mode de leur paiement.
 
 Le ministre de la Justice peut accorder, sur les fonds généraux des frais de justice criminelle, correctionnelle et de police, sur l'avis des procureurs généraux et des préfets, des secours alimentaires aux exécuteurs infirmes ou sans emploi, à leurs veuves et à leurs orphelins, jusqu'à l'âge de douze ans.
-
-
-##### Section 11 : Des frais et droits en matière d'ordonnance pénale
-
-##### Article R213-1
-
-[Article abrogé].
-
-
-##### Article R213-2
-
-(Article abrogé).
 
 
 #### Chapitre III : Des dépenses assimilées à celles de l'instruction des procès criminels
@@ -6614,32 +6578,6 @@ Sont assimilés aux parties civiles, sauf en ce qui concerne la consignation pr�
 ###### Paragraphe 3 : Régularisation des dépenses - Recouvrement
 
 ###### Article R248
-
-[Article abrogé].
-
-
-### Titre X : Des frais de justice A
-
-#### Chapitre II : Tarif des frais
-
-##### Section 5 : Des frais de copie
-
-###### A : Dispositions générales.
-
-###### Article R152
-
-[*Article abrogé*].
-
-
-### Titre X : Des frais de justice (1)
-
-#### Chapitre II : Tarif des frais
-
-##### Section 5 : Des frais de copie
-
-###### D : Droits fixes.
-
-###### Article R175
 
 [Article abrogé].
 
