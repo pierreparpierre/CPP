@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 9 août 1975
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19750809)
+- Date de consolidation : 14 octobre 1975
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19751014)
 
 
 # Partie législative
@@ -4817,6 +4817,43 @@ Les fonctions de secrétaire et de greffier de la commission sont remplies par u
 #### Chapitre II
 
 ## Livre II : Des juridictions de jugement
+
+### Titre Ier : De la cour d'assises
+
+#### Chapitre Ier
+
+#### Chapitre II : De la tenue des assises
+
+#### Article R41
+
+Le siège des cours d'assises énumérées ci-dessous est exceptionnellement fixé dans une ville autre que le chef-lieu de la cour d'appel s'il en existe une ou dans le cas contraire autre que le chef-lieu du département.
+
+COUR D'ASSISES :
+
+Département : Charente-Maritime.
+
+Siège : Saintes.
+
+Département : Manche.
+
+Siège : Coutances.
+
+Département : Pas-de-Calais.
+
+Siège : Saint-Omer.
+
+Département : Saône-et-Loire.
+
+Siège : Chalon-sur-Saône.
+
+Département : VAR.
+
+Siège : Draguignan (à titre temporaire).
+
+Département : Vaucluse.
+
+Siège : Carpentras (à titre temporaire).
+
 
 ### Titre III : Du jugement des contraventions
 
