@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 20 mars 1999
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19990320)
+- Date de consolidation : 21 mars 1999
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19990321)
 
 
 # Partie législative
@@ -9015,181 +9015,9 @@ Nonobstant toutes dispositions contraires, les frais de justice criminelle, corr
 
 ### Titre Ier : Dispositions applicables dans les territoires de la Nouvelle-Calédonie, de la Polynésie française et dans les îles Wallis-et-Futuna
 
-#### Chapitre Ier : Dispositions générales
-
-#### Article 804
-
-A l'exception des articles 529-3 à 529-9, 717 à 719, le présent code (Dispositions législatives) est applicable dans les territoires de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis-et-Futuna, sous réserve des adaptations prévues au présent titre.
-
-
-#### Article 805
-
-Pour l'application du présent code dans les territoires d'outre-mer, les termes : "tribunal de grande instance", "tribunal d'instance" ou "tribunal de police" sont remplacés par les termes :
-
-"tribunal de première instance" ou, le cas échéant, par les termes :
-
-"section détachée du tribunal de première instance" ;
-
-De même, les références à des dispositions non applicables dans ces territoires sont remplacées par les références à des dispositions applicables localement ayant le même objet.
-
-
-#### Article 806
-
-Dans les territoires d'outre-mer, les sanctions pécuniaires encourues en vertu du présent code sont prononcées en monnaie locale, compte tenu de la contre-valeur du franc métropolitain dans cette monnaie.
-
-
-#### Chapitre II : De l'action publique et de l'action civile
-
-#### Article 807
-
-L'article 2-6 est rédigé comme suit :
-
-" Art. 2-6. - Toute association régulièrement déclarée depuis au moins cinq ans à la date des faits, se proposant par ses statuts de combattre les discriminations fondées sur le sexe ou sur les moeurs, peut exercer les droits reconnus à la partie civile en ce qui concerne les discriminations commises en raison du sexe, de la situation de famille ou des moeurs de la victime, réprimées par les articles 225-2 et 432-7 du code pénal, ou prohibées par les dispositions applicables localement en matière de droit du travail. "
-
-
-#### Article 808
-
-Le deuxième alinéa de l'article 2-8 est rédigé comme suit :
-
-" Toute association régulièrement déclarée depuis au moins cinq ans à la date des faits ayant, en vertu de ses statuts, vocation à défendre ou à assister les personnes handicapées peut également exercer les droits reconnus à la partie civile en ce qui concerne les infractions aux dispositions législatives ou réglementaires applicables localement relatives à l'accessibilité des locaux d'habitation, des lieux de travail ou des établissements et installations recevant du public. "
-
-
-#### Chapitre III : De la police judiciaire
-
-#### Article 809
-
-I. - Les fonctionnaires et agents exerçant dans les territoires d'outre-mer des fonctions correspondant à celles des fonctionnaires et agents métropolitains visés aux articles 22 à 29 sont chargés de certaines fonctions de police judiciaire dans les conditions et les limites fixées par ces mêmes articles.
-
-II. - Les agents assermentés des territoires et, en Nouvelle-Calédonie, des provinces, peuvent constater par procès-verbal des infractions aux réglementations édictées par les territoires ou, en Nouvelle-Calédonie, les provinces, lorsqu'ils appartiennent à une administration chargée de contrôler la mise en oeuvre de ces réglementations. Ces agents sont commissionnés par l'autorité administrative compétente après qu'ils ont été agréés par le procureur de la République. Ils prêtent serment devant le tribunal de première instance.
-
-
-#### Article 810
-
-Pour l'application du deuxième alinéa de l'article 45, les fonctions du ministère public sont remplies par les fonctionnaires et agents mentionnés au I de l'article 809, à l'exception de ceux exerçant des fonctions de gardes champêtres des communes et des gardes particuliers assermentés.
-
-
-#### Article 811
-
-Pour l'application du premier alinéa de l'article 46 et de l'article 48, les fonctions du ministère public peuvent également être exercées par un officier de police judiciaire appartenant à la gendarmerie.
-
-Pour l'application du deuxième alinéa de l'article 46, les fonctions du ministère public peuvent être également exercées par le chef de la circonscription ou de la subdivision administrative où siège le tribunal de police.
-
-
-#### Chapitre IV : Des enquêtes
-
-#### Chapitre V : Des juridictions d'instruction
-
-#### Article 815
-
-Pour l'application de l'article 88, l'aide juridictionnelle doit s'entendre du régime d'aide ou d'assistance judiciaire applicable localement.
-
-
-#### Article 816
-
-L'obligation pour la partie civile de déclarer une adresse au juge d'instruction prévue par l'article 89 s'entend, pour les territoires d'outre-mer, d'une adresse située dans le territoire où se déroule l'information.
-
-
-#### Article 817
-
-Pour l'application du deuxième alinéa de l'article 102, le greffier peut être désigné comme interprète pour l'une des langues en usage dans le territoire. Il est, dans ce cas, dispensé du serment.
-
-
-#### Article 818
-
-L'obligation pour la personne mise en examen de déclarer une adresse au juge d'instruction prévue au cinquième alinéa de l'article 116 s'entend d'une adresse située dans le territoire où se déroule l'information.
-
-
-#### Article 819
-
-Le délai prévu à l'article 116-1 est porté à un mois lorsque la personne mise en examen ne réside pas sur l'île où siège le juge d'instruction saisi.
-
-
-#### Article 820
-
-Pour l'application des articles 127 et 133, si la personne faisant l'objet du mandat est trouvée dans une île où ne siège pas de tribunal, la conduite a lieu dès la première liaison aérienne ou maritime. Le délai nécessaire à la conduite de cette personne devant le magistrat compétent et celui pendant lequel elle a été retenue avant son embarquement sont imputés, s'il y a lieu, sur la durée de la peine.
-
-
-#### Article 821
-
-Les délais prévus à l'article 130 sont portés à quinze jours lorsque le transfèrement se fait à partir ou à destination d'un territoire d'outre-mer.
-
-
-#### Article 822
-
-Pour l'application des articles 128 et 132, la personne peut être retenue dans un local autre qu'une maison d'arrêt.
-
-
-#### Article 823
-
-Dans le territoire des îles Wallis-et-Futuna le délai de quatre jours ouvrables prévu au sixième alinéa de l'article 145 est porté à sept jours ouvrables.
-
-Le délai prévu au deuxième alinéa de l'article 187-1 est également porté à sept jours ouvrables.
-
-
-#### Article 824
-
-Pour l'application de l'article 191, la chambre de l'instruction de la cour d'appel de Nouméa et celle de la cour d'appel de Papeete sont composées d'un président de chambre ou d'un conseiller et de deux magistrats du siège du ressort de la cour d'appel.
-
-Ces magistrats sont désignés chaque année par le premier président de la cour d'appel.
-
-En cas d'empêchement d'un membre de la chambre de l'instruction, celui-ci est remplacé par un magistrat du siège désigné par le premier président.
-
-
 #### Chapitre VI : De la cour d'assises
 
 #### Chapitre VII : Du jugement des délits
-
-#### Article 835
-
-Pour l'application de l'article 392-1, l'aide juridictionnelle doit s'entendre du régime d'aide ou d'assistance judiciaire en vigueur localement.
-
-
-#### Article 836
-
-Dans le territoire de la Nouvelle-Calédonie, le tribunal correctionnel statuant en formation collégiale est complété par deux assesseurs dans les conditions prévues au code de l'organisation judiciaire.
-
-Dans le territoire des îles Wallis-et-Futuna, le tribunal correctionnel statuant en formation collégiale est composé d'un magistrat du siège et de deux assesseurs, dans les conditions prévues au code de l'organisation judiciaire.
-
-
-#### Article 837
-
-L'article 398-1 est ainsi rédigé :
-
-I. - Dans le territoire de la Polynésie française :
-
-" Art. 398-1. - Sont jugés dans les conditions prévues au troisième alinéa de l'article 398 :
-1. Les délits prévus par les articles 66 et 69 du décret-loi du 30 octobre 1935 unifiant le droit en matière de chèques et relatif aux cartes de paiement ;
-2. Les délits prévus par les dispositions applicables localement en matière de circulation routière ainsi que, lorsqu'ils sont commis à l'occasion de la conduite d'un véhicule, par les articles 222-19, 222-20, 223-1 et 434-10 du code pénal ;
-3. Les délits prévus par les dispositions applicables localement en matière de coordination des transports ;
-4. Les délits prévus par les articles 222-11, 222-12 (1° à 10°), 222-13 (1° à 10°), 222-16, 222-17, 222-18, 222-32, 227-3 à 227-11, 311-3, 311-4 (1° à 8°), 313-5, 314-5, 314-6, 321-1, 322-1 à 322-4, 322-12, 322-13, 322-14, 433-5 et 521-1 du code pénal et L. 628 du code de la santé publique ;
-5. Les délits prévus par les dispositions applicables localement en matière de chasse, de pêche, de protection de la faune et de la flore et en matière de pêche maritime ;
-6. Les délits prévus par le code de l'aménagement de la Polynésie française en matière de défaut de permis de construire ou de terrassement ou par la réglementation applicable localement sur les installations classées ;
-7. Les délits prévus par la loi n° 83-581 du 5 juillet 1983 relative à la sauvegarde de la vie humaine en mer.
-
-Toutefois, le tribunal statue obligatoirement dans les conditions prévues par le premier alinéa de l'article 398 lorsque le prévenu est en état de détention provisoire lors de sa comparution à l'audience ou lorsqu'il est poursuivi selon la procédure de comparution immédiate. Il statue également dans les conditions prévues par le premier alinéa de l'article 398 pour le jugement des délits prévus au présent article lorsque ces délits sont connexes à d'autres délits non prévus par cet article. "
-
-II. - Dans les territoires de la Nouvelle-Calédonie et des îles Wallis-et-Futuna :
-
-" Art. 398-1. - Sont jugés dans les conditions prévues au troisième alinéa de l'article 398 :
-1. Les délits prévus par les articles 66 et 69 du décret-loi du 30 octobre 1935 unifiant le droit en matière de chèques et relatif aux cartes de paiement ;
-2. Les délits prévus par les dispositions applicables localement en matière de circulation routière ainsi que, lorsqu'ils sont commis à l'occasion de la conduite d'un véhicule, par les articles 222-19, 222-20, 223-1 et 434-10 du code pénal ;
-3. Les délits prévus par les dispositions applicables localement en matière de coordination des transports ;
-4. Les délits prévus par les dispositions applicables localement en matière de chasse, de pêche, de protection de la faune et de la flore et en matière de pêche maritime.
-
-Toutefois, le tribunal statue obligatoirement dans les conditions prévues par le premier alinéa de l'article 398 lorsque le prévenu est en état de détention provisoire lors de sa comparution à l'audience ou lorsqu'il est poursuivi selon la procédure de comparution immédiate. Il statue également dans les conditions prévues par le premier alinéa de l'article 398 pour le jugement des délits prévus au présent article lorsque ces délits sont connexes à d'autres délits non prévus par cet article. "
-
-
-#### Article 838
-
-Dans le territoire des îles Wallis-et-Futuna, l'avis prévu par l'article 399 est donné par le procureur de la République.
-
-
-#### Article 839
-
-Pour l'application de l'article 407, le greffier peut être désigné comme interprète pour l'une des langues en usage dans le territoire. Il est, dans ce cas, dispensé du serment.
-
-S'il existe un interprète officiel permanent, celui-ci ne prête serment qu'à l'occasion de son entrée en fonctions.
-
 
 #### Article 840
 
@@ -9198,58 +9026,7 @@ Pour l'application de l'article 410-1, si le prévenu est trouvé dans une île 
 Le délai prévu pour exécuter le transfèrement vers la juridiction saisie est porté à quinze jours si ce transfèrement est fait à partir ou à destination d'un territoire d'outre-mer.
 
 
-#### Article 841
-
-Les dispositions de l'article 411 sont applicables au prévenu qui réside dans une île où ne siège pas le tribunal ou qui réside à plus de cent cinquante kilomètres du siège du tribunal, lorsque la durée de l'emprisonnement encourue n'excède pas cinq ans.
-
-
-#### Article 842
-
-Pour l'application de l'article 416 dans les territoires de Polynésie française et de Nouvelle-Calédonie, lorsque le déplacement d'un avocat paraît matériellement impossible, le prévenu peut prendre pour conseil une personne qui n'a fait l'objet d'aucune condamnation, incapacité ou déchéance mentionnée au bulletin n° 2 du casier judiciaire. Ne peut être choisie comme conseil une personne qui fait l'objet de poursuites pour les mêmes faits ou pour des faits connexes.
-
-Dans le territoire des îles Wallis-et-Futuna, le prévenu peut prendre pour conseil une personne agréée dans les conditions prévues au dernier alinéa de l'article 814.
-
-
-#### Article 843
-
-Pour l'application de l'article 420-1, le montant de la demande ne doit pas excéder le plafond de la compétence de droit commun des tribunaux d'instance de la métropole en matière civile.
-
-
-#### Article 844
-
-Le deuxième alinéa de l'article 470-1 est ainsi rédigé :
-
-Toutefois, lorsqu'il apparaît que des tiers responsables doivent être mis en cause, le tribunal renvoie l'affaire, par une décision non susceptible de recours, devant la juridiction civile compétente.
-
-
-#### Article 845
-
-Les délais d'opposition prévus à l'article 491 et au premier alinéa de l'article 492 sont de dix jours si le prévenu réside dans l'île où siège le tribunal et d'un mois s'il réside hors de cette île.
-
-
-#### Article 846
-
-Le délai supplémentaire prévu à l'article 500 est porté à quinze jours pour les parties qui résident hors de l'île où la juridiction qui a rendu la décision attaquée a son siège.
-
-
-#### Article 847
-
-Si l'appelant réside hors de l'île où la juridiction qui a rendu la décision attaquée a son siège, la déclaration d'appel prévue à l'article 502 peut être adressée au greffier de la juridiction par lettre signée de l'appelant. Dès réception de cette lettre, le greffier dresse l'acte d'appel et y annexe la lettre de l'appelant. Dans le délai prévu par les articles 498, 500 et 846, l'appelant est tenu de confirmer son appel à la mairie ou à la gendarmerie la plus proche de sa résidence.
-
-
 #### Chapitre VIII : Du jugement des contraventions
-
-#### Article 848
-
-A Nouméa, Mata-Utu et Papeete, le tribunal de police est constitué par un juge du tribunal de première instance, un officier du ministère public ainsi qu'il est dit aux articles 45 à 48, 810 et 811, et un greffier.
-
-Dans les sections du tribunal de première instance et lors des audiences foraines, le tribunal est constitué par le juge chargé du service de la section ou le juge forain, un officier du ministère public ainsi qu'il est dit aux articles 45 à 48, 810 et 811, et un greffier.
-
-
-#### Article 849
-
-Pour l'application de l'article 527, le délai d'opposition ouvert au prévenu, fixé au troisième alinéa de cet article, est porté à deux mois si le prévenu réside hors de l'île où la juridiction qui a rendu la décision attaquée a son siège.
-
 
 #### Article 850
 
@@ -9258,188 +9035,9 @@ Le premier alinéa de l'article 529 est ainsi rédigé :
 " Pour les contraventions des quatre premières classes aux réglementations applicables localement en matière de circulation routière, d'assurances, de chasse, de pêche, de protection de l'environnement, de droit de la consommation, de la sécurité en mer, de réglementation sur les débits de boissons ou l'ivresse publique manifeste et d'écobuage, qui sont punies seulement d'une peine d'amende, l'action publique est éteinte par le paiement d'une amende forfaitaire qui est exclusive de l'application des règles de la récidive. "
 
 
-#### Article 851
-
-Outre les dispositions rendues applicables par les articles 544 et 545, les articles 841 et 845 sont applicables devant le tribunal de police.
-
-
 #### Article 852
 
 Les dispositions du quatrième alinéa de l'article 546 s'appliquent aux affaires poursuivies à la requête des autorités compétentes en matière d'eaux et forêts.
-
-
-#### Article 853
-
-Outre les dispositions rendues applicables par les articles 547 et 549, l'article 846 est applicable aux appels formés contre les jugements de police.
-
-
-#### Chapitre IX : Des citations et significations
-
-#### Article 854
-
-Le délai prévu par l'article 552 entre le jour où la citation est délivrée et le jour fixé pour la comparution devant la juridiction est d'au moins dix jours si la partie citée réside dans l'île où siège le tribunal. Ce délai est augmenté d'un mois si la partie citée réside dans une autre île de ce territoire ou en tout autre lieu du territoire de la République.
-
-
-#### Chapitre X : Du pourvoi en cassation
-
-#### Article 855
-
-Le délai de pourvoi prévu au premier alinéa de l'article 568 est porté à un mois si le demandeur en cassation réside hors de l'île où la juridiction qui a rendu la décision attaquée a son siège.
-
-
-#### Article 856
-
-Si le demandeur en cassation réside hors de l'île où la juridiction qui a rendu la décision attaquée a son siège, la déclaration de pourvoi prévue à l'article 576 peut également être faite par lettre signée du demandeur en cassation et adressée au greffier de la juridiction qui a rendu la décision attaquée. Dès réception de cette lettre, le greffier dresse l'acte de pourvoi et y annexe la lettre du demandeur en cassation. Dans les délais prévus par les articles 568 et 855, le demandeur en cassation est tenu de confirmer son pourvoi à la mairie ou à la gendarmerie la plus proche de sa résidence.
-
-
-#### Article 857
-
-Le délai d'opposition à l'arrêt rendu par la Cour de cassation prévu à l'article 579 est porté à un mois si la partie qui forme opposition réside hors de l'île où la juridiction qui a rendu la décision attaquée a son siège.
-
-Dans ce dernier cas, l'opposition peut être également faite dans les formes prévues à l'article 856.
-
-
-#### Article 858
-
-Le délai prévu à l'article 584 est porté à deux mois si le demandeur en cassation réside hors de l'île où la juridiction qui a rendu la décision attaquée a son siège.
-
-
-#### Article 859
-
-Le délai et les formes d'opposition à l'arrêt rendu par la Cour de cassation prévus à l'article 589 sont ceux définis aux articles 855 et 856.
-
-
-#### Chapitre XI : De quelques procédures particulières
-
-#### Article 860
-
-L'ordonnance mentionnée à l'article 628 et l'extrait de condamnation mentionné à l'article 634 sont insérés dans l'un des journaux du territoire, affichés à la porte du domicile de l'intéressé et, lorsqu'il n'y a pas de mairie, affichés à la diligence du chef de circonscription administrative.
-
-
-#### Article 861
-
-Le délai prévu au troisième alinéa de l'article 662 est de deux mois.
-
-
-#### Article 862
-
-Dans le territoire des îles Wallis-et-Futuna, le président du tribunal de première instance exerce les attributions dévolues à la commission mentionnée à l'article 706-4.
-
-relative à la Nouvelle-Calédonie dispose :
-
-"IV. - Dans toutes les dispositions législatives et réglementaires en vigueur :
-1. La référence au territoire de la Nouvelle-Calédonie est remplacée par la référence à la Nouvelle-Calédonie ;
-2. La référence à l'assemblée territoriale de la Nouvelle-Calédonie est remplacée par la référence au congrès de la Nouvelle-Calédonie ;
-3. La référence à l'exécutif de la Nouvelle-Calédonie est remplacée par la référence au gouvernement de la Nouvelle-Calédonie.
-
-
-#### Article 863
-
-L'article 706-9 est rédigé ainsi :
-
-" Art. 706-9. - La commission ou, à Wallis-et-Futuna, le président du tribunal de première instance tient compte dans le montant des sommes allouées à la victime au titre de la réparation de son préjudice :
-- des prestations énumérées au II de l'article 1er de l'ordonnance n° 59-76 du 7 janvier 1959 relative aux actions en réparation civile de l'Etat et de certaines autres personnes publiques ;
-- des prestations versées par les organismes, établissements et services gérant un régime obligatoire de sécurité sociale ;
-- des sommes versées en remboursement d'un traitement médical ou de rééducation ;
-- des salaires et des ressources du salarié maintenus par l'employeur pendant la période d'inactivité consécutive à l'événement qui occasionne le dommage.
-
-Il est tenu également compte des indemnités de toutes natures reçues ou à recevoir d'autres débiteurs au titre du même préjudice.
-
-Les sommes allouées sont versées par le fonds de garantie des victimes des actes de terrorisme et d'autres infractions. "
-
-
-#### Article 864
-
-Le premier alinéa de l'article 706-14 est ainsi rédigé :
-
-
-
-" Toute personne qui, victime d'un vol, d'une escroquerie ou d'un abus de confiance, ne peut obtenir à un titre quelconque une réparation ou une indemnisation effective et suffisante de son préjudice, et se trouve de ce fait dans une situation matérielle grave, peut obtenir une indemnité dans les conditions prévues par les articles 706-3 (troisième et dernier alinéa) (1) à 706-12, lorsque ses ressources sont inférieures au plafond pour bénéficier de l'aide juridictionnelle partielle, affectée le cas échéant de correctif pour charges de famille, prévu par l'article 3 de l'ordonnance n° 92-1147 du 12 octobre 1992 relative à l'aide juridictionnelle en matière pénale dans les territoires d'outre-mer. "
-
-
-#### Article 865
-
-Dans le territoire de la Polynésie française, les examens prévus aux articles 706-23 et 706-29 peuvent être effectués dans les conditions définies à l'article 813.
-
-
-#### Article 866
-
-Le premier alinéa de l'article 706-30 est ainsi rédigé :
-
-En cas d'information ouverte pour infraction aux articles 222-34 à 222-38 du code pénal et afin de garantir le paiement des amendes encourues ainsi que l'exécution de la confiscation prévue au deuxième alinéa de l'article 222-49 du même code, le président du tribunal de première instance ou un juge délégué par lui, sur requête du procureur de la République, peut ordonner, aux frais avancés du Trésor et selon les modalités prévues par la réglementation applicable localement en matière de procédure civile, des mesures conservatoires sur les biens de la personne mise en examen.
-
-
-#### Chapitre XII : Des procédures d'exécution
-
-#### Article 867
-
-Les attributions dévolues au percepteur par l'article 707 sont exercées par l'agent chargé du recouvrement des amendes en vertu de la réglementation applicable dans le territoire.
-
-
-#### Article 868
-
-Les personnes visées à l'article 714 peuvent être détenues dans un local autre qu'une maison d'arrêt.
-
-
-#### Article 869
-
-Les attributions dévolues au ministre de la justice par les articles 730 à 733 sont exercées par le représentant de l'Etat dans le territoire.
-
-
-#### Article 870
-
-L'article 752 est ainsi rédigé :
-
-" Art. 752. - La contrainte judiciaire ne peut être exécutée contre les condamnés qui justifient de leur insolvabilité en produisant :
-1. Un certificat du percepteur ou de l'agent qui exerce les fonctions dévolues au percepteur de leur domicile constatant qu'ils ne sont pas imposés ;
-2. Un certificat du maire ou du commissaire de police de leur commune ou du chef de leur circonscription administrative.
-
-La preuve que le condamné est en réalité solvable peut être rapportée par tous moyens. "
-
-
-#### Article 871
-
-L'article 758 est ainsi rédigé :
-
-" Art. 758. - La contrainte judiciaire est subie dans un établissement pénitentiaire. "
-
-
-#### Article 872
-
-La caution mentionnée à l'article 759 est admise par le receveur des finances ou par l'agent qui exerce les fonctions dévolues à celui-ci par la réglementation applicable au territoire.
-
-
-#### Article 873
-
-L'article 763 est ainsi rédigé :
-
-" Art. 763. - En cas de prescription d'une peine prononcée en matière criminelle, le condamné est soumis de plein droit et à titre définitif à l'interdiction de séjour, dans la circonscription ou subdivision administrative où demeurent la victime du crime ou ses héritiers directs. "
-
-
-#### Article 873-1
-
-Le premier alinéa de l'article 763-7 est ainsi rédigé :
-
-"Lorsqu'une personne condamnée à un suivi socio-judiciaire comprenant une injonction de soins doit subir une peine privative de liberté, elle exécute cette peine dans un établissement pénitentiaire permettant de lui assurer un suivi médical et psychologique adapté."
-
-
-#### Chapitre XIII : Du casier judiciaire
-
-#### Article 874
-
-Pour l'application de l'article 768, les attributions du casier judiciaire national sont exercées par le greffe de chaque tribunal de première instance qui reçoit, en ce qui concerne les personnes nées dans la circonscription du tribunal et après vérification de leur identité aux registres de l'état civil, des fiches constatant les condamnations, jugements et décisions énumérés aux 1° à 8° dudit article.
-
-
-#### Article 875
-
-Pour l'application de l'article 768-1, les attributions du casier judiciaire national sont exercées par le greffe du tribunal de première instance qui reçoit, en ce qui concerne les personnes morales dont le siège se situe dans le ressort du tribunal et après contrôle de leur identité au moyen du répertoire territorial des entreprises et établissements, des fiches constatant les condamnations et déclarations mentionnées aux 1° à 4° dudit article.
-
-
-#### Article 876
-
-L'article 773 est ainsi rédigé :
-
-" Art. 773. - Il est adressé une copie de chaque fiche constatant une décision entraînant la privation des droits électoraux à l'autorité administrative compétente du territoire. "
 
 
 ### Titre II : Dispositions applicables dans la collectivité territoriale de Mayotte
@@ -9487,11 +9085,6 @@ Les compétences attribuées aux chefs de cours par le présent code sont exerc�
 #### Article 879
 
 Les attributions dévolues par le présent code aux avocats et aux conseils des parties peuvent être exercées par des personnes agréées par le président du tribunal supérieur d'appel. Ces personnes sont dispensées de procuration.
-
-
-#### Article 879-1
-
-Pour l'application des dispositions des articles 20 et 21, les agents de police de la collectivité territoriale de Mayotte mis à la disposition de l'Etat sont assimilés, selon les dispositions et dans les conditions prévues par ces articles, aux agents de la police nationale.
 
 
 #### Chapitre II : Des enquêtes
@@ -9647,7 +9240,440 @@ Le premier alinéa de l'article 763-7 est ainsi rédigé :
 
 ## Livre VI : Dispositions relatives aux territoires d'outre-mer, à la Nouvelle-Calédonie et aux collectivités territoriales de Mayotte et Saint-Pierre-et-Miquelon
 
+### Titre Ier : Dispositions applicables en Nouvelle-Calédonie et dans les territoires de la Polynésie française et des îles Wallis-et-Futuna
+
+#### Chapitre Ier : Dispositions générales
+
+#### Article 804
+
+A l'exception des articles 529-3 à 529-9, 717 à 719, le présent code (Dispositions législatives) est applicable en Nouvelle-Calédonie et dans les territoires de la Polynésie française et des îles Wallis-et-Futuna, sous réserve des adaptations prévues au présent titre.
+
+
+#### Article 806
+
+Dans les territoires d'outre-mer et en Nouvelle-Calédonie, les sanctions pécuniaires encourues en vertu du présent code sont prononcées en monnaie locale, compte tenu de la contre-valeur du franc métropolitain dans cette monnaie.
+
+
+#### Chapitre II : De l'action publique et de l'action civile
+
+#### Article 807
+
+L'article 2-6 est rédigé comme suit :
+
+" Art. 2-6. - Toute association régulièrement déclarée depuis au moins cinq ans à la date des faits, se proposant par ses statuts de combattre les discriminations fondées sur le sexe ou sur les moeurs, peut exercer les droits reconnus à la partie civile en ce qui concerne les discriminations commises en raison du sexe, de la situation de famille ou des moeurs de la victime, réprimées par les articles 225-2 et 432-7 du code pénal, ou prohibées par les dispositions applicables localement en matière de droit du travail. "
+
+
+#### Article 808
+
+Le deuxième alinéa de l'article 2-8 est rédigé comme suit :
+
+" Toute association régulièrement déclarée depuis au moins cinq ans à la date des faits ayant, en vertu de ses statuts, vocation à défendre ou à assister les personnes handicapées peut également exercer les droits reconnus à la partie civile en ce qui concerne les infractions aux dispositions législatives ou réglementaires applicables localement relatives à l'accessibilité des locaux d'habitation, des lieux de travail ou des établissements et installations recevant du public. "
+
+
+#### Chapitre III : De la police judiciaire
+
+#### Article 809
+
+I. - Les fonctionnaires et agents exerçant dans les territoires d'outre-mer et en Nouvelle-Calédonie des fonctions correspondant à celles des fonctionnaires et agents métropolitains visés aux articles 22 à 29 sont chargés de certaines fonctions de police judiciaire dans les conditions et les limites fixées par ces mêmes articles.
+
+II. - Les agents assermentés des territoires et, en Nouvelle-Calédonie, des provinces, peuvent constater par procès-verbal des infractions aux réglementations édictées par les territoires ou, en Nouvelle-Calédonie, les provinces, lorsqu'ils appartiennent à une administration chargée de contrôler la mise en oeuvre de ces réglementations. Ces agents sont commissionnés par l'autorité administrative compétente après qu'ils ont été agréés par le procureur de la République. Ils prêtent serment devant le tribunal de première instance.
+
+
+#### Article 810
+
+Pour l'application du deuxième alinéa de l'article 45, les fonctions du ministère public sont remplies par les fonctionnaires et agents mentionnés au I de l'article 809, à l'exception de ceux exerçant des fonctions de gardes champêtres des communes et des gardes particuliers assermentés.
+
+
+#### Article 811
+
+Pour l'application du premier alinéa de l'article 46 et de l'article 48, les fonctions du ministère public peuvent également être exercées par un officier de police judiciaire appartenant à la gendarmerie.
+
+Pour l'application du deuxième alinéa de l'article 46, les fonctions du ministère public peuvent être également exercées par le chef de la circonscription ou de la subdivision administrative où siège le tribunal de police.
+
+
+#### Chapitre IV : Des enquêtes
+
+#### Chapitre V : Des juridictions d'instruction
+
+#### Article 815
+
+Pour l'application de l'article 88, l'aide juridictionnelle doit s'entendre du régime d'aide ou d'assistance judiciaire applicable localement.
+
+
+#### Article 816
+
+L'obligation pour la partie civile de déclarer une adresse au juge d'instruction prévue par l'article 89 s'entend, pour les territoires d'outre-mer et la Nouvelle-Calédonie, d'une adresse située dans le territoire où se déroule l'information.
+
+
+#### Article 817
+
+Pour l'application du deuxième alinéa de l'article 102, le greffier peut être désigné comme interprète pour l'une des langues en usage dans le territoire. Il est, dans ce cas, dispensé du serment.
+
+
+#### Article 818
+
+L'obligation pour la personne mise en examen de déclarer une adresse au juge d'instruction prévue au cinquième alinéa de l'article 116 s'entend d'une adresse située dans le territoire où se déroule l'information.
+
+
+#### Article 819
+
+Le délai prévu à l'article 116-1 est porté à un mois lorsque la personne mise en examen ne réside pas sur l'île où siège le juge d'instruction saisi.
+
+
+#### Article 820
+
+Pour l'application des articles 127 et 133, si la personne faisant l'objet du mandat est trouvée dans une île où ne siège pas de tribunal, la conduite a lieu dès la première liaison aérienne ou maritime. Le délai nécessaire à la conduite de cette personne devant le magistrat compétent et celui pendant lequel elle a été retenue avant son embarquement sont imputés, s'il y a lieu, sur la durée de la peine.
+
+
+#### Article 821
+
+Les délais prévus à l'article 130 sont portés à quinze jours lorsque le transfèrement se fait à partir ou à destination d'un territoire d'outre-mer ou de la Nouvelle-Calédonie.
+
+
+#### Article 822
+
+Pour l'application des articles 128 et 132, la personne peut être retenue dans un local autre qu'une maison d'arrêt.
+
+
+#### Article 823
+
+Dans le territoire des îles Wallis-et-Futuna le délai de quatre jours ouvrables prévu au sixième alinéa de l'article 145 est porté à sept jours ouvrables.
+
+Le délai prévu au deuxième alinéa de l'article 187-1 est également porté à sept jours ouvrables.
+
+
+#### Article 824
+
+Pour l'application de l'article 191, la chambre de l'instruction de la cour d'appel de Nouméa et celle de la cour d'appel de Papeete sont composées d'un président de chambre ou d'un conseiller et de deux magistrats du siège du ressort de la cour d'appel.
+
+Ces magistrats sont désignés chaque année par le premier président de la cour d'appel.
+
+En cas d'empêchement d'un membre de la chambre de l'instruction, celui-ci est remplacé par un magistrat du siège désigné par le premier président.
+
+
+#### Chapitre VI : De la cour d'assises
+
+#### Chapitre VII : Du jugement des délits
+
+#### Article 835
+
+Pour l'application de l'article 392-1, l'aide juridictionnelle doit s'entendre du régime d'aide ou d'assistance judiciaire en vigueur localement.
+
+
+#### Article 836
+
+En Nouvelle-Calédonie, le tribunal correctionnel statuant en formation collégiale est complété par deux assesseurs dans les conditions prévues au code de l'organisation judiciaire.
+
+Dans le territoire des îles Wallis-et-Futuna, le tribunal correctionnel statuant en formation collégiale est composé d'un magistrat du siège et de deux assesseurs, dans les conditions prévues au code de l'organisation judiciaire.
+
+
+#### Article 837
+
+L'article 398-1 est ainsi rédigé :
+
+I. - Dans le territoire de la Polynésie française :
+
+" Art. 398-1. - Sont jugés dans les conditions prévues au troisième alinéa de l'article 398 :
+1. Les délits prévus par les articles 66 et 69 du décret-loi du 30 octobre 1935 unifiant le droit en matière de chèques et relatif aux cartes de paiement ;
+2. Les délits prévus par les dispositions applicables localement en matière de circulation routière ainsi que, lorsqu'ils sont commis à l'occasion de la conduite d'un véhicule, par les articles 222-19, 222-20, 223-1 et 434-10 du code pénal ;
+3. Les délits prévus par les dispositions applicables localement en matière de coordination des transports ;
+4. Les délits prévus par les articles 222-11, 222-12 (1° à 10°), 222-13 (1° à 10°), 222-16, 222-17, 222-18, 222-32, 227-3 à 227-11, 311-3, 311-4 (1° à 8°), 313-5, 314-5, 314-6, 321-1, 322-1 à 322-4, 322-12, 322-13, 322-14, 433-5 et 521-1 du code pénal et L. 628 du code de la santé publique ;
+5. Les délits prévus par les dispositions applicables localement en matière de chasse, de pêche, de protection de la faune et de la flore et en matière de pêche maritime ;
+6. Les délits prévus par le code de l'aménagement de la Polynésie française en matière de défaut de permis de construire ou de terrassement ou par la réglementation applicable localement sur les installations classées ;
+7. Les délits prévus par la loi n° 83-581 du 5 juillet 1983 relative à la sauvegarde de la vie humaine en mer.
+
+Toutefois, le tribunal statue obligatoirement dans les conditions prévues par le premier alinéa de l'article 398 lorsque le prévenu est en état de détention provisoire lors de sa comparution à l'audience ou lorsqu'il est poursuivi selon la procédure de comparution immédiate. Il statue également dans les conditions prévues par le premier alinéa de l'article 398 pour le jugement des délits prévus au présent article lorsque ces délits sont connexes à d'autres délits non prévus par cet article. "
+
+II. - En Nouvelle-Calédonie et dans le territoire des îles Wallis-et-Futuna :
+
+" Art. 398-1. - Sont jugés dans les conditions prévues au troisième alinéa de l'article 398 :
+1. Les délits prévus par les articles 66 et 69 du décret-loi du 30 octobre 1935 unifiant le droit en matière de chèques et relatif aux cartes de paiement ;
+2. Les délits prévus par les dispositions applicables localement en matière de circulation routière ainsi que, lorsqu'ils sont commis à l'occasion de la conduite d'un véhicule, par les articles 222-19, 222-20, 223-1 et 434-10 du code pénal ;
+3. Les délits prévus par les dispositions applicables localement en matière de coordination des transports ;
+4. Les délits prévus par les dispositions applicables localement en matière de chasse, de pêche, de protection de la faune et de la flore et en matière de pêche maritime.
+
+Toutefois, le tribunal statue obligatoirement dans les conditions prévues par le premier alinéa de l'article 398 lorsque le prévenu est en état de détention provisoire lors de sa comparution à l'audience ou lorsqu'il est poursuivi selon la procédure de comparution immédiate. Il statue également dans les conditions prévues par le premier alinéa de l'article 398 pour le jugement des délits prévus au présent article lorsque ces délits sont connexes à d'autres délits non prévus par cet article. "
+
+
+#### Article 838
+
+Dans le territoire des îles Wallis-et-Futuna, l'avis prévu par l'article 399 est donné par le procureur de la République.
+
+
+#### Article 839
+
+Pour l'application de l'article 407, le greffier peut être désigné comme interprète pour l'une des langues en usage dans le territoire. Il est, dans ce cas, dispensé du serment.
+
+S'il existe un interprète officiel permanent, celui-ci ne prête serment qu'à l'occasion de son entrée en fonctions.
+
+
+#### Article 840
+
+Pour l'application de l'article 410-1, si le prévenu est trouvé dans une île où ne siège pas de tribunal, la conduite a lieu dès la première liaison aérienne ou maritime. Le délai nécessaire à la conduite du prévenu devant le magistrat compétent et celui pendant lequel il a été retenu avant son embarquement sont imputés, s'il y a lieu, sur la durée de la peine.
+
+Le délai prévu pour exécuter le transfèrement vers la juridiction saisie est porté à quinze jours si ce transfèrement est fait à partir ou à destination d'un territoire d'outre-mer ou de la Nouvelle-Calédonie.
+
+
+#### Article 841
+
+Les dispositions de l'article 411 sont applicables au prévenu qui réside dans une île où ne siège pas le tribunal ou qui réside à plus de cent cinquante kilomètres du siège du tribunal, lorsque la durée de l'emprisonnement encourue n'excède pas cinq ans.
+
+
+#### Article 842
+
+Pour l'application de l'article 416 dans le territoire de la Polynésie française et en Nouvelle-Calédonie, lorsque le déplacement d'un avocat paraît matériellement impossible, le prévenu peut prendre pour conseil une personne qui n'a fait l'objet d'aucune condamnation, incapacité ou déchéance mentionnée au bulletin n° 2 du casier judiciaire. Ne peut être choisie comme conseil une personne qui fait l'objet de poursuites pour les mêmes faits ou pour des faits connexes.
+
+Dans le territoire des îles Wallis-et-Futuna, le prévenu peut prendre pour conseil une personne agréée dans les conditions prévues au dernier alinéa de l'article 814.
+
+
+#### Article 843
+
+Pour l'application de l'article 420-1, le montant de la demande ne doit pas excéder le plafond de la compétence de droit commun des tribunaux d'instance de la métropole en matière civile.
+
+
+#### Article 844
+
+Le deuxième alinéa de l'article 470-1 est ainsi rédigé :
+
+"Toutefois, lorsqu'il apparaît que des tiers responsables doivent être mis en cause, le tribunal renvoie l'affaire, par une décision non susceptible de recours, devant la juridiction civile compétente".
+
+
+#### Article 845
+
+Les délais d'opposition prévus à l'article 491 et au premier alinéa de l'article 492 sont de dix jours si le prévenu réside dans l'île où siège le tribunal et d'un mois s'il réside hors de cette île.
+
+
+#### Article 846
+
+Le délai supplémentaire prévu à l'article 500 est porté à quinze jours pour les parties qui résident hors de l'île où la juridiction qui a rendu la décision attaquée a son siège.
+
+
+#### Article 847
+
+Si l'appelant réside hors de l'île où la juridiction qui a rendu la décision attaquée a son siège, la déclaration d'appel prévue à l'article 502 peut être adressée au greffier de la juridiction par lettre signée de l'appelant. Dès réception de cette lettre, le greffier dresse l'acte d'appel et y annexe la lettre de l'appelant. Dans le délai prévu par les articles 498, 500 et 846, l'appelant est tenu de confirmer son appel à la mairie ou à la gendarmerie la plus proche de sa résidence.
+
+
+#### Chapitre VIII : Du jugement des contraventions
+
+#### Article 848
+
+A Nouméa, Mata-Utu et Papeete, le tribunal de police est constitué par un juge du tribunal de première instance, un officier du ministère public ainsi qu'il est dit aux articles 45 à 48, 810 et 811, et un greffier.
+
+Dans les sections du tribunal de première instance et lors des audiences foraines, le tribunal est constitué par le juge chargé du service de la section ou le juge forain, un officier du ministère public ainsi qu'il est dit aux articles 45 à 48, 810 et 811, et un greffier.
+
+
+#### Article 849
+
+Pour l'application de l'article 527, le délai d'opposition ouvert au prévenu, fixé au troisième alinéa de cet article, est porté à deux mois si le prévenu réside hors de l'île où la juridiction qui a rendu la décision attaquée a son siège.
+
+
+#### Article 850
+
+Le premier alinéa de l'article 529 est ainsi rédigé :
+
+" Pour les contraventions des quatre premières classes aux réglementations applicables localement en matière de circulation routière, d'assurances, de chasse, de pêche, de protection de l'environnement, de droit de la consommation, de la sécurité en mer, de réglementation sur les débits de boissons ou l'ivresse publique manifeste et d'écobuage, qui sont punies seulement d'une peine d'amende, l'action publique est éteinte par le paiement d'une amende forfaitaire qui est exclusive de l'application des règles de la récidive. "
+
+
+#### Article 851
+
+Outre les dispositions rendues applicables par les articles 544 et 545, les articles 841 et 845 sont applicables devant le tribunal de police.
+
+
+#### Article 852
+
+Les dispositions du quatrième alinéa de l'article 546 s'appliquent aux affaires poursuivies à la requête des autorités compétentes en matière d'eaux et forêts.
+
+
+#### Article 853
+
+Outre les dispositions rendues applicables par les articles 547 et 549, l'article 846 est applicable aux appels formés contre les jugements de police.
+
+
+#### Chapitre IX : Des citations et significations
+
+#### Article 854
+
+Le délai prévu par l'article 552 entre le jour où la citation est délivrée et le jour fixé pour la comparution devant la juridiction est d'au moins dix jours si la partie citée réside dans l'île où siège le tribunal. Ce délai est augmenté d'un mois si la partie citée réside dans une autre île de ce territoire ou en tout autre lieu du territoire de la République.
+
+
+#### Chapitre X : Du pourvoi en cassation
+
+#### Article 855
+
+Le délai de pourvoi prévu au premier alinéa de l'article 568 est porté à un mois si le demandeur en cassation réside hors de l'île où la juridiction qui a rendu la décision attaquée a son siège.
+
+
+#### Article 856
+
+Si le demandeur en cassation réside hors de l'île où la juridiction qui a rendu la décision attaquée a son siège, la déclaration de pourvoi prévue à l'article 576 peut également être faite par lettre signée du demandeur en cassation et adressée au greffier de la juridiction qui a rendu la décision attaquée. Dès réception de cette lettre, le greffier dresse l'acte de pourvoi et y annexe la lettre du demandeur en cassation. Dans les délais prévus par les articles 568 et 855, le demandeur en cassation est tenu de confirmer son pourvoi à la mairie ou à la gendarmerie la plus proche de sa résidence.
+
+
+#### Article 857
+
+Le délai d'opposition à l'arrêt rendu par la Cour de cassation prévu à l'article 579 est porté à un mois si la partie qui forme opposition réside hors de l'île où la juridiction qui a rendu la décision attaquée a son siège.
+
+Dans ce dernier cas, l'opposition peut être également faite dans les formes prévues à l'article 856.
+
+
+#### Article 858
+
+Le délai prévu à l'article 584 est porté à deux mois si le demandeur en cassation réside hors de l'île où la juridiction qui a rendu la décision attaquée a son siège.
+
+
+#### Article 859
+
+Le délai et les formes d'opposition à l'arrêt rendu par la Cour de cassation prévus à l'article 589 sont ceux définis aux articles 855 et 856.
+
+
+#### Chapitre XI : De quelques procédures particulières
+
+#### Article 860
+
+L'ordonnance mentionnée à l'article 628 et l'extrait de condamnation mentionné à l'article 634 sont insérés dans l'un des journaux du territoire, affichés à la porte du domicile de l'intéressé et, lorsqu'il n'y a pas de mairie, affichés à la diligence du chef de circonscription administrative.
+
+
+#### Article 861
+
+Le délai prévu au troisième alinéa de l'article 662 est de deux mois.
+
+
+#### Article 862
+
+Dans le territoire des îles Wallis-et-Futuna, le président du tribunal de première instance exerce les attributions dévolues à la commission mentionnée à l'article 706-4.
+
+
+#### Article 863
+
+L'article 706-9 est rédigé ainsi :
+
+" Art. 706-9. - La commission ou, à Wallis-et-Futuna, le président du tribunal de première instance tient compte dans le montant des sommes allouées à la victime au titre de la réparation de son préjudice :
+- des prestations énumérées au II de l'article 1er de l'ordonnance n° 59-76 du 7 janvier 1959 relative aux actions en réparation civile de l'Etat et de certaines autres personnes publiques ;
+- des prestations versées par les organismes, établissements et services gérant un régime obligatoire de sécurité sociale ;
+- des sommes versées en remboursement d'un traitement médical ou de rééducation ;
+- des salaires et des ressources du salarié maintenus par l'employeur pendant la période d'inactivité consécutive à l'événement qui occasionne le dommage.
+
+Il est tenu également compte des indemnités de toutes natures reçues ou à recevoir d'autres débiteurs au titre du même préjudice.
+
+Les sommes allouées sont versées par le fonds de garantie des victimes des actes de terrorisme et d'autres infractions. "
+
+
+#### Article 864
+
+Le premier alinéa de l'article 706-14 est ainsi rédigé :
+
+
+
+" Toute personne qui, victime d'un vol, d'une escroquerie ou d'un abus de confiance, ne peut obtenir à un titre quelconque une réparation ou une indemnisation effective et suffisante de son préjudice, et se trouve de ce fait dans une situation matérielle grave, peut obtenir une indemnité dans les conditions prévues par les articles 706-3 (troisième et dernier alinéa) (1) à 706-12, lorsque ses ressources sont inférieures au plafond pour bénéficier de l'aide juridictionnelle partielle, affectée le cas échéant de correctif pour charges de famille, prévu par l'article 3 de l'ordonnance n° 92-1147 du 12 octobre 1992 relative à l'aide juridictionnelle en matière pénale dans les territoires d'outre-mer. "
+
+
+#### Article 865
+
+Dans le territoire de la Polynésie française, les examens prévus aux articles 706-23 et 706-29 peuvent être effectués dans les conditions définies à l'article 813.
+
+
+#### Article 866
+
+Le premier alinéa de l'article 706-30 est ainsi rédigé :
+
+" En cas d'information ouverte pour infraction aux articles 222-34 à 222-38 du code pénal et afin de garantir le paiement des amendes encourues ainsi que l'exécution de la confiscation prévue au deuxième alinéa de l'article 222-49 du même code, le président du tribunal de première instance ou un juge délégué par lui, sur requête du procureur de la République, peut ordonner, aux frais avancés du Trésor et selon les modalités prévues par la réglementation applicable localement en matière de procédure civile, des mesures conservatoires sur les biens de la personne mise en examen ".
+
+
+#### Chapitre XII : Des procédures d'exécution
+
+#### Article 867
+
+Les attributions dévolues au percepteur par l'article 707 sont exercées par l'agent chargé du recouvrement des amendes en vertu de la réglementation applicable dans le territoire.
+
+
+#### Article 868
+
+Les personnes visées à l'article 714 peuvent être détenues dans un local autre qu'une maison d'arrêt.
+
+
+#### Article 869
+
+Les attributions dévolues au ministre de la justice par les articles 730 à 733 sont exercées par le représentant de l'Etat dans le territoire.
+
+
+#### Article 870
+
+L'article 752 est ainsi rédigé :
+
+" Art. 752. - La contrainte judiciaire ne peut être exécutée contre les condamnés qui justifient de leur insolvabilité en produisant :
+1. Un certificat du percepteur ou de l'agent qui exerce les fonctions dévolues au percepteur de leur domicile constatant qu'ils ne sont pas imposés ;
+2. Un certificat du maire ou du commissaire de police de leur commune ou du chef de leur circonscription administrative.
+
+La preuve que le condamné est en réalité solvable peut être rapportée par tous moyens. "
+
+
+#### Article 871
+
+L'article 758 est ainsi rédigé :
+
+" Art. 758. - La contrainte judiciaire est subie dans un établissement pénitentiaire. "
+
+
+#### Article 872
+
+La caution mentionnée à l'article 759 est admise par le receveur des finances ou par l'agent qui exerce les fonctions dévolues à celui-ci par la réglementation applicable au territoire.
+
+
+#### Article 873
+
+L'article 763 est ainsi rédigé :
+
+" Art. 763. - En cas de prescription d'une peine prononcée en matière criminelle, le condamné est soumis de plein droit et à titre définitif à l'interdiction de séjour, dans la circonscription ou subdivision administrative où demeurent la victime du crime ou ses héritiers directs. "
+
+
+#### Article 873-1
+
+Le premier alinéa de l'article 763-7 est ainsi rédigé :
+
+"Lorsqu'une personne condamnée à un suivi socio-judiciaire comprenant une injonction de soins doit subir une peine privative de liberté, elle exécute cette peine dans un établissement pénitentiaire permettant de lui assurer un suivi médical et psychologique adapté."
+
+
+#### Chapitre XIII : Du casier judiciaire
+
+#### Article 874
+
+Pour l'application de l'article 768, les attributions du casier judiciaire national sont exercées par le greffe de chaque tribunal de première instance qui reçoit, en ce qui concerne les personnes nées dans la circonscription du tribunal et après vérification de leur identité aux registres de l'état civil, des fiches constatant les condamnations, jugements et décisions énumérés aux 1° à 8° dudit article.
+
+
+#### Article 875
+
+Pour l'application de l'article 768-1, les attributions du casier judiciaire national sont exercées par le greffe du tribunal de première instance qui reçoit, en ce qui concerne les personnes morales dont le siège se situe dans le ressort du tribunal et après contrôle de leur identité au moyen du répertoire territorial des entreprises et établissements, des fiches constatant les condamnations et déclarations mentionnées aux 1° à 4° dudit article.
+
+
+#### Article 876
+
+L'article 773 est ainsi rédigé :
+
+" Art. 773. - Il est adressé une copie de chaque fiche constatant une décision entraînant la privation des droits électoraux à l'autorité administrative compétente du territoire. "
+
+
 ### Titre Ier : Dispositions applicables en Nouvelle-Calédonie et dans les territoires de la Polynésie française et dans les îles Wallis-et-Futuna
+
+### Titre II : Dispositions applicables dans la collectivité territoriale de Mayotte
+
+#### Chapitre Ier : Dispositions générales
+
+#### Article 879-1
+
+Pour l'application des dispositions des articles 20 et 21, les agents de police de la collectivité territoriale de Mayotte mis à la disposition de l'Etat sont assimilés, selon les dispositions et dans les conditions prévues par ces articles, aux agents de la police nationale.
+
+
+## Livre VI : Dispositions relatives aux territoires d'outre-mer, à la Nouvelle-Calédonie et aux collectivités territoriales de Mayotte et Saint-Pierre-et-Miquelon
+
+### Titre Ier : Dispositions applicables en Nouvelle-Calédonie et dans les territoires de la Polynésie française et des îles Wallis-et-Futuna
+
+#### Chapitre Ier : Dispositions générales.
+
+#### Article 805
+
+Pour l'application du présent code dans les territoires d'outre-mer et en Nouvelle-Calédonie, les termes : "tribunal de grande instance", "tribunal d'instance" ou "tribunal de police" sont remplacés par les termes : "tribunal de première instance" ou, le cas échéant, par les termes : "section détachée du tribunal de première instance" ;
+
+De même, les références à des dispositions non applicables dans ces territoires et en Nouvelle-Calédonie sont remplacées par les références à des dispositions applicables localement ayant le même objet.
+
 
 # Partie réglementaire - Décrets en Conseil d'Etat
 
@@ -15074,7 +15100,7 @@ Toulouse - Ariège, Aude, Aveyron, Gard, Haute-Garonne, Gers, Hérault, Lot, Loz
 
 ##### Article D193
 
-Une mission des services pénitentiaires de l'outre-mer, confiée à un directeur régional des services pénitentiaires, a compétence sur les établissements et services pénitentiaires des départements d'outre-mer et des territoires de la Polynésie française et de Nouvelle-Calédonie.
+Une mission des services pénitentiaires de l'outre-mer, confiée à un directeur régional des services pénitentiaires, a compétence sur les établissements et services pénitentiaires des départements d'outre-mer, du territoire de la Polynésie française et de la Nouvelle-Calédonie.
 
 Cette mission est, en outre, chargée, dans le domaine pénitentiaire, des relations avec les collectivités territoriales de Saint-Pierre-et-Miquelon et de Mayotte, liées par convention avec l'Etat.
 
