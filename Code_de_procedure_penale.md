@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 23 décembre 2003
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20031223)
+- Date de consolidation : 3 janvier 2004
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20040103)
 
 
 # Partie législative
@@ -29,12 +29,18 @@ Toute association régulièrement déclarée depuis au moins cinq ans à la date
 
 ## Article 2-2
 
-Toute association régulièrement déclarée depuis au moins cinq ans à la date des faits, dont l'objet statutaire comporte la lutte contre les violences sexuelles ou contre les violences exercées sur un membre de la famille, peut exercer les droits reconnus à la partie civile, en ce qui concerne les atteintes volontaires à la vie et à l'intégrité de la personne, les agressions et autres atteintes sexuelles, l'enlèvement et la séquestration et la violation de domicile réprimés par les articles 221-1 à 221-4, 222-1 à 222-18, 222-23 à 222-33, 224-1 à 224-5, 226-4, 227-25, 227-26, 227-27 et 432-8 du code pénal. Toutefois, l'association ne sera recevable dans son action que si elle justifie avoir reçu l'accord de la victime ou, si celle-ci est mineure, celui du titulaire de l'autorité parentale ou du représentant légal ou, à défaut, celui du juge des tutelles saisi en application de l'article 389-3 du code civil. Cette condition n'est toutefois pas exigée lorsque les faits ont été commis à l'étranger et qu'il est fait application des dispositions du second alinéa de l'article 222-22 et de l'article 227-27-1 du code pénal.
+Toute association régulièrement déclarée depuis au moins cinq ans à la date des faits, dont l'objet statutaire comporte la lutte contre les violences sexuelles ou contre les violences exercées sur un membre de la famille, peut exercer les droits reconnus à la partie civile, en ce qui concerne les atteintes volontaires à la vie et à l'intégrité de la personne, les agressions et autres atteintes sexuelles, l'enlèvement et la séquestration et la violation de domicile réprimés par les articles 221-1 à 221-4,
+
+222-1 à 222-18, 222-23 à 222-33, 224-1 à 224-5, 226-4 et 432-8 du code pénal, lorsque la victime de ces infractions était majeure à la date des faits. Toutefois, l'association ne sera recevable dans son action que si elle justifie avoir reçu l'accord de la victime. Si celle-ci est un majeur en tutelle, l'accord doit être donné par son représentant légal.
 
 
 ## Article 2-3
 
-Toute association, régulièrement déclarée depuis au moins cinq ans à la date des faits, se proposant, par ses statuts, de défendre ou d'assister l'enfance martyrisée ou les mineurs victimes d'atteintes sexuelles, peut exercer les droits reconnus à la partie civile en ce qui concerne les tortures et actes de barbarie, les violences et agressions sexuelles commis sur la personne d'un mineur et les infractions de mise en péril des mineurs réprimés par les articles 222-3 à 222-6, 222-8, 222-10, 222-12, 222-13, 222-14, 222-15, 222-24, 222-25, 222-26, 222-29, 222-30, 227-22, 227-25, 227-26 et 227-27 du code pénal, lorsque l'action publique a été mise en mouvement par le ministère public ou la partie lésée.
+Toute association régulièrement déclarée depuis au moins cinq ans à la date des faits et dont l'objet statutaire comporte la défense ou l'assistance de l'enfant en danger et victime de toutes formes de maltraitance peut exercer les droits reconnus à la partie civile en ce qui concerne les atteintes volontaires à la vie et à l'intégrité, les agressions et autres atteintes sexuelles commises sur la personne d'un mineur et les infractions de mise en péril des mineurs réprimées par les articles 221-1 à 221-5, 222-1 à 222-18-1, 222-23 à 222-33-1, 223-1 à 223-10, 223-13, 224-1 à 224-5, 225-7 à 225-9, 225-12-1 à 225-12-4,
+
+227-1, 227-2, 227-15 à 227-27-1 du code pénal, lorsque l'action publique a été mise en mouvement par le ministère public ou la partie lésée.
+
+Toute association, inscrite auprès du ministère de la justice dans des conditions fixées par décret en Conseil d'Etat, est recevable dans son action même si l'action publique n'a pas été mise en mouvement par le ministère public ou la partie lésée en ce qui concerne l'infraction mentionnée à l'article 227-23 du code pénal. Il en est de même lorsqu'il est fait application des dispositions du second alinéa de l'article 222-22 et de l'article 227-27-1 dudit code.
 
 
 ## Article 2-4
