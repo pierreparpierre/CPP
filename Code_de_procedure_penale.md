@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 16 juin 2002
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20020616)
+- Date de consolidation : 9 août 2002
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20020809)
 
 
 # Partie législative
@@ -14980,7 +14980,7 @@ Chaque huissier de justice audiencier reçoit une indemnité de :
 
 ###### Article R181
 
-Il est alloué aux huissiers de justice pour toutes citations en matière criminelle, correctionnelle et de police, pour les significations des mandats de comparution, pour toutes significations d'ordonnances, jugements et arrêts et tous autres actes ou pièces en matière criminelle, correctionnelle et de police, une somme forfaitaire de 18 F pour l'original, les copies et l'envoi par lettre recommandée avec avis de réception prévue par les articles 557 et 558 et ce, en sus du coût d'affranchissement.
+Il est alloué aux huissiers de justice pour toutes citations en matière criminelle, correctionnelle et de police, pour les significations des mandats de comparution, pour toutes significations d'ordonnances, jugements et arrêts et tous autres actes ou pièces en matière criminelle, correctionnelle et de police, une somme forfaitaire de 4,50 euros pour l'original, les copies et l'envoi par lettre recommandée avec avis de réception prévue par les articles 557 et 558 et ce, en sus du coût d'affranchissement.
 
 
 ###### Article R182
