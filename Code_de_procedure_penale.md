@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 21 juillet 1988
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19880721)
+- Date de consolidation : 1er octobre 1988
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19881001)
 
 
 # Partie législative
@@ -1707,7 +1707,7 @@ La chambre d'accusation se réunit au moins une fois par semaine et, sur convoca
 
 Le procureur général met l'affaire en état dans les quarante-huit heures de la réception des pièces en matière de détention provisoire et dans les dix jours en toute autre matière ; il la soumet, avec son réquisitoire, à la chambre d'accusation.
 
-Celle-ci doit, en matière de détention provisoire, se prononcer dans les plus brefs délais et au plus tard dans les trente jours de l'appel prévu par l'article 186, faute de quoi l'inculpé est mis d'office en liberté, sauf si des vérifications concernant sa demande ont été ordonnées ou si des circonstances imprévisibles et insurmontables mettent obstacle au jugement de l'affaire dans le délai prévu au présent article.
+Celle-ci doit, en matière de détention provisoire, se prononcer dans les plus brefs délais et au plus tard dans les quinze jours de l'appel prévu par l'article 186, faute de quoi l'inculpé est mis d'office en liberté, sauf si des vérifications concernant sa demande ont été ordonnées ou si des circonstances imprévisibles et insurmontables mettent obstacle au jugement de l'affaire dans le délai prévu au présent article.
 
 
 ##### Article 196
@@ -1893,11 +1893,6 @@ Si la chambre d'accusation estime que l'officier ou agent de police judiciaire a
 ##### Article 229
 
 Les décisions prises par la chambre d'accusation contre les officiers ou agents de police judiciaire sont notifiées, à la diligence du procureur général, aux autorités dont ils dépendent.
-
-
-##### Article 230
-
-Les dispositions de la présente section sont applicables aux chefs de district et aux agents techniques des eaux et forêts.
 
 
 ## Livre II : Des juridictions de jugement
@@ -8992,45 +8987,50 @@ Les copies de fiches destinées à la vérification de la capacité électorale 
 
 #### Article R91
 
-Les comptables directs du Trésor font l'avance des frais de justice criminelle, correctionnelle et de police. Ils poursuivent le recouvrement de ceux desdits frais qui ne sont point à la charge de l'Etat, le tout dans la forme et selon les règles établies par le présent titre.
+Le Trésor public fait l'avance des frais énumérés aux articles R. 92 et R. 93. Il poursuit le recouvrement de ceux desdits frais qui ne sont pas à la charge de l'Etat, le tout dans la forme et selon les règles établies par le présent titre.
 
 
 #### Article R92
 
 Les frais de justice criminelle, correctionnelle et de police sont :
-1. Les frais de translation des prévenus ou accusés, les frais de translation des condamnés pour se rendre au lieu où ils sont appelés en témoignage, mais seulement quand cette translation ne peut être effectuée par les voitures cellulaires du service pénitentiaire, les frais de transport des procédures et des pièces à conviction ;
-2. Les frais d'extradiction des prévenus, accusés ou condamnés ; les frais de commission rogatoire et autres frais de procédure pénale en matière internationale ;
-3. Les honoraires et indemnités qui peuvent être accordés aux experts, aux interprètes et les frais de traduction ;
-4. Les indemnités qui peuvent être accordées aux témoins et aux jurés ;
-5. Les frais de garde des scellés, ceux de mise en fourrière et ceux de l'immobilisation décidée en application de l'article 43-3-3° bis du Code pénal.
-7. Les émoluments des huissiers ;
-8. Les frais de capture ;
-9. Les indemnités allouées aux magistrats et greffiers au cas de transport pour exercer un acte de leur fonction dans les cas prévus à la section VII du chapitre II du présent titre ;
-10. Les frais de communication postale, télégraphique, téléphonique, le port des paquets pour la procédure pénale ;
-11. Les frais d'impressions des arrêts, jugements et ordonnances de justice ;
-12. Les frais d'exécution des arrêts en matière criminelle et les gages des exécuteurs ;
-13. Les indemnités et secours accordés aux victimes d'erreurs judiciaires ainsi que les frais de révision et les secours aux individus relaxés ou acquittés ;
-14. Les indemnités accordées en application des articles 149 et 150 ;
-15. Les indemnités accordées en application de l'article 706-9 ainsi que les frais exposés devant les commissions prévues à l'article 706-4.
+1. Les frais de translation des prévenus ou accusés, les frais de translation des condamnés pour se rendre au lieu où ils sont appelés en témoignage lorsque cette translation ne peut être effectuée par les voitures cellulaires du service pénitentiaire, les frais de transport des procédures et des pièces à conviction.
+2. Les frais d'extradition des prévenus, accusés ou condamnés ; les frais de commission rogatoire et autres frais de procédure pénale en matière internationale.
+3. Les honoraires et indemnités qui peuvent être accordés aux experts, aux interprètes-traducteurs ainsi qu'aux personnes chargées des enquêtes sociales ou de personnalité, ou contribuant au contrôle judiciaire dans les conditions prévues aux articles R. 121 et R. 121-1 du présent code.
+4. Les indemnités qui peuvent être accordées aux témoins, aux jurés par application des articles R. 123 à R. 146 et aux parties civiles par application des articles 375-1 et 422.
+5. Les frais de saisie ou de mise sous séquestre ou en fourrière, les frais en matière de scellés et ceux de l'immobilisation décidée en application de l'article 43-3 (3° bis) du code pénal.
+6. Les frais d'enquête sociale et d'expertise engagés en matière d'exécution ou d'application des peines et en matière de grâces.
+7. Les émoluments et indemnités alloués aux huissiers de justice.
+8. Les frais de capture.
+9. Les dépenses diverses de reconstitution, d'exhumation ou de travaux techniques exposés pour l'instruction d'une affaire particulière et pour une enquête préliminaire ou de flagrant délit, à l'exclusion des dépenses de fonctionnement.
+10. Les indemnités allouées aux magistrats et greffiers au cas de transport pour exercer un acte de leur fonction dans les cas prévus par la section VII du chapitre II du présent titre.
+11. Les frais postaux et télégraphiques, le port des paquets pour une procédure pénale.
+12. Les frais d'impression, d'insertion et de publication des arrêts, jugements et ordonnances de justice selon les dispositions des articles R. 210 et suivants.
+13. Les indemnités accordées aux victimes d'erreurs judiciaires ainsi que les frais de révision et les secours aux individus relaxés ou acquittés.
+14. Les indemnités accordées en application des articles 149 et 150.
+15. Les indemnités accordées en application de l'article 706-9 ainsi que les frais exposés devant les commissions prévues par l'article 706-4.
+16. Les frais de copie, droits, redevances et émoluments, dus aux greffiers des tribunaux de commerce pour la délivrance des pièces à l'autorité judiciaire dans le cadre d'une procédure pénale.
+17. Les frais et dépens mis à la charge du Trésor public en cas de décision juridictionnelle rectifiant ou interprétant une précédente décision en matière pénale.
 
 
 #### Article R93
 
-Sont, en outre, assimilés aux frais de justice criminelle, correctionnelle et de police, en ce qui concerne l'imputation, le paiement et la liquidation, les dépenses qui résultent :
-1. Des procédures suivies en application des lois concernant l'enfance délinquante et des lois concernant la protection de l'enfance en danger ;
-2. De l'application de la législation sur le régime des aliénés ;
-3. Des procédures suivies en application de la législation en matière de tutelle des mineurs, de tutelle ou de curatelle des majeurs et de sauvegarde de justice ;
-6. Des poursuites d'office en matière civile ;
-7. Des inscriptions hypothécaires requises par le ministère public ;
-8. Des avances faites en matière de règlement judiciaire ou de liquidation des biens dans les cas prévus à l'article 94 de la loi n° 67-563 du 13 juillet 1967 ;
-9. Des dispositions de la loi n° 72-11 du 3 janvier 1972 instituant l'aide judiciaire ;
-10. Du transport des greffes ou des archives des cours ou tribunaux ;
-11. De lois spéciales ou de règlements d'administration publique et dont l'avance doit être faite par le comptable direct du trésor ;
-12. Des frais exposés devant la commission prévue à l'article 16-2 ;
-13. Des enquêtes ordonnées en matière de divorce et de séparation de corps en application de l'article 287-1 du Code civil ;
-14. Des indemnités de transport et de séjour des magistrats et des secrétaires des juridictions de l'ordre judiciaire, sans préjudice des dispositions de l'article R. 92 ;
-15. Des frais postaux des secrétariats-greffes des juridictions civiles nécessités par les actes et procédures ainsi que par l'envoi des bulletins de casier judiciaire ;
-16. Des actes faits d'office en matière de scellés.
+Sont, en outre, assimilées aux frais de justice criminelle, correctionnelle et de police, les dépenses qui résultent :
+1. Des procédures suivies en application des lois concernant l'enfance délinquante et la protection de l'enfance en danger.
+2. De l'application de la législation sur le régime des aliénés.
+3. Des procédures suivies en application de la législation en matière de tutelle des mineurs, de tutelle et curatelle des majeurs et de sauvegarde de justice.
+4. Des frais exposés à la requête du ministère public lorsque celui-ci est partie principale ou partie jointe en matière civile, commerciale et prud'homale et des dépens qui peuvent être laissés à la charge du ministère public, lorsque celui-ci est partie principale en application de l'article 696 du nouveau code de procédure civile.
+5. Des inscriptions hypothécaires requises par le ministère public.
+6. Des avances faites en matière de règlement judiciaire ou de liquidation des biens dans les cas prévus à l'article 94 de la loi n° 67-563 du 13 juillet 1967, ainsi que des frais relatifs aux jugements de clôture pour insuffisance d'actif.
+7. Des avances faites par le Trésor public en matière de redressement et de liquidation judiciaire des entreprises, en application de l'article 215 de la loi n° 85-98 du 25 janvier 1985.
+8. Des frais de copie, droits, redevances et émoluments dus aux greffiers des tribunaux de commerce à l'occasion de toute procédure pour la délivrance des pièces à l'autorité judiciaire.
+9. De l'aide judiciaire et de l'indemnisation des commissions et désignations d'office.
+10. Des frais et dépens mis à la charge du Trésor public soit en application d'une disposition législative ou réglementaire, soit en cas de décision juridictionnelle rectifiant ou interprétant une précédente décision.
+11. Des frais exposés devant la commission prévue par l'article 16-2.
+12. Des enquêtes ordonnées en matière d'exercice de l'autorité parentale.
+13. Des indemnités de transport et de séjour des magistrats, des greffiers et des secrétaires des juridictions de l'ordre judiciaire, sans préjudice des dispositions de l'article R. 92.
+14. Des frais postaux des greffes des juridictions civiles nécessités par les actes et procédures ainsi que par l'envoi des bulletins de casier judiciaire.
+15. Des actes faits d'office en matière de mesures conservatoires prises après l'ouverture d'une succession.
+16. Des dispositions législatives ou réglementaires particulières prévoyant que l'avance doit être faite par le Trésor public.
 
 
 #### Chapitre II : Tarif des frais
@@ -9313,20 +9313,30 @@ Pour une expertise ordonnée dans les mêmes conditions, par les juridictions de
 
 ###### Article R121
 
-En sus du remboursement de leurs frais de déplacement, il est alloué aux personnes habilitées par arrêté du ministre de la Justice :
+En sus du remboursement de leurs frais de déplacement, calculés dans les conditions fixées pour les déplacements des fonctionnaires du groupe II, il est alloué aux personnes habilitées :
+
+
 
 Pour la vérification de la situation matérielle, familiale ou sociale des personnes faisant l'objet d'une enquête, prévue par l'article 41 (alinéa 5) : 220 F.
 
-Pour l'enquête sur la personnalité des inculpés ainsi que sur leur situation matérielle, familiale ou sociale, prévue par l'article 81 (alinéa 6) : 330 F .
+
+
+Pour l'enquête sur la personnalité des inculpés ainsi que sur leur situation matérielle, familiale ou sociale, prévue par l'article 81 (alinéa 6) : 330 F.
 
 
 ###### Article R121-1
 
-En sus du remboursement de leurs frais de déplacement, il est alloué aux enquêteurs de personnalité et aux personnes physiques ou représentants des personnes morales mentionnées à l'article R. 16-2 (alinéa 1er) pour la mission de contrôle judiciaire exercée sur chaque inculpé en application du 6° de l'article 138 (alinéa 2) :
+En sus du remboursement de leurs frais de déplacement, calculés dans les conditions fixées pour les déplacements des fonctionnaires du groupe II, il est alloué aux enquêteurs de personnalité et aux personnes physiques ou représentants des personnes morales mentionnées à l'article R. 16-2 (alinéa 1er) pour la mission de contrôle judiciaire exercée sur chaque inculpé, en application du 6° de l'article 138 (alinéa 2) :
 
-300 F lorsque la mission de contrôle judiciaire dure trois mois ou moins ;
+
+
+300 F  lorsque la mission de contrôle judiciaire dure trois mois ou moins ;
+
+
 
 600 F lorsque la mission de contrôle judiciaire dure plus de trois mois sans excéder un an ;
+
+
 
 900 F lorsque la mission de contrôle judiciaire dure plus d'un an.
 
@@ -9397,7 +9407,7 @@ Les militaires des armées de terre, de mer et de l'air, en activité de service
 
 ####### Article R128
 
-Les magistrats sont tenus d'énoncer, dans les mandats qu'ils délivrent au profit des témoins, que la taxe a été requise.
+Les magistrats sont tenus d'énoncer, dans les mandats qu'ils délivrent au profit des témoins, que l'allocation des indemnités prévues à l'article R. 123 a été requise.
 
 
 ####### B : Indemnités de comparution
@@ -9524,9 +9534,9 @@ Les jurés complémentaires n'ont droit à l'indemnité de session que s'ils ont
 
 ###### Article R145
 
-Le président de la Cour d'assises délivre, jour par jour, aux membres du jury criminel qui en font la demande, les ordonnances de taxe correspondant aux indemnités journalières auxquelles ils ont droit.
+Le greffier de la cour d'assises délivre, jour par jour, aux membres du jury criminel qui en font la demande, les certifications correspondant aux indemnités journalières auxquelles ils ont droit.
 
-Mention de ces ordonnances de taxe partielle est faite sur la copie de la notification délivrée aux jurés en exécution de l'article 267 pour être ensuite déduite de l'ordonnance de taxe définitive.
+Mention de ces certifications partielles est faite sur la copie de la notification délivrée en exécution de l'article 267 du présent code pour être ensuite déduite de la certification définitive.
 
 
 ###### Article R146
@@ -9538,15 +9548,27 @@ Lorsqu'un juré se trouve hors d'état de subvenir aux frais de son déplacement
 
 ##### Article R147
 
-Dans les cas prévus aux articles 54, 56, 97 et 151, il n'est accordé de taxe pour la garde des scellés que lorsqu'il n'a pas été jugé à propos de confirmer cette garde à des habitants de l'immeuble où les scellés ont été apposés.
+Dans les cas prévus aux articles 54, 56, 97 et 151, il n'est accordé d'indemnité pour la garde des scellés que lorsqu'il n'a pas été jugé à propos de confier cette garde à des habitants de l'immeuble où les scellés ont été apposés.
+
+
 
 Dans ces cas, il est alloué pour chaque jour, pendant le premier mois, au gardien nommé d'office :
 
+
+
 A Paris : 3 F ;
 
-Dans les autres localités : 2 F. Le premier mois écoulé, ces indemnités sont réduites de moitié.
 
-Lorsque les scellés sont apposés sur des véhicules automobiles, les tarifs des frais de garde sont fixés ainsi qu'il est prévu par l'article R. 289 du Code de la Route.
+
+Dans les autres localités : 2 F ;
+
+
+
+Le premier mois écoulé, ces indemnités sont réduites de moitié.
+
+
+
+Lorsque les scellés sont apposés sur des véhicules automobiles, les tarifs des frais de garde sont fixés ainsi qu'il est prévu par l'article R. 289 du code de la route.
 
 
 ##### Article R147-1
@@ -9645,30 +9667,22 @@ Cette délivrance est gratuite pour la première reproduction de chaque acte lor
 Il est alloué un droit fixe de 0,50 F au surveillant chef de la maison d'arrêt pour l'expédition de l'acte d'écrou qui doit être jointe au dossier, soit dans le cas prévu à l'article 583, soit pour assurer l'exécution des dispositions de la loi du 17 juillet 1970 relative à la tutelle pénale.
 
 
-###### E : Indemnités
-
-###### Article R176
-
-Au cas d'exécution d'un arrêt portant condamnation à mort, le secrétaire greffier en chef de la cour, du tribunal de grande instance ou du tribunal d'instance du lieu de l'exécution est tenu d'y assister, d'en dresser procès-verbal qu'il transcrit au bas de l'arrêt et de faire parvenir à l'officier de l'état civil les renseignements prescrits par le code civil.
-
-
-###### Article R178
-
-Les greffiers qui accompagnent les magistrats ont droit aux indemnités de transport et de séjour prévues pour ces derniers à la section VII du présent chapitre.
-
-
 ##### Section 6 : Des émoluments et indemnités alloués aux huissiers de justice et aux agents de la force publique
 
 ###### Paragraphe 1er : Service d'audience des huissiers de justice
 
 ###### Article R179
 
-Les huissiers de justice ne reçoivent aucun traitement fixe. Il leur est seulement accordé des émoluments à raison des actes confiés à leur ministère.
+Chaque huissier de justice audiencier reçoit une indemnité de :
 
 
-###### Article R180
+1. 100 F pour le service d'une audience de cour d'assises et de la Cour de cassation ;
 
-Par dérogation au principe posé dans l'article précédent, il est payé une indemnité annuelle de 1150 F à chacun des six huissiers de justice audienciers chargés du service de la Cour d'assises de Paris.
+
+2. 70 F pour le service d'une audience du tribunal correctionnel ou du tribunal pour enfants ;
+
+
+3. 50 F pour le service d'une audience du tribunal de police.
 
 
 ###### Paragraphe 2 : Citations et significations
@@ -9680,7 +9694,7 @@ Il est alloué aux huissiers de justice pour toutes citations en matière crimin
 
 ###### Article R182
 
-Dans les cas prévus à l'article précédent, il est alloué, en outre, aux huissiers de justice une somme de 36 F si la délivrance de l'acte a été faite à personne.
+Dans les cas prévus à l'article précédent, il est alloué, en outre, aux huissiers de justice une somme de 45 F. si la délivrance de l'acte a été faite à personne.
 
 
 ###### Article R183
@@ -9769,11 +9783,6 @@ Il est alloué, à compter du second jour, une indemnité de 30 F par jour aux h
 
 ###### Paragraphe 6 : Dispositions générales
 
-###### Article R196
-
-Pour faciliter la vérification de la taxe des mémoires des huissiers, il est tenu au parquet de chaque cour et tribunal un registre des actes de ces officiers ministériels. Chaque affaire y est sommairement désignée, et en marge ou à la suite de cette désignation sont relatés, par ordre de dates, l'objet et la nature des diligences à mesure qu'elles sont faites, ainsi que le montant des émoluments qui y sont affectés.
-
-
 ###### Article R197
 
 Les procureurs généraux et les procureurs de la République examinent en même temps les écritures, afin de s'assurer qu'elles sont conformes aux prescriptions de l'article R. 185, et ils réduisent au taux convenable le prix des écritures qui ne seraient pas dans la proportion établie par ledit article.
@@ -9800,19 +9809,15 @@ Ces frais sont à la charge des intéressés et ne sont pas imputables sur les c
 Il est alloué aux magistrats et aux personnels exerçant les fonctions de greffier des indemnités pour frais de voyage et de séjour nécessités :
 1. Par les transports effectués en matière criminelle, correctionnelle ou de police, dans les cas prévus par le Code de procédure pénale, notamment aux articles 54, 56, 62, 63, 68, 69, 72, 74, 92, 93, 112, 151, 205, 654, 680 et 713 ou par des lois spéciales ;
 2. Par les transports du président de la chambre d'accusation à l'effet de s'assurer du bon fonctionnement des cabinets d'instruction du ressort de la cour d'appel, conformément aux dispositions de l'article 220 ;
-3. Par les transports des juges des tribunaux d'instance pour l'établissement de la liste annuelle du jury ;
+3. (dispositions abrogées)
 4. Par les transports des magistrats de la cour d'appel qui siègent comme présidents ou assesseurs dans une cour d'assises tenue hors du chef-lieu du ressort, et du procureur général ou de ses substituts qui vont y porter la parole, sans qu'il y ait lieu de distinguer entre les sessions ordinaires et extraordinaires, ainsi que du procureur de la République lorsqu'il occupe le siège du ministère public devant les tribunaux d'instance de son ressort, en application de l'article 45 du présent code ou de l'article 4 de l'ordonnance n° 58-1273 du 22 décembre 1958 ;
 5. Par les transports des commissaires de police, ou des officiers de police désignés par le procureur général, conformément aux articles 46 et 48, pour occuper le siège du ministère public près le tribunal de police d'une autre ville que celle où ils exercent leurs fonctions ;
-6. Par le transport des magistrats, entre autres, du président de la chambre d'accusation, du juge d'instruction, du juge des enfants ou du juge de l'application des peines, du procureur général ou du procureur de la République, à l'effet de se rendre dans un établissement pénitentiaire dans les cas prévus notamment aux articles 222, 722, 723, 727 et 730 du Code de procédure pénale ainsi qu'à l'article R2 du Code pénal ;
-7. Par le transport d'un magistrat pour recevoir la déclaration de nationalité souscrite par un détenu ou pour lui en notifier le refus pour cause d'indignité ;
-8. Par le transport du procureur de la République sur l'ordre du procureur général pour procéder à la vérification des greffes ou à celles des registres de l'état civil ;
-9. Par le transport des magistrats pour visiter les hôpitaux psychiatriques, les établissements d'éducation surveillée et les services de la liberté surveillée ainsi que les établissements privés habilités par le ministère de la Justice ;
-10. Par le transport des magistrats, en vertu de l'article 490-3 du Code civil, pour visiter les majeurs protégés par la loi.
+6. à 10° (dispositions abrogées).
 
 
 ##### Article R201
 
-Les indemnités prévues par l'article R200 sont calculées sur la base des règles relatives aux conditions et modalités de règlement des frais occasionnés par les déplacements des personnels civils sur le territoire métropolitain de la France lorsqu'ils sont à la charge des budgets de l'Etat, des établissements publics nationaux à caractère administratif et de certains organismes subventionnés.
+Les indemnités prévues par l'article R. 200 sont calculées sur la base des règles relatives aux conditions et modalités de règlement des frais occasionnés par les déplacements des personnels civils lorsqu'ils sont à la charge des budgets de l'Etat, des établissements publics nationaux à caractère administratif et de certains organismes subventionnés.
 
 
 ##### Article R202
@@ -9824,7 +9829,7 @@ Dans les cas prévus à l'article R. 200 (1°) les indemnités allouées par les
 
 ##### Article R208
 
-Les droits relatifs à la correspondance postale, télégraphique et téléphonique sont perçus pour chaque affaire criminelle, correctionnelle ou de police dans les conditions fixées et d'après le tarif établi par des lois spéciales.
+Les droits relatifs à la correspondance postale et télégraphique sont perçus pour chaque affaire criminelle, correctionnelle ou de police dans les conditions fixées et d'après le tarif établi par des lois spéciales.
 
 
 ##### Article R209
@@ -9854,24 +9859,15 @@ Les impressions payées à titre de frais de justice, criminelle, correctionnell
 Toutefois, à défaut d'un tel marché, il peut être traité de gré à gré chaque fois qu'une impression doit être faite. Les imprimés joignent à chaque article de leur mémoire un exemplaire de l'objet imprimé comme pièce justificative.
 
 
-##### Section 10 : Des frais d'exécution des arrêts
-
-##### Article R213
-
-Des règlements spéciaux déterminent les dépenses nécessaires pour l'exécution des arrêts criminels et règlent le mode de leur paiement.
-
-Le ministre de la Justice peut accorder, sur les fonds généraux des frais de justice criminelle, correctionnelle et de police, sur l'avis des procureurs généraux et des préfets, des secours alimentaires aux exécuteurs infirmes ou sans emploi, à leurs veuves et à leurs orphelins, jusqu'à l'âge de douze ans.
-
-
 #### Chapitre III : Des dépenses assimilées à celles de l'instruction des procès criminels
 
 ##### Section 1 : Règles générales
 
 ##### Article R214
 
-Dans les procédures assimilées, au point de vue des dépenses, aux procès criminels, correctionnels et de police, les frais sont avancés par les régisseurs d'avances, conformément aux dispositions du présent titre, mais ils sont taxés et liquidés d'après le tarif et suivant les règles de chaque juridiction compétente.
+Les frais énumérés à l'article R. 93 sont avancés par le Trésor public conformément aux dispositions du présent titre : ils sont taxés et liquidés d'après le tarif et selon les règles de chaque juridiction compétente.
 
-Leur mode de paiement est celui du présent titre.
+Les dispositions des articles R. 222, R. 223, R. 224-2, R. 225, R. 228, R. 228-1, R. 229, R. 230, R. 233 et R. 234 sont applicables pour le paiement de ces frais.
 
 
 ##### Article R215
@@ -9892,11 +9888,11 @@ En matière d'aide judiciaire, les frais qui sont exposés dans les instances po
 Si au cours de l'instance suivie avec le bénéfice de l'aide judiciaire devant un tribunal administratif, des témoins sont appelés à déposer, l'indemnité qui leur est allouée, après taxation régulière par le président du tribunal administratif, est acquittée provisoirement et sans délai par le comptable direct du Trésor.
 
 
-###### Paragraphe 3 : Frais engagés d'office en matière de scellés.
+###### Paragraphe 3 : Frais engagés d'office en matière de mesures conservatoires prises après l'ouverture d'une succession.
 
 ###### Article R218
 
-Les frais engagés d'office en matière de scellés sont à la charge de la succession, et le recouvrement en est poursuivi conformément à la loi du 5 septembre 1807 relative au mode de recouvrement des frais de justice au profit du Trésor public en matière criminelle, correctionnelle et de police.
+Les frais engagés d'office en matière de mesures conservatoires prises après l'ouverture d'une succession sont à la charge de celle-ci et le recouvrement en est poursuivi conformément à la loi du 5 septembre 1807 relative au mode de recouvrement des frais de justice au profit du Trésor public en matière criminelle, correctionnelle et de police.
 
 
 ###### Paragraphe 4 : Inscriptions hypothécaires requises par le ministère public
@@ -9915,13 +9911,15 @@ Les frais de recouvrement des amendes prononcées dans les cas prévus par le co
 Ces frais ne sont point imputés sur les fonds généraux des frais de justice criminelle, correctionnelle et de police ; l'avance et la régularisation en sont effectuées par les soins des comptables du Trésor.
 
 
-###### Paragraphe 6 : Transport des registres et archives.
+###### Paragraphe 6 : Frais d'enquêtes sociales ordonnées en matière d'exercice de l'autorité parentale
 
 ###### Article R221
 
-lorsqu'il y a lieu de déplacer des registres, minutes et autres papiers d'un greffe ou des archives d'une cour ou d'un tribunal, il est dressé sans frais par le greffier, et, à son défaut, par le président de la cour ou du tribunal, suivant le cas, un bref état des registres et papiers à transporter.
+Pour le recouvrement des frais d'enquêtes sociales ordonnées en matière d'exercice de l'autorité parentale, il est procédé comme en matière de frais de justice criminelle, correctionnelle et de police.
 
-Si les archives déplacées sont celles d'un parquet, l'inventaire est dressé, suivant le cas, par le procureur général, le procureur de la République, ou l'officier du ministère public près le tribunal de police, et, à défaut de ce dernier, par le président du tribunal de police.
+La partie condamnée aux dépens peut former un recours contre la disposition de la décision relative à la liquidation de ces frais. A défaut d'appel sur le fond, le recours, motivé, est formé au greffe de la juridiction dont émane la décision, dans le mois de la notification de cette décision. Il est porté devant la chambre d'accusation.
+
+En l'absence de condamnation aux dépens, les frais d'enquête sociale sont recouvrés contre la partie désignée par le juge qui a ordonné l'enquête.
 
 
 #### Chapitre IV : Du paiement et du recouvrement des frais de justice criminelle, correctionnelle et de police
@@ -9937,106 +9935,150 @@ Les parties prenantes dressent leurs états ou mémoires de frais de justice en 
 Tout état ou mémoire fait au nom de deux ou plusieurs parties prenantes doit être signé par chacune d'elles ; le paiement ne peut être fait que sur leur acquit individuel ou sur celui de la personne qu'elles ont autorisée, spécialement et par écrit, à percevoir le montant de l'état ou mémoire. Cette autorisation est mise au bas de l'état et ne donne lieu à la perception d'aucun droit.
 
 
-##### Section 1 : Du mode de paiement
+##### Section 1 : Du paiement des frais
 
-###### Paragraphe 1er : Délivrance de l'ordonnance de taxe.
-
-###### Article R222
-
-Les frais de justice criminelle, correctionnelle et de police, sont payés sur les états ou mémoires des parties prenantes.
-
+###### Paragraphe Ier : Présentation des états et des mémoires
 
 ###### Article R223
 
-Sous peine de rejet, les états ou mémoires sont dressés conformément aux modèles arrêtés par le ministre de la Justice.
+Les parties prenantes déposent ou adressent leur état ou mémoire au greffe de la juridiction compétente.
 
 
-###### Article R224
+###### Article R224-2
 
-Les parties prenantes dressent leurs états ou mémoires de frais de justice en un exemplaire sur papier non timbré.
+La procédure de certification est applicable aux frais suivants énumérés à l'article R. 93 :
+1. Indemnités accordées aux témoins ;
+2. Indemnités forfaitaires en matière d'aide judiciaire et de commissions et désignations d'office ;
+3. Indemnités de transport et de séjour des magistrats, des greffiers et des secrétaires des juridictions de l'ordre judiciaire ;
+4. Frais postaux des greffes des juridictions civiles nécessités par les actes et procédures ;
+5. Frais tarifés des actes faits d'office en matière de mesures conservatoires prises après l'ouverture d'une succession.
 
-Tout état ou mémoire fait au nom de deux ou plusieurs parties prenantes doit être signé par chacune d'elles ; le paiement ne peut être fait que sur leur acquit individuel ou sur celui de la personne qu'elles ont autorisée, spécialement et par écrit, à toucher le montant de l'état ou mémoire. Cette autorisation est mise au bas de l'état et ne donne lieu à la perception d'aucun droit.
 
+###### Paragraphe 2 : Procédure de certification
+
+###### Article R224-1
+
+La procédure de certification est applicable aux frais de justice criminelle, correctionnelle et de police suivants :
+1. Indemnités accordées aux jurés, aux témoins, aux parties civiles, aux interprètes traducteurs et aux personnes mentionnées aux articles R. 121 et R. 121-1 ;
+2. Frais de vérifications médicales, cliniques et biologiques en matière d'alcoolémie ;
+3. Frais de garde de scellés et de mise en fourrière ;
+4. Emoluments et indemnités alloués aux huissiers de justice ;
+5. Frais de capture ;
+6. Indemnités de transport et de séjour des magistrats et greffiers ;
+7. Frais de communication postale, télégraphique et de port des paquets ;
+8. Frais de consultation du registre national du commerce par le ministère public.
+
+La procédure de certification est également applicable aux dépenses de toute nature inférieures à un montant fixé par le ministre de la justice.
+
+
+###### Paragraphe 2 : Procédure de certification.
 
 ###### Article R225
 
-La partie prenante dépose ou adresse son état ou mémoire au parquet près la juridiction compétente.
+Lorsque l'état ou mémoire porte sur des frais mentionnés aux articles R. 224-1 et R. 224-2, le greffier, après avoir procédé s'il y a lieu aux redressements nécessaires, certifie avoir vérifié la réalité de la dette et son montant.
 
-Lorsque le mémoire porte sur des frais devant une juridiction de l'ordre judiciaire autre que le tribunal de grande instance, le parquet compétent est celui du ressort dans lequel la juridiction a son siège.
+S'il refuse d'établir le certificat, le greffier demande au ministère public de prendre des réquisitions aux fins de taxe.
+
+
+###### Paragraphe 3 : Procédure de taxation.
+
+###### Article R226
+
+Les états ou mémoires relatifs aux frais de justice criminelle, correctionnelle et de police autres que ceux énumérés à l'article R. 224-1 sont transmis aux fins de réquisitions au parquet du ressort dans lequel la juridiction a son siège.
 
 Le magistrat du ministère public transmet l'état ou mémoire, assorti de ses réquisitions, au magistrat taxateur.
 
 
-###### Article R226
-
-Le président de chaque juridiction ou le magistrat qu'il délègue taxe tous les états ou mémoires relatifs à des frais engagés sur l'ordre des autorités appartenant à cette juridiction ou des personnes agissant sous le contrôle de ces autorités.
-
-Les frais faits en vertu des ordres d'un juge d'instruction ou d'un juge des enfants sont taxés par ce magistrat.
-
-Toutefois, lorsque les états ou mémoires portent sur des frais engagés par un huissier de justice pour des actes effectués en dehors de la juridiction qui a rendu la décision, ils sont taxés selon le montant des frais, par le président du tribunal de grande instance ou du tribunal d'instance, dans le ressort duquel l'huissier a sa résidence.
-
-
-###### Article R226
-
-Le président de chaque juridiction ou le magistrat qu'il délègue taxe tous les états ou mémoires relatifs à des frais engagés sur l'ordre des autorités appartenant à cette juridiction ou des personnes agissant sous le contrôle de ces autorités.
-
-Les frais faits en vertu des ordres d'un juge d'instruction ou d'un juge des enfants sont taxés par ce magistrat.
-
-Toutefois, lorsque les états ou mémoires portent sur des frais engagés par un huissier de justice pour des actes effectués en dehors de la juridiction qui a rendu la décision, ils sont taxés selon le montant des frais, par le président du tribunal de grande instance ou du tribunal d'instance, dans le ressort duquel l'huissier a sa résidence.
-
-
 ###### Article R227
 
-Lorsque les réquisitions du ministère public tendent à ce que la demande de la partie prenante soit accueillie sans modification, l'ordonnance de taxe n'est susceptible d'aucun recours si le montant de la somme allouée est conforme à ladite demande.
+Le président de chaque juridiction ou le magistrat qu'il délègue à cet effet taxe les états ou mémoires relatifs à des frais engagés sur la décision des autorités appartenant à cette juridiction ou des personnes agissant sous le contrôle de ces autorités.
 
-Dans ce cas, le mémoire est revêtu par le chef du secrétariat-greffe de la mention Taxe définitive.
+Les frais engagés sur la décision d'un juge d'instruction ou d'un juge des enfants sont taxés par ce magistrat.
 
+
+###### Article R227-1
+
+Lorsque les états ou mémoires sont relatifs aux frais engagés par un huissier de justice pour des actes effectués hors du ressort de la juridiction qui a rendu la décision, ils sont selon le cas certifiés par le greffier en chef ou taxés par le président du tribunal de grande instance ou du tribunal d'instance, dans le ressort duquel l'huissier a sa résidence.
+
+
+###### Article R227-2
+
+Pour les frais avancés par le Trésor public qui ne restent pas définitivement à la charge de l'Etat, les ordonnances de taxe ou les certificats de vérification doivent mentionner que l'action publique n'a pas été mise en mouvement par une constitution de partie civile ou que celle-ci a obtenu le bénéfice de l'aide judiciaire ou qu'il n'y a pas eu de consignation suffisante.
+
+
+###### Paragraphe 4 : Voies de recours
 
 ###### Article R228
 
-Lorsque la taxe diffère soit de la demande de la partie prenante, soit des réquisitions du ministère public, un exemplaire de l'ordonnance de taxe est notifié par le secrétaire-greffier au parquet et notifié en la forme administrative ou par lettre recommandée à la partie prenante.
+Lorsque la taxe diffère de la demande de la partie prenante, l'ordonnance de taxe lui est notifiée par le greffe par lettre recommandée.
 
-Le ministère public et la partie prenante disposent d'un délai de dix jours à compter de cette notification pour former un recours contre l'ordonnance de taxe.
 
-Ces recours sont formés par déclaration au greffe du magistrat taxateur ou par lettre recommandée adressée à ce greffe.
 
-La partie prenante est informée du recours du procureur de la République en la forme administrative ou par lettre recommandée.
+Lorsque la taxe diffère des réquisitions du ministère public, l'ordonnance de taxe lui est notifiée par le greffe.
 
-Les recours sont portés devant la chambre de l'instruction quelle que soit la juridiction à laquelle appartient le magistrat taxateur ou, si les frais ont été exposés devant la Cour de sûreté de l'Etat, devant la chambre de contrôle de l'instruction.
 
-Le pourvoi en cassation est ouvert dans tous les cas sous réserve des dispositions du premier alinéa de l'article 46 de la loi n° 63-23 du 15 janvier 1963.
+###### Article R228-1
 
+L'ordonnance de taxe peut être frappée par la partie prenante ou le ministère public d'un recours devant la chambre d'accusation quelle que soit la juridiction à laquelle appartient le magistrat taxateur. Le délai de recours est de dix jours à compter de la notification. Le délai de recours et l'exercice du recours dans le délai sont suspensifs d'exécution.
+
+
+###### Paragraphe 4 : Voies de recours.
 
 ###### Article R229
 
-Les dispositions des articles R222 à R228 ne sont pas applicables à la taxe :
-1. Des indemnités des témoins, des jurés et des interprètes ;
-2. Des dépenses de toute nature inférieures à un maximum fixé par les instructions du ministre de la Justice.
+Un recours contre l'ordonnance de taxe peut être formé devant la chambre d'accusation par le ministère public, à la demande du comptable assignataire, dans un délai d'un mois à compter du versement de la pièce de dépense par le régisseur entre les mains de ce comptable.
 
-Dans ces cas, la taxe du magistrat compétent est apposée sans réquisitoire du parquet sur les réquisitions, convocations ou copies de citation, états ou mémoires des parties prenantes.
+Le refus motivé du ministère public d'exercer le recours est porté à la connaissance du Trésor public. Dans ce cas, le comptable assignataire exécute l'ordonnance de taxe.
 
 
-###### Article R229-1
+###### Article R232
 
-Dans les cas prévus à l'article R. 229, lorsque la taxe diffère de la demande de la partie prenante, cette dernière peut, dans les dix jours de la perception de la somme qui lui a été allouée adresser une simple réclamation au magistrat du ministère public qui saisit de ses réquisitions le magistrat taxateur.
+Les contestations relatives à la liquidation des dépens en matière d'ordonnance pénale sont portées devant le juge qui a prononcé la condamnation dans les conditions prévues par les articles 710 et suivants.
 
 
+###### Article R230
 
-Il est procédé conformément aux dispositions des articles R. 227 et R. 228.
+Les recours mentionnés aux articles précédents sont formés par déclaration au greffe du magistrat taxateur ou par lettre recommandée avec demande d'accusé de réception adressée à ce greffe.
+
+La partie prenante est informée du recours du procureur de la République par lettre recommandée, adressée par le greffe.
+
+La décision de la chambre d'accusation est adressée pour exécution au greffe de la juridiction à laquelle appartient le magistrat taxateur. En cas de trop-versé le greffier en chef procède à l'émission d'un titre de recouvrement.
+
+Le pourvoi en cassation est ouvert dans tous les cas.
+
+
+###### Article R235
+
+Lorsque l'action publique a été mise en mouvement par une partie civile et que celle-ci n'a pas obtenu le bénéfice de l'aide judiciaire, les frais d'instruction, expédition et signification des jugements sont prélevés sur la somme consignée, le cas échéant, par la partie civile.
+
+Dans tous les cas où la consignation n'a pas été faite ou si elle est insuffisante, ces frais sont avancés par le Trésor public.
 
 
 ###### Article R231
 
-Les contestations relatives à la liquidation des dépens en matière d'ordonnance pénale sont portées devant le juge qui a prononcé la condamnation, dans les conditions prévues aux articles 710 et suivants du Code de procédure pénale.
+La partie condamnée peut former un recours contre la disposition de la décision relative à la liquidation des dépens.
+
+Ce recours est porté devant la juridiction d'appel au cas où la décision qui contient la liquidation peut être entreprise par cette voie.
+
+Dans le cas où la décision qui contient la liquidation des dépens n'est pas susceptible d'appel, le recours est porté devant la chambre d'accusation.
+
+Le recours est formé au greffe de la juridiction qui a rendu la décision, selon les règles et dans le délai qui sont, suivant le cas, ceux de l'appel ou du pourvoi en cassation.
+
+Le pourvoi en cassation est ouvert dans tous les cas.
 
 
-###### Paragraphe 2 : Paiement.
+###### Article R234
+
+S'agissant d'un mémoire ou d'un état certifié, la partie prenante, dans le délai d'un mois à compter de la perception de la somme, ou le comptable assignataire, dans le délai d'un mois à compter du versement de la pièce de dépense par le régisseur entre les mains de ce comptable, peuvent adresser une réclamation au ministère public qui saisit de ses réquisitions le magistrat taxateur.
+
+
+###### Paragraphe 5 : Paiement
 
 ###### Article R233
 
-Toutes les fois qu'il y a partie civile en cause et que celle-ci n'a pas obtenu le bénéfice de l'aide judiciaire, les ordonnances de taxe concernant les frais d'instruction, expédition et signification des jugements sont décernées contre la partie civile s'il y a consignation.
+Sauf dispositions particulières, le paiement des frais est effectué par le régisseur d'avances au vu d'un état ou d'un mémoire de la partie prenante certifié ou taxé.
 
-Dans tous les cas où la consignation n'a pas été faite ou si elle est insuffisante, les ordonnances sont notifiées pour exécution au comptable direct du Trésor.
+Le régisseur, en cas de désaccord sur un mémoire certifié, demande au ministère public de prendre des réquisitions aux fins de taxe ; dans ce cas, il surseoit au paiement jusqu'à taxation définitive.
 
 
 ##### Section 2 : De la consignation par la partie civile pour frais de procédure
@@ -10047,9 +10089,7 @@ En matière criminelle, correctionnelle ou de police, et sans préjudice en ce q
 
 En cas de citation directe devant le tribunal ou en cas d'appel, la juridiction saisie fixe le montant de la consignation à la première audience où l'affaire est portée.
 
-Un supplément de consignation peut être exigé au cours des poursuites, soit pendant l'instruction, soit devant la juridiction de jugement, dès que le reliquat paraît insuffisant pour assurer le paiement de tous les frais, y compris l'enregistrement du jugement.
-
-Il ne peut être exigé aucune rétribution pour la garde de ce dépôt, à peine de concussion.
+Un supplément de consignation peut être exigé au cours des poursuites, soit pendant l'instruction, soit devant la juridiction de jugement, dès que le reliquat paraît insuffisant pour assurer le paiement de tous les frais. Il ne peut être exigé aucune rétribution pour la garde de ce dépôt, à peine de concussion.
 
 
 ##### Article R239
@@ -10074,12 +10114,14 @@ Ce mémoire est payé comme les autres frais de justice criminelle, correctionne
 
 Sont déclarés dans tous les cas à la charge de l'Etat et sans recours envers les condamnés :
 1. Les frais de voyage et de séjour des magistrats délégués pour la tenue des cours d'assises ;
-2. Les frais de transport et de séjour des juges des tribunaux d'instance pour l'établissement de la liste annuelle du jury ;
+2. Les honoraires et indemnités des interprètes désignés pour assister les inculpés, prévenus et accusés dans les conditions prévues par les articles 102, 121, 272, 344, 407, 408 et 443 du présent code ;
 3. Toutes les indemnités payées aux jurés ;
 4. Les frais de transport des prévenus et accusés dans les cas prévus à l'article R100 ;
 5. Les indemnités et les frais payés aux enquêteurs de personnalité et aux personnes physiques ou représentants de personnes morales désignés par le juge d'instruction pour l'application du contrôle judiciaire ;
-6. Toutes les dépenses pour l'exécution des arrêts criminels ;
-7. Les frais exposés devant la commission prévue à l'article 16-2.    8° Les honoraires et indemnités des interprètes désignés pour assister les inculpés, prévenus et accusés dans les conditions prévues par le présent code.
+6. Les frais et dépens engagés en cas de décision juridictionnelle rectifiant ou interprétant une précédente décision ;
+7. Les frais exposés devant la commission prévue à l'article 16-2.
+
+[*8° abrogé*]
 
 
 ###### Article R242
@@ -10132,7 +10174,7 @@ Sont assimilés aux parties civiles, sauf en ce qui concerne la consignation pr�
 
 ###### Article R249
 
-Le recouvrement des frais de justice payés par les régisseurs d'avances qui ne restent pas définitivement à la charge de l'Etat est poursuivi à la diligence des comptables du Trésor par toutes voies de droit et notamment celle de la contrainte judiciaire s'il y a lieu.
+Le recouvrement des frais de justice avancés par le Trésor public qui ne restent pas définitivement à la charge de l'Etat est poursuivi à la diligence des comptables du Trésor par toutes voies de droit et notamment celle de la contrainte judiciaire s'il y a lieu.
 
 
 ## Dispositions générales
