@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 9 juillet 1980
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19800709)
+- Date de consolidation : 8 août 1980
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19800808)
 
 
 # Partie législative
@@ -6574,6 +6574,17 @@ Sont seuls expédiés dans la forme exécutoire les arrêts, jugements, ordonnan
 ####### Article R160
 
 Ne doivent pas être insérés dans la rédaction des arrêts et jugements les réquisitoires ou plaidoyers prononcés soit par le ministère public, soit par les défenseurs des prévenus ou accusés, mais seulement leurs conclusions.
+
+
+####### b) Droits d'expédition et de copie
+
+####### Article R165
+
+En matière pénale, la délivrance, lorsqu'elle est autorisée, de reproductions de pièces de procédures autres que les décisions est rémunérée à raison de 3 F. par page.
+
+
+
+Cette délivrance est gratuite pour la première reproduction de chaque acte lorsqu'elle est demandée par un avocat commis d'office ou désigné au titre de l'aide judiciaire ou lorsque la gratuité est prévue par une disposition particulière.
 
 
 ####### c) Expéditions délivrées par les surveillants chefs des maisons d'arrêt.
