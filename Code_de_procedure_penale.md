@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 3 décembre 1994
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19941203)
+- Date de consolidation : 24 janvier 1995
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19950124)
 
 
 # Partie législative
@@ -684,6 +684,15 @@ Il dresse un procès-verbal de leurs déclarations. Les personnes entendues proc
 Les agents de police judiciaire désignés à l'article 20 peuvent également entendre, sous le contrôle d'un officier de police judiciaire, toutes personnes susceptibles de fournir des renseignements sur les faits en cause. Ils dressent à cet effet, dans les formes prescrites par le présent code, des procès-verbaux qu'ils transmettent à l'officier de police judiciaire qu'ils secondent.
 
 
+#### Article 62-1
+
+Les personnes à l'encontre desquelles il n'existe aucun indice faisant présumer qu'elles ont commis ou tenté de commettre une infraction et qui sont susceptibles d'apporter des éléments de preuves intéressant l'enquête peuvent, sur autorisation du procureur de la République, déclarer comme domicile l'adresse du commissariat ou de la brigade de gendarmerie.
+
+Les fonctionnaires de la police nationale et les militaires de la gendarmerie nationale concourant à la procédure sont autorisés à déclarer comme domicile l'adresse du siège du service dont ils dépendent.
+
+L'adresse des personnes ayant bénéficié des dispositions du premier alinéa est inscrite sur un registre coté, paraphé, ouvert à cet effet. Un décret en Conseil d'Etat fixe les conditions d'application de ces dispositions.
+
+
 #### Article 63
 
 L'officier de police judiciaire peut, pour les nécessités de l'enquête, garder à sa disposition une ou plusieurs des personnes visées aux articles 61 et 62. Il en informe dans les meilleurs délais le procureur de la République. Les personnes gardées à vue ne peuvent être retenues plus de vingt-quatre heures.
@@ -881,7 +890,7 @@ Les personnes à l'encontre desquelles n'existent pas d'indices faisant présume
 
 L'officier de police judiciaire dresse procès-verbal de leurs déclarations. Les agents de police judiciaire désignés à l'article 20 peuvent également, sous le contrôle d'un officier de police judiciaire, entendre les personnes convoquées.
 
-Les procès-verbaux sont dressés dans les conditions prévues par l'article 62.
+Les procès-verbaux sont dressés dans les conditions prévues par les articles 62 et 62-1.
 
 
 #### Chapitre III : Des contrôles et vérifications d'identité
@@ -1782,6 +1791,15 @@ Les magistrats ou officiers de police judiciaire commis pour l'exécution exerce
 Toutefois, les officiers de police judiciaire ne peuvent pas procéder aux interrogatoires et confrontations des personnes mises en examen ou des personnes mentionnées au deuxième alinéa de l'article 105. Ils ne peuvent procéder à l'audition des parties civiles ou de la personne bénéficiant des dispositions de l'article 104 qu'à la demande de celles-ci.
 
 
+##### Article 153
+
+Tout témoin cité pour être entendu au cours de l'exécution d'une commission rogatoire est tenu de comparaître, de prêter serment et de déposer.
+
+S'il ne satisfait pas à cette obligation, avis en est donné au magistrat mandant qui peut le contraindre à comparaître par la force publique et prendre contre lui les sanctions prévues à l'article 109, alinéas 2 et 3.
+
+Lorsqu'il est fait application des dispositions de l'article 62-1, l'autorisation est donnée par le juge d'instruction.
+
+
 ##### Article 154
 
 Lorsque l'officier de police judiciaire est amené, pour les nécessités de l'exécution de la commission rogatoire, à garder une personne à sa disposition, il en informe dans les meilleurs délais le juge d'instruction saisi des faits, qui contrôle la mesure de garde à vue. Il ne peut retenir cette personne plus de vingt-quatre heures.
@@ -2320,15 +2338,6 @@ Les ordonnances visées aux premier et deuxième alinéas du présent article so
 ###### Article 149
 
 Sans préjudice de l'application des dispositions des articles 505 et suivants du Code de procédure civile, une indemnité peut être accordée à la personne ayant fait l'objet d'une détention provisoire au cours d'une procédure terminée à son égard par une décision de non-lieu, de relaxe ou d'acquittement devenue définitive, lorsque cette détention lui a causé un préjudice manifestement anormal et d'une particulière gravité.
-
-
-##### Section 8 : Des commissions rogatoires
-
-##### Article 153
-
-Tout témoin cité pour être entendu au cours de l'exécution d'une commission rogatoire est tenu de comparaître, de prêter serment et de déposer.
-
-S'il ne satisfait pas à cette obligation, avis en est donné au magistrat mandant qui peut le contraindre à comparaître par la force publique et prendre contre lui les sanctions prévues à l'article 109, alinéas 2 et 3.
 
 
 ##### Section 12 : De l'appel des ordonnances du juge d'instruction
