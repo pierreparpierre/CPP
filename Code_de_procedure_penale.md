@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 7 décembre 2002
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20021207)
+- Date de consolidation : 1er janvier 2003
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20030101)
 
 
 # Partie législative
@@ -8884,6 +8884,17 @@ Les condamnés sont soumis dans les maisons d'arrêt à l'emprisonnement individ
 Il ne peut être dérogé à ce principe qu'en raison de la distribution intérieure des locaux de détention ou de leur encombrement temporaire ou des nécessités d'organisation du travail.
 
 
+##### Article 720
+
+Les activités de travail et de formation professionnelle sont prises en compte pour l'appréciation des gages de réinsertion et de bonne conduite des condamnés.
+
+Au sein des établissements pénitentiaires, toutes dispositions sont prises pour assurer une activité professionnelle aux personnes incarcérées qui le souhaitent.
+
+Les relations de travail des personnes incarcérées ne font pas l'objet d'un contrat de travail. Il peut être dérogé à cette règle pour les activités exercées à l'extérieur des établissements pénitentiaires.
+
+Les règles relatives à la répartition des produits du travail des détenus sont fixées par décret. Le produit du travail des détenus ne peut faire l'objet d'aucun prélèvement pour frais d'entretien en établissement pénitentiaire.
+
+
 ##### Article 720-1-AA
 
 Les personnes détenues peuvent travailler pour leur propre compte avec l'autorisation du chef d'établissement.
@@ -17698,24 +17709,7 @@ Le droit à la réparation des accidents du travail et des maladies professionne
 
 ##### Article D111
 
-La rémunération du travail est répartie conformément aux dispositions des articles D112 et suivants, après qu'aient été précomptées les cotisations à caractère social mises à la charge des détenus.
-
-
-##### Article D112
-
-Les détenus participent à leurs frais d'entretien sur le produit de leur travail.
-
-
-
-Le montant de cette participation est fixé chaque année par arrêté du garde des sceaux, ministre de la justice.
-
-
-
-Il ne saurait en toute hypothèse dépasser 30 % de la rémunération après déduction des cotisations à caractère social.
-
-
-
-Les rémunérations versées sur crédits budgétaires sont nettes de tout prélèvement au profit du Trésor.
+La rémunération du travail est répartie conformément aux dispositions de la présente section, après qu'aient été précomptées les cotisations à caractère social mises à la charge des détenus.
 
 
 ##### Article D113
@@ -17727,7 +17721,7 @@ Une part égale à 10 % de la rémunération telle qu'elle résulte de l'article
 
 ##### Article D114
 
-Après déduction des versements prévus aux articles D. 111, D. 112 et D. 113, le solde de la rémunération est acquis au détenu qui peut en disposer dans les conditions prévues aux articles D. 323, D. 330 et D. 331.
+Après déduction des versements prévus aux articles D. 111 et D. 113, le solde de la rémunération est acquis au détenu qui peut en disposer dans les conditions prévues aux articles D. 323, D. 330 et D. 331.
 
 La portion attribuée aux détenus sur les produits de leur travail peut toutefois être accrue de gratifications, à titre exceptionnel et sous réserve que celles-ci n'excèdent pas le quart de la rémunération principale.
 
