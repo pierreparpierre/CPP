@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 2 septembre 1993
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19930902)
+- Date de consolidation : 1er janvier 1994
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19940101)
 
 
 # Partie législative
@@ -735,21 +735,6 @@ Lorsque vingt heures se sont écoulées depuis le début de la garde à vue, la 
 
 Le bâtonnier est informé de cette demande par tous moyens et sans délai.
 
-L'avocat désigné peut communiquer avec la personne gardée à vue dans des conditions qui garantissent la confidentialité de l'entretien.
-
-A l'issue de l'entretien dont la durée ne peut excéder trente minutes, l'avocat présente, le cas échéant, des observations écrites qui sont jointes à la procédure.
-
-L'avocat ne peut faire état de cet entretien à quiconque pendant la durée de la garde à vue.
-
-Lorsque la garde à vue est soumise à des règles particulières de prolongation, les dispositions du présent article ne sont applicables qu'à l'issue de la première prolongation.
-
-
-#### Article 63-4
-
-Lorsque vingt heures se sont écoulées depuis le début de la garde à vue, la personne peut demander à s'entretenir avec un avocat. Si elle n'est pas en mesure d'en désigner un ou si l'avocat choisi ne peut être contacté, elle peut demander qu'il lui en soit commis un d'office par le bâtonnier.
-
-Le bâtonnier est informé de cette demande par tous moyens et sans délai.
-
 L'avocat désigné peut communiquer avec la personne gardée à vue dans des conditions qui garantissent la confidentialité de l'entretien. Il est informé par l'officier de police judiciaire ou, sous le contrôle de celui-ci, par un agent de police judiciaire de la nature de l'infraction recherchée.
 
 A l'issue de l'entretien dont la durée ne peut excéder trente minutes, l'avocat présente, le cas échéant, des observations écrites qui sont jointes à la procédure.
@@ -1382,19 +1367,6 @@ S'il est fait appel à un interprète, les dispositions de l'article 102 sont ap
 
 ##### Article 122
 
-Le juge d'instruction peut décerner mandat de comparution, d'amener ou d'arrêt. Il peut également, soit d'office dans le cas prévu par le troisième alinéa de l'article 145, soit en exécution des ordonnances prises, en application de l'article 137-1, par le président du tribunal de grande instance ou le juge délégué par lui, décerner mandat de dépôt.
-
-Le mandat de comparution a pour objet de mettre la personne à l'encontre de laquelle il est décerné en demeure de se présenter devant le juge à la date et à l'heure indiquées par ce mandat.
-
-Le mandat d'amener est l'ordre donné par le juge à la force publique de conduire immédiatement la personne à l'encontre de laquelle il est décerné devant lui.
-
-Le mandat de dépôt est l'ordre donné par le juge au chef de l'établissement pénitentiaire de recevoir et de détenir la personne à l'encontre de laquelle il est décerné. Ce mandat permet également de rechercher ou de transférer la personne lorsqu'il lui a été précédemment notifié.
-
-Le mandat d'arrêt est l'ordre donné à la force publique de rechercher la personne à l'encontre de laquelle il est décerné et de la conduire à la maison d'arrêt indiquée sur le mandat, où elle sera reçue et détenue.
-
-
-##### Article 122
-
 Le juge d'instruction peut, selon les cas décerner mandat de comparution, d'amener, de dépôt ou d'arrêt.    Le mandat de comparution a pour objet de mettre la personne à l'encontre de laquelle il est décerné en demeure de se présenter devant le juge à la date et à l'heure indiquées par ce mandat.
 
 Le mandat d'amener est l'ordre donné par le juge à la force publique de conduire immédiatement la personne à l'encontre de laquelle il est décerné devant lui.
@@ -1510,13 +1482,6 @@ L'agent chargé de l'exécution d'un mandat d'amener ou d'arrêt ne peut s'intro
 Il peut se faire accompagner d'une force suffisante pour que la personne ne puisse se soustraire à la loi. La force est prise dans le lieu le plus proche de celui où le mandat doit s'exécuter et elle est tenue de déférer aux réquisitions contenues dans ce mandat.
 
 Si la personne ne peut être saisie, un procès-verbal de perquisition et de recherches infructueuses est adressé au magistrat qui a délivré le mandat.
-
-
-##### Article 135
-
-En matière criminelle et en matière correctionnelle, les mandats de dépôt ne peuvent être décernés qu'en exécution, dans le cas prévu par le troisième alinéa de l'article 145 et par le troisième alinéa de l'article 179, d'une ordonnance du juge d'instruction ou, dans les autres cas, d'une décision du président du tribunal de grande instance ou du juge délégué par lui rendue en application de l'article 137-1.
-
-L'agent chargé de l'exécution du mandat de dépôt remet l'intéressé au chef de l'établissement pénitentiaire, lequel lui délivre une reconnaissance de cette remise.
 
 
 ##### Article 135
@@ -1649,13 +1614,6 @@ Les conditions d'application du présent article sont fixées par un décret en 
 ###### Article 143
 
 Lorsqu'une juridiction de jugement est appelée à statuer dans les cas prévus à la présente sous-section, elle le fait dans les conditions déterminées par l'article 148-2.
-
-
-###### Article 145-2
-
-En matière criminelle, la personne mise en examen ne peut être maintenue en détention au-delà d'un an. Toutefois, le président du tribunal de grande instance ou le juge qu'il délègue à cet effet peut, à l'expiration de ce délai, prolonger la détention pour une durée qui ne peut être supérieure à un an par une décision rendue conformément aux dispositions des sixième et septième alinéas de l'article 145, l'avocat ayant été convoqué conformément aux dispositions du deuxième alinéa de l'article 114. Cette décision peut être renouvelée selon la même procédure.
-
-Les dispositions du présent article sont applicables jusqu'à l'ordonnance de règlement.
 
 
 ###### Article 145-2
@@ -2087,21 +2045,6 @@ Peuvent intervenir, dans les mêmes conditions, des ordonnances de renvoi partie
 
 ##### Article 183
 
-Les ordonnances de règlement sont portées à la connaissance de la personne mise en examen et les ordonnances de présomption de charges ou de transmission des pièces au procureur général à la connaissance de la partie civile ; la notification est effectuée dans les délais les plus brefs soit verbalement, avec émargement au dossier de la procédure, soit par lettre recommandée.
-
-Sous réserve de l'application de l'article 145, septième alinéa, les décisions qui sont susceptibles de faire l'objet de voies de recours de la part d'une partie à la procédure ou d'un tiers conformément aux articles 99, 186 et 186-1 leur sont notifiées dans les délais les plus brefs soit verbalement, avec émargement au dossier de la procédure, soit par lettre recommandée. Si la personne mise en examen est détenue, elles peuvent, également être portées à sa connaissance par les soins du chef de l'établissement pénitentiaire qui adresse, sans délai, au juge d'instruction l'original ou la copie du récépissé signé par la personne. Dans tous les cas, une copie de l'acte est remise à l'intéressée.
-
-Toute notification d'acte à une partie par lettre recommandée expédiée à la dernière adresse déclarée par l'intéressée est réputée faite à sa personne.
-
-Les ordonnances mentionnées aux premier et deuxième alinéas du présent article qui doivent être portées à la connaissance des parties sont simultanément, et selon les mêmes modalités, portées à la connaissance de leurs conseils.
-
-Les avis destinés au procureur de la République lui sont adressés par tout moyen. Lorsque le juge d'instruction rend une ordonnance non conforme aux réquisitions du procureur de la République, avis en est donné à celui-ci par le greffier.
-
-Dans tous les cas, mention est portée au dossier par le greffier de la nature et de la date de la diligence faite en application du présent article ainsi que des formes utilisées.
-
-
-##### Article 183
-
 Les et ordonnances de règlement sont portées à la connaissance de la personne mise en examen et de la personne bénéficiant des dispositions de l'article 104 et les ordonnances de renvoi ou de transmission des pièces au procureur général à la connaissance de la partie civile ; la notification est effectuée dans les délais les plus brefs soit verbalement, avec émargement au dossier de la procédure, soit par lettre recommandée.
 
 Sous réserve de l'application de l'article 145, premier alinéa, les décisions qui sont susceptibles de faire l'objet de voies de recours de la part d'une partie à la procédure ou d'un tiers conformément aux articles 99, 186 et 186-1 leur sont notifiées dans les délais les plus brefs soit verbalement, avec émargement au dossier de la procédure, soit par lettre recommandée. Si la personne mise en examen est détenue, elles peuvent, également être portées à sa connaissance par les soins du chef de l'établissement pénitentiaire qui adresse, sans délai, au juge d'instruction l'original ou la copie du récépissé signé par la personne. Dans tous les cas, une copie de l'acte est remise à l'intéressée.
@@ -2262,17 +2205,6 @@ L'ordonnance de prise de corps est exécutée si, dûment convoqué par la voie 
 
 Dans son réquisitoire introductif, et à toute époque de l'information par réquisitoire supplétif, le procureur de la République peut requérir du magistrat instructeur tous actes lui paraissant utiles à la manifestation de la vérité et toutes mesures de sûreté nécessaires.
 
-Il peut, à cette fin, se faire communiquer la procédure, à charge de la rendre dans les vingt-quatre heures.
-
-Si le juge d'instruction ne suit pas les réquisitions du procureur de la République, il doit rendre une ordonnance motivée dans les cinq jours de ces réquisitions.
-
-Les dispositions de l'alinéa qui précède sont applicables lorsque, saisi par le procureur de la République de réquisition aux fins de placement ou de maintien en détention provisoire, le juge d'instruction ne saisit pas le président du tribunal de grande instance ou le juge délégué par lui en application de l'article 137-1. Elles sont également applicables dans le cas prévu par le sixième alinéa de l'article 86.
-
-
-##### Article 82
-
-Dans son réquisitoire introductif, et à toute époque de l'information par réquisitoire supplétif, le procureur de la République peut requérir du magistrat instructeur tous actes lui paraissant utiles à la manifestation de la vérité et toutes mesures de sûreté nécessaires.
-
 
 
 Il peut, à cette fin, se faire communiquer la procédure, à charge de la rendre dans les vingt-quatre heures.
@@ -2284,17 +2216,6 @@ Si le juge d'instruction ne suit pas les réquisitions du procureur de la Répub
 
 
 A défaut d'ordonnance du juge d'instruction, le procureur de la République peut, dans les dix jours, saisir directement la chambre d'accusation.
-
-
-##### Article 83
-
-Lorsqu'il existe dans un tribunal plusieurs juges d'instruction, le président du tribunal ou, en cas d'empêchement, le magistrat qui le remplace, désigne, pour chaque information, le juge qui en sera chargé.
-
-Lorsque la gravité ou la complexité de l'affaire le justifie, le président du tribunal ou, en cas d'empêchement, le magistrat qui le remplace peut adjoindre au juge d'instruction chargé de l'information un ou plusieurs juges d'instruction qu'il désigne, soit dès l'ouverture de l'information, soit sur la demande du juge chargé de l'information, à tout moment de la procédure.
-
-Le juge chargé de l'information coordonne le déroulement de celle-ci ; il a seul qualité pour saisir pour saisir le président du tribunal de grande instance ou le juge délégué par lui en application de l'article 137-1 et pour rendre l'ordonnance de règlement.
-
-Les désignations prévues au présent article sont des mesures d'administration judiciaire non susceptibles de recours.
 
 
 ##### Article 83
@@ -2343,15 +2264,13 @@ La procédure est mise à leur disposition quatre jours ouvrables au plus tard a
 Après la première comparution ou la première audition, les avocats des parties peuvent se faire délivrer, à leurs frais, copie de tout ou partie des pièces et actes du dossier pour leur usage exclusif et sans pouvoir en établir de reproduction.
 
 
-##### Section 7 : Des mandats et de leur exécution
-
 ##### Section 7 : Du contrôle judiciaire et de la détention provisoire
 
 ###### Sous-section 1 : Du contrôle judiciaire
 
 ###### Article 142-1
 
-Le juge d'instruction ou le président du tribunal de grande instance ou le juge délégué par lui en application de l'article 137-1 peut, avec le consentement de la personne mise en examen ordonner, ou décider, que la partie du cautionnement affectée à la garantie des droits de la victime ou du créancier d'une dette alimentaire soit versée à ceux-ci par provision, sur leur demande.
+Le juge d'instruction ou la chambre prévue par l'article 137-1 peut, avec le consentement de la personne mise en examen, ordonner, ou décider, que la partie du cautionnement affectée à la garantie des droits de la victime ou du créancier d'une dette alimentaire soit versée à ceux-ci par provision, sur leur demande.
 
 Ce versement peut aussi être ordonné, ou décidé, même sans le consentement de la personne mise en examen, lorsqu'une décision de justice exécutoire a accordé à la victime ou au créancier une provision à l'occasion des faits qui sont l'objet des poursuites.
 
@@ -2413,17 +2332,6 @@ L'incarcération provisoire est, le cas échéant, imputée sur la durée de la 
 
 ###### Article 145-1
 
-En matière correctionnelle, la détention ne peut excéder quatre mois. Toutefois, à l'expiration de ce délai, le président du tribunal de grande instance ou le juge délégué par lui peut la prolonger par une décision motivée comme il est dit au septième alinéa de l'article 145. Aucune prolongation ne peut être prescrite pour une durée de plus de quatre mois.
-
-Lorsque la personne mise en examen n'a pas déjà été condamnée pour crime ou délit de droit commun, soit à une peine criminelle, soit à une peine d'emprisonnement sans sursis d'une durée supérieure à un an et lorsqu'elle n'encourt pas une peine d'emprisonnement supérieure à cinq ans, la prolongation de la détention prévue à l'alinéa précédent ne peut être ordonnée qu'une fois et pour une durée n'excédant pas deux mois.
-
-Dans les autres cas, la personne mise en examen ne peut être maintenue en détention au-delà d'un an. Toutefois, à titre exceptionnel, le président du tribunal de grande instance ou le juge délégué par lui en application de l'article 137-1 peut, à l'expiration de ce délai, décider de prolonger la détention pour une durée qui ne peut être supérieure à quatre mois par une ordonnance motivée. Celle-ci est rendue conformément aux dispositions des sixième et septième alinéas de l'article 145, l'avocat ayant été convoqué conformément aux dispositions du deuxième alinéa de l'article 114. Cette décision peut être renouvelée selon la même procédure. Néanmoins, la personne mise en examen ne peut être maintenue en détention au-delà de deux ans, lorsque la peine encourue ne dépasse pas cinq ans.
-
-Les ordonnances visées aux premier et deuxième alinéas du présent article sont rendues après avis du procureur de la République et, s'il y a lieu, observations de la personne mise en examen ou de son avocat.
-
-
-###### Article 145-1
-
 En matière correctionnelle, la détention ne peut excéder quatre mois. Toutefois, à l'expiration de ce délai, le juge d'instruction peut la prolonger par une décision motivée comme il est dit à l'article 145, alinéa premier. Aucune prolongation ne peut être prescrite pour une durée de plus de quatre mois.
 
 Lorsque la personne mise en examen n'a pas déjà été condamnée pour crime ou délit de droit commun, soit à une peine criminelle, soit à une peine d'emprisonnement sans sursis d'une durée supérieure à un an et lorsqu'elle n'encourt pas une peine d'emprisonnement supérieure à cinq ans, la prolongation de la détention prévue à l'alinéa précédent ne peut être ordonnée qu'une fois et pour une durée n'excédant pas deux mois.
@@ -2461,21 +2369,6 @@ Les dispositions des articles 63-1, 63-2, 63-3, 63-4, 64 et 65 sont applicables 
 
 
 ##### Section 12 : De l'appel des ordonnances du juge d'instruction
-
-##### Article 186
-
-Le droit d'appel appartient à la personne mise en examen contre les ordonnances et décisions prévues par les articles 87, 139, 140, 145, septième alinéa, 145-1, 145-2, 148 et 179, troisième alinéa.
-
-La partie civile peut interjeter appel des ordonnances de non informer, de non-lieu et des ordonnances faisant grief à ses intérêts civils. Toutefois, son appel ne peut, en aucun cas, porter sur une ordonnance ou sur la disposition d'une ordonnance relative à la détention de la personne mise en examen ou au contrôle judiciaire.
-
-Les parties peuvent aussi interjeter appel de l'ordonnance par laquelle le juge a, d'office ou sur déclinatoire, statué sur sa compétence.
-
-L'appel des parties ou du témoin condamné en application des dispositions de l'article 109 ainsi que la requête prévue par le cinquième alinéa de l'article 99 doivent être formés dans les conditions et selon les modalités prévues par les articles 502 et 503, dans les dix jours qui suivent la notification ou la signification de la décision.
-
-Le dossier de l'information ou sa copie établie conformément à l'article 81 est transmis, avec l'avis motivé du procureur de la République, au procureur général, qui procède ainsi qu'il est dit aux articles 194 et suivants.
-
-Si le président de la chambre d'accusation constate qu'il a été fait appel d'une ordonnance non visée aux alinéas 1 à 3 du présent article, il rend d'office une ordonnance de non-admission de l'appel qui n'est pas susceptible de voies de recours.
-
 
 ##### Article 187
 
@@ -2604,17 +2497,6 @@ La chambre d'accusation examine la régularité des procédures qui lui sont sou
 Si elle découvre une cause de nullité, elle prononce la nullité de l'acte qui en est entaché et, s'il y échet, celle de tout ou partie de la procédure ultérieure.
 
 Après annulation, elle peut soit évoquer et procéder dans les conditions prévues aux articles 201, 202 et 204, soit renvoyer le dossier de la procédure au même juge d'instruction ou à tel autre, afin de poursuivre l'information.
-
-
-##### Article 207
-
-Lorsque la chambre d'accusation a statué sur l'appel relevé contre une ordonnance du juge d'instruction en matière de détention provisoire, ou contre une ordonnance rendue en application des dispositions de l'article 137-1 soit qu'elle ait confirmé l'ordonnance, soit que, l'infirmant, elle ait ordonné une mise en liberté ou maintenu en détention ou décerné un mandat de dépôt ou d'arrêt, le procureur général fait sans délai retour du dossier au juge d'instruction après avoir assuré l'exécution de l'arrêt.
-
-Lorsque, en toute autre matière, la chambre d'accusation infirme une ordonnance du juge d'instruction, elle peut, soit évoquer et procéder dans les conditions prévues aux articles 201, 202, 204 et 205, soit renvoyer le dossier au juge d'instruction ou à tel autre afin de poursuivre l'information.
-
-L'ordonnance du juge d'instruction frappée d'appel sort son plein et entier effet si elle est confirmée par la chambre d'accusation.
-
-En cas d'appel formé contre une ordonnance de refus de mise en liberté, la chambre d'accusation peut, lors de l'audience et avant la clotûre des débats, se saisir immédiatement de toute demande de mise en liberté sur laquelle le juge d'instruction n'a pas encore statué ; dans ce cas, elle se prononce à la fois sur l'appel et sur cette demande.
 
 
 ##### Article 208
@@ -4361,19 +4243,6 @@ Le prévenu est retenu jusqu'à sa comparution qui doit avoir lieu le jour même
 
 Le tribunal correctionnel est composé d'un président et de deux juges.
 
-Lorsqu'un procès paraît de nature à entraîner de longs débats, le président du tribunal de grande instance peut décider qu'un ou plusieurs magistrats du siège supplémentaires assisteront aux débats. Dans le cas où un ou plusieurs magistrats du siège composant le tribunal correctionnel seraient empêchés de suivre les débats jusqu'au prononcé du jugement, ils sont remplacés par le ou les magistrats du siège supplémentaires, dans l'ordre de leur nomination au tribunal de grande instance, en commençant par le plus ancien du rang le plus élevé.
-
-Toutefois, pour le jugement des délits énumérés à l'article 398-1, il peut être composé d'un seul de ces magistrats exerçant les pouvoirs conférés au président lorsqu'il en est ainsi décidé par le président du tribunal de grande instance. Le président du tribunal de grande instance ou le magistrat délégué par lui à cet effet peut toutefois décider, soit de sa propre initiative, soit à la demande du magistrat saisi, qu'une affaire déterminée sera jugée par le tribunal statuant dans les conditions prévues à l'alinéa 1er.
-
-La désignation des magistrats du tribunal correctionnel appelés à statuer dans les conditions prévues à l'alinéa 3 est faite par le président du tribunal de grande instance selon les modalités fixées pour la répartition des juges entre les diverses chambres de ce tribunal ; s'il y a lieu, le président du tribunal correctionnel répartit les affaires entre ces magistrats.
-
-Les décisions prévues au présent article sont des mesures d'administration non susceptibles de recours.
-
-
-##### Article 398
-
-Le tribunal correctionnel est composé d'un président et de deux juges.
-
 
 
 Lorsqu'un procès paraît de nature à entraîner de longs débats, le président du tribunal de grande instance peut décider qu'un ou plusieurs magistrats du siège supplémentaires assisteront aux débats. Dans le cas où un ou plusieurs magistrats du siège composant le tribunal correctionnel seraient empêchés de suivre les débats jusqu'au prononcé du jugement, ils sont remplacés par le ou les magistrats du siège supplémentaires, dans l'ordre de leur nomination au tribunal de grande instance, en commençant par le plus ancien du rang le plus élevé.
@@ -4629,11 +4498,6 @@ La partie civile régulièrement citée qui ne comparaît pas ou n'est pas repr�
 En ce cas, et si l'action publique n'a été mise en mouvement que par la citation directe délivrée à la requête de la partie civile, le tribunal ne statue sur ladite action que s'il en est requis par le ministère public ; sauf au prévenu à demander au tribunal des dommages-intérêts pour abus de citation directe, comme il est dit à l'article 472.
 
 Le jugement constatant le désistement présumé de la partie civile lui est signifié par exploit d'huissier, conformément aux dispositions des articles 550 et suivants. Ce jugement est assimilé à un jugement par défaut, et l'opposition est soumise aux dispositions des articles 489 à 495.
-
-
-###### Article 426
-
-Le désistement de la partie civile ne met pas obstacle à l'action civile devant la juridiction compétente.
 
 
 ###### Article 426
@@ -5189,6 +5053,61 @@ Si le prévenu ne se soumet pas aux mesures de surveillance et d'assistance ou a
 Les dispositions des articles 741-1 et 741-2, du deuxième alinéa de l'article 741-3 et du troisième alinéa de l'article 744 sont applicables. La comparution du prévenu devant le tribunal dans le cas prévu par le quatrième alinéa du présent article rend non avenue la fixation de la date d'audience de renvoi par la décision d'ajournement.
 
 Lorsque la décision d'ajournement a été rendue par une juridiction compétente à l'égard des mineurs, les attributions du juge de l'application des peines sont dévolues au juge des enfants dans le ressort duquel le mineur a sa résidence.
+
+
+##### Article 469-5
+
+I.  La juridiction peut, après avoir déclaré le prévenu coupable de l'infraction prévue au deuxième alinéa de l'article 27 de l'ordonnance n° 45-2658 du 2 novembre 1945 relative aux conditions d'entrée et de séjour des étrangers en France, ajourner le prononcé de la peine en enjoignant au prévenu de présenter à l'autorité administrative compétente les documents de voyage permettant l'exécution de la mesure d'éloignement prononcée à son encontre ou de communiquer les renseignements permettant cette exécution.
+
+Dans ce cas, la juridiction place le prévenu, par ordonnance, sous le régime de la rétention judiciaire, pour une durée de trois mois au plus.
+
+La décision d'ajournement avec rétention est exécutoire par provision.
+
+La juridiction fixe dans sa décision le jour où il sera statué sur la peine.
+
+Lorsqu'elle ajourne le prononcé de la peine, la juridiction informe l'intéressé qu'il peut, pendant la période de rétention, demander l'assistance d'un interprète, d'un médecin ou d'un conseil et qu'il peut, s'il le désire, communiquer avec toute personne de son choix et recevoir les visites autorisées par le magistrat délégué par le président de la juridiction. Ce magistrat ne peut refuser de délivrer un permis de visite à un membre de la famille de la personne retenue que par une décision écrite et spécialement motivée au regard des nécessités de la rétention. Il peut, à titre exceptionnel, accorder une autorisation de sortie sous escorte. Toute démarche auprès de l'autorité consulaire est facilitée au prévenu.
+
+II.  Le prévenu est maintenu dans des locaux ne relevant pas de l'administration pénitentiaire.
+
+L'état civil des personnes placées en rétention ainsi que les conditions de leur maintien sont mentionnés sur le registre prévu par l'article 35 bis de l'ordonnance n° 45-2658 du 2 novembre 1945 précitée.
+
+
+
+Pendant la durée du maintien en rétention, le ministère public ainsi que le président de la juridiction dans le ressort de laquelle s'exécute la rétention ou un magistrat délégué par lui peuvent se transporter sur les lieux, vérifier les conditions de la rétention et se faire communiquer le registre mentionné à l'alinéa précédent.
+
+III.  Si le prévenu se soumet à l'injonction prévue au premier alinéa du I, le ministère public saisit, avant expiration du délai d'ajournement, la juridiction, soit d'office, soit sur demande du prévenu ou de son avocat, afin qu'il soit statué sur la peine. Il peut aussi saisir la juridiction sur demande de l'autorité administrative.
+
+Le prévenu peut également, au cours du délai d'ajournement, demander la levée de la mesure de rétention, par déclaration au greffe de la juridiction.
+
+La demande est constatée et datée par le greffier qui la signe ; elle est également signée par le demandeur ou son avocat. Si le demandeur ne peut signer, il en est fait mention par le greffier.
+
+La demande peut également être formulée par déclaration auprès du responsable des locaux dans lesquels s'effectue la mesure et selon les modalités prévues à l'alinéa précédent. Ce fonctionnaire l'adresse sans délai, en original ou en copie, au greffe de la
+
+juridiction précitée.
+
+La juridiction qui a ordonné la rétention peut prononcer d'office sa levée. Dans tous les cas, elle se prononce après audition du ministère public, du prévenu ou de son avocat.
+
+Selon qu'elle est du premier ou du second degré, la juridiction rend sa décision dans les dix jours ou dans les vingt jours de la réception de la demande ; toutefois, lorsqu'au jour de la réception de cette demande, il n'a pas encore été statué sur une précédente demande de levée de la mesure ou sur l'appel d'une précédente décision refusant cette levée, le délai de dix ou vingt jours ne commence à courir qu'à compter de la décision rendue par la juridiction compétente ; faute de décision à l'expiration de ce délai, il est mis fin à la rétention et le prévenu est mis d'office en liberté.
+
+Lorsque la décision de rejet de la demande est prise par une juridiction du premier degré, l'appel est recevable dans les dix jours de la signification de la décision.
+
+La décision de la juridiction est immédiatement exécutoire nonobstant appel ; lorsque le prévenu est maintenu en rétention, la cour se prononce dans les vingt jours de l'appel, faute de quoi le prévenu est mis d'office en liberté.
+
+Dans le cas où la mesure de rétention est levée, le prévenu est tenu de répondre à toute convocation des autorités compétentes tendant à s'assurer de son identité ou de son maintien à la disposition de la justice, d'informer la juridiction de tous ses déplacements et changements d'adresse et de se présenter le jour prévu pour l'audience de renvoi. Lorsque l'intéressé se soustrait volontairement à ces obligations, le ministère public saisit la juridiction afin qu'il soit statué sur la peine.
+
+Les décisions rendues en matière de rétention n'ont pas pour effet de modifier la date fixée par la juridiction en vertu du quatrième alinéa du I.
+
+IV.  A l'audience de renvoi, la juridiction peut soit dispenser le prévenu de peine, soit prononcer la sanction prévue par la loi, soit ajourner une nouvelle fois le prononcé de la peine dans les conditions prévues aux premier à quatrième alinéas du I.
+
+La décision sur la peine intervient au plus tard trois mois après la première décision d'ajournement.
+
+La durée de la rétention est imputée sur celle de la peine privative de liberté éventuellement prononcée.
+
+Lorsque, à l'audience de renvoi, la juridiction ne prononce pas de peine privative de liberté et qu'il ne peut être procédé à l'éloignement immédiat de l'intéressé, celui-ci peut être maintenu dans des locaux ne relevant pas de l'administration pénitentiaire, dans les conditions et selon les modalités prévues par l'article 35 bis de l'ordonnance n° 45-2658 du 2 novembre 1945 précitée.
+
+V.  En cas de rétention suivie d'une relaxe en appel devenue définitive, une indemnité peut être accordée à l'intéressé pour le motif et selon les modalités prévues aux articles 149 à 150 du présent code.
+
+VI.  Les dispositions du présent article ne sont pas applicables aux mineurs de seize ans.
 
 
 ##### Article 470
