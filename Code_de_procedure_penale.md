@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 20 mars 2004
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20040320)
+- Date de consolidation : 25 mars 2004
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20040325)
 
 
 # Partie législative
@@ -24546,6 +24546,135 @@ La liste des agents qui, en raison de leurs responsabilités et de leurs compét
 
 
 ## Livre II : Des juridictions de jugement
+
+### Titre Ier : De la cour d'assises
+
+#### Chapitre Ier
+
+#### Chapitre II
+
+#### Chapitre III : De la composition de la cour d'assises
+
+#### Article A36-12
+
+En application des dispositions du deuxième alinéa de l'article 260, le nombre des jurés figurant sur les listes annuelles établies dans le ressort des cours d'assises énumérées ci-dessous est fixé comme suit :
+
+
+
+DÉPARTEMENTS
+
+NOMBRE DE JURÉS figurant sur la liste annuelle
+
+
+
+Alpes-Maritimes
+
+1 000
+
+Ardèche
+
+420
+
+Bouches-du-Rhône
+
+2 000
+
+Charente
+
+300
+
+Côte-d'Or
+
+600
+
+Dordogne
+
+400
+
+Eure
+
+500
+
+Guadeloupe
+
+450
+
+Haute-Marne
+
+300
+
+Haute-Savoie
+
+600
+
+Ille-et-Vilaine
+
+900
+
+Indre
+
+230
+
+Mayenne
+
+300
+
+Nièvre
+
+230
+
+Paris
+
+2 300
+
+Savoie
+
+390
+
+Seine-Saint-Denis
+
+2 000
+
+Val-de-Marne
+
+1 700
+
+Var
+
+1 000
+
+Yonne
+
+350
+
+
+
+Les dispositions du présent article cessent d'être applicables si, en raison de l'évolution officiellement constatée du nombre des habitants du ressort de la cour d'assises, le nombre des jurés résultant des dispositions du premier alinéa de l'article 260 dépasse celui fixé ci-dessus.
+
+
+#### Article A36-13
+
+La liste des jurés suppléants prévue par l'article 264 comprend :
+1. Sept cents jurés pour les cours d'assises de Paris et de la Seine-Saint-Denis ;
+2. Six cents jurés pour la cour d'assises du Val-de-Marne ;
+3. Quatre cent cinquante jurés pour les cours d'assises des Bouches-du-Rhône, de la Gironde, du Nord et des Yvelines ;
+4. Deux cent cinquante jurés pour les cours d'assises des Alpes-Maritimes, de la Corse-du-Sud, de la Haute-Corse, de l'Essonne, des Hauts-de-Seine, d'Ille-et-Vilaine, de la Loire-Atlantique, du Pas-de-Calais, du Rhône, de la Seine-Maritime, de Seine-et-Marne, du Val-d'Oise et du Var ;
+5. Deux cents jurés pour les cours d'assises de la Marne et de la Réunion ;
+6. Cent cinquante jurés pour les cours d'assises de l'Aisne, de l'Ardèche, du Calvados, de la Côte-d'Or, de l'Eure, du Finistère, du Gard, de la Guadeloupe, de la Haute-Garonne, de la Haute-Savoie, de l'Hérault, de l'Isère, de Maine-et-Loire, de Meurthe-et-Moselle, de la Meuse, de la Moselle, de l'Oise, des Pyrénées-Atlantiques, des Pyrénées-Orientales, du Bas-Rhin, du Haut-Rhin, de la Sarthe, de la Savoie, de la Somme, de Vaucluse, des Vosges et de l'Yonne ;
+7. Soixante-dix jurés pour la cour d'assises de la Polynésie française ;
+8. Cinquante jurés pour la cour d'assises de la Nouvelle-Calédonie ;
+9. Cent jurés pour les autres cours d'assises.
+
+
+#### Chapitre IV
+
+#### Chapitre V
+
+#### Chapitre VI
+
+#### Chapitre VII
+
+### Titre II : Du jugement des délits
 
 ### Titre III : Du jugement des contraventions
 
