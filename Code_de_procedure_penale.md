@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 20 décembre 1980
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19801220)
+- Date de consolidation : 24 décembre 1980
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19801224)
 
 
 # Partie législative
@@ -20,6 +20,11 @@ Cette action peut aussi être mise en mouvement par la partie lésée, dans les 
 L'action civile en réparation du dommage causé par un crime, un délit ou une contravention appartient à tous ceux qui ont personnellement souffert du dommage directement causé par l'infraction.
 
 La renonciation à l'action civile ne peut arrêter ni suspendre l'exercice de l'action publique, sous réserve des cas visés à l'alinéa 3 de l'article 6.
+
+
+## Article 2-2
+
+Toute association régulièrement déclarée depuis au moins cinq ans à la date des faits, dont l'objet statutaire comporte la lutte contre les violences sexuelles, peut exercer les droits reconnus à la partie civile, en ce qui concerne les infractions prévues par les articles 332, 333 et 333-1 du code pénal. Toutefois, l'association ne sera recevable dans son action que si elle justifie avoir reçu l'accord de la victime ou, si celle-ci est mineure, celui du titulaire de l'autorité parentale ou du représentant légal.
 
 
 ## Article 3
@@ -1359,6 +1364,17 @@ Sont incapables d'être jurés :
 8. Les majeurs sous sauvegarde de justice, les majeurs en tutelle, les majeurs en curatelle et ceux qui sont placés dans un établissement d'aliénés en vertu des articles L. 326-1 à L. 355 du Code de la santé publique.
 
 
+###### Article 258-1
+
+Sont exclus ou rayés de la liste annuelle des jurés et de la liste spéciale des jurés suppléants ceux qui ont rempli les fonctions de juré dans le département depuis moins de cinq ans.
+
+Une objection morale d'ordre laïque ou religieux ne constitue pas un motif grave susceptible de justifier l'exclusion de la liste des jurés.
+
+La commission prévue à l'article 262 peut également exclure les personnes qui, pour un motif grave, ne paraissent pas en mesure d'exercer les fonctions de juré.
+
+L'inobservation des dispositions du présent article et de l'article précédent n'entache d'aucune nullité la formation du jury.
+
+
 ###### Paragraphe 2 : De la formation du jury
 
 ###### Article 259
@@ -1379,6 +1395,19 @@ Selon le cas, soit le procureur général ou son délégué, soit le procureur d
 Le bâtonnier de l'Ordre des avocats de la juridiction, siège de la cour d'assises ou son représentant ;
 
 Cinq conseillers généraux désignés chaque année par le conseil général et, à Paris, cinq conseillers désignés par le Conseil de Paris.
+
+
+###### Article 263
+
+La commission se réunit sur la convocation de son président au siège de la cour d'assises, dans le courant du mois de septembre. Son secrétariat est assuré par le greffier en chef de la juridiction siège de la cour d'assises.
+
+Elle exclut les personnes qui ne remplissent pas les conditions d'aptitude légale résultant des articles 255,256 et 257. Elle statue sur les requêtes présentées en application de l'article 258. Sont également exclues les personnes visées par l'article 258-1 (alinéa 1er), ainsi que, le cas échéant, celles visées par l'article 258-1 (alinéa 2).
+
+Les décisions de la commission sont prises à la majorité ; en cas de partage, la voix du président est prépondérante.
+
+La liste annuelle des jurés est établie par tirage au sort parmi les noms qui n'ont pas été exclus.
+
+La liste est définitivement arrêtée dans l'ordre du tirage au sort, signée séance tenante et déposée au secrétariat-greffe de la juridiction siège de la cour d'assises.
 
 
 ###### Article 265
@@ -1690,6 +1719,19 @@ Le président déclare le jury définitivement constitué.
 #### Chapitre VI : Des débats
 
 ##### Section 1 : Dispositions générales
+
+##### Article 306
+
+Les débats sont publics, à moins que la publicité ne soit dangereuse pour l'ordre ou les moeurs. Dans ce cas, la cour le déclare par un arrêt rendu en audience publique.
+
+Toutefois, le président peut interdire l'accès de la salle d'audience aux mineurs ou à certains d'entre eux.
+
+Lorsque les poursuites sont fondées sur les articles 332 ou 333-1 du Code pénal, le huis clos est de droit si la victime partie civile ou l'une des victimes parties civiles le demande ; dans les autres cas, le huis clos ne peut être ordonné que si la victime partie civile ou l'une des victimes parties civiles ne s'y oppose pas.
+
+Lorsque le huis clos a été ordonné, celui-ci s'applique au prononcé des arrêts qui peuvent intervenir sur les incidents contentieux visés à l'article 316.
+
+L'arrêt sur le fond doit toujours être prononcé en audience publique.
+
 
 ##### Article 307
 
