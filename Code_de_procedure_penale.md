@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 30 janvier 2001
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20010130)
+- Date de consolidation : 8 avril 2001
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20010408)
 
 
 # Partie législative
@@ -10699,10 +10699,12 @@ L'attribution de la qualité d'officier de police judiciaire aux candidats reçu
 
 Les militaires de la gendarmerie visés à l'article 16 (2°) ne peuvent être habilités à exercer effectivement les attributions attachées à leur qualité d'officier de police judiciaire que lorsqu'ils doivent assurer, à un poste actif de commandement ou d'exécution, le service spécial à leur arme, dans le cadre d'une circonscription territoriale.
 
+Toutefois cette habilitation peut leur être accordée pour l'ensemble du territoire national lorsqu'ils exercent leurs fonctions au sein des offices centraux institués dans les services mentionnés à l'article R. 15-18.
+
 
 ####### Article R14
 
-Pour chaque militaire de la gendarmerie remplissant la condition prévue à l'article qui précède et affecté à un emploi comportant effectivement l'exercice des attributions attachées à sa qualité d'officier de police judiciaire, une demande d'habilitation est adressée au procureur général près la cour d'appel dans le ressort de laquelle se trouve le siège des fonctions de l'officier de police judiciaire intéressé, par le commandant de groupement lorsque ce militaire lui est subordonné, et par le commandant régional de la gendarmerie dans les autres cas.
+Pour chaque militaire de la gendarmerie remplissant la condition prévue au premier alinéa de l'article qui précède et affecté à un emploi comportant effectivement l'exercice des attributions attachées à sa qualité d'officier de police judiciaire, une demande d'habilitation est adressée au procureur général près la cour d'appel dans le ressort de laquelle se trouve le siège des fonctions de l'officier de police judiciaire intéressé, par le commandant de groupement lorsque ce militaire lui est subordonné, et par le commandant régional de la gendarmerie dans les autres cas.
 
 
 
@@ -10713,7 +10715,7 @@ La demande doit préciser la nature des fonctions confiées à cet officier de p
 
 Lorsque les limites territoriales dans lesquelles l'officier de police judiciaire est appelé à exercer ses fonctions habituelles excèdent celles de la cour d'appel dans le ressort de laquelle est situé le siège desdites fonctions, le procureur général saisi de la demande d'habilitation statue sur cette demande après avoir pris l'avis du procureur général près chaque cour d'appel dans le ressort de laquelle l'officier de police judiciaire est appelé à exercer ses fonctions habituelles.
 
-Lorsque l'officier de police judiciaire est appelé à exercer lesdites fonctions sur tout le territoire de la République, la demande d'habilitation est adressée au procureur général près la cour d'appel de Paris, qui statue sans être tenu de procéder à la consultation prévue à l'alinéa qui précède.
+Lorsque l'officier de police judiciaire est appelé à exercer lesdites fonctions sur tout le territoire de la République, la demande d'habilitation est adressée au procureur général près la cour d'appel de Paris, qui statue sans être tenu de procéder à la consultation prévue à l'alinéa qui précède. Dans le cas prévu au deuxième alinéa de l'article R. 13, la demande d'habilitation est transmise par le responsable de l'office au sein duquel ce militaire exerce ses fonctions.
 
 
 ####### Article R15-1
@@ -10883,7 +10885,7 @@ Le secrétariat de chaque commission d'examen est assuré par la direction du pe
 
 Les services actifs de la police nationale au sein desquels les officiers et agents de police judiciaire exercent leurs fonctions habituelles et dont la compétence s'exerce sur l'ensemble du territoire national sont les suivants :
 1. La direction centrale de la police judiciaire ;
-2. La direction centrale du contrôle de l'immigration et de la lutte contre l'emploi des clandestins ;
+2. La direction centrale de la police aux frontières ;
 3. La direction de la surveillance du territoire ;
 4. La sous-direction chargée des courses et jeux de la direction centrale des renseignements généraux ;
 5. L'inspection générale de la police nationale ;
