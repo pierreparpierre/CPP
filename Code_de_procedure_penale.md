@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 11 septembre 1986
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19860911)
+- Date de consolidation : 18 septembre 1986
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19860918)
 
 
 # Partie législative
@@ -7882,6 +7882,20 @@ En cas d'opposition formée par le prévenu, le secrétaire-greffier en chef avi
 Si le contrevenant n'a pas payé l'amende et les frais de justice et s'il n'a pas formé opposition dans le délai fixé à l'article 527 (alinéas 3 et 4), l'ordonnance pénale est mise à exécution.
 
 Le recouvrement est effectué au vu d'un extrait de l'ordonnance établi par le secrétaire-greffier en chef du tribunal de police, sur une formule dont le modèle est arrêté par le garde des sceaux, ministre de la justice, et par le ministre de l'Economie et des Finances.
+
+
+#### Article R48-1
+
+Les magistrats ou officiers du ministère public vérifient les extraits. Ils vérifient et visent le bordereau d'envoi de ces documents, adressé par le secrétaire-greffier en chef aux services du Trésor.
+
+Le délai d'envoi des extraits d'ordonnances pénales est fixé à trente-cinq jours à compter de la date à laquelle le secrétaire-greffier en chef aura eu connaissance, par la réception de l'avis prévu à l'article R. 45, du non-paiement de l'amende et des frais de justice.
+
+Le recouvrement est opéré suivant les règles établies pour l'exécution des sentences pénales.
+
+
+#### Article R48-2
+
+Si le contrevenant forme opposition dans le délai fixé à l'article 527 (alinéa 6), le procureur de la République informe immédiatement le comptable direct du Trésor de l'annulation de l'extrait correspondant.
 
 
 #### Chapitre III : De l'instruction définitive devant le tribunal de police
