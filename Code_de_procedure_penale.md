@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 3 juillet 1998
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19980703)
+- Date de consolidation : 25 juillet 1998
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19980725)
 
 
 # Partie législative
@@ -11364,15 +11364,13 @@ Sinon, le bulletin n° 2 est revêtu de la mention "néant".
 
 #### Article R82
 
-Le bulletin n° 3 ne peut être demandé au service du casier judiciaire national automatisé que par lettre signée de la personne qu'il concerne et précisant l'état civil de celle-ci. Si le demandeur est né à l'étranger, si son lieu de naissance est inconnu ou s'il est âgé de moins de douze ans, il doit, en outre, justifier de son identité.
+Le bulletin n° 3 ne peut être demandé au service du casier judiciaire national automatisé que par la personne qu'il concerne, ou son représentant légal s'il s'agit d'un mineur ou d'un majeur sous tutelle.
 
+La demande, qui doit préciser l'état civil de l'intéressé, peut être faite par lettre ou par téléinformatique.
 
+Toutefois, si le demandeur est né à l'étranger, si son lieu de naissance est inconnu ou s'il est âgé de moins de douze ans, la demande ne peut être faite que par lettre accompagnée d'un justificatif d'identité.
 
-Le bulletin n° 3 peut également être obtenu si la personne qu'il concerne se présente au casier judiciaire national et justifie de son identité.
-
-
-
-Si le demandeur ne sait ou ne peut signer, cette impossibilité est constatée par le maire ou le commissaire de police qui atteste en même temps que la demande est faite au nom et sur l'initiative de la personne que le bulletin n° 3 concerne.
+Le bulletin n° 3 peut également être obtenu si la personne qu'il concerne se présente au service du casier judiciaire national automatisé et justifie de son identité.
 
 
 #### Article R83
@@ -11385,6 +11383,8 @@ La vérification d'identité prévue par l'article R. 77 doit être effectuée a
 Lorsqu'il n'existe pas au casier judiciaire de fiche ou lorsque les mentions que portent les fiches ne doivent pas être inscrites sur le bulletin n° 3, celui-ci est oblitéré par une barre transversale.
 
 Lorsque l'examen des fiches révèle l'existence d'une des condamnations prévues à l'article 777, la teneur, avec indication de toutes les peines prononcées en est reproduite sur le bulletin n° 3, ainsi que les mentions prévues à l'article 769 qui s'y rapportent.
+
+Dans le cas prévu à l'alinéa précédent, la délivrance du bulletin est faite soit par remise en mains propres si le demandeur s'est présenté au service dans les conditions fixées au dernier alinéa de l'article R. 82, soit par lettre recommandée avec demande d'avis de réception.
 
 
 #### Chapitre VII : Dispositions diverses
