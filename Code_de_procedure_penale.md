@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 2 février 1984
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19840202)
+- Date de consolidation : 2 mars 1984
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19840302)
 
 
 # Partie législative
@@ -7336,6 +7336,13 @@ Un copie de chaque fiche relative à une condamnation à une peine privative de 
 Le bulletin n° 1 est réclamé au magistrat chargé du casier judiciaire national automatisé par lettre, télégramme, télécopie, télé-transmission ou support magnétique, indiquant l'état civil de la personne dont le bulletin est demandé, et précisant l'autorité judiciaire requérante.
 
 Sur instructions de l'autorité judiciaire requérante, le bulletin n° 1 est délivré en double exemplaire.
+
+
+#### Article R78
+
+S'il existe une ou plusieurs fiches du casier judiciaire, la teneur ainsi que celle des mentions prévues à l'article 769, en est reproduite sur le bulletin n° 1.
+
+Sinon, le bulletin n° 1 est revêtu de la mention : " néant ".
 
 
 #### Article R78-1
