@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 20 septembre 1972
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19720920)
+- Date de consolidation : 14 octobre 1972
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19721014)
 
 
 # Partie législative
@@ -7510,6 +7510,18 @@ Les mineurs qui font l'objet d'une mesure de placement prise en application de l
 Les détenus âgés de moins de vingt et un ans sont soumis à un régime particulier et individualisé qui fait une large place à l'éducation et à la formation professionnelle.
 
 Le régime défini aux articles D. 516 à D. 519 est applicable aux mineurs pénaux écroués dans les conditions spécifiées à l'article D. 514, aux condamnés et aux prévenus âgés de moins de vingt et un ans, sous la seule réserve des droits nécessaires à l'exercice de leur défense.
+
+
+##### Article D518
+
+Les agents des services extérieurs de l'éducation surveillée et les assistants sociaux ou assistantes sociales relevant des juridictions pour enfants sont habilités à visiter les mineurs détenus dans les mêmes conditions que les visiteurs de prison.
+
+
+##### Article D519
+
+Un quartier particulier est aménagé pour les détenus âgés de moins de vingt et un ans dans les maisons d'arrêt desservant les juridictions les plus importantes.
+
+Le juge de l'application des peines recueille l'avis du juge des enfants chaque fois qu'il exerce, à l'égard d'un mineur pénal, l'une des attributions qui lui sont conférées par l'article 722 du code de procédure pénale.
 
 
 #### Article D487
