@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 18 septembre 1986
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19860918)
+- Date de consolidation : 19 septembre 1986
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19860919)
 
 
 # Partie législative
@@ -7896,6 +7896,75 @@ Le recouvrement est opéré suivant les règles établies pour l'exécution des 
 #### Article R48-2
 
 Si le contrevenant forme opposition dans le délai fixé à l'article 527 (alinéa 6), le procureur de la République informe immédiatement le comptable direct du Trésor de l'annulation de l'extrait correspondant.
+
+
+#### Chapitre II bis : Amende forfaitaire et amende forfaitaire majorée
+
+#### Article R49
+
+Le montant de l'amende forfaitaire prévue par l'article 529 est fixé ainsi qu'il suit :
+1. 30 F. pour les contraventions aux dispositions du code de la route commises par les piétons ;
+2. 75 F. pour les autres contraventions de la 1er classe ;
+3. 230 F. pour les contraventions de la 2e classe ;
+4. 450 F. pour les contraventions de la 3e classe ;
+5. 900 F. pour les contraventions de la 4e classe.
+
+
+#### Article R49-1
+
+Un avis de contravention et une carte de paiement, dont le modèle est fixé par arrêté du garde des sceaux, ministre de la justice, sont remis au contrevenant au moment de la constatation de l'infraction. L'avis mentionne le délai et les modalités de la requête prévue par le premier alinéa de l'article 529-2, le montant de l'amende forfaitaire ainsi que celui de l'amende forfaitaire majorée qui sera due à défaut de paiement ou de présentation d'une requête.
+
+Lorsque les documents mentionnés à l'alinéa 1er ne peuvent être remis au contrevenant, ils sont adressés à son domicile. Toutefois, s'il s'agit d'une contravention au code de la route ou de celle qui est prévue à l'article R211-21-5 du code des assurances, ces documents sont laissés sur le véhicule ou, en cas d'impossibilité, envoyés au titulaire du certificat d'immatriculation.
+
+
+#### Article R49-2
+
+Le montant de l'amende peut être acquitté immédiatement entre les mains de l'agent verbalisateur lorsqu'il est porteur d'un carnet de quittances à souches dont le modèle est fixé par arrêté du ministre chargé de l'économie et des finances après avis des autres ministres intéressés.
+
+Ce paiement est effectué en espèce ou au moyen d'un chèque et donne lieu à la délivrance immédiate d'une quittance extraite du carnet à souches.
+
+
+#### Article R49-3
+
+Si le montant de l'amende forfaitaire n'est pas acquitté dans les conditions prévues par l'article R. 49-2, le paiement est effectué soit par l'apposition sur la carte de paiement, dûment remplie, d'un timbre [*fiscal*] émis à cet effet par le ministre chargé de l'économie et des finances, qui en établit le modèle et les modalités de délivrance, soit par l'envoi au comptable direct du Trésor d'un chèque joint à la carte de paiement.
+
+Un arrêté du ministre chargé de l'économie et des finances fixe la liste des départements dans lesquels les amendes forfaitaires peuvent être acquittées au moyen d'un chèque.
+
+
+#### Article R49-4
+
+La requête présentée en application de l'article 529-2 est motivée et accompagnée de l'avis de contravention.
+
+
+#### Article R49-5
+
+La majoration de plein droit des amendes forfaitaires prévue par le deuxième alinéa de l'article 529-2 est constatée par l'officier du ministère public, qui la mentionne sur un état récapitulatif établi en deux exemplaires.
+
+L'état récapitulatif mentionne l'identité et le domicile du contrevenant, le lieu et la date de la contravention et le montant de l'amende forfaitaire majorée.
+
+Le bordereau d'envoi de l'état récapitulatif signé par l'officier du ministère public vaut titre exécutoire. Il est transmis au comptable direct du Trésor public.
+
+
+#### Article R49-6
+
+Le comptable direct du Trésor adresse au contrevenant un avertissement l'invitant à s'acquitter du montant de l'amende forfaitaire majorée. Cet avertissement contient les mentions prévues par le deuxième alinéa de l'article R. 49-5 et indique le délai et les modalités de la réclamation prévue par le deuxième alinéa de l'article 530.
+
+
+#### Article R49-7
+
+Le montant de l'amende forfaitaire majorée est fixé ainsi qu'il suit :
+1. 50 F. pour les contraventions aux dispositions du code de la route commises par les piétons ;
+2. 220 F. pour les autres contraventions de la 1ere classe ;
+3. 500 F. pour les contraventions de la 2e classe ;
+4. 1.200 F. pour les contraventions de la 3e classe ;
+5. 2.000 F. pour les contraventions de la 4e classe.
+
+
+#### Article R49-8
+
+La réclamation faite en application du deuxième alinéa de l'article 530 est motivée et accompagnée de l'avertissement.
+
+L'officier du ministère public saisi d'une réclamation informe sans délai le comptable direct du Trésor de l'annulation du titre exécutoire.
 
 
 #### Chapitre III : De l'instruction définitive devant le tribunal de police
