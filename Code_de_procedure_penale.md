@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 22 août 1998
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19980822)
+- Date de consolidation : 1er octobre 1998
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19981001)
 
 
 # Partie législative
@@ -9467,6 +9467,11 @@ Les compétences attribuées aux chefs de cours par le présent code sont exerc�
 #### Article 879
 
 Les attributions dévolues par le présent code aux avocats et aux conseils des parties peuvent être exercées par des personnes agréées par le président du tribunal supérieur d'appel. Ces personnes sont dispensées de procuration.
+
+
+#### Article 879-1
+
+Pour l'application des dispositions des articles 20 et 21, les agents de police de la collectivité territoriale de Mayotte mis à la disposition de l'Etat sont assimilés, selon les dispositions et dans les conditions prévues par ces articles, aux agents de la police nationale.
 
 
 #### Chapitre II : Des enquêtes
