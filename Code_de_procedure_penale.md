@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 12 avril 1996
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19960412)
+- Date de consolidation : 14 mai 1996
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19960514)
 
 
 # Partie législative
@@ -105,6 +105,11 @@ Toute association régulièrement déclarée se proposant par ses statuts la dé
 Toute association régulièrement déclarée ayant pour objet statutaire la défense des victimes d'un accident survenu dans les transports collectifs ou dans un lieu ou local ouvert au public et regroupant plusieurs de ces victimes peut, si elle a été agréée à cette fin, exercer les droits reconnus à la partie civile en ce qui concerne cet accident lorsque l'action publique a été mise en mouvement par le ministère public ou la partie lésée.
 
 Les conditions dans lesquelles les associations visées au premier alinéa peuvent être agréées, après avis du ministère public, compte tenu de leur représentativité, sont fixées par décret.
+
+
+## Article 2-16
+
+Toute association régulièrement déclarée depuis au moins cinq ans à la date des faits qui se propose, par ses statuts, de lutter contre la toxicomanie ou le trafic de stupéfiants peut exercer les droits reconnus à la partie civile en ce qui concerne les infractions prévues par les articles 222-34 à 222-40 et par l'article 227-18-1 du code pénal lorsque l'action publique a été mise en mouvement par le ministère public ou la partie lésée.
 
 
 ## Article 3
@@ -4693,7 +4698,7 @@ Si le tribunal estime que le fait poursuivi ne constitue aucune infraction à la
 
 ##### Article 470-1
 
-Le tribunal saisi, à l'initiative du ministère public ou sur renvoi d'une juridiction d'instruction, de poursuites exercées pour homicide ou blessures involontaires qui prononce une relaxe demeure compétent, sur la demande de la partie civile ou de son assureur formulée avant la clôture des débats, pour accorder, en application des règles de droit civil, réparation de tous les dommages résultant des faits qui ont fondé la poursuite.
+Le tribunal saisi, à l'initiative du ministère public ou sur renvoi d'une juridiction d'instruction, de poursuites exercées pour une infraction non intentionnelle au sens des deuxième et troisième alinéas de l'article 121-3 du code pénal, et qui prononce une relaxe demeure compétent, sur la demande de la partie civile ou de son assureur formulée avant la clôture des débats, pour accorder, en application des règles du droit civil, réparation de tous les dommages résultant des faits qui ont fondé la poursuite.
 
 Toutefois, lorsqu'il apparaît que des tiers responsables doivent être mis en cause, le tribunal renvoie l'affaire, par une décision non susceptible de recours, devant la juridiction civile compétente qui l'examine d'urgence selon une procédure simplifiée déterminée par décret en Conseil d'Etat.
 
