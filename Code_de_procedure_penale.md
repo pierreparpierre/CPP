@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 1er octobre 1989
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19891001)
+- Date de consolidation : 1er décembre 1989
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19891201)
 
 
 # Partie législative
@@ -439,7 +439,7 @@ Il a tous les pouvoirs et prérogatives attachés à la qualité d'officier de p
 
 En cas d'infractions flagrantes, il exerce les pouvoirs qui lui sont attribués par l'article 68.
 
-Le procureur de la République peut également confier aux personnes habilitées dans les conditions prévues par l'article 81, sixième alinéa, le soin de vérifier la situation matérielle, familiale ou sociale des personnes faisant l'objet d'une enquête.
+Le procureur de la République peut également requérir, suivant les cas, le comité de probation et d'assistance aux libérés, le service compétent de l'éducation surveillée ou toute personne habilitée dans les conditions prévues par l'article 81, sixième alinéa, de vérifier la situation matérielle, familiale et sociale d'une personne faisant l'objet d'une enquête et de l'informer sur les mesures propres à favoriser l'insertion sociale de l'intéressé. En cas de poursuites contre un majeur âgé de moins de vingt et un ans au moment de la commission de l'infraction, lorsque la peine encourue n'excède pas cinq ans d'emprisonnement, ces diligences doivent être prescrites avant toute réquisition de placement en détention provisoire.
 
 
 ##### Article 41-1
@@ -1184,9 +1184,9 @@ Peuvent intervenir, dans les mêmes conditions, des ordonnances de renvoi partie
 
 ##### Article 183
 
-Les décisions et ordonnances de règlement sont portées à la connaissance de l'inculpé et les décisions et ordonnances de renvoi ou de transmission des pièces au procureur général à la connaissance de la partie civile ; la notification est effectuée dans les délais les plus brefs soit verbalement, avec émargement au dossier de la procédure, soit par lettre recommandée.
+Les ordonnances de règlement sont portées à la connaissance de l'inculpé et les ordonnances de renvoi ou de transmission des pièces au procureur général à la connaissance de la partie civile ; la notification est effectuée dans les délais les plus brefs soit verbalement, avec émargement au dossier de la procédure, soit par lettre recommandée.
 
-Sous réserve de l'application du premier alinéa de l'article 145, les décisions et ordonnances qui sont susceptibles de faire l'objet de voies de recours de la part de l'inculpé, de la partie civile ou d'un tiers conformément aux articles 99, 186 et 186-1 leur sont notifiées dans les délais les plus brefs soit verbalement, avec émargement au dossier de la procédure, soit par lettre recommandée. Si l'inculpé est détenu, elles peuvent, également être portées à sa connaissance par les soins du chef de l'établissement pénitentiaire qui adresse, sans délai, au juge d'instruction l'original ou la copie du récépissé signé par l'inculpé. Dans tous les cas, une copie de l'acte est remise à l'intéressé.
+Sous réserve de l'application de l'article 145, premier et deuxième alinéas, les décisions qui sont susceptibles de faire l'objet de voies de recours de la part de l'inculpé, de la partie civile ou d'un tiers conformément aux articles 99, 186 et 186-1 leur sont notifiées dans les délais les plus brefs soit verbalement, avec émargement au dossier de la procédure, soit par lettre recommandée. Si l'inculpé est détenu, elles peuvent, également être portées à sa connaissance par les soins du chef de l'établissement pénitentiaire qui adresse, sans délai, au juge d'instruction l'original ou la copie du récépissé signé par l'inculpé. Dans tous les cas, une copie de l'acte est remise à l'intéressé.
 
 Toute notification d'acte à l'inculpé ou à la partie civile par lettre recommandée expédiée à la dernière adresse déclarée par l'intéressé est réputée faite à sa personne.
 
@@ -1196,6 +1196,8 @@ Les avis destinés au procureur de la République lui sont adressés par tous mo
 
 Dans tous les cas, mention est portée au dossier par le greffier de la nature et de la date de la diligence faite en application du présent article ainsi que des formes utilisées.
 
+
+##### Section 11 : Des ordonnances et décisions de règlement
 
 ##### Section 12 : De l'appel des ordonnances du juge d'instruction
 
@@ -1283,15 +1285,31 @@ L'ordonnance de prise de corps est exécutée si, dûment convoqué par la voie 
 
 Le juge d'instruction procède, conformément à la loi, à tous les actes d'information qu'il juge utiles à la manifestation de la vérité.
 
+
+
 Il est établi une copie de ces actes ainsi que de toutes les pièces de la procédure ; chaque copie est certifiée conforme par le greffier ou l'officier de police judiciaire commis mentionné à l'alinéa 4. Toutes les pièces du dossier sont cotées par le greffier au fur et à mesure de leur rédaction ou de leur réception par le juge d'instruction.
+
+
 
 Toutefois, si les copies peuvent être établies à l'aide de procédés photographiques ou similaires, elles sont exécutées à l'occasion de la transmission du dossier. Il en est alors établi autant d'exemplaires qu'il est nécessaire à l'administration de la justice. Le greffier certifie la conformité du dossier reproduit avec le dossier original. Si le dessaisissement momentané a pour cause l'exercice d'une voie de recours, l'établissement des copies doit être effectué immédiatement pour qu'en aucun cas ne soit retardée la mise en état de l'affaire prévue à l'article 194.
 
+
+
 Si le juge d'instruction est dans l'impossibilité de procéder lui-même à tous les actes d'instruction, il peut donner commission rogatoire aux officiers de police judiciaire afin de leur faire exécuter tous les actes d'information nécessaires dans les conditions et sous les réserves prévues aux articles 151 et 152.
+
+
 
 Le juge d'instruction doit vérifier les éléments d'information ainsi recueillis.
 
+
+
 Le juge d'instruction procède ou fait procéder, soit par des officiers de police judiciaire conformément à l'alinéa 4, soit par toute personne habilitée dans des conditions fixées par décret en Conseil d'Etat, à une enquête sur la personnalité des inculpés, ainsi que sur leur situation matérielle, familiale ou sociale. Toutefois, en matière de délit, cette enquête est facultative.
+
+
+
+Le juge d'instruction peut également commettre, suivant les cas, le comité de probation et d'assistance aux libérés, le service compétent de l'éducation surveillée ou toute personne habilitée en application de l'alinéa qui précède à l'effet de vérifier la situation matérielle, familiale et sociale d'un inculpé et de l'informer sur les mesures propres à favoriser l'insertion sociale de l'intéressé. A moins qu'elles n'aient été déjà prescrites par le ministère public, ces diligences doivent être prescrites par le juge d'instruction chaque fois qu'il envisage de placer en détention provisoire un majeur âgé de moins de vingt et un ans au moment de la commission de l'infraction lorsque la peine encourue n'excède pas cinq ans d'emprisonnement.
+
+
 
 Le juge d'instruction peut prescrire un examen médical, confier à un médecin le soin de procéder à un examen médico-psychologique ou ordonner toutes autres mesures utiles. Si ces examens sont demandés par l'inculpé ou son conseil, il ne peut les refuser que par ordonnance motivée.
 
@@ -1567,7 +1585,7 @@ Elle est néanmoins toujours restituée en cas de non-lieu, d'absolution ou d'ac
 
 ###### Article 144
 
-En matière correctionnelle, si la peine encourue est égale ou supérieure à deux ans d'emprisonnement et si les obligations du contrôle judiciaire sont insuffisantes au regard des fonctions définies à l'article 137, la détention provisoire peut être ordonnée ou maintenue :
+En matière criminelle et en matière correctionnelle, si la peine encourue est égale ou supérieure à deux ans d'emprisonnement et si les obligations du contrôle judiciaire sont insuffisantes au regard des fonctions définies à l'article 137, la détention provisoire peut être ordonnée ou maintenue :
 
 
 1. Lorsque la détention provisoire de l'inculpé est l'unique moyen de conserver les preuves ou les indices matériels ou d'empêcher soit une pression sur les témoins ou les victimes, soit une concertation frauduleuse entre inculpés et complices ;
@@ -1578,6 +1596,17 @@ En matière correctionnelle, si la peine encourue est égale ou supérieure à d
 
 
 La détention provisoire peut également être ordonnée, dans les conditions prévues par l'article 141-2, lorsque l'inculpé se soustrait volontairement aux obligations du contrôle judiciaire.
+
+
+###### Article 145-1
+
+En matière correctionnelle, la détention ne peut excéder quatre mois. Toutefois, à l'expiration de ce délai, le juge d'instruction peut la prolonger par une ordonnance motivée comme il est dit à l'article 145, alinéa premier. Aucune prolongation ne peut être prescrite pour une durée de plus de quatre mois.
+
+Lorsque l'inculpé n'a pas déjà été condamné pour crime ou délit de droit commun, soit à une peine criminelle, soit à une peine d'emprisonnement sans sursis d'une durée supérieure à un an et lorsqu'il n'encourt pas une peine d'emprisonnement supérieure à cinq ans, la prolongation de la détention prévue à l'alinéa précédent ne peut être ordonnée qu'une fois et pour une durée n'excédant pas deux mois.
+
+Dans les autres cas, l'inculpé ne peut être maintenu en détention au-delà d'un an. Toutefois, à titre exceptionnel, le juge d'instruction peut, à l'expiration de ce délai, décider de prolonger la détention pour une durée qui ne peut être supérieure à quatre mois par une ordonnance motivée, rendue conformément aux dispositions de l'article 145, premier et cinquième alinéas, qui peut être renouvelée selon la même procédure.
+
+Les ordonnances visées aux premier et deuxième alinéas du présent article sont rendues après avis du procureur de la République et, s'il y a lieu, observations de l'inculpé ou de son conseil.
 
 
 ###### Article 148-1
@@ -1709,7 +1738,16 @@ Lorsqu'il est interjeté appel d'une ordonnance autre qu'une ordonnance de règl
 
 #### Chapitre Ier : De la chambre d'instruction et du juge d'instruction : juridictions d'instruction du premier degré
 
-##### Section 11 : Des ordonnances et décisions de règlement
+##### Section 7 : Du contrôle judiciaire et de la détention provisoire
+
+###### Sous-section 1 : Du contrôle judiciaire
+
+###### Article 145-2
+
+En matière criminelle, l'inculpé ne peut être maintenu en détention au-delà d'un an. Toutefois, le juge d'instruction peut, à l'expiration de ce délai, décider de prolonger la détention pour une durée qui ne peut être supérieure à un an par une ordonnance rendue conformément aux dispositions de l'article 145, cinquième alinéa, qui peut être renouvelée selon la même procédure ; cette ordonnance doit comporter, par référence aux dispositions des 1° et 2° de l'article 144, l'énoncé des considérations de droit et de fait qui constituent le fondement de la décision.
+
+Les dispositions du présent article sont applicables jusqu'à l'ordonnance de règlement.
+
 
 #### Chapitre II : De la chambre d'accusation : juridiction d'instruction du second degré
 
@@ -1764,6 +1802,10 @@ Les débats se déroulent et l'arrêt est rendu en chambre du conseil.
 Après le rapport du conseiller, le procureur général et les conseils des parties qui en ont fait la demande présentent des observations sommaires.
 
 La chambre d'accusation peut ordonner la comparution personnelle des parties ainsi que l'apport des pièces à conviction.
+
+En matière de détention provisoire, la comparution personnelle de l'inculpé est de droit si celui-ci ou son conseil en fait la demande ; cette requête doit, à peine d'irrecevabilité, être présentée en même temps que la déclaration d'appel ou que la demande de mise en liberté adressée à la chambre d'accusation. Par dérogation aux dispositions du premier alinéa, en cas de comparution personnelle d'un inculpé majeur au moment de la commission de l'infraction, lorsque l'inculpé ou son conseil en fait la demande dès l'ouverture des débats, ceux-ci se déroulent et l'arrêt est rendu en audience publique sauf si la publicité est de nature à nuire au bon déroulement de l'information, aux intérêts d'un tiers, à l'ordre public ou aux bonnes moeurs ; la chambre d'accusation statue sur cette demande, après avoir recueilli les observations du procureur général et, le cas échéant, des conseils des autres parties, par un arrêt rendu en chambre du conseil qui n'est susceptible de pourvoi en cassation qu'en même temps que l'arrêt portant sur la demande principale.
+
+En cas de comparution personnelle de l'inculpé, le délai maximum prévu au deuxième alinéa de l'article 194 est prolongé de cinq jours.
 
 
 ##### Article 200
@@ -6589,7 +6631,7 @@ Le président de la cour ou du tribunal doit, après avoir prononcé la condamna
 
 Le sursis avec mise à l'épreuve est applicable aux condamnations à l'emprisonnement prononcées pour crime ou délit de droit commun. La condamnation peut être déclarée exécutoire par provision.
 
-Le tribunal fixe le délai d'épreuve qui ne peut être inférieur à trois années ni supérieur à cinq années.
+Le tribunal fixe le délai d'épreuve qui ne peut être inférieur à dix-huit mois ni supérieur à trois années.
 
 Il peut décider que le sursis ne s'appliquera à l'exécution de l'emprisonnement que pour une part dont il détermine la durée.
 
@@ -6650,7 +6692,7 @@ Le tribunal peut aussi, dans les conditions prévues aux articles suivants, ordo
 
 #### Article 742-1
 
-Lorsque le tribunal correctionnel prolonge le délai d'épreuve, ce délai ne peut au total être supérieur à cinq années. Le tribunal peut, en outre, par décision spéciale et motivée, ordonner l'exécution provisoire de cette mesure.
+Lorsque le tribunal correctionnel prolonge le délai d'épreuve, ce délai ne peut au total être supérieur à trois années. Le tribunal peut, en outre, par décision spéciale et motivée, ordonner l'exécution provisoire de cette mesure.
 
 
 #### Article 742-2
@@ -6672,7 +6714,11 @@ Lorsque le tribunal correctionnel ordonne l'exécution de la peine en totalité 
 
 Si le condamné satisfait aux mesures d'assistance et de surveillance et aux obligations particulières imposées en application de l'article 739 et si son reclassement paraît acquis, le tribunal correctionnel peut déclarer non avenue la condamnation prononcée à son encontre.
 
-Le tribunal ne peut être saisi à cette fin avant l'expiration d'un délai de deux ans à dater du jour où la condamnation est devenue définitive.
+
+
+Le tribunal ne peut être saisi à cette fin avant l'expiration d'un délai d'un an à dater du jour où la condamnation est devenue définitive.
+
+
 
 La décision du tribunal peut être frappée d'appel par le ministère public et par le condamné.
 
