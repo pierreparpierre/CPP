@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 14 juillet 1989
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19890714)
+- Date de consolidation : 1er septembre 1989
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19890901)
 
 
 # Partie législative
@@ -1698,6 +1698,13 @@ Le juge d'instruction fixe le délai dans lequel les procès-verbaux dressés pa
 Lorsque la commission rogatoire prescrit des opérations simultanées sur divers points du territoire, elle peut, sur l'ordre du juge d'instruction mandant, être adressée aux juges d'instruction ou officiers de police judiciaire chargés de son exécution sous forme de reproduction ou de copie intégrale de l'original.
 
 Elle peut même, en cas d'urgence, être diffusée par tous moyens ; chaque diffusion doit toujours préciser les mentions essentielles de l'original et spécialement la nature de l'inculpation, le nom et la qualité du magistrat mandant.
+
+
+##### Section 12 : De l'appel des ordonnances du juge d'instruction
+
+##### Article 187
+
+Lorsqu'il est interjeté appel d'une ordonnance autre qu'une ordonnance de règlement, le juge d'instruction poursuit son information sauf décision contraire à la chambre d'accusation.
 
 
 #### Chapitre Ier : De la chambre d'instruction et du juge d'instruction : juridictions d'instruction du premier degré
