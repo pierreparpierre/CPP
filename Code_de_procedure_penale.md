@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 14 juillet 1968
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19680714)
+- Date de consolidation : 20 juin 1970
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19700620)
 
 
 # Partie législative
@@ -4008,6 +4008,11 @@ Lorsqu'il y a lieu d'apporter des modifications à la fiche, avis en est donné 
 Les fiches et les copies des fiches relatives à des décisions judiciaires ainsi que les bulletins n° 1 sont payés sur les crédits affectés aux frais de justice à recouvrer sur les condamnés.
 
 Les bulletins n° 1 établis par le casier judiciaire central sont délivrés gratuitement.
+
+
+#### Article R86
+
+Les bulletins n° 2 du casier judiciaire sont délivrés gratuitement.
 
 
 ### Titre IX
