@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 18 juillet 1987
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19870718)
+- Date de consolidation : 23 juillet 1987
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19870723)
 
 
 # Partie législative
@@ -50,6 +50,11 @@ Toute association régulièrement déclarée depuis au moins cinq ans à la date
 ## Article 2-6
 
 Toute association régulièrement déclarée depuis au moins cinq ans à la date des faits, se proposant par ses statuts de combattre les discriminations fondées sur le sexe ou sur les moeurs, peut exercer les droits reconnus à la partie civile en ce qui concerne les infractions prévues par les articles 187-1, 187-2, les 1° et 2° de l'article 416 de l'article 416-1 du code pénal et celles relatives au refus d'embauche, au licenciement ou à l'offre d'emploi définis par le 3° de l'article 416 du code pénal et l'article L. 123-1 du code du travail.
+
+
+## Article 2-7
+
+En cas de poursuites pénales pour incendie volontaire commis dans les bois, forêts, landes, maquis, garrigues, plantations ou reboisements, les personnes morales de droit public peuvent se constituer partie civile devant la juridiction de jugement en vue d'obtenir le remboursement, par le condamné, des frais qu'elles ont exposés pour lutter contre l'incendie.
 
 
 ## Article 3
