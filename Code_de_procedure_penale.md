@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 15 juin 1999
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19990615)
+- Date de consolidation : 24 juin 1999
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19990624)
 
 
 # Partie législative
@@ -142,7 +142,7 @@ L'action publique pour l'application de la peine s'éteint par la mort du préve
 
 Toutefois, si des poursuites ayant entraîné condamnation ont révélé la fausseté du jugement ou de l'arrêt qui a déclaré l'action publique éteinte, l'action publique pourra être reprise ; la prescription doit alors être considérée comme suspendue depuis le jour où le jugement ou arrêt était devenu définitif jusqu'à celui de la condamnation du coupable de faux ou usage de faux.
 
-Elle peut, en outre, s'éteindre par transaction lorsque la loi en dispose expressément ; il en est de même en cas de retrait de plainte, lorsque celle-ci est une condition nécessaire de la poursuite.
+Elle peut, en outre, s'éteindre par transaction lorsque la loi en dispose expressément ou par l'exécution d'une composition pénale ; il en est de même en cas de retrait de plainte, lorsque celle-ci est une condition nécessaire de la poursuite.
 
 
 ## Article 6-1
@@ -532,20 +532,62 @@ En cas d'infractions flagrantes, il exerce les pouvoirs qui lui sont attribués 
 
 Le procureur de la République peut également requérir, suivant les cas, le comité de probation et d'assistance aux libérés, le service compétent de l'éducation surveillée ou toute personne habilitée dans les conditions prévues par l'article 81, sixième alinéa, de vérifier la situation matérielle, familiale et sociale d'une personne faisant l'objet d'une enquête et de l'informer sur les mesures propres à favoriser l'insertion sociale de l'intéressé. En cas de poursuites contre un majeur âgé de moins de vingt et un ans au moment de la commission de l'infraction, lorsque la peine encourue n'excède pas cinq ans d'emprisonnement, ces diligences doivent être prescrites avant toute réquisition de placement en détention provisoire.
 
-Le procureur de la République peut enfin, préalablement à sa décision sur l'action publique et avec l'accord des parties, décider de recourir à une médiation s'il lui apparaît qu'une telle mesure est susceptible d'assurer la réparation du dommage causé à la victime, de mettre fin au trouble résultant de l'infraction et de contribuer au reclassement de l'auteur de l'infraction.
-
 
 ##### Article 41-1
 
+S'il lui apparaît qu'une telle mesure est susceptible d'assurer la réparation du dommage causé à la victime, de mettre fin au trouble résultant de l'infraction ou de contribuer au reclassement de l'auteur des faits, le procureur de la République peut, préalablement à sa décision sur l'action publique, directement ou par délégation :
+1. Procéder au rappel auprès de l'auteur des faits des obligations résultant de la loi ;
+2. Orienter l'auteur des faits vers une structure sanitaire, sociale ou professionnelle ;
+3. Demander à l'auteur des faits de régulariser sa situation au regard de la loi ou des règlements ;
+4. Demander à l'auteur des faits de réparer le dommage résultant de ceux-ci ;
+5. Faire procéder, avec l'accord des parties, à une mission de médiation entre l'auteur des faits et la victime.
+
+La procédure prévue au présent article suspend la prescription de l'action publique.
+
+
+##### Article 41-2
+
+Le procureur de la République, tant que l'action publique n'a pas été mise en mouvement, peut proposer, directement ou par l'intermédiaire d'une personne habilitée, une composition pénale à une personne majeure qui reconnaît avoir commis un ou plusieurs délits prévus par les articles 222-11, 222-13 (1° à 10°), 222-16, 222-17, 222-18 (premier alinéa), 227-3 à 227-7, 227-9 à 227-11, 311-3, 313-5, 314-5, 314-6, 322-1, 322-2, 322-12 à 322-14, 433-5 à 433-7 et 521-1 du code pénal, par les articles 28 et 32 du décret-loi du 18 avril 1939 fixant le régime des matériels de guerre, armes et munitions, par l'article L. 1er du code de la route et par l'article L. 628 du code de la santé publique, qui consiste en une ou plusieurs des mesures suivantes :
+1. Verser une amende de composition au Trésor public. Le montant de cette amende de composition, qui ne peut excéder ni 25 000 F ni la moitié du maximum de l'amende encourue, est fixé en fonction de la gravité des faits ainsi que des ressources et des charges de la personne. Son versement peut être échelonné, selon un échéancier fixé par le procureur de la République, à l'intérieur d'une période qui ne peut être supérieure à un an ;
+2. Se dessaisir au profit de l'Etat de la chose qui a servi ou était destinée à commettre l'infraction ou qui en est le produit ;
+3. Remettre au greffe du tribunal de grande instance son permis de conduire ou son permis de chasser, pour une période maximale de quatre mois ;
+4. Effectuer au profit de la collectivité un travail non rémunéré pour une durée maximale de soixante heures, dans un délai qui ne peut être supérieur à six mois.
+
+Lorsque la victime est identifiée, et sauf si l'auteur des faits justifie de la réparation du préjudice commis, le procureur de la République doit également proposer à ce dernier de réparer les dommages causés par l'infraction dans un délai qui ne peut être supérieur à six mois. Il informe la victime de cette proposition.
+
+La proposition de composition pénale émanant du procureur de la République peut être portée à la connaissance de l'auteur des faits par l'intermédiaire d'un officier de police judiciaire. Elle fait alors l'objet d'une décision écrite et signée de ce magistrat, qui précise la nature et le quantum des mesures proposées et qui est jointe à la procédure. A peine de nullité, cette proposition ne peut intervenir pendant la durée de la garde à vue de l'auteur des faits.
+
+La composition pénale peut être proposée dans une maison de justice et du droit.
+
+La personne à qui est proposée une composition pénale est informée qu'elle peut se faire assister par un avocat avant de donner son accord à la proposition du procureur de la République. Ledit accord est recueilli par procès-verbal. Une copie de ce procès-verbal lui est transmise.
+
+Lorsque l'auteur des faits donne son accord aux mesures proposées, le procureur de la République saisit par requête le président du tribunal aux fins de validation de la composition. Le procureur de la République informe de cette saisine l'auteur des faits et, le cas échéant, la victime. Le président du tribunal peut procéder à l'audition de l'auteur des faits et de la victime, assistés, le cas échéant, de leur avocat. Les auditions sont de droit si les intéressés le demandent. Si ce magistrat rend une ordonnance validant la composition, les mesures décidées sont mises à exécution. Dans le cas contraire, la proposition devient caduque. La décision du président du tribunal, qui est notifiée à l'auteur des faits et, le cas échéant, à la victime, n'est pas susceptible de recours.
+
+Si la personne n'accepte pas la composition ou si, après avoir donné son accord, elle n'exécute pas intégralement les mesures décidées ou, si la demande de validation prévue par l'alinéa précédent est rejetée, le procureur de la République apprécie la suite à donner à la procédure. En cas de poursuites et de condamnation, il est tenu compte, le cas échéant, du travail déjà accompli et des sommes déjà versées par la personne.
+
+La prescription de l'action publique est suspendue entre la date à laquelle le procureur de la République propose une composition pénale et la date d'expiration des délais impartis pour exécuter la composition pénale.
+
+L'exécution de la composition pénale éteint l'action publique. Elle ne fait cependant pas échec au droit de la partie civile de délivrer citation directe devant le tribunal correctionnel dans les conditions prévues au présent code. Le tribunal ne statue alors que sur les seuls intérêts civils, au vu du dossier de la procédure qui est versé au débat.
+
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+
+##### Article 41-3
+
+La procédure de composition pénale est également applicable en cas de violences ou de dégradations contraventionnelles.
+
+Le montant maximum de l'amende de composition ne peut alors excéder 5 000 F ni la moitié du maximum de l'amende encourue, la durée de la remise du permis de conduire ou du permis de chasser ne peut dépasser deux mois et la durée du travail non rémunéré ne peut être supérieure à trente heures, dans un délai maximum de trois mois.
+
+La requête en validation est portée devant le juge d'instance.
+
+
+##### Article 41-4
+
 Lorsqu'aucune juridiction n'a été saisie ou lorsque la juridiction saisie a épuisé sa compétence sans avoir statué sur la restitution des objets, le procureur de la République ou le procureur général est compétent pour décider, d'office ou sur requête, de la restitution de ces objets lorsque la propriété n'en est pas sérieusement contestée.
-
-
 
 Il n'y a pas lieu à restitution lorsque celle-ci est de nature à créer un danger pour les personnes ou les biens ; la décision de non restitution prise pour ce motif, même d'office, par le procureur de la République ou le procureur général peut être contestée dans le mois de sa notification par requête de l'intéressé devant le tribunal correctionnel ou la chambre des appels correctionnels, qui statue en chambre du conseil. Il n'y a pas lieu non plus à restitution lorsqu'une disposition particulière prévoit la destruction des objets placés sous main de justice.
 
-
-
-Si la restitution n'a pas été demandée ou décidée dans un délai de trois ans à compter de la décision de classement ou de la décision par laquelle la dernière juridiction saisie a épuisé sa compétence, les objets non restitués deviennent propriété de l'Etat, sous réserve des droits des tiers. Les objets dont la restitution est de nature à créer un danger pour les personnes ou les biens deviennent propriété de l'Etat, sous réserve des droits des tiers, dès que la décision de non-restitution ne peut plus être contestée, ou dès que le jugement ou l'arrêt de non-restitution est devenu définitif.
+Si la restitution n'a pas été demandée ou décidée dans un délai de six mois à compter de la décision de classement ou de la décision par laquelle la dernière juridiction saisie a épuisé sa compétence, les objets non restitués deviennent propriété de l'Etat, sous réserve des droits des tiers. Il en est de même lorsque le propriétaire ou la personne à laquelle la restitution a été accordée ne réclame pas l'objet dans un délai de deux mois à compter d'une mise en demeure adressée à son domicile. Les objets dont la restitution est de nature à créer un danger pour les personnes ou les biens deviennent propriété de l'Etat, sous réserve des droits des tiers, dès que la décision de non-restitution ne peut plus être contestée, ou dès que le jugement ou l'arrêt de non-restitution est devenu définitif.
 
 
 ##### Article 42
@@ -644,7 +686,9 @@ Toute personne qui concourt à cette procédure est tenue au secret professionne
 
 Est qualifié crime ou délit flagrant, le crime ou le délit qui se commet actuellement, ou qui vient de se commettre. Il y a aussi crime ou délit flagrant lorsque, dans un temps très voisin de l'action, la personne soupçonnée est poursuivie par la clameur publique, ou est trouvée en possession d'objets, ou présente des traces ou indices, laissant penser qu'elle a participé au crime ou au délit.
 
-Est assimilé au crime ou délit flagrant tout crime ou délit qui même non commis dans les circonstances prévues à l'alinéa précédent a été commis dans une maison dont le chef requiert le procureur de la République ou un officier de police judiciaire de le constater.
+
+
+L'enquête de flagrance menée à la suite de la constatation d'un crime ou d'un délit flagrant ne peut se poursuivre pendant plus de huit jours.
 
 
 #### Article 54
@@ -676,6 +720,8 @@ Toutefois, il a l'obligation de provoquer préalablement toutes mesures utiles p
 Tous objets et documents saisis sont immédiatement inventoriés et placés sous scellés. Cependant, si leur inventaire sur place présente des difficultés, ils font l'objet de scellés fermés provisoires jusqu'au moment de leur inventaire et de leur mise sous scellés définitifs et ce, en présence des personnes qui ont assisté à la perquisition suivant les modalités prévues à l'article 57.
 
 Avec l'accord du procureur de la République, l'officier de police judiciaire ne maintient que la saisie des objets et documents utiles à la manifestation de la vérité.
+
+Le procureur de la République peut également, lorsque la saisie porte sur des espèces, lingots, effets ou valeurs dont la conservation en nature n'est pas nécessaire à la manifestation de la vérité ou à la sauvegarde des droits des personnes intéressées, autoriser leur dépôt à la Caisse des dépôts et consignations ou à la Banque de France.
 
 
 #### Article 56-1
@@ -713,9 +759,13 @@ Les formalités mentionnées aux articles 56, 56-1, 57 et au présent article so
 
 #### Article 60
 
-S'il y a lieu de procéder à des constatations ou à des examens techniques ou scientifiques qui ne peuvent être différés, l'officier de police judiciaire a recours à toutes personnes qualifiées.
+S'il y a lieu de procéder à des constatations ou à des examens techniques ou scientifiques, l'officier de police judiciaire a recours à toutes personnes qualifiées.
 
 Sauf si elles sont inscrites sur une des listes prévues à l'article 157, les personnes ainsi appelées prêtent, par écrit, serment d'apporter leur concours à la justice en leur honneur et en leur conscience.
+
+Les personnes désignées pour procéder aux examens techniques ou scientifiques peuvent procéder à l'ouverture des scellés. Elles en dressent inventaire et en font mention dans un rapport établi conformément aux dispositions des articles 163 et 166. Elles peuvent communiquer oralement leurs conclusions aux enquêteurs en cas d'urgence.
+
+Sur instructions du procureur de la République, l'officier de police judiciaire donne connaissance des résultats des examens techniques et scientifiques aux personnes à l'encontre desquelles il existe des indices faisant présumer qu'elles ont commis ou tenté de commettre une infraction, ainsi qu'aux victimes.
 
 
 #### Article 61
@@ -855,22 +905,6 @@ Le procureur de la République interroge sur-le-champ la personne ainsi conduite
 
 #### Article 72
 
-Lorsque le juge d'instruction est présent sur les lieux, le procureur de la République ainsi que les officiers de police judiciaire sont de plein droit dessaisis à son profit.
-
-
-
-Le juge d'instruction accomplit alors tous actes de police judiciaire prévus au présent chapitre.
-
-
-
-Il peut aussi prescrire à tous officiers de police judiciaire de poursuivre les opérations.
-
-
-
-Ces opérations terminées, le juge d'instruction transmet les pièces de l'enquête au procureur de la République à toutes fins utiles.
-
-
-
 Lorsque le procureur de la République et le juge d'instruction sont simultanément sur les lieux, le procureur de la République peut requérir l'ouverture d'une information régulière dont est saisi le juge d'instruction présent, par dérogation, le cas échéant, aux dispositions de l'article 83.
 
 
@@ -927,9 +961,9 @@ Les dispositions des articles 63-1, 63-2, 63-3, 63-4, 64 et 65 sont applicables 
 
 #### Article 77-1
 
-S'il y a lieu de procéder à des constatations ou à des examens techniques ou scientifiques qui ne peuvent être différés, le procureur de la République ou, sur autorisation de celui-ci, l'officier de police judiciaire, a recours à toutes personnes qualifiées.
+S'il y a lieu de procéder à des constatations ou à des examens techniques ou scientifiques, le procureur de la République ou, sur autorisation de celui-ci, l'officier de police judiciaire, a recours à toutes personnes qualifiées.
 
-Ces personnes sont soumises aux dispositions du second alinéa de l'article 60.
+Les dispositions des deuxième, troisième et quatrième alinéas de l'article 60 sont applicables.
 
 
 #### Article 78
@@ -1063,9 +1097,9 @@ Le juge d'instruction ne peut informer qu'en vertu d'un réquisitoire du procure
 
 Le réquisitoire peut être pris contre personne dénommée ou non dénommée.
 
-Lorsque des faits, non visés au réquisitoire, sont portés à la connaissance du juge d'instruction, celui-ci doit immédiatement communiquer au procureur de la République les plaintes ou les procès-verbaux qui les constatent.
+Lorsque des faits, non visés au réquisitoire, sont portés à la connaissance du juge d'instruction, celui-ci doit immédiatement communiquer au procureur de la République les plaintes ou les procès-verbaux qui les constatent. Le procureur de la République peut alors soit requérir du juge d'instruction, par réquisitoire supplétif, qu'il informe sur ces nouveaux faits, soit requérir l'ouverture d'une information distincte, soit saisir la juridiction de jugement, soit ordonner une enquête, soit décider d'un classement sans suite ou de procéder à l'une des mesures prévues aux articles 41-1 à 41-3, soit transmettre les plaintes ou les procès-verbaux au procureur de la République territorialement compétent. Si le procureur de la République requiert l'ouverture d'une information distincte, celle-ci peut être confiée au même juge d'instruction, désigné dans les conditions prévues au premier alinéa de l'article 83.
 
-En cas de plainte avec constitution de partie civile, il est procédé comme il est dit à l'article 86.
+En cas de plainte avec constitution de partie civile, il est procédé comme il est dit à l'article 86. Toutefois, lorsque de nouveaux faits sont dénoncés au juge d'instruction par la partie civile en cours d'information, il est fait application des dispositions de l'alinéa qui précède.
 
 
 ##### Article 80-1
@@ -1345,6 +1379,19 @@ Cette ordonnance est notifiée au propriétaire s'il est connu, qui peut la déf
 Le produit de la vente de l'animal est consigné pendant une durée de cinq ans. Lorsque l'instance judiciaire qui a motivé la saisie se conclut par un non-lieu ou par une décision de relaxe, le produit de la vente est restitué à la personne qui était propriétaire de l'animal au moment de la saisie si celle-ci en fait la demande. Dans le cas où l'animal a été confié à un tiers, son propriétaire peut saisir le magistrat désigné au deuxième alinéa d'une requête tendant à la restitution de l'animal.
 
 Les frais exposés pour la garde de l'animal dans le lieu de dépôt sont à la charge du propriétaire, sauf décision contraire du magistrat désigné au deuxième alinéa saisi d'une demande d'exonération ou du tribunal statuant sur le fond. Cette exonération peut également être accordée en cas de non-lieu ou de relaxe.
+
+
+###### Article 99-2
+
+Lorsque, au cours de l'instruction, la restitution des biens meubles placés sous main de justice et dont la conservation n'est plus nécessaire à la manifestation de la vérité s'avère impossible, soit parce que le propriétaire ne peut être identifié, soit parce que le propriétaire ne réclame pas l'objet dans un délai de deux mois à compter d'une mise en demeure adressée à son domicile, le juge d'instruction peut ordonner, sous réserve des droits des tiers, la destruction de ces biens ou leur remise au service des domaines aux fins d'aliénation.
+
+Le juge d'instruction peut également ordonner, sous réserve des droits des tiers, de remettre au service des domaines, en vue de leur aliénation, des biens meubles placés sous main de justice appartenant aux personnes poursuivies, dont la conservation n'est plus nécessaire à la manifestation de la vérité et dont la confiscation est prévue par la loi, lorsque le maintien de la saisie serait de nature à diminuer la valeur du bien. S'il est procédé à la vente du bien, le produit de celle-ci est consigné pendant une durée de dix ans. En cas de non-lieu, de relaxe ou d'acquittement, ou lorsque la peine de confiscation n'est pas prononcée, ce produit est restitué au propriétaire des objets s'il en fait la demande.
+
+Le juge d'instruction peut également ordonner la destruction des biens meubles placés sous main de justice dont la conservation n'est plus nécessaire à la manifestation de la vérité, lorsqu'il s'agit d'objets qualifiés par la loi de dangereux ou de nuisibles, ou dont la détention est illicite.
+
+Les décisions prises en application du présent article font l'objet d'une ordonnance motivée. Cette ordonnance est prise soit sur réquisitions du procureur de la République, soit d'office après avis de ce dernier. Elle est notifiée au ministère public, aux parties intéressées et, s'ils sont connus, au propriétaire ainsi qu'aux tiers ayant des droits sur le bien, qui peuvent la déférer à la chambre d'accusation dans les conditions prévues aux cinquième et sixième alinéas de l'article 99.
+
+Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
 
 
 ###### Sous-section 2 : Des interceptions de correspondances émises par la voie des télécommunications
@@ -2113,7 +2160,7 @@ Le rapport et les scellés, ou leurs résidus, sont déposés entre les mains du
 
 ##### Article 167
 
-Le juge d'instruction donne connaissance des conclusions des experts aux parties et à leurs avocats après les avoir convoqués conformément aux dispositions du deuxième alinéa de l'article 114.
+Le juge d'instruction donne connaissance des conclusions des experts aux parties et à leurs avocats après les avoir convoqués conformément aux dispositions du deuxième alinéa de l'article 114. Il leur donne également connaissance, s'il y a lieu, des conclusions des rapports des personnes requises en application des articles 60 et 77-1, lorsqu'il n'a pas été fait application des dispositions du quatrième alinéa de l'article 60.
 
 Les conclusions peuvent également être notifiées par lettre recommandée ou, lorsque la personne est détenue, par les soins du chef de l'établissement pénitentiaire qui adresse, sans délai, au juge d'instruction l'original ou la copie du récépissé signé par l'intéressé.
 
@@ -2271,6 +2318,8 @@ Les pièces à conviction restent au greffe du tribunal sauf dispositions contra
 Des ordonnances comportant non-lieu partiel peuvent intervenir en cours d'information.
 
 Peuvent intervenir, dans les mêmes conditions, des ordonnances de renvoi partiel ou de transmission partielle des pièces lorsque, sur l'un ou plusieurs des faits dont le juge d'instruction est saisi, les charges recueillies apparaissent suffisantes.
+
+Les personnes ayant fait l'objet d'une ordonnance de renvoi partiel ou de transmission partielle des pièces et qui ne demeurent pas mises en examen pour d'autres faits sont entendues comme témoin assisté. Il en est de même en cas de disjonction d'une procédure d'instruction.
 
 
 ##### Article 183
@@ -2524,7 +2573,7 @@ Il est donné lecture de l'arrêt par le président ou par l'un des conseillers 
 
 En matière de détention provisoire, la comparution personnelle de la personne concernée est de droit si celle-ci ou son avocat en fait la demande ; cette requête doit, à peine d'irrecevabilité, être présentée en même temps que la déclaration d'appel ou que la demande de mise en liberté adressée à la chambre d'accusation. Par dérogation aux dispositions du premier alinéa, en cas de comparution personnelle d'une personne majeure au moment de la commission de l'infraction, lorsque la personne concernée ou son avocat en fait la demande dès l'ouverture des débats, ceux-ci se déroulent et l'arrêt est rendu en audience publique sauf si la publicité est de nature à nuire au bon déroulement de l'information, aux intérêts d'un tiers, à l'ordre public ou aux bonnes moeurs ; la chambre d'accusation statue sur cette demande, après avoir recueilli les observations du procureur général et, le cas échéant, des avocats des autres parties, par un arrêt rendu en chambre du conseil qui n'est susceptible de pourvoi en cassation qu'en même temps que l'arrêt portant sur la demande principale.
 
-En cas de comparution personnelle de la personne concernée, le délai maximum prévu au deuxième alinéa de l'article 194 est prolongé de cinq jours.
+En cas de comparution personnelle de la personne concernée, le délai maximum prévu au troisième alinéa de l'article 194 est prolongé de cinq jours.
 
 
 ##### Article 199-1
@@ -3948,19 +3997,13 @@ Le tribunal saisi de l'action publique est compétent pour statuer sur toutes ex
 
 Le tribunal correctionnel a qualité pour constater les nullités des procédures qui lui sont soumises sauf lorsqu'il est saisi par le renvoi ordonné par le juge d'instruction ou la chambre de l'instruction.
 
-
-
 Toutefois, dans le cas où l'ordonnance ou l'arrêt qui l'a saisi n'a pas été porté à la connaissance des parties dans les conditions prévues, selon le cas, par le quatrième alinéa de l'article 183 ou par l'article 217, ou si l'ordonnance n'a pas été rendue conformément aux dispositions de l'article 184, le tribunal renvoie la procédure au ministère public pour lui permettre de saisir à nouveau la juridiction d'instruction afin que la procédure soit régularisée.
 
-
+Lorsque l'ordonnance de renvoi du juge d'instruction a été rendue sans que les conditions prévues par l'article 175 aient été respectées, les parties demeurent recevables, par dérogation aux dispositions du premier alinéa, à soulever devant le tribunal correctionnel les nullités de la procédure.
 
 Lorsque la procédure dont il est saisi n'est pas renvoyée devant lui par la juridiction d'instruction, le tribunal statue sur les exceptions tirées de la nullité de la procédure antérieure.
 
-
-
 La nullité de la citation ne peut être prononcée que dans les conditions prévues par l'article 565.
-
-
 
 Dans tous les cas, les exceptions de nullité doivent être présentées avant toute défense au fond.
 
@@ -4170,7 +4213,7 @@ Le tribunal correctionnel est composé d'un président et de deux juges.
 
 Lorsqu'un procès paraît de nature à entraîner de longs débats, le président du tribunal de grande instance peut décider qu'un ou plusieurs magistrats du siège supplémentaires assisteront aux débats. Dans le cas où un ou plusieurs magistrats du siège composant le tribunal correctionnel seraient empêchés de suivre les débats jusqu'au prononcé du jugement, ils sont remplacés par le ou les magistrats du siège supplémentaires, dans l'ordre de leur nomination au tribunal de grande instance, en commençant par le plus ancien du rang le plus élevé.
 
-Toutefois, pour le jugement des délits énumérés à l'article 398-1, il est composé d'un seul de ces magistrats exerçant les pouvoirs conférés au président.
+Toutefois, pour le jugement des délits énumérés à l'article 398-1 sauf si la peine encourue, compte tenu de l'état de récidive légale du prévenu, est supérieure à cinq ans d'emprisonnement, il est composé d'un seul de ces magistrats exerçant les pouvoirs conférés au président.
 
 La désignation des magistrats du tribunal correctionnel appelés à statuer dans les conditions prévues à l'alinéa 3 est faite par le président du tribunal de grande instance selon les modalités fixées pour la répartition des juges entre les diverses chambres de ce tribunal ; s'il y a lieu, le président du tribunal correctionnel répartit les affaires entre ces magistrats.
 
@@ -4195,6 +4238,8 @@ Toutefois, le tribunal statue obligatoirement dans les conditions prévues par l
 Lorsque le tribunal correctionnel, dans sa composition prévue par le troisième alinéa de l'article 398, constate que la qualification retenue dans l'acte qui le saisit ne relève pas des dispositions de l'article 398-1, il renvoie l'affaire devant le tribunal correctionnel siégeant dans les conditions prévues par le premier alinéa de l'article 398.
 
 Lorsque le tribunal correctionnel, dans sa composition prévue par le premier alinéa de l'article 398, constate que la qualification retenue dans l'acte qui le saisit relève des dispositions de l'article 398-1, et sous réserve des dispositions du dernier alinéa de cet article, l'affaire peut soit être renvoyée devant le tribunal correctionnel siégeant dans les conditions prévues par le troisième alinéa de l'article 398, soit être jugée par le seul président.
+
+Le tribunal correctionnel siégeant dans sa composition prévue par le troisième alinéa de l'article 398 peut, si la complexité des faits le justifie, décider, d'office ou à la demande des parties ou du ministère public, de renvoyer l'affaire devant le tribunal correctionnel siégeant dans les conditions prévues au premier alinéa du même article. Les dispositions de l'alinéa qui précède ne sont alors pas applicables. Cette décision constitue une mesure d'administration judiciaire qui n'est pas susceptible de recours.
 
 
 ##### Article 398-3
@@ -4304,7 +4349,9 @@ Le prévenu doit comparaître devant la juridiction qui a décerné mandat d'ame
 
 Le prévenu cité pour une infraction passible d'une peine d'amende ou d'une peine d'emprisonnement inférieure à deux années peut, par lettre adressée au président et qui sera jointe au dossier de la procédure, demander à être jugé en son absence.
 
-Dans ce cas, son défenseur est entendu.
+Il en est de même en cas de citation directe délivrée par la partie civile quelle que soit la durée de la peine encourue.
+
+Dans les deux cas l'avocat du prévenu est entendu.
 
 Toutefois, si le tribunal estime nécessaire la comparution du prévenu en personne, il est procédé à la réassignation du prévenu, à la diligence du ministère public, pour une audience dont la date est fixée par le tribunal.
 
@@ -5263,9 +5310,9 @@ Cette procédure ne peut plus être poursuivie lorsque la victime du dommage cau
 
 Le ministère public qui choisit la procédure simplifiée communique au juge du tribunal de police le dossier de la poursuite et ses réquisitions.
 
-Le juge statue sans débat préalable par une ordonnance pénale portant soit relaxe, soit condamnation à une amende.
+Le juge statue sans débat préalable par une ordonnance pénale portant soit relaxe, soit condamnation à une amende ainsi que, le cas échéant, à une ou plusieurs des peines complémentaires encourues.
 
-S'il estime qu'un débat contradictoire est utile ou que des sanctions autres que l'amende devraient être éventuellement prononcées, le juge renvoie le dossier au ministère public aux fins de poursuite dans les formes de la procédure ordinaire.
+S'il estime qu'un débat contradictoire est utile, le juge renvoie le dossier au ministère public aux fins de poursuite dans les formes de la procédure ordinaire.
 
 
 #### Article 526
@@ -5319,13 +5366,11 @@ Sur les intérêts civils seulement si aucune opposition n'a été formée ou si
 
 #### Chapitre II bis : De la procédure de l'amende forfaitaire
 
-##### Section 1 : Dispositions applicables à certaines infractions à la réglementation des transports par route, au code des assurances en ce qui concerne l'assurance obligatoire des véhicules terrestres à moteur et de leurs remorques et semi-remorques ainsi qu'à la réglementation sur les parcs nationaux
+##### Section 1 : Dispositions applicables à certaines contraventions
 
 ##### Article 529
 
-Pour les contraventions des quatre premières classes à la réglementation des transports par route, au Code des assurances en ce qui concerne l'assurance obligatoire des véhicules terrestres à moteur et de leurs remorques et semi-remorques et à la réglementation sur les parcs nationaux et les réserves naturelles qui sont punies seulement d'une peine d'amende, l'action publique est éteinte par le paiement d'une amende forfaitaire qui est exclusive de l'application des règles de la récidive.
-
-
+Pour les contraventions des quatre premières classes dont la liste est fixée par décret en Conseil d'Etat l'action publique est éteinte par le paiement d'une amende forfaitaire qui est exclusive de l'application des règles de la récidive.
 
 Toutefois, la procédure de l'amende forfaitaire n'est pas applicable si plusieurs infractions, dont l'une au moins ne peut donner lieu à une amende forfaitaire, ont été constatées simultanément.
 
@@ -5385,16 +5430,9 @@ A défaut de paiement ou de protestation dans le délai de deux mois précité, 
 
 ##### Section 2 bis : Dispositions applicables à certaines infractions au code de la route
 
-##### Article 529-6
-
-Pour les contraventions des quatre premières classes au code de la route punies d'une simple peine d'amende, qu'elles entraînent ou non une perte des points affectés au permis de conduire, l'action publique est éteinte par le paiement d'une amende forfaitaire qui est exclusive de l'application des règles de la récidive.
-
-Toutefois, la procédure de l'amende forfaitaire n'est pas applicable si plusieurs infractions, dont l'une au moins ne peut donner lieu à amende forfaitaire, ont été constatées simultanément.
-
-
 ##### Article 529-7
 
-Pour les contraventions au code de la route des deuxième, troisième et quatrième classes prévues par l'article 529-6, à l'exception de celles relatives au stationnement, l'amende forfaitaire est minorée si le contrevenant en règle le montant dans les conditions prévues par l'article 529-8.
+Pour les contraventions au code de la route des deuxième, troisième et quatrième classes dont la liste est fixée par décret en Conseil d'Etat, à l'exception de celles relatives au stationnement, l'amende forfaitaire est minorée si le contrevenant en règle le montant dans les conditions prévues par l'article 529-8.
 
 
 ##### Article 529-8
@@ -5546,23 +5584,13 @@ Sont également applicables les dispositions des articles 487 et 488 relatives a
 
 #### Article 546
 
-La faculté d'appeler appartient au prévenu, à la personne civilement responsable, au procureur de la République et à l'officier du ministère public près le tribunal de police, lorsque l'amende encourue est celle prévue pour les contraventions de la cinquième classe, lorsqu'a été prononcée la peine prévue par le 1° de l'article 131-16 du code pénal, ou lorsque la peine d'amende prononcée est supérieure au maximum de l'amende encourue pour les contraventions de la deuxième classe.
-
-
+La faculté d'appeler appartient au prévenu, à la personne civilement responsable, au procureur de la République, au procureur général et à l'officier du ministère public près le tribunal de police, lorsque l'amende encourue est celle prévue pour les contraventions de la cinquième classe, lorsqu'a été prononcée la peine prévue par le 1° de l'article 131-16 du code pénal, ou lorsque la peine d'amende prononcée est supérieure au maximum de l'amende encourue pour les contraventions de la deuxième classe.
 
 Lorsque des dommages et intérêts ont été alloués, la faculté d'appeler appartient également au prévenu et à la personne civilement responsable.
 
-
-
 Cette faculté appartient dans tous les cas à la partie civile quant à ses intérêts civils seulement.
 
-
-
 Dans les affaires poursuivies à la requête de l'administration des eaux et forêts, l'appel est toujours possible de la part de toutes les parties, quelles que soient la nature et l'importance des condamnations.
-
-
-
-Le procureur général peut faire appel de tous les jugements rendus en matière de police.
 
 
 #### Article 547
@@ -5939,11 +5967,20 @@ La partie qui n'a pas reçu la notification prévue à l'article 578 a le droit 
 
 #### Article 583
 
-Sont déclarés déchus de leur pourvoi les condamnés à une peine emportant privation de liberté pour une durée de plus de six mois, qui ne sont pas en état ou qui n'ont pas obtenu, de la juridiction qui a prononcé, dispense, avec ou sans caution, de se mettre en état.
+Sont déclarés déchus de leur pourvoi les condamnés à une peine emportant privation de liberté pour une durée de plus d'un an, qui ne sont pas en état ou qui n'ont pas obtenu, de la juridiction qui a prononcé, dispense, avec ou sans caution, de se mettre en état.
+
+
 
 L'acte de leur écrou ou l'arrêt leur accordant la dispense est produit devant la Cour de cassation, au plus tard au moment où l'affaire y est appelée.
 
+
+
 Pour que son recours soit recevable, il suffit au demandeur de justifier qu'il s'est constitué dans une maison d'arrêt, soit du lieu où siège la Cour de cassation, soit du lieu où a été prononcée la condamnation ; le surveillant-chef de cette maison l'y reçoit sur l'ordre du procureur général près la Cour de cassation ou du chef du parquet de la juridiction du jugement.
+
+
+#### Article 583-1
+
+Les dispositions de l'article 583 ne sont pas applicables lorsque la juridiction a condamné une personne en son absence, après avoir refusé de faire application des dispositions des articles 410 ou 411. En ce cas, le pourvoi en cassation ne peut porter que sur la légalité de la décision par laquelle la juridiction n'a pas reconnu valable l'excuse fournie par l'intéressé en application de l'article 410 ou a refusé de le juger en son absence conformément à l'article 411.
 
 
 #### Article 584
@@ -6265,13 +6302,13 @@ Pour l'application des articles 623 et 625, le requérant peut être représent�
 
 ### Article 626
 
-Un condamné reconnu innocent en application du présent titre a droit à une indemnité à raison du préjudice que lui a causé la condamnation, à moins qu'il ne soit prouvé que la non-représentation de la pièce nouvelle ou la non-révélation de l'élément inconnu en temps utile lui est imputable en tout ou partie.
+Un condamné reconnu innocent en application du présent titre a droit à une indemnité à raison du préjudice matériel et moral que lui a causé la condamnation, à moins qu'il ne soit prouvé que la non-représentation de la pièce nouvelle ou la non-révélation de l'élément inconnu en temps utile lui est imputable en tout ou partie.
 
 Peut également demander une indemnité, dans les mêmes conditions, toute personne justifiant du préjudice que lui a causé la condamnation.
 
-L'indemnité est allouée par la commission et suivant la procédure prévue par les articles 149-1 et 149-2.
+L'indemnité est allouée par la commission et suivant la procédure prévue par les articles 149-1 et 149-2. Si la personne en fait la demande, l'indemnisation peut également être allouée par la décision d'où résulte son innocence. Devant la cour d'assises, l'indemnisation est allouée par la cour statuant, comme en matière civile, sans l'assistance des jurés.
 
-Elle est à la charge de l'Etat, sauf son recours contre la partie civile, le dénonciateur ou le faux témoin par la faute desquels la condamnation a été prononcée. Elle est payée comme frais de justice criminelle, correctionnelle et de police.
+Cette indemnité est à la charge de l'Etat, sauf son recours contre la partie civile, le dénonciateur ou le faux témoin par la faute desquels la condamnation a été prononcée. Elle est payée comme frais de justice criminelle, correctionnelle et de police.
 
 Si le demandeur le requiert, l'arrêt ou le jugement de révision d'où résulte l'innocence du condamné est affiché dans la ville où a été prononcée la condamnation, dans la commune du lieu où le crime ou le délit a été commis, dans celle du domicile des demandeurs en révision, dans celles du lieu de naissance et du dernier domicile de la victime de l'erreur judiciaire, si elle est décédée ; dans les mêmes conditions, il est ordonné qu'il soit inséré au Journal officiel et publié par extraits dans cinq journaux au choix de la juridiction qui a prononcé la décision.
 
@@ -6607,6 +6644,19 @@ Tout arrêt qui a statué sur une demande en renvoi pour l'une des causes préci
 L'arrêt qui a rejeté une demande en renvoi pour sûreté publique, pour les motifs énoncés au premier alinéa de l'article 665-1, pour suspicion légitime ou dans l'intérêt d'une bonne administration de la justice n'exclut pas une nouvelle demande en renvoi fondée sur des faits survenus depuis.
 
 
+### Article 667-1
+
+Si la juridiction normalement compétente ne peut être composée en raison de l'existence des incomptabilités prévues par la loi, le premier président de la cour d'appel peut ordonner le renvoi devant la juridiction limitrophe située dans le ressort de cette cour et désignée par l'ordonnance prévue au dernier alinéa du présent article.
+
+La requête aux fins de renvoi est présentée par le procureur de la République de la juridiction saisie.
+
+Elle est signifiée à toutes les parties intéressées, qui ont un délai de dix jours pour présenter leurs observations auprès du premier président.
+
+Celui-ci statue dans les quinze jours de la requête. Sa décision constitue une mesure d'administration judiciaire qui n'est pas susceptible de recours.
+
+Après avis des présidents des tribunaux de grande instance concernés et du procureur général, le premier président prend chaque année une ordonnance indiquant, pour chacune des juridictions de son ressort, la juridiction devant laquelle des procédures sont susceptibles d'être renvoyées en application des dispositions du présent article. Cette ordonnance ne peut être modifiée en cours d'année.
+
+
 ### Titre VII : De la récusation
 
 ### Article 668
@@ -6711,9 +6761,9 @@ Par dérogation aux dispositions qui précèdent, lorsqu'il a été commis penda
 Si le fait commis est un crime, la cour ou le tribunal, après avoir fait arrêter l'auteur, l'interroge et dresse procès-verbal des faits ; cette juridiction transmet les pièces et ordonne la conduite immédiate de l'auteur devant le procureur de la République compétent qui requiert l'ouverture d'une information.
 
 
-### Titre X : Des infractions commises hors du territoire de la République
+### Titre IX : Des infractions commises hors du territoire de la République
 
-#### Chapitre Ier : De la compétence des juridictions françaises.
+#### Chapitre Ier : De la compétence des juridictions françaises
 
 #### Article 689
 
@@ -6772,7 +6822,7 @@ c) Délit prévu au quatrième alinéa (3°) de l'article L. 282-1 du code de l'
 2. De l'infraction définie au sixième alinéa (5°) de l'article L. 282-1 du code de l'aviation civile, lorsqu'elle a été commise à l'encontre des services d'un aérodrome affecté à l'aviation civile internationale.
 
 
-#### Chapitre II : De l'exercice des poursuites et de la juridiction territorialement compétente.
+#### Chapitre II : De l'exercice des poursuites et de la juridiction territorialement compétente
 
 #### Article 692
 
@@ -6784,6 +6834,37 @@ Dans les cas prévus au chapitre précédent, aucune poursuite ne peut être exe
 La juridiction compétente est celle du lieu où réside le prévenu, celle de sa dernière résidence connue, celle du lieu où il est trouvé, celle de la résidence de la victime ou, si l'infraction a été commise à bord ou à l'encontre d'un aéronef, celle du lieu d'atterrissage de celui-ci. Ces dispositions ne sont pas exclusives de l'application éventuelle des règles particulières de compétence prévues par les articles 697-3, 705 et 706-17.
 
 Lorsque les dispositions de l'alinéa précédent ne peuvent recevoir application, la juridiction compétente est celle de Paris, à moins que la connaissance de l'affaire ne soit renvoyée à une juridiction plus voisine du lieu de l'infraction par la Cour de cassation statuant sur la requête du ministère public ou à la demande des parties.
+
+
+### Titre X : De l'entraide judiciaire internationale
+
+### Article 694
+
+Les demandes d'entraide émanant des autorités judiciaires étrangères sont exécutées, selon l'origine de la demande ou la nature des actes sollicités, dans les formes prévues par le présent code pour l'enquête, l'instruction ou l'audience de jugement.
+
+La demande d'entraide doit être exécutée dans les formes prévues pour l'instruction lorsqu'elle nécessite certains actes de procédure qui ne peuvent être ordonnés ou exécutés que par un juge d'instruction.
+
+La demande d'entraide doit être exécutée dans les formes prévues pour l'audience de jugement lorsqu'elle doit être réalisée en audience publique et contradictoire. Elle est alors confiée, selon le cas, au tribunal correctionnel siégeant dans sa composition prévue par le troisième alinéa de l'article 398 ou au tribunal de police.
+
+
+### Article 695
+
+Pour l'application de l'article 53 de la convention signée à Schengen le 19 juin 1990, le procureur général du ressort de la cour d'appel est chargé de transmettre les demandes d'entraide auprès des autorités judiciaires compétentes et d'assurer le retour des pièces d'exécution.
+
+
+### Article 696
+
+Pour le retour des pièces d'exécution en urgence entre les autorités judiciaires françaises et les autres Etats parties à la convention signée à Schengen le 19 juin 1990, les compétences confiées au ministère de la justice par le paragraphe 2 de l'article 15 de la convention européenne d'entraide judiciaire en matière pénale faite à Strasbourg le 20 avril 1959 sont exercées par le procureur général du ressort de la cour d'appel.
+
+
+### Article 696-1
+
+Les autorités judiciaires sollicitant un acte urgent d'entraide judiciaire en matière pénale peuvent, dans le cadre des conventions en vigueur, saisir les autorités compétentes de l'Etat requis, afin d'obtenir, dans les meilleurs délais, le retour des pièces d'exécution de l'acte sollicité.
+
+
+### Article 696-2
+
+Les autorités judiciaires saisies d'une demande d'entraide judiciaire en matière pénale internationale dont elles estiment que la mise à exécution pourrait être de nature à porter atteinte à la sécurité, à l'ordre public ou à d'autres intérêts essentiels de la Nation, prennent les dispositions nécessaires pour permettre aux autorités compétentes d'apprécier la suite à lui réserver.
 
 
 ### Titre XI : Des crimes et des délits en matière militaire et des crimes et délits contre les intérêts fondamentaux de la nation
@@ -7299,6 +7380,15 @@ En cas d'information ouverte pour infraction aux articles 222-34 à 222-38 du co
 La condamnation vaut validation des saisies conservatoires et permet l'inscription définitive des sûretés.
 
 La décision de non-lieu, de relaxe ou d'acquittement emporte de plein droit, aux frais du Trésor, mainlevée des mesures ordonnées. Il en est de même en cas d'extinction de l'action publique.
+
+
+### Article 706-30-1
+
+Lorsqu'il est fait application des dispositions du troisième alinéa de l'article 99-2 à des substances stupéfiantes saisies au cours de la procédure, le juge d'instruction doit conserver un échantillon de ces produits afin de permettre, le cas échéant, qu'ils fassent l'objet d'une expertise. Cet échantillon est placé sous scellés.
+
+Il doit être procédé par le juge d'instruction ou par un officier de police judiciaire agissant sur commission rogatoire à la pesée des substances saisies avant leur destruction. Cette pesée doit être réalisée en présence de la personne qui détenait les substances, ou, à défaut, en présence de deux témoins requis par le juge d'instruction ou l'officier de police judiciaire et choisis en dehors des personnes relevant de leur autorité. La pesée peut également être réalisée, dans les mêmes conditions, au cours de l'enquête de flagrance ou de l'enquête préliminaire, par un officier de police judiciaire, ou, au cours de l'enquête douanière, par un agent des douanes de catégorie A ou B.
+
+Le procès-verbal des opérations de pesée est signé par les personnes mentionnées ci-dessus. En cas de refus, il en est fait mention au procès-verbal.
 
 
 ### Article 706-31
@@ -9026,6 +9116,11 @@ En cas de violation des formes prescrites par la loi à peine de nullité ou d'i
 Nul ne peut être soumis au port des menottes ou des entraves que s'il est considéré soit comme dangereux pour autrui ou pour lui-même, soit comme susceptible de tenter de prendre la fuite.
 
 
+#### Article 803-1
+
+Dans les cas où, en vertu des dispositions du présent code, il est prévu de procéder aux notifications à un avocat par lettre recommandée ou par lettre recommandée avec demande d'avis de réception, la notification peut aussi être faite sous la forme d'une télécopie avec récépissé.
+
+
 ### Article 800
 
 Un décret en Conseil d'Etat détermine les frais qui doivent être compris sous la dénomination de frais de justice criminelle, correctionnelle et de police ; il en établit le tarif, en règle le paiement et le recouvrement, détermine les voies de recours, fixe les conditions que doivent remplir les parties prenantes et, d'une façon générale, règle tout ce qui touche aux frais de justice en matière criminelle, correctionnelle et de police.
@@ -9302,6 +9397,11 @@ Le deuxième alinéa de l'article 2-8 est rédigé comme suit :
 I. - Les fonctionnaires et agents exerçant dans les territoires d'outre-mer et en Nouvelle-Calédonie des fonctions correspondant à celles des fonctionnaires et agents métropolitains visés aux articles 22 à 29 sont chargés de certaines fonctions de police judiciaire dans les conditions et les limites fixées par ces mêmes articles.
 
 II. - Les agents assermentés des territoires et, en Nouvelle-Calédonie, des provinces, peuvent constater par procès-verbal des infractions aux réglementations édictées par les territoires ou, en Nouvelle-Calédonie, les provinces, lorsqu'ils appartiennent à une administration chargée de contrôler la mise en oeuvre de ces réglementations. Ces agents sont commissionnés par l'autorité administrative compétente après qu'ils ont été agréés par le procureur de la République. Ils prêtent serment devant le tribunal de première instance.
+
+
+#### Article 809-1
+
+Pour l'application de l'article 41-2, les références aux articles 28 et 32 (2°) du décret-loi du 18 avril 1939 fixant le régime des matériels de guerre, armes et munitions et à l'article L. 1er du code de la route sont remplacées par les références aux dispositions applicables localement qui répriment la détention ou le port d'arme et aux dispositions applicables localement en matière de circulation routière qui répriment la conduite sous l'empire d'un état alcoolique ou en état d'ivresse manifeste.
 
 
 #### Article 810
