@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 19 juin 1986
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19860619)
+- Date de consolidation : 1er juillet 1986
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19860701)
 
 
 # Partie législative
@@ -8324,6 +8324,25 @@ Les fiches relevant un arrêté d'expulsion sont dressées par le ministre de l'
 Les fiches du casier judiciaire national automatisé sont enregistrées sur un support magnétique.
 
 
+#### Article R69
+
+Le service du casier judiciaire national automatisé, dès qu'il est avisé, enregistre sur les fiches les mentions prescrites à l'article 769.
+
+L'avis lui est adressé dans les plus brefs délais :
+1. Pour les grâces, commutations ou réductions de peines, par le ministre de la justice ou par le directeur ou le surveillant chef de l'établissement pénitentiaire agissant par l'intermédiaire du procureur de la République de la résidence de l'intéressé ;
+2. Pour les décisions qui suspendent ou qui ordonnent l'exécution d'une condamnation, par le greffe de la juridiction ou par l'autorité qui les a rendues ;
+3. Pour les arrêts portant réhabilitation, par le greffier de la juridiction qui a statué ;
+4. Pour les décisions rapportant les arrêtés d'expulsion, par le ministre de l'Intérieur ;
+5. Pour les dates de l'expiration des peines corporelles et l'exécution de la contrainte judiciaire ainsi que pour les arrêtés de mise en liberté conditionnelle, par les directeurs et surveillants chefs des établissements pénitentiaires et par l'intermédiaire du procureur de la République de leur résidence ; pour les arrêtés supprimant les mesures d'assistance et de contrôle prévues par les arrêtés de libération conditionnelle et pour les arrêtés de révocation de liberté conditionnelle, par le ministre de la Justice ;
+6. Pour le paiement de l'amende par les trésoriers-payeurs généraux, les receveurs particuliers des finances et les percepteurs
+7. Pour les décisions prononçant une peine ou une dispense de peine après ajournement du prononcé de la peine, par le greffier de la juridiction qui a statué ;
+8. Pour les décisions prises en application des articles 55-1 du Code pénal, 775-1 et 777-1 du Code de procédure pénale, par le greffier de la juridiction qui a statué.
+
+Les homologations de concordat sont également enregistrées d'après l'avis qui en est donné par le greffier de la juridiction qui a prononcé.
+
+Ces avis peuvent être adressés au service du casier judiciaire national automatisé sous la forme d'un support magnétique.
+
+
 #### Article R70
 
 Les fiches du casier judiciaire national automatisé sont effacées dans les cas suivants :
@@ -8345,6 +8364,13 @@ Pour les personnes nées dans les territoires d'outre-mer les fiches prévues au
 
 
 #### Chapitre III : Des copies des fiches du casier judiciaire
+
+#### Article R73
+
+Lorsque la communication d'avis de condamnation est prévue par des conventions internationales, les copies des fiches sont établies et transmises par le service du casier judiciaire national automatisé aux autorités prévues par ces conventions.
+
+Dans les ressorts des tribunaux de grande instance pour lesquels ne sont pas intervenus les décrets prévus par l'article 10 de la loi n° 80-2 du 4 janvier 1980, les copies des fiches sont adressées par le greffe au ministère de la justice en vue de leur transmission aux autorités compétentes.
+
 
 #### Article R74
 
