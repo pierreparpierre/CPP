@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 10 novembre 1994
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19941110)
+- Date de consolidation : 16 novembre 1994
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19941116)
 
 
 # Partie législative
@@ -8665,12 +8665,10 @@ Les officiers de police judiciaire, à l'occasion d'une enquête ou de l'exécut
 
 La commission prévue à l'article 16 (2°) du code de procédure pénale et dont l'avis conforme est requis pour la désignation des gendarmes ayant la qualité d'officier de police judiciaire est composée comme suit :
 1. Le procureur général près la Cour de cassation ou son délégué choisi par lui parmi le premier avocat général et les avocats généraux près la Cour de cassation, président ;
-2. Neuf magistrats du ministère public, dont deux au plus peuvent être des magistrats honoraires ou en retraite ;
-3. Le général inspecteur général de la gendarmerie ou son représentant ;
+2. Le général de gendarmerie, inspecteur général des armées, ou son représentant ;
+3. Des magistrats du ministère public, dont quatre au plus peuvent être des magistrats honoraires, et des officiers supérieurs de la gendarmerie dont quatre au plus peuvent être en retraite, en nombre égal. Ce nombre, qui est au moins de huit et au plus de quinze, est déterminé par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé des armées en fonction du nombre de candidats à l'examen technique prévu à l'article R. 5.
 
-Huit officiers supérieurs de gendarmerie.
-
-Le secrétariat de la commission est assuré par la direction de la gendarmerie et de la justice militaire.
+Le secrétariat de la commission est assuré par la gendarmerie nationale.
 
 
 ####### Article R4
@@ -8680,9 +8678,13 @@ Les membres de la commission sont nommés par arrêté conjoint du garde des sce
 
 ####### Article R5
 
-La qualité d'officier de police judiciaire peut être attribuée à la suite d'un examen technique aux gendarmes comptant au moins cinq ans de service dans la gendarmerie.
+La qualité d'officier de police judiciaire peut être attribuée à la suite d'un examen technique aux gendarmes comptant au moins quatre ans de service dans la gendarmerie.
+
+
 
 Les candidats doivent totaliser au moins trois ans de service dans la gendarmerie au 1er janvier de l'année de l'examen pour être autorisés à subir les épreuves.
+
+
 
 Les conditions d'établissement des listes des candidats admis à se présenter, les modalités d'organisation de l'examen technique et le programme des épreuves sont fixés par arrêté conjoint du garde des sceaux, ministre de la Justice, et du ministre des Armées.
 
@@ -8700,9 +8702,13 @@ Le jury établit la liste des candidats ayant satisfait à l'examen technique.
 
 L'attribution de la qualité d'officier de police judiciaire aux candidats reçus à l'examen technique est prononcée, suivant les besoins du service, sur avis conforme de la commission, par arrêté conjoint du garde des sceaux, ministre de la Justice, et du ministre des Armées.
 
+
+
 Par dérogation aux dispositions des articles R. 5 et R. 6 et de l'alinéa qui précède, sur avis conforme de la commission, la qualité d'officier de police judiciaire peut être attribuée sans examen technique, par arrêté conjoint du garde des sceaux, ministre de la Justice, et du ministre des Armées, au gendarme blessé dans le service à l'occasion d'une opération de police au cours de laquelle il a fait preuve de qualités particulières de courage.
 
-En aucun cas, l'attribution de la qualité d'officier de police judiciaire ne peut prendre effet avant que les bénéficiaires aient accompli cinq ans en activité de service dans la gendarmerie.
+
+
+En aucun cas, l'attribution de la qualité d'officier de police judiciaire ne peut prendre effet avant que les bénéficiaires aient accompli quatre ans en activité de service dans la gendarmerie.
 
 
 ####### B : Désignation des officiers de police judiciaire de la police nationale
