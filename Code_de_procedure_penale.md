@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 21 février 2002
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20020221)
+- Date de consolidation : 27 février 2002
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20020227)
 
 
 # Partie législative
@@ -7113,7 +7113,29 @@ Si, à l'issue de la procédure, le condamné est reconnu innocent, les disposit
 
 ## Livre IV : De quelques procédures particulières
 
-### Titre Ier : Des contumaces
+### Titre Ier : De la coopération avec la Cour pénale internationale
+
+#### Chapitre Ier : De la coopération judiciaire
+
+#### Chapitre II : De l'exécution des peines et des mesures de réparation prononcées par la Cour pénale internationale
+
+### Article 627
+
+Pour l'application du statut de la Cour pénale internationale signé le 18 juillet 1998, la France participe à la répression des infractions et coopère avec cette juridiction dans les conditions fixées par le présent titre.
+
+Les dispositions qui suivent sont applicables à toute personne poursuivie devant le Cour pénale internationale ou condamnée par celle-ci à raison des actes qui constituent, au sens des articles 6 à 8 et 25 du statut, un génocide, des crimes contre l'humanité ou des crimes de guerre.
+
+
+### Titre Ier bis : Des contumaces
+
+### Article 627-21
+
+Lorsque, après une décision de mise en accusation, l'accusé n'a pu être saisi ou ne se représente pas dans les dix jours de la signification qui en a été faite à son domicile, ou lorsque après s'être présenté ou avoir été saisi, il s'est évadé, le président de la cour d'assises ou, en son absence, le président du tribunal du lieu où se tiennent les assises, ou le magistrat qui le remplace, rend une ordonnance portant qu'il est tenu de se représenter dans un nouveau délai de dix jours, sinon, qu'il sera déclaré rebelle à la loi, qu'il sera suspendu de l'exercice de ses droits de citoyen, que ses biens seront séquestrés pendant l'instruction de la contumace, que toute action en justice lui sera interdite pendant le même temps, qu'il sera procédé contre lui et que toute personne est tenue d'indiquer le lieu où il se trouve.
+
+
+
+Cette ordonnance fait de plus mention du crime et de l'ordonnance de prise de corps.
+
 
 ### Article 628
 
@@ -7129,7 +7151,7 @@ Après un délai de dix jours, il est procédé au jugement de la contumace.
 
 ### Article 630
 
-Aucun avocat, aucun avoué ne peut se présenter pour l'accusé contumax. Toutefois, si l'accusé est dans l'impossibilité absolue de déférer à l'injonction contenue dans l'ordonnance prévue par l'article 627, ses parents ou ses amis peuvent proposer son excuse.
+Aucun avocat, aucun avoué ne peut se présenter pour l'accusé contumax. Toutefois, si l'accusé est dans l'impossibilité absolue de déférer à l'injonction contenue dans l'ordonnance prévue par l'article 627-21, ses parents ou ses amis peuvent proposer son excuse.
 
 
 ### Article 631
@@ -7147,7 +7169,7 @@ Après cette lecture, la cour, sur les réquisitions du procureur général, pro
 
 
 
-Si l'une des formalités prescrites par les articles 627 et 628 a été omise, la cour déclare nulle la procédure de contumace et ordonne qu'elle sera recommencée à partir du plus ancien acte illégal.
+Si l'une des formalités prescrites par les articles 627-21 et 628 a été omise, la cour déclare nulle la procédure de contumace et ordonne qu'elle sera recommencée à partir du plus ancien acte illégal.
 
 
 
@@ -10830,6 +10852,11 @@ Le délai prévu au premier alinéa de l'article 552 s'applique lorsque la parti
 
 #### Chapitre VIII : De quelques procédures particulières
 
+#### Article 897-1
+
+Le délai prévu au premier alinéa de l'article 627-6 est porté à quinze jours lorsque le transfèrement se fait à partir de Mayotte.
+
+
 #### Article 898
 
 Le président du tribunal de première instance ou le magistrat du siège qu'il délègue exerce les attributions dévolues à la commission mentionnée à l'article 706-4.
@@ -10911,6 +10938,11 @@ Par dérogation à l'article 193, le tribunal supérieur d'appel, en tant que ch
 #### Article 907
 
 Les articles L. 952-11 et L. 952-12 du code de l'organisation judiciaire relatifs au remplacement du président du tribunal supérieur d'appel et des assesseurs et aux modalités particulières d'exercice des fonctions juridictionnelles sont applicables à la chambre de l'instruction et à son président.
+
+
+#### Article 907-1
+
+Les délais prévus à l'article 130 et au premier alinéa de l'article 627-6 sont portés à quinze jours lorsque le transfèrement se fait à partir de la collectivité territoriale.
 
 
 #### Chapitre III : Des juridictions de jugement
