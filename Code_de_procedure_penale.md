@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 1er mai 1995
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19950501)
+- Date de consolidation : 10 mai 1995
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19950510)
 
 
 # Partie législative
@@ -9621,64 +9621,221 @@ Une ou plusieurs commissions d'examen, dont les membres sont nommés par arrêt�
 Le secrétariat de chaque commission d'examen est assuré par la direction du personnel et de la formation de la police.
 
 
+##### Section 4 : Des services et unités visés à l'article 15-1
+
+###### Paragraphe 1er : Des services de la police nationale
+
+###### Article R15-18
+
+Les services actifs de la police nationale au sein desquels les officiers et agents de police judiciaire exercent leurs fonctions habituelles et dont la compétence s'exerce sur l'ensemble du territoire national sont les suivants :
+1. La direction centrale de la police judiciaire ;
+2. La direction centrale du contrôle de l'immigration et de la lutte contre l'emploi des clandestins ;
+3. La direction de la surveillance du territoire ;
+4. La sous-direction chargée des courses et jeux de la direction centrale des renseignements généraux ;
+5. L'inspection générale de la police nationale ;
+6. Le détachement de la police nationale auprès de la direction nationale des enquêtes douanières.
+
+
+###### Article R15-19
+
+Les catégories de services actifs de la police nationale au sein desquels les officiers et agents de police judiciaire exercent leurs fonctions habituelles et dont la compétence s'exerce sur le ressort d'une ou plusieurs cours d'appel ou parties de celles-ci sont les suivantes :
+1. Les services régionaux de police judiciaire et la direction régionale de police judiciaire de Paris ainsi que leurs détachements, antennes et services départementaux ;
+2. Les directions interrégionales et la direction interdépartementale du contrôle de l'immigration et de la lutte contre l'emploi des clandestins ainsi que les unités de police des chemins de fer, les brigades mobiles de recherches et les brigades de police aéronautique qui leur sont rattachées, dans la zone de défense où elles ont leur siège ;
+3. Les unités autoroutières des compagnies républicaines de sécurité pour les voies de circulation auxquelles elles sont affectées et, pour les infractions visées à l'article L. 23-1 du code de la route, les sections motocyclistes dans les départements du ressort de leur groupement d'affectation ;
+4. La direction des renseignements généraux de la préfecture de police ;
+5. L'inspection générale des services de la préfecture de police, dans les départements de Paris, des Hauts-de-Seine, du Val-de-Marne et de la Seine-Saint-Denis ;
+6. La direction des services techniques de la préfecture de police dans les départements de Paris, des Hauts-de-Seine, du Val-de-Marne et de la Seine-Saint-Denis.
+
+
+###### Article R15-20
+
+Les catégories de services actifs de la police nationale au sein desquels les officiers et agents de police judiciaire exercent leurs fonctions habituelles et dont la compétence s'exerce dans le ressort d'un ou de plusieurs tribunaux de grande instance d'une même cour d'appel sont les suivantes :
+1. Les sûretés départementales de sécurité publique, pour l'ensemble des circonscriptions de sécurité publique du département où elles ont leur siège ;
+2. Les services de police urbaine des circonscriptions de sécurité publique, pour l'ensemble des circonscriptions de sécurité publique du ressort du tribunal de grande instance où ils ont leur siège ;
+3. Les directions départementales du contrôle de l'immigration et de la lutte contre l'emploi des clandestins, dans le département où elles ont leur siège.
+
+
+###### Article R15-21
+
+La création ou la suppression des services visés aux articles précédents est décidée par décret lorsque leur compétence territoriale excède les limites d'un département. Elle est décidée par arrêté du ministre de l'intérieur lorsque leur compétence territoriale n'excède pas ces limites.
+
+Leur compétence territoriale est modifiée selon les mêmes formes.
+
+Toutefois, la création des services visés à l'article R. 15-20 (1°) est décidée par décret lorsque ceux-ci sont situés dans un département comportant plusieurs tribunaux de grande instance.
+
+
+###### Paragraphe 2 : Des unités de la gendarmerie nationale
+
+###### Article R15-22
+
+Les unités de la gendarmerie nationale au sein desquelles les officiers et agents de police judiciaire exercent leurs fonctions habituelles et dont la compétence s'exerce sur l'ensemble du territoire national sont les suivantes :
+1. L'inspection technique de la gendarmerie nationale ;
+2. La section judiciaire de la gendarmerie de l'air ;
+3. La brigade de recherches du groupement de gendarmerie maritime de l'Atlantique, implantée à Brest ;
+4. La brigade de recherches du groupement de la gendarmerie des transports aériens de Paris-Orly.
+
+
+###### Article R15-23
+
+Les catégories d'unités de la gendarmerie nationale au sein desquelles les officiers et agents de police judiciaire exercent leurs fonctions habituelles et dont la compétence s'exerce dans le ressort d'une ou de plusieurs cours d'appel ou parties de celles-ci sont les suivantes :
+1. Les sections de recherches de la gendarmerie départementale ;
+2. Les brigades, pelotons et brigades rapides d'intervention de gendarmerie d'autoroute, pour les voies de circulation auxquelles ils sont affectés ;
+3. Les sections ou détachements aériens de la gendarmerie départementale ;
+4. Les brigades, les brigades de recherches et les brigades motorisées de la gendarmerie des transports aériens ;
+5. Les brigades et les brigades motorisées de la gendarmerie de l'air, dans la région aérienne où elles sont implantées ;
+6. Les brigades de recherches, les brigades de surveillance du littoral, les unités navigantes de la gendarmerie maritime ;
+7. Les sections ou brigades de la gendarmerie de l'armement placées auprès d'établissements relevant de la délégation générale pour l'armement implantés dans le ressort des cours d'appel de Paris ou de Versailles ;
+8. Les pelotons de gendarmerie de montagne ou de haute montagne ;
+9. Les brigades fluviales et nautiques de la gendarmerie départementale.
+
+
+###### Article R15-24
+
+Les catégories d'unités de la gendarmerie nationale au sein desquelles les officiers et agents de police judiciaire exercent leurs fonctions habituelles et dont la compétence s'exerce dans le ressort d'un ou de plusieurs tribunaux de grande instance d'une même cour d'appel sont les suivantes :
+1. Les brigades de recherches de la gendarmerie départementale implantées au chef-lieu du département, pour le département où elles sont situées ;
+2. Les brigades départementales de renseignements judiciaires de la gendarmerie départementale, pour le département où elles sont situées ;
+3. Les pelotons et brigades motorisés de la gendarmerie départementale et les brigades motorisées de la gendarmerie mobile, pour le département où ils sont situés :
+4. Les pelotons de surveillance et d'intervention de la gendarmerie départementale, pour le département où ils sont situés ;
+5. Les brigades ou postes de la gendarmerie maritime placés auprès des services des affaires maritimes, pour les arrondissements maritimes où ils sont situés ;
+6. Les sections ou brigades de la gendarmerie de l'armement non visées au 7° de l'article R. 15-23 pour les établissements relevant de la délégation générale pour l'armement auxquels ils sont rattachés.
+
+
+###### Article R15-25
+
+Les catégories d'unités de la gendarmerie nationale au sein desquelles les officiers et agents de police judiciaire exercent leurs fonctions habituelles et dont la compétence s'exerce dans le ressort d'un tribunal de grande instance ou partie de celui-ci sont les suivantes :
+1. Les brigades de recherches et les équipes de recherches de la gendarmerie départementale non visées aux articles précédents, pour le ressort du tribunal de grande instance dans lequel l'unité a son siège ;
+2. Les brigades territoriales de la gendarmerie départementale, pour la circonscription de la compagnie de rattachement ou, lorsque cette circonscription s'étend sur tout ou partie du ressort de deux tribunaux de grande instance, pour la partie de la circonscription de la compagnie située dans le ressort du tribunal de grande instance dans lequel la brigade a son siège ;
+3. Les pelotons de la gendarmerie maritime.
+
+
+###### Article R15-26
+
+La création ou la suppression des unités visées aux articles précédents est décidée par décret lorsque leur compétence territoriale excède les limites d'un département. Elle est décidée par arrêté du ministre de la défense lorsque leur compétence territoriale n'excède pas ces limites.
+
+Leur compétence territoriale est modifiée selon les mêmes formes.
+
+Toutefois, la création des unités de la gendarmerie maritime, de la gendarmerie de l'air, de la gendarmerie des transports aériens et de la gendarmerie de l'armement et des unités aériennes, autoroutières, fluviales, nautiques ou de montagne de la gendarmerie départementale est décidée par arrêté du ministre de la défense.
+
+
+###### Paragraphe 3 : Dispositions communes
+
+###### Article R15-27
+
+La compétence territoriale des directeurs et chefs de services, des commandants d'unités et de leurs adjoints au sein desquels sont regroupés des services ou unités visés aux articles R. 15-18 à R. 15-20 et R. 15-22 à R. 15-25 couvre l'ensemble du ressort territorial de ces services ou unités.
+
+
+##### Section 5 : Des officiers et agents de police judiciaire exerçant leur mission dans des véhicules affectés au transport collectif de voyageurs
+
+###### Paragraphe 1er : Des officiers et agents de police judiciaire de la police nationale
+
+###### Article R15-29
+
+Les officiers et agents de police judiciaire appartenant aux directions interrégionales, interdépartementale ou départementales du contrôle de l'immigration et de la lutte contre l'emploi des clandestins sont compétents pour opérer sur l'ensemble du domaine ferroviaire du ressort de la direction interrégionale à laquelle ils appartiennent et des directions interrégionales ou interdépartementale limitrophes.
+
+
+###### Article R15-30
+
+Les officiers et agents de police judiciaire appartenant aux sûretés départementales de sécurité publique ou aux services de police urbaine des circonscriptions de sécurité publique sont compétents pour opérer sur l'ensemble des lignes, stations, gares, arrêts et couloirs affectés aux transports collectifs de voyageurs dans leur département d'affectation et dans les départements limitrophes.
+
+Toutefois, les officiers et agents de police judiciaire appartenant au service parisien de sécurité du métropolitain de la direction de la sécurité publique de la préfecture de police sont compétents pour opérer sur l'ensemble des lignes, stations, gares, arrêts et couloirs du métropolitain et du réseau express régional.
+
+
+###### Article R15-31
+
+Les officiers et agents de police judiciaire affectés à la direction régionale de la police judiciaire de la préfecture de police et au service régional de la police judiciaire de Versailles sont compétents pour opérer sur l'ensemble des lignes, stations, gares, arrêts et couloirs des transports en commun de la région Ile-de-France.
+
+
+###### Paragraphe 2 : Des officiers et agents de police judiciaire de la gendarmerie nationale
+
+###### Article R15-32
+
+Les officiers et agents de police judiciaire appartenant aux brigades de recherches de la gendarmerie départementale visées à l'article R. 15-24 (1°), sont compétents pour opérer sur l'ensemble des lignes, stations, gares, arrêts et couloirs affectés aux transports collectifs de voyageurs dans le ressort de leur cour d'appel de rattachement.
+
+
+###### Article R15-33
+
+Les officiers et agents de police judiciaire appartenant aux brigades ou équipes de recherches et aux brigades territoriales de la gendarmerie départementale visées à l'article R. 15-25 (1° et 2°), sont compétents pour opérer sur l'ensemble des lignes, stations, gares, arrêts et couloirs affectés aux transports collectifs de voyageurs dans leur département d'affectation et dans les départements limitrophes.
+
+
+##### Article R15-28
+
+Les officiers ou agents de police judiciaire appartenant aux services ou unités désignés aux articles R. 15-29 à R. 15-33 sont compétents, dans les limites définies par ces articles, pour exercer leur mission dans les véhicules affectés au transport collectif de voyageurs, dès lors que ces véhicules, ou le réseau sur lequel ils circulent, traversent tout ou partie de leur circonscription d'affectation.
+
+
 ### Titre III : Des juridictions d'instruction
 
 #### Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré
 
 ##### Section 1 : Dispositions générales
 
-##### Article R15-18
+##### Article R15-34
 
-Lorsqu'il ne procède pas lui-même ou ne fait pas procéder par un officier de police judiciaire à l'enquête de personnalité prévue par l'alinéa 6 de l'article 81, le juge d'instruction saisi de la procédure ou, sur délégation ou, sur délégation, celui dans le ressort duquel réside l'inculpé peut désigner à cette fin toute personne physique ou morale habilitée comme il est dit ci-après ou, à titre exceptionnel, un contrôleur judiciaire.
+Lorsqu'il ne procède pas lui-même ou ne fait pas procéder par un officier de police judiciaire à l'enquête de personnalité prévue par l'alinéa 6 de l'article 81, le juge d'instruction saisi de la procédure ou, sur délégation, celui dans le ressort duquel réside l'inculpé peut désigner à cette fin toute personne physique ou morale habilitée comme il est dit ci-après ou, à titre exceptionnel, un contrôleur judiciaire.
 
 
-##### Article R15-19
+##### Article R15-35
 
-La personne physique ou morale, selon qu'elle désire être habilitée à procéder à des enquêtes de personnalité dans le ressort du tribunal de grande instance ou dans celui de la cour d'appel, en fait la demande au moyen des juges d'instruction ou au président de la chambre de l'instruction.
+La personne physique ou morale, selon qu'elle désire être habilitée à procéder à des enquêtes de personnalité dans le ressort du tribunal de grande instance ou dans celui de la cour d'appel, en fait la demande au moyen des juges d'instruction ou au président de la chambre d'accusation.
+
+
 
 La demande présentée par une association comporte notamment :
-1. La copie du Journal officiel portant publication de la déclaration de l'association ou, en ce qui concerne les départements du Bas-Rhin, du Haut-Rhin ou de la Moselle, une copie de l'extrait du registre des associations du tribunal d'instance :
+
+
+1. La copie du Journal officiel portant publication de la déclaration de l'association ou, en ce qui concerne les départements du Bas-Rhin, du Haut-Rhin ou de la Moselle, une copie de l'extrait du registre des associations du tribunal d'instance ;
+
+
 2. Un exemplaire des statuts et, s'il y a lieu, du règlement intérieur ;
+
+
 3. La liste des établissements de l'association avec indication de leur siège ;
+
+
 4. Un exposé indiquant les conditions de fonctionnement de l'association et, le cas échéant, l'organisation et les conditions de fonctionnement des comités locaux, ainsi que leurs rapports avec l'association ;
+
+
 5. La mention des nom, prénoms, date et lieu de naissance, nationalité, profession et domicile des membres du conseil d'administration et du bureau de l'association ainsi que, le cas échéant, ceux de ses représentants locaux ;
+
+
 6. Les pièces financières qui doivent comprendre les comptes du dernier exercice, le budget de l'exercice courant et un bilan ou un état de l'actif mobilier et immobilier et du passif.
 
 
-##### Article R15-20
+##### Article R15-36
 
-Après avoir procédé à toute les diligences qu'il juge utiles, le doyen des juges d'instruction ou le président de la chambre de l'instruction communique la demande au président du tribunal ou au premier président.
+Après avoir procédé à toute les diligences qu'il juge utiles, le doyen des juges d'instruction ou le président de la chambre d'accusation communique la demande au président du tribunal ou au premier président.
 
 
-##### Article R15-21
+##### Article R15-37
 
 L'assemblée générale des magistrats du siège et du parquet du tribunal ou de la cour d'appel, sur le rapport du magistrat saisi de la demande, statue sur l'habilitation à la majorité de ses membres présents.
+
+
 
 La commission restreinte de l'assemblée générale des magistrats du siège et du parquet, dans les juridictions où sa constitution est obligatoire, exerce les attributions mentionnées à l'alinéa précédent.
 
 
-##### Article R15-22
+##### Article R15-38
 
-En cas d'urgence, une habilitation provisoire, valable jusqu'à la décision de la prochaine assemblée générale ou commission restreinte, peut être prise par le doyen des juges d'instruction, sur proposition ou après avis conforme du procureur de la République, ou par le président de la chambre de l'instruction, sur proposition ou après avis conforme du procureur général.
+En cas d'urgence, une habilitation provisoire, valable jusqu'à la décision de la prochaine assemblée générale ou commission restreinte, peut être prise par le doyen des juges d'instruction, sur proposition ou après avis conforme du procureur de la République, ou par le président de la chambre d'accusation, sur proposition ou après avis conforme du procureur général.
 
 
-##### Article R15-23
+##### Article R15-39
 
 Ne peut être habilitée une personne qui a fait l'objet d'une condamnation, incapacité ou déchéance mentionnée au bulletin n° 2 du casier judiciaire.
 
 
-##### Article R15-24
+##### Article R15-40
 
-L'habilitation peut être retirée selon la procédure prévue par les articles R. 15-20 et R. 15-21.
+L'habilitation peut être retirée selon la procédure prévue par les articles R. 15-36 et R. 15-37.
 
 Le procureur de la République ou le procureur général peut, aux fins de retrait d'habilitation, saisir, selon le cas, l'assemblée générale des magistrats du siège et du parquet du tribunal, celle de la cour d'appel ou la commission restreinte compétente.
 
-En cas d'urgence, le doyen des juges d'instruction, sur proposition ou avis conforme du procureur de la République, ou le président de la chambre de l'instruction, sur proposition ou avis conforme du procureur général, peut retirer provisoirement l'habilitation jusqu'à la décision de la prochaine assemblée générale ou commissaire restreinte.
+En cas d'urgence, le doyen des juges d'instruction, sur proposition ou avis conforme du procureur de la République, ou le président de la chambre d'accusation, sur proposition ou avis conforme du procureur général, peut retirer provisoirement l'habilitation jusqu'à la décision de la prochaine assemblée générale ou commission restreinte.
 
 
 ##### Section 2 : De la consignation de partie civile
 
-##### Article R15-25
+##### Article R15-41
 
 La partie civile est tenue, en application des articles 88 et 88-1, de consigner au greffe sauf dispense, dans le délai imparti par le juge d'instruction, sous peine d'irrecevabilité, une somme en vue de garantir le paiement de l'amende civile pouvant être prononcée à son encontre sur le fondement de l'article 91 du code de procédure pénale.
 
@@ -9695,9 +9852,9 @@ En cas de condamnation à une amende civile, la somme consignée est employée a
 
 ####### Article R16
 
-Le juge d'instruction saisi de la procédure ou, sur délégation, celui dans le ressort duquel l'inculpé, désigne, pour contribuer à l'application du contrôle judiciaire, soit une personne physique ou morale habilitée à cette fin, soit un service de police ou de gendarmerie ou tout service judiciaire ou administratif compétent, soit, à titre exceptionnel, un enquêteur de personnalité.
+Le juge d'instruction saisi de la procédure ou, sur délégation, celui dans le ressort duquel réside l'inculpé, désigne, pour contribuer à l'application du contrôle judiciaire, soit une personne physique ou morale habilitée à cette fin, soit un service de police ou de gendarmerie ou tout service judiciaire ou administratif compétent, soit, à titre exceptionnel, un enquêteur de personnalité.
 
-Les contrôleurs judiciaires sont habilités sous les conditions et selon les règles de compétence et de procédure définies par les articles R. 15-19 à R. 15-24.
+Les contrôleurs judiciaires sont habilités sous les conditions et selon les règles de compétence et de procédure définies par les articles R. 15-35 à R. 15-40.
 
 
 ####### Article R16-1
@@ -10964,9 +11121,7 @@ Sont, en outre, assimilées aux frais de justice criminelle, correctionnelle et 
 15. Des actes faits d'office en matière de mesures conservatoires prises après l'ouverture d'une succession.
 16. Des dispositions législatives ou réglementaires particulières prévoyant que l'avance doit être faite par le Trésor public.
 17. Des frais d'interprète exposés dans le cadre du contentieux judiciaire relatif au maintien des étrangers dans des locaux ne relevant pas de l'administration pénitentiaire.
-18. Des frais de l'appel aux créanciers prévu à l'article 11 de la loi n° 89-1010 du 31 décembre 1989 relative à la prévention et au règlement des difficultés liées au surendettement des particuliers et
-
-des familles.
+18. Des frais des mesures d'instruction prévues à l'article L. 332-2 du code de la consommation.
 19. Les frais d'impression, d'insertion et de publication des arrêts, jugements et ordonnances de justice selon les dispositions des articles R. 210 et suivants.
 
 
