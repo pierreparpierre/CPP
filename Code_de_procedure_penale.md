@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 1er janvier 1971
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19710101)
+- Date de consolidation : 16 avril 1971
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19710416)
 
 
 # Partie législative
@@ -7396,6 +7396,34 @@ Elles sont adressées à la direction de la gendarmerie et de la justice militai
 
 ### Titre II : De la détention
 
+#### Chapitre Ier
+
+#### Chapitre II : De l'exécution des peines privatives de liberté.
+
+##### Section 2
+
+##### Section 3
+
+##### Section 4
+
+##### Section 5
+
+##### Article A39-1
+
+La somme journalière prévue au second alinéa de l'article D. 111, au-dessous de laquelle les détenus perçoivent la totalité du produit de leur travail, est fixé à 4 F.
+
+
+##### Article A39-2
+
+Le pourcentage du nombre de condamnés qui peuvent bénéficier des dixièmes supplémentaires prévus au premier alinéa de l'article D. 112 ne peut excéder 60 % de l'effectif des détenus incarcérés dans la même prison pour le premier dixième, 30 % pour le deuxième et 10 % pour le troisième.
+
+
+##### Section 6
+
+##### Section 7
+
+#### Chapitre III
+
 #### Chapitre IV : De l'administration des établissements pénitentiaires
 
 ##### Section 1 : Du rôle et de l'organisation générale de l'administration pénitentiaire
@@ -7410,6 +7438,8 @@ Elles sont adressées à la direction de la gendarmerie et de la justice militai
 ##### Section 3
 
 ##### Section 4
+
+#### Chapitre VI
 
 ### Titre IV : Du sursis
 
