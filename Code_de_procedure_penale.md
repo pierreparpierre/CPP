@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 7 février 1999
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19990207)
+- Date de consolidation : 20 mars 1999
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19990320)
 
 
 # Partie législative
@@ -11515,7 +11515,7 @@ Les frais de justice criminelle, correctionnelle et de police sont :
 2. Les frais d'extradition des prévenus, accusés ou condamnés ; les frais de commission rogatoire et autres frais de procédure pénale en matière internationale.
 3. Les honoraires et indemnités qui peuvent être accordés aux experts, aux interprètes-traducteurs ainsi qu'aux personnes chargées des enquêtes sociales ou de personnalité ou d'une mission de médiation ou tendant à favoriser la réparation du dommage préalablement à la décision du procureur de la République sur les poursuites ou contribuant au contrôle judiciaire dans les conditions prévues aux articles R. 121 et R. 121-1 du présent code.
 4. Les indemnités qui peuvent être accordées aux témoins, aux jurés par application des articles R. 123 à R. 146 et aux parties civiles par application des articles 375-1 et 422.
-5. Les frais de saisie ou de mise sous séquestre ou en fourrière, les frais en matière de scellés et ceux de l'immobilisation décidée en application de l'article 43-3 (3° bis) du code pénal [* article(s) abrogé(s), cf. article(s) 131-6, 131-7 et 131-9 du nouveau code pénal *].
+5. Les frais de saisie ou de mise sous séquestre ou en fourrière, ainsi que les frais en matière de scellés.
 6. Les frais d'enquête sociale et d'expertise engagés en matière d'exécution ou d'application des peines et en matière de grâces.
 7. Les émoluments et indemnités alloués aux huissiers de justice.
 8. Les frais de capture.
@@ -11528,6 +11528,9 @@ Les frais de justice criminelle, correctionnelle et de police sont :
 15. Les frais exposés devant les commissions prévues par l'article 706-4.
 16. Les frais de copie, droits, redevances et émoluments, dus aux greffiers des tribunaux de commerce pour la délivrance des pièces à l'autorité judiciaire dans le cadre d'une procédure pénale.
 17. Les frais et dépens mis à la charge du Trésor public en cas de décision juridictionnelle rectifiant ou interprétant une précédente décision en matière pénale.
+18. Les frais de recherche et de délivrance de reproductions de tous documents imprimés ;
+19. Les frais de remise ou de mise en oeuvre des conventions secrètes de moyens ou prestations de cryptologie engagés à la demande des autorités judiciaires par les organismes agréés mentionnés à l'article 28 de la loi n° 90-1170 du 29 décembre 1990 sur la réglementation des télécommunications ;
+20. Les indemnités et vacations qui peuvent être accordées aux membres titulaires et suppléants de la formation de jugement de la Cour de justice de la République selon les modalités prévues au décret n° 95-692 du 9 mai 1995.
 
 
 #### Article R93
@@ -11551,7 +11554,8 @@ Sont, en outre, assimilées aux frais de justice criminelle, correctionnelle et 
 16. Des dispositions législatives ou réglementaires particulières prévoyant que l'avance doit être faite par le Trésor public.
 17. Des frais d'interprète exposés dans le cadre du contentieux judiciaire relatif au maintien des étrangers dans des locaux ne relevant pas de l'administration pénitentiaire.
 18. Des frais des mesures d'instruction prévues à l'article L. 332-2 du code de la consommation.
-19. Les frais d'impression, d'insertion et de publication des arrêts, jugements et ordonnances de justice selon les dispositions des articles R. 210 et suivants.
+19. Les frais d'impression, d'insertion, de publication et de diffusion audiovisuelle des arrêts, jugements et ordonnances de justice en application de l'article 131-35 du code pénal.
+20. Les frais d'une immobilisation décidée en application du 5° de l'article 131-6 et du 2° de l'article 131-14 du code pénal.
 
 
 #### Chapitre II : Tarif des frais
@@ -11669,11 +11673,11 @@ Aucune indemnité n'est allouée pour la prestation de serment de l'expert devan
 
 ####### Article R107
 
-Lorsque le montant prévu de ses frais et honoraires dépasse 1.000 F, l'expert désigné doit, avant de commencer ses travaux, en informer la juridiction qui l'a commis.
+Lorsque le montant prévu de ses frais et honoraires dépasse 3 000 F, l'expert désigné doit, avant de commencer ses travaux, en informer la juridiction qui l'a commis.
 
+Sauf urgence, cette estimation est communiquée au ministère public qui présente ses observations dans le délai de cinq jours, après avoir fait procéder si nécessaire à des vérifications de toute nature sur les éléments de l'estimation présentée par l'expert.
 
-
-Au-dessus de ce montant et sauf cas d'urgence, la demande de l'expert est communiquée au ministère public qui peut, dans le délai de trois jours, présenter ses observations. S'il n'en est pas tenu compte, le ministère public peut saisir, par l'intermédiaire du procureur général, le président de la chambre d'accusation ou le président de la chambre de contrôle de l'instruction de la Cour de sûreté de l'Etat. La décision de ce magistrat doit intervenir dans les huit jours [*délai*] et elle ne peut faire l'objet de recours.
+S'il n'est pas tenu compte de ses observations, le ministère public peut saisir, par l'intermédiaire du procureur général, le président de la chambre d'accusation, qui statue dans les huit jours par une décision qui ne peut faire l'objet de recours.
 
 
 ####### Article R109
@@ -11710,13 +11714,23 @@ Pour le calcul de ces indemnités, les experts sont assimilés aux fonctionnaire
 
 Lorsque les experts sont entendus, soit devant les cours ou tribunaux, soit devant les magistrats instructeurs à l'occasion de la mission qui leur est confiée, il leur est alloué, outre leurs frais de déplacement et de séjour s'il y a lieu, une indemnité déterminée par la formule suivante : I = 20 + (S x 4), dans laquelle :
 
-I est le montant de l'indemnité forfaitaire exprimée en francs ;
+
+
+I est le montant de l'indemnité forfaitaire exprimée en francs (1) ;
+
+
 
 S le salaire minimum interprofessionnel de croissance tel qu'il est fixé au 1er janvier de l'année en cours.
 
-Les experts qui justifient d'une perte de salaire ou de traitement, au moyen d'une attestation délivrée par leur employeur ou chef de service, ont droit, en outre, à une indemnité supplémentaire calculée suivant la formule I = S x D, dans laquelle :
+
+
+Les experts qui justifient d'une perte d'une partie du revenu tiré de leur activité professionnelle, ont droit, en outre, à une indemnité supplémentaire calculée suivant la formule I = S x D, dans laquelle :
+
+
 
 S est le salaire minimum interprofessionnel de croissance déterminé comme ci-dessus ;
+
+
 
 D la durée horaire de comparution, celle-ci ne pouvant excéder huit heures par jour ouvrable.
 
@@ -11778,11 +11792,12 @@ Lorsque ces opérations sont effectuées par l'expert qui procède ultérieureme
 4. Pour autopsie après exhumation ou autopsie de cadavre en état de décomposition avancée ... Cs 10
 5. Pour autopsie de cadavre de nouveau-né avant inhumation ... Cs 3
 6. Pour autopsie de cadavre de nouveau-né après exhumation ou autopsie de cadavre de nouveau-né en état de décomposition avancée ... Cs 5
-7. Pour une expertise psychologique comportant un ou plusieurs examens :
-- pratiquée par un médecin ... K 36
-- pratiquée par un psychologue agréé ... 50 % du tarif ci-dessus
-8. Pour une expertise médico-psychologique comportant un ou plusieurs examens ... CNPSY 5
-9. Pour une expertise psychiatrique comportant un ou plusieurs examens ... CNPSY 5.
+7. Pour une expertise médico-psychologique comportant un ou plusieurs examens, pratiquée par un médecin ayant également la qualité de psychologue, intervenant en qualité d'expert unique :
+
+CNPSY 5 ;
+8. Pour la partie médicale de l'expertise médico-psychologique pratiquée par un médecin et un psychologue mentionnée au 2° de l'article R. 120-2 : C 3,5 ;
+9. Pour une expertise psychiatrique comportant un ou plusieurs examens : CNPSY 6 ;
+10. Pour une expertise psychiatrique comportant un ou plusieurs examens et concernant une personne poursuivie ou condamnée pour infraction sexuelle : CNPSY 6,5.
 
 
 ######## c) Toxicologie
@@ -11833,6 +11848,19 @@ Pour une expertise ordonnée dans les mêmes conditions, par les juridictions de
 300 F.
 
 
+######## g) Psychologie légale
+
+######## Article R120-2
+
+Il est alloué à chaque expert régulièrement requis ou commis :
+
+
+1. Pour une expertise psychologique comportant un ou plusieurs examens : K 90 ;
+
+
+2. Pour la partie psychologique d'une expertise médico-psychologique pratiquée par un médecin et un psychologue : K 90.
+
+
 ###### Paragraphe 2 : Des personnes chargées des enquêtes sociales et de personnalité ou contribuant au contrôle judiciaire
 
 ###### Article R121
@@ -11870,7 +11898,7 @@ Lorsque cette mission est effectuée par une association qui a passé une conven
 
 ###### Article R122
 
-Les traductions par écrit sont payées 60 F la page de texte français.
+Les traductions par écrit sont payées 73 F la page de texte français.
 
 
 
@@ -11881,14 +11909,14 @@ Lorsque les interprètes traducteurs sont appelés devant le procureur de la Ré
 
 
 
-A Paris et dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne : 80 F ;
+A Paris et dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne : 97 F ;
 
 
 
-Dans les autres départements : 72 F ;
+Dans les autres départements : 87 F ;
 
 
-2. Par demi-heure supplémentaire, due en entier dès qu'elle est commencée : 40 F ou 36 F suivant la distinction ci-dessus.
+2. Par demi-heure supplémentaire, due en entier dès qu'elle est commencée : 48 F ou 44 F suivant la distinction ci-dessus.
 
 
 
@@ -11915,7 +11943,7 @@ Il peut être accordé aux témoins, s'ils le requièrent :
 
 ####### Article R124
 
-Les indemnités accordées aux témoins ne sont payées par le Trésor qu'en tant qu'ils ont été cités ou appelés, soit à la requête du ministère public, soit en vertu d'une ordonnance rendue d'office dans les cas prévus aux articles 283 et 310 et à l'article 30 de la loi du 22 janvier 1851 sur l'assistance judiciaire.
+Les indemnités accordées aux témoins ne sont payées par le Trésor qu'en tant qu'ils ont été cités ou appelés, soit à la requête du ministère public, soit en vertu d'une ordonnance rendue d'office dans les cas prévus aux articles 283 et 310.
 
 
 ####### Article R125
@@ -11947,7 +11975,7 @@ I est le montant de l'indemnité forfaitaire exprimée en francs ;
 
 S le salaire minimum interprofessionnel de croissance tel qu'il est fixé au 1er janvier de l'année en cours.
 
-Les témoins qui justifient d'une perte de salaire ou de traitement, au moyen d'une attestation délivrée par leur employeur ou chef de service, ont droit, en outre, à une indemnité supplémentaire calculée suivant la formule I = S x D dans laquelle :
+Les témoins qui justifient d'une perte d'une partie du revenu tiré de leur activité professionnelle, ont droit, en outre, à une indemnité supplémentaire calculée suivant la formule I = S x D dans laquelle :
 
 S est le salaire minimum interprofessionnel de croissance déterminé comme ci-dessus ;
 
@@ -12024,7 +12052,7 @@ I est le montant de l'indemnité forfaitaire exprimé en francs ;
 
 S le salaire minimum interprofessionnel de croissance tel qu'il est fixé au 1er janvier de l'année en cours.
 
-Les jurés qui justifient d'une perte de salarié ou traitement, au moyen d'une attestation délivrée par leur employeur ou chef de service, ont droit, en outre, à une indemnité supplémentaire calculée suivant la formule suivante : I = S x D, dans laquelle :
+Les jurés qui justifient d'une perte d'une partie du revenu tiré de leur activité professionnelle, ont droit, en outre, à une indemnité supplémentaire calculée suivant la formule suivante : I = S x D, dans laquelle :
 
 S est le salaire minimum interprofessionnel de croissance déterminé comme ci-dessus ;
 
@@ -12093,12 +12121,24 @@ Le premier mois écoulé, ces indemnités sont réduites de moitié.
 
 
 
-Lorsque les scellés sont apposés sur des véhicules automobiles, les tarifs des frais de garde sont fixés ainsi qu'il est prévu par l'article R. 289 du code de la route.
+Lorsque les scellés sont apposés sur des véhicules automobiles, les tarifs des frais de garde journalière sont fixés ainsi qu'il suit :
+
+
+
+Pour les véhicules poids lourds d'un poids total autorisé en charge supérieur à 3,5 tonnes : 40 F ;
+
+
+
+Pour les voitures particulières et les autres véhicules poids lourds : 21 F ;
+
+
+
+Pour les autres véhicules immatriculés : 16 F.
 
 
 ##### Article R147-1
 
-Le tarif des frais de garde entraînés par l'immobilisation d'un véhicule décidée en application des articles 131-6 (5°) et 131-14 (2°) du Code pénal est celui qui est fixé conformément à l'article R. 289 du Code de la route.
+Le tarif des frais de garde entraînés par l'immobilisation d'un véhicule décidée en application des articles 131-6 (5°) et 131-14 (2°) du Code pénal est celui qui est fixé conformément au dernier alinéa de l'article précédent.
 
 
 ##### Article R148
@@ -12183,13 +12223,6 @@ En matière pénale, la délivrance, lorsqu'elle est autorisée, de reproduction
 
 
 Cette délivrance est gratuite pour la première reproduction de chaque acte lorsqu'elle est demandée par un avocat commis d'office ou désigné au titre de l'aide judiciaire ou lorsque la gratuité est prévue par une disposition particulière.
-
-
-####### c) Expéditions délivrées par les surveillants chefs des maisons d'arrêt.
-
-####### Article R166
-
-Il est alloué un droit fixe de 0,50 F au surveillant chef de la maison d'arrêt pour l'expédition de l'acte d'écrou qui doit être jointe au dossier, soit dans le cas prévu à l'article 583, soit pour assurer l'exécution des dispositions de la loi du 17 juillet 1970 relative à la tutelle pénale.
 
 
 ##### Section 6 : Des émoluments et indemnités alloués aux huissiers de justice et aux agents de la force publique
@@ -12332,10 +12365,10 @@ Ces frais sont à la charge des intéressés et ne sont pas imputables sur les c
 ##### Article R200
 
 Il est alloué aux magistrats et aux personnels exerçant les fonctions de greffier des indemnités pour frais de voyage et de séjour nécessités :
-1. Par les transports effectués en matière criminelle, correctionnelle ou de police, dans les cas prévus par le Code de procédure pénale, notamment aux articles 54, 56, 62, 63, 68, 69, 72, 74, 92, 93, 112, 151, 205, 654, 680 et 713 ou par des lois spéciales ;
+1. Par les transports effectués en matière criminelle, correctionnelle ou de police, dans les cas prévus par le Code de procédure pénale ou par des lois spéciales ;
 2. Par les transports du président de la chambre d'accusation à l'effet de s'assurer du bon fonctionnement des cabinets d'instruction du ressort de la cour d'appel, conformément aux dispositions de l'article 220 ;
 3. (dispositions abrogées)
-4. Par les transports des magistrats de la cour d'appel qui siègent comme présidents ou assesseurs dans une cour d'assises tenue hors du chef-lieu du ressort, et du procureur général ou de ses substituts qui vont y porter la parole, sans qu'il y ait lieu de distinguer entre les sessions ordinaires et extraordinaires, ainsi que du procureur de la République lorsqu'il occupe le siège du ministère public devant les tribunaux d'instance de son ressort, en application de l'article 45 du présent code ou de l'article 4 de l'ordonnance n° 58-1273 du 22 décembre 1958 ;
+4. Par les transports des magistrats du ressort de la cour d'appel qui siègent comme présidents ou assesseurs dans une cour d'assises tenue hors du chef-lieu du ressort, et du procureur général ou de ses substituts qui vont y porter la parole, sans qu'il y ait lieu de distinguer entre les sessions ordinaires et extraordinaires, ainsi que du procureur de la République lorsqu'il occupe le siège du ministère public devant les tribunaux d'instance de son ressort, en application de l'article 45 du présent code ou de l'article 4 de l'ordonnance n° 58-1273 du 22 décembre 1958 ;
 5. Par les transports des commissaires de police, ou des officiers de police désignés par le procureur général, conformément aux articles 46 et 48, pour occuper le siège du ministère public près le tribunal de police d'une autre ville que celle où ils exercent leurs fonctions ;
 6. à 10° (dispositions abrogées).
 
@@ -12345,9 +12378,11 @@ Il est alloué aux magistrats et aux personnels exerçant les fonctions de greff
 Les indemnités prévues par l'article R. 200 sont calculées sur la base des règles relatives aux conditions et modalités de règlement des frais occasionnés par les déplacements des personnels civils lorsqu'ils sont à la charge des budgets de l'Etat, des établissements publics nationaux à caractère administratif et de certains organismes subventionnés.
 
 
-##### Article R202
+##### Section 8 : Des frais de mise en oeuvre des conventions secrètes de cryptologie
 
-Dans les cas prévus à l'article R. 200 (1°) les indemnités allouées par les articles R. 203, R. 204 et R. 205 sont dues, soit que le transport ait été effectué spontanément ou par délégation en exécution d'une commission rogatoire, soit qu'il s'agisse d'une information régulière ou d'une enquête officieuse ordonnée par l'autorité supérieure compétente.
+##### Article R208
+
+Pour chaque remise ou mise en oeuvre, à la demande des autorités judiciaires dans les conditions fixées par le II de l'article 28 de la loi n° 90-1170 du 29 décembre 1990 sur la réglementation des télécommunications, des conventions secrètes de moyens ou prestations de cryptologie, il est alloué une somme de 400 F à chaque organisme agréé.
 
 
 ##### Section 9 : Des frais d'impression
@@ -12355,7 +12390,7 @@ Dans les cas prévus à l'article R. 200 (1°) les indemnités allouées par les
 ##### Article R210
 
 Les seules impressions qui doivent être payées à titre de frais de justice sont :
-1. Celles des jugements et arrêts dont l'affichage ou l'insertion ont été ordonnés par la cour ou le tribunal ;
+1. Celle des publications ou insertions de communiqué, relatives à des décisions de non-lieu, qui sont ordonnées par le juge d'instruction ou la chambre d'accusation en application des articles 177-1 et 212-1 ;
 2. Celles des signalements individuels de personnes arrêtées dans les cas exceptionnels où l'envoi de ces signalements aurait été reconnu indispensable ;
 3. Celle de l'arrêt ou du jugement de révision d'où résulte l'innocence d'un condamné et dont l'affichage est prescrit par l'article 626, alinéas 9 et 10.
 
@@ -12370,6 +12405,13 @@ Les placards destinés à être affichés sont transmis aux maires qui les font 
 Les impressions payées à titre de frais de justice sont faites en vertu de marchés passés pour chaque ressort de cour ou de tribunal par le procureur général ou le procureur de la République, suivant le cas, et qui ne peuvent être exécutés qu'avec l'approbation préalable du ministre de la justice.
 
 Toutefois, à défaut d'un tel marché, il peut être traité de gré à gré chaque fois qu'une impression doit être faite. Les imprimés joignent à chaque article de leur mémoire un exemplaire de l'objet imprimé comme pièce justificative.
+
+
+##### Section 10 : Des frais de recherche et de délivrance de reproductions des documents imprimés
+
+##### Article R213
+
+Il est alloué à chaque propriétaire ou dépositaire de documents imprimés, conservés sur support de quelque nature que ce soit, une indemnité de 25 F par réquisition pour l'ensemble des recherches d'archives nécessaires auxquelles il procède et une indemnité de 0,50 F par page pour les reproductions délivrées de ces documents.
 
 
 #### Chapitre III : Des dépenses assimilées à celles de l'instruction des procès criminels
@@ -12532,6 +12574,8 @@ L'ordonnance de taxe peut être frappée par la partie prenante ou le ministère
 
 Un recours contre l'ordonnance de taxe peut être formé devant la chambre d'accusation par le ministère public, à la demande du comptable assignataire, dans un délai d'un mois à compter du versement de la pièce de dépense par le régisseur entre les mains de ce comptable.
 
+En matière d'aide juridictionnelle, le délai d'un mois court à compter de la transmission qui est faite par le greffe au comptable assignataire de l'ordonnance de taxe.
+
 Le refus motivé du ministère public d'exercer le recours est porté à la connaissance du Trésor public. Dans ce cas, le comptable assignataire exécute l'ordonnance de taxe.
 
 
@@ -12571,6 +12615,8 @@ Le régisseur, en cas de désaccord sur un mémoire certifié, demande au minist
 ###### Article R234
 
 S'agissant d'un mémoire ou d'un état certifié, la partie prenante, dans le délai d'un mois à compter de la perception de la somme, ou le comptable assignataire, dans le délai d'un mois à compter du versement de la pièce de dépense par le régisseur entre les mains de ce comptable, peuvent adresser une réclamation au ministère public qui saisit de ses réquisitions le magistrat taxateur.
+
+En matière d'aide juridictionnelle, le délai d'un mois imparti au comptable assignataire court à compter de la transmission qui lui est faite par le greffe du mémoire ou de l'état certifié.
 
 
 ##### Section 2 : De la liquidation et du recouvrement des frais
