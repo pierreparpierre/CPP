@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 1er juillet 2000
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20000701)
+- Date de consolidation : 11 juillet 2000
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20000711)
 
 
 # Partie législative
@@ -144,6 +144,11 @@ Elle sera recevable pour tous chefs de dommages, aussi bien matériels que corpo
 L'action civile peut être aussi exercée séparément de l'action publique.
 
 Toutefois, il est sursis au jugement de cette action exercée devant la juridiction civile tant qu'il n'a pas été prononcé définitivement sur l'action publique lorsque celle-ci a été mise en mouvement.
+
+
+## Article 4-1
+
+L'absence de faute pénale non intentionnelle au sens de l'article 121-3 du code pénal ne fait pas obstacle à l'exercice d'une action devant les juridictions civiles afin d'obtenir la réparation d'un dommage sur le fondement de l'article 1383 du code civil si l'existence de la faute civile prévue par cet article est établie ou en application de l'article L. 452-1 du code de la sécurité sociale si l'existence de la faute inexcusable prévue par cet article est établie.
 
 
 ## Article 5
@@ -4981,7 +4986,7 @@ Si le tribunal estime que le fait poursuivi ne constitue aucune infraction à la
 
 ##### Article 470-1
 
-Le tribunal saisi, à l'initiative du ministère public ou sur renvoi d'une juridiction d'instruction, de poursuites exercées pour une infraction non intentionnelle au sens des deuxième et troisième alinéas de l'article 121-3 du code pénal, et qui prononce une relaxe demeure compétent, sur la demande de la partie civile ou de son assureur formulée avant la clôture des débats, pour accorder, en application des règles du droit civil, réparation de tous les dommages résultant des faits qui ont fondé la poursuite.
+Le tribunal saisi, à l'initiative du ministère public ou sur renvoi d'une juridiction d'instruction, de poursuites exercées pour une infraction non intentionnelle au sens des deuxième, troisième et quatrième alinéas de l'article 121-3 du code pénal, et qui prononce une relaxe demeure compétent, sur la demande de la partie civile ou de son assureur formulée avant la clôture des débats, pour accorder, en application des règles du droit civil, réparation de tous les dommages résultant des faits qui ont fondé la poursuite.
 
 Toutefois, lorsqu'il apparaît que des tiers responsables doivent être mis en cause, le tribunal renvoie l'affaire, par une décision non susceptible de recours, devant la juridiction civile compétente qui l'examine d'urgence selon une procédure simplifiée déterminée par décret en Conseil d'Etat.
 
@@ -7656,7 +7661,7 @@ Ces dispositions ne sont pas exclusives de l'application éventuelle des règles
 
 ### Article 706-43
 
-L'action publique est exercée à l'encontre de la personne morale prise en la personne de son représentant légal à l'époque des poursuites. Ce dernier représente la personne morale à tous les actes de la procédure. Toutefois, lorsque des poursuites pour les mêmes faits ou pour des faits connexes sont engagées à l'encontre du représentant légal, le président du tribunal de grande instance désigne un mandataire de justice pour représenter la personne morale.
+L'action publique est exercée à l'encontre de la personne morale prise en la personne de son représentant légal à l'époque des poursuites. Ce dernier représente la personne morale à tous les actes de la procédure. Toutefois, lorsque des poursuites pour des mêmes faits ou des faits connexes sont engagées à l'encontre du représentant légal, celui-ci peut saisir par requête le président du tribunal de grande instance aux fins de désignation d'un mandataire de justice pour représenter la personne morale.
 
 La personne morale peut également être représentée par toute personne bénéficiant, conformément à la loi ou à ses statuts, d'une délégation de pouvoir à cet effet.
 
