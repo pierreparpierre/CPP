@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 1er janvier 1988
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19880101)
+- Date de consolidation : 1er mars 1988
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19880301)
 
 
 # Partie législative
@@ -491,6 +491,17 @@ S'il n'y a pas de commissaire de police au lieu où siège le tribunal, le procu
 Le juge d'instruction est chargé de procéder aux informations, ainsi qu'il est dit au chapitre Ier du titre III.
 
 Il ne peut, à peine de nullité, participer au jugement des affaires pénales dont il a connu en sa qualité de juge d'instruction.
+
+
+#### Article 50
+
+Le juge d'instruction, choisi parmi les juges du tribunal, est nommé dans les formes prévues pour la nomination des magistrats du siège.
+
+En cas de nécessité, un autre juge peut être temporairement chargé, dans les mêmes formes, des fonctions de juge d'instruction concurremment avec le magistrat désigné ainsi qu'il est dit au premier alinéa.
+
+Si le premier président délègue un juge au tribunal, il peut aussi, dans les mêmes conditions, charger temporairement celui-ci de l'instruction par voie d'ordonnance.
+
+Si le juge d'instruction est absent, malade ou autrement empêché, le tribunal de grande instance désigne l'un des juges de ce tribunal pour le remplacer.
 
 
 #### Article 51
@@ -1152,17 +1163,28 @@ Peuvent intervenir, dans les mêmes conditions, des ordonnances de renvoi partie
 
 ##### Article 183
 
-Les ordonnances de règlement sont portées à la connaissance de l'inculpé et les ordonnances de renvoi ou de transmission des pièces au procureur général à la connaissance de la partie civile ; la notification est effectuée dans les délais les plus brefs soit verbalement, avec émargement au dossier de la procédure, soit par lettre recommandée.
+Les décisions et ordonnances de règlement sont portées à la connaissance de l'inculpé et les décisions et ordonnances de renvoi ou de transmission des pièces au procureur général à la connaissance de la partie civile ; la notification est effectuée dans les délais les plus brefs soit verbalement, avec émargement au dossier de la procédure, soit par lettre recommandée.
 
-Sous réserve de l'application du premier alinéa de l'article 145, les décisions qui sont susceptibles de faire l'objet de voies de recours de la part de l'inculpé, de la partie civile ou d'un tiers conformément aux articles 99, 186 et 186-1 leur sont notifiées dans les délais les plus brefs soit verbalement, avec émargement au dossier de la procédure, soit par lettre recommandée. Si l'inculpé est détenu, elles peuvent également être portées à sa connaissance par les soins du chef de l'établissement pénitentiaire qui adresse, sans délai, au juge d'instruction l'original ou la copie du récépissé signé par l'inculpé. Dans tous les cas, une copie de l'acte est remise à l'intéressé.
+Sous réserve de l'application du premier alinéa de l'article 145, les décisions et ordonnances qui sont susceptibles de faire l'objet de voies de recours de la part de l'inculpé, de la partie civile ou d'un tiers conformément aux articles 99, 186 et 186-1 leur sont notifiées dans les délais les plus brefs soit verbalement, avec émargement au dossier de la procédure, soit par lettre recommandée. Si l'inculpé est détenu, elles peuvent, également être portées à sa connaissance par les soins du chef de l'établissement pénitentiaire qui adresse, sans délai, au juge d'instruction l'original ou la copie du récépissé signé par l'inculpé. Dans tous les cas, une copie de l'acte est remise à l'intéressé.
 
 Toute notification d'acte à l'inculpé ou à la partie civile par lettre recommandée expédiée à la dernière adresse déclarée par l'intéressé est réputée faite à sa personne.
 
-Les ordonnances mentionnées aux premier et deuxième alinéas du présent article qui doivent être portées à la connaissance de l'inculpé ou de la partie civile sont simultanément, et selon les mêmes modalités, portées à la connaissance de leurs conseils.
+Les décisions et ordonnances mentionnées aux premier et deuxième alinéas du présent article qui doivent être portées à la connaissance de l'inculpé ou de la partie civile sont simultanément, et selon les mêmes modalités, portées à la connaissance de leurs conseils.
 
-Les avis destinés au procureur de la République lui sont adressés par tout moyen. Lorsque le juge d'instruction rend une ordonnance non conforme aux réquisitions du procureur de la République, avis en est donné à celui-ci par le greffier.
+Les avis destinés au procureur de la République lui sont adressés par tous moyen. Lorsque la juridiction d'instruction rend une décision ou ordonnance non conforme aux réquisitions du procureur de la République, avis en est donné à celui-ci par le greffier.
 
 Dans tous les cas, mention est portée au dossier par le greffier de la nature et de la date de la diligence faite en application du présent article ainsi que des formes utilisées.
+
+
+##### Section 12 : De l'appel des ordonnances du juge d'instruction
+
+##### Article 185
+
+Le procureur de la République a le droit d'interjeter appel devant la chambre d'accusation de toute ordonnance du juge d'instruction.
+
+Cet appel formé par déclaration au greffe du tribunal, doit être interjeté dans les cinq jours qui suivent la notification de la décision.
+
+Le droit d'appel appartient également dans tous les cas au procureur général. Il doit signifier son appel aux parties dans les dix jours qui suivent l'ordonnance du juge d'instruction.
 
 
 ##### Section 13 : De la reprise de l'information sur charges nouvelles
@@ -1475,13 +1497,6 @@ Faute par le juge d'instruction d'avoir statué dans ce délai, l'inculpé peut 
 A défaut, la mainlevée du contrôle judiciaire est acquise de plein droit, sauf si des vérifications concernant la demande de l'inculpé ont été ordonnées.
 
 
-###### Article 141-2
-
-Si l'inculpé se soustrait volontairement aux obligations du contrôle judiciaire, le juge d'instruction, quelle que soit la durée de la peine d'emprisonnement encourue, pourra décerner à son encontre mandat d'arrêt ou de dépôt en vue de sa détention provisoire.
-
-Les mêmes droits appartiennent en tout état de cause à la juridiction qui est compétente selon les distinctions de l'article 148-1. Toutefois, à l'encontre de l'accusé, il n'y a pas lieu à délivrance d'un mandat et l'ordonnance de prise de corps est exécutée sur l'ordre du président de la cour d'assises ou, dans l'intervalle des sessions, du président de la chambre de l'instruction.
-
-
 ###### Article 142
 
 Lorsque l'inculpé est astreint à fournir un cautionnement, ce cautionnement garantit :
@@ -1656,6 +1671,10 @@ Lorsque la commission rogatoire prescrit des opérations simultanées sur divers
 
 Elle peut même, en cas d'urgence, être diffusée par tous moyens ; chaque diffusion doit toujours préciser les mentions essentielles de l'original et spécialement la nature de l'inculpation, le nom et la qualité du magistrat mandant.
 
+
+#### Chapitre Ier : De la chambre d'instruction et du juge d'instruction : juridictions d'instruction du premier degré
+
+##### Section 11 : Des ordonnances et décisions de règlement
 
 #### Chapitre II : De la chambre d'accusation : juridiction d'instruction du second degré
 
