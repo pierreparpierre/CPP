@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 15 septembre 2003
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20030915)
+- Date de consolidation : 23 septembre 2003
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20030923)
 
 
 # Partie législative
@@ -23012,6 +23012,19 @@ Chromosome n° 21
 TPOX
 
 Chromosome n° 2
+
+
+### Titre XXI : De l'utilisation de moyens de télécommunication au cours de la procédure.
+
+### Article A38-1
+
+Les caractéristiques propres aux moyens de télécommunication audiovisuelle ou concernant des moyens de télécommunication sonore autre que le téléphone utilisés pour l'application des dispositions de l'article 706-71 sont précisées par le présent article.
+
+La retransmission doit s'effectuer au moyen d'un système bidirectionnel intégral.
+
+La retransmission doit s'effectuer conformément aux normes H320 ou H323 et aux normes UIT (Union internationale des télécommunications) associées.
+
+Lorsqu'il est procédé au chiffrement de la liaison, celui-ci doit être effectué avec des moyens matériels autorisés par la direction centrale de la sécurité des systèmes d'information.
 
 
 ## Livre V : Des procédures d'exécution
