@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 7 novembre 1999
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19991107)
+- Date de consolidation : 11 novembre 1999
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19991111)
 
 
 # Partie législative
@@ -4794,15 +4794,25 @@ A l'égard du prévenu détenu, le tribunal peut, en tout état de cause, par d�
 
 ##### Article 465
 
-Dans le cas visé à l'article 464, premier alinéa, s'il s'agit d'un délit de droit commun et si la peine prononcée est au moins d'une année d'emprisonnement sans sursis, le tribunal peut, par décision spéciale et motivée, lorsque les éléments de l'espèce justifient une mesure particulière de sûreté, décerner mandat de dépôt ou d'arrêt contre le prévenu.
+Dans le cas visé à l'article 464, premier alinéa, s'il s'agit d'un délit de droit commun ou d'un délit d'ordre militaire prévu par le livre III du code de justice militaire et si la peine prononcée est au moins d'une année d'emprisonnement sans sursis, le tribunal peut, par décision spéciale et motivée, lorsque les éléments de l'espèce justifient une mesure particulière de sûreté, décerner mandat de dépôt ou d'arrêt contre le prévenu.
+
+
 
 Le mandat d'arrêt continue à produire son effet, même si le tribunal, sur opposition, ou la cour, sur appel, réduit la peine à moins d'une année d'emprisonnement.
 
+
+
 Le mandat de dépôt décerné par le tribunal produit également effet lorsque, sur appel, la cour réduit la peine d'emprisonnement à moins d'une année.
+
+
 
 Toutefois, le tribunal, sur opposition, ou la cour, sur appel, a la faculté par décision spéciale et motivée, de donner mainlevée de ces mandats.
 
+
+
 En toutes circonstances, les mandats décernés dans les cas susvisés continuent à produire leur effet, nonobstant le pourvoi en cassation.
+
+
 
 En cas d'opposition au jugement dans les conditions prévues par les articles 491 et 492, l'affaire doit venir devant le tribunal à la première audience ou au plus tard dans la huitaine du jour de l'opposition, faute de quoi le prévenu doit être mis en liberté d'office. S'il y a lieu à remise, le tribunal doit statuer d'office par une décision motivée sur le maintien ou la mainlevée du mandat, le ministère public entendu. Le tout sans préjudice de la faculté pour le prévenu de former une demande de mise en liberté provisoire dans les conditions prévues par les articles 148-1 et 148-2.
 
@@ -6901,11 +6911,6 @@ Par dérogation aux dispositions du premier alinéa ci-dessus, ces juridictions 
 Si le tribunal correctionnel mentionné à l'article 697 se déclare incompétent pour connaître des faits dont il a été saisi, il renvoie le ministère public à se pourvoir ainsi qu'il avisera ; il peut, le ministère public entendu, décerner par la même décision mandat de dépôt ou d'arrêt contre le prévenu.
 
 
-##### Article 697-2
-
-Lorsqu'en temps de paix, un tribunal aux armées n'a pas été établi auprès d'une force qui stationne ou opère hors du territoire de la République, les crimes et délits qui seraient de la compétence de ce tribunal sont, sous réserve des conventions internationales, portés devant une des juridictions mentionnées à l'article 697.
-
-
 ##### Article 697-3
 
 La compétence territoriale des juridictions mentionnées à l'article 697 est déterminée conformément aux articles 43,52,382 et 663. Sont également compétentes les juridictions du lieu de l'affectation ou du débarquement. En outre, la juridiction territorialement compétente à l'égard des personnels des navires convoyés est celle à laquelle seraient déférés les personnels du navire convoyeur.
@@ -6915,7 +6920,7 @@ La compétence territoriale des juridictions mentionnées à l'article 697 est d
 
 ##### Article 698
 
-Les infractions relevant de la compétence des juridictions mentionnées à l'article 697 sont instruites et jugées selon les règles du présent code sous réserve des dispositions particulières édictées par les articles 698-1 à 698-8.
+Les infractions relevant de la compétence des juridictions mentionnées à l'article 697 sont instruites et jugées selon les règles du présent code sous réserve des dispositions particulières édictées par les articles 698-1 à 698-9.
 
 
 
@@ -6933,11 +6938,6 @@ La dénonciation ou l'avis figure au dossier de la procédure, à peine de nulli
 
 
 L'autorité militaire visée au premier alinéa du présent article est habilitée par arrêté du ministre chargé de la défense.
-
-
-##### Article 698-2
-
-L'action civile en réparation du dommage causé par l'une des infractions mentionnées au premier alinéa de l'article 697-1 appartient à ceux qui ont personnellement souffert du dommage directement causé par l'infraction. Sauf en cas de décès, de mutilation ou d'infirmité permanente, la partie lésée ne peut toutefois mettre l'action publique en mouvement.
 
 
 ##### Article 698-3
@@ -6960,7 +6960,7 @@ Les supérieurs hiérarchiques doivent satisfaire à la demande des officiers de
 
 ##### Article 698-5
 
-Les articles 73 à 77, 93, 94, 137, 302, 307 à 318, 357, 371, 374, 375, 377 et 384 alinéa 3 du Code de justice militaire sont applicables. Conformément à l'article 135 de ce même code, la personne mise en examen, le prévenu ou le condamné militaire doit être détenu dans des locaux séparés.
+Les articles 73 à 77, 93, 94, 137, 204, 349, 357, 366, 368, 369, 371, 373, 374, 375, 377 et le deuxième alinéa de l'article 384 du code de justice militaire sont applicables. Conformément à l'article 135 de ce même code, la personne mise en examen, le prévenu ou le condamné militaire doit être détenu dans des locaux séparés.
 
 
 ##### Article 698-6
@@ -6983,6 +6983,13 @@ Lorsque la mise en accusation est prononcée en application de l'article 214, pr
 ##### Article 698-8
 
 Les juridictions compétentes pour juger les infractions prévues par le livre III du code de justice militaire peuvent également prononcer les peines militaires de la destitution et de la perte du grade.
+
+
+##### Article 698-9
+
+Les juridictions de jugement mentionnées à l'article 697 peuvent, en constatant dans leur décision que la publicité risque d'entraîner la divulgation d'un secret de la défense nationale, ordonner, par décision rendue en audience publique, que les débats auront lieu à huis clos. Lorsque le huis clos a été ordonné, celui-ci s'applique au prononcé des jugements séparés qui peuvent intervenir sur des incidents ou exceptions.
+
+La décision au fond est toujours prononcée en audience publique.
 
 
 #### Chapitre II : Des juridictions compétentes en cas de guerre, de mobilisation, d'état de siège ou d'état d'urgence
