@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 18 mars 1989
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19890318)
+- Date de consolidation : 1er juillet 1989
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19890701)
 
 
 # Partie législative
@@ -5747,6 +5747,13 @@ Quiconque, hors du territoire de la République, s'est rendu coupable de faits q
 Pour l'application de la Convention européenne pour la répression du terrorisme signée à Strasbourg le 27 janvier 1977 et de l'accord entre les Etats membres des Communautés européennes concernant l'application de la Convention européenne pour la répression du terrorisme, fait à Dublin le 4 décembre 1979, peut être poursuivi et jugé par les juridictions françaises, s'il se trouve en France, quiconque s'est rendu coupable, hors du territoire de la République :
 1. De l'un des crimes ou délits définis par les articles 295 à 298, 301, 303, 304, les premier et troisième alinéas de l'article 305, les articles 310 et 311, les troisième (2°) et quatrième (3°) alinéas de l'article 312, les articles 341 à 344, 354 et 355 du code pénal, lorsqu'il est commis ou, dans les cas prévus par la loi, tenté contre une personne ayant droit à une protection internationale, y compris les agents diplomatiques ;
 2. De l'un des crimes ou délits définis par les articles 341 à 344, 354 et 355 du code pénal ou de tout autre crime ou délit comportant l'utilisation de bombes, de grenades, de fusées, d'armes à feu automatiques, de lettres ou de colis piégés, dans la mesure où cette utilisation présente un danger pour des personnes, lorsque ce crime ou délit est en relation avec une entreprise individuelle ou collective ayant pour but de troubler gravement l'ordre public par l'intimidation ou la terreur.
+
+
+### Article 689-4
+
+Pour l'application de la convention sur la protection physique des matières nucléaires, ouverte à la signature à Vienne et New York le 3 mars 1980, peut être poursuivi et jugé par les juridictions françaises, s'il se trouve en France, quiconque, hors du territoire de la République, se sera rendu coupable :
+1. du délit prévu par l'article 6-1 de la loi n° 80-572 du 25 juillet 1980 sur la protection et le contrôle des matières nucléaires ;
+2. de l'un des crimes ou délits prévus par les articles 295 à 298, 301, 304, 305, 306, 309, 310, 311, 312, 318, 379, 381, 382, 384, 400, 405, 408, 434, 435, 436, 437 et 460 du code pénal ainsi que du délit d'appropriation indue prévu par l'article 6 de la loi n° 80-572 du 25 juillet 1980 précitée, dès lors que l'infraction aura été commise au moyen des matières nucléaires entrant dans le champ d'application des articles premier et 2 de la convention précitée ou qu'elle aura porté sur ces dernières.
 
 
 ### Article 690
