@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 3 février 1981
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19810203)
+- Date de consolidation : 7 août 1981
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19810807)
 
 
 # Partie législative
@@ -3968,6 +3968,13 @@ La Cour de cassation rend un arrêt de non-lieu à statuer si le pourvoi est dev
 Lorsque le pourvoi est recevable, la Cour de cassation, si elle le juge mal fondé, rend un arrêt de rejet.
 
 
+#### Article 608
+
+L'arrêt d'irrecevabilité, de déchéance ou de rejet condamne le demandeur aux dépens.
+
+Sauf décision contraire de la Cour de cassation, l'arrêt donnant acte de désistement d'une partie est enregistré gratis.
+
+
 #### Article 609
 
 Lorsque la Cour de cassation annule un arrêt ou un jugement rendu en matière correctionnelle ou de police, elle renvoie le procès et les parties devant une juridiction de même ordre et degré que celle qui a rendu la décision annulée.
@@ -4014,11 +4021,6 @@ Une expédition est également adressée par le procureur général près la Cou
 #### Article 615
 
 Lorsqu'un arrêt ou un jugement est annulé pour violation des formes substantielles prescrites par la loi, une expédition de la décision est transmise au ministre de la justice.
-
-
-#### Article 616
-
-[*Article abrogé*].
 
 
 #### Article 617
