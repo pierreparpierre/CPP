@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 28 avril 2002
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20020428)
+- Date de consolidation : 2 mai 2002
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=20020502)
 
 
 # Partie législative
@@ -16605,13 +16605,13 @@ A cet effet, les mentions utiles doivent être portées sur leur enveloppe pour 
 
 ##### Article D70
 
-Les établissements qui reçoivent les condamnés définitifs sont les maisons centrales, les centres de détention à vocation nationale ou régionale selon les distinctions prévues par les articles D. 71 et D. 72 et les centres de semi-liberté.
+Les établissements qui reçoivent les condamnés définitifs sont les maisons centrales, les centres de détention à vocation nationale ou régionale selon les distinctions prévues par les articles D. 71 et D. 72, les centres de semi-liberté et les centres pour peines aménagées.
 
 Les maisons centrales comportent une organisation et un régime de sécurité dont les modalités internes permettent également de préserver et de développer les possibilités de réinsertion sociale des condamnés.
 
-Les centres de détention comportent un régime principalement orienté vers la réinsertion sociale des condamnés.
+Les centres de détention et les centres pour peines aménagées comportent un régime principalement orienté vers la réinsertion sociale et la préparation à la sortie des condamnés.
 
-Les condamnés faisant l'objet d'une mesure de semi-liberté sont détenus dans les centres ou quartiers de semi-liberté. Les condamnés faisant l'objet d'une mesure de placement à l'extérieur dans les conditions fixées par l'article D. 136 peuvent également y être détenus.
+Les condamnés faisant l'objet d'une mesure de semi-liberté sont détenus soit dans les centres ou quartiers de semi-liberté, soit dans les centres pour peines aménagées. Les condamnés faisant l'objet d'une mesure de placement à l'extérieur dans les conditions fixées par l'article D. 136 peuvent également être détenus dans ces établissements.
 
 A titre exceptionnel, les maisons d'arrêt peuvent recevoir des condamnés, dans les conditions déterminées par l'article D. 73.
 
@@ -16630,6 +16630,19 @@ Les centres de détention à vocation régionale reçoivent les condamnés à un
 Ils peuvent recevoir les condamnés à une ou plusieurs peines dont la durée totale est inférieure à sept ans, si la durée de l'incarcération restant à subir au moment où leur condamnation ou la dernière de leurs condamnations est devenue définitive, est inférieure à cinq ans.
 
 Un arrêté du ministre de la justice fixe la liste des centres de détention à vocation régionale.
+
+
+##### Article D72-1
+
+Les centres de semi-liberté et quartiers de semi-liberté ainsi que les centres pour peines aménagées et les quartiers pour peines aménagées comportent un régime essentiellement orienté vers la réinsertion sociale et la préparation à la sortie des condamnés.
+
+Les condamnés faisant l'objet d'une mesure de semi-liberté sont détenus soit dans des centres de semi-liberté ou des quartiers de semi-liberté, soit dans des centres pour peines aménagées ou des quartiers pour peines aménagées. Les condamnés faisant l'objet d'une mesure de placement à l'extérieur dans les conditions fixées par l'article D. 136 peuvent également être détenus dans ces établissements ou ces quartiers.
+
+Les centres pour peines aménagées et quartiers pour peines aménagées peuvent recevoir les condamnés dont le reliquat de peine leur restant à subir est inférieur à un an.
+
+L'affectation dans un centre pour peines aménagées ou un quartier pour peines aménagées ne peut être décidée qu'avec l'accord du condamné.
+
+Un arrêté du garde des sceaux, ministre de la justice, fixe la liste des centres de semi-liberté, ainsi que des centres pour peines aménagées et des quartiers pour peines aménagées.
 
 
 ##### Article D73
@@ -16707,7 +16720,9 @@ Afin de compléter le dossier mentionné à l'article D. 76, le ministre de la j
 
 Le ministre de la justice dispose d'une compétence d'affectation des condamnés dans toutes les catégories d'établissement. Sa compétence est exclusive pour les affectations dans les maisons centrales et les centres de détention à vocation nationale.
 
-L'affectation des condamnés dans les centres de détention à vocation régionale est décidée par le directeur régional des services pénitentiaires. Celui-ci peut déléguer sa compétence aux directeurs des établissements pénitentiaires comprenant un quartier maison d'arrêt et un quartier centre de détention régional, pour l'affectation des condamnés qui y sont incarcérés et auxquels il reste à subir, au moment où leur condamnation ou la dernière de leurs condamnations est devenue définitive, une incarcération d'une durée inférieure à deux ans.
+L'affectation des condamnés dans les centres de détention à vocation régionale et les centres pour peines aménagées est décidée par le directeur régional des services pénitentiaires. Celui-ci peut déléguer sa compétence aux directeurs des établissements pénitentiaires comprenant un quartier maison d'arrêt et un quartier centre de détention régional, pour l'affectation des condamnés qui y sont incarcérés et auxquels il reste à subir, au moment où leur condamnation ou la dernière de leurs condamnations est devenue définitive, une incarcération d'une durée inférieure à deux ans.
+
+Le directeur régional des services pénitentiaires peut également déléguer sa compétence aux directeurs des établissements pénitentiaires comprenant un quartier maison d'arrêt et un quartier centre pour peines aménagées, pour l'affectation des condamnés qui y sont incarcérés et auxquels il reste à subir, au moment où leur condamnation ou la dernière de leurs condamnations est devenue définitive, une incarcération dont la durée totale n'excède pas un an.
 
 Les condamnés affectés dans des maisons d'arrêt sont maintenus dans l'établissement où ils sont écroués ou sont transférés dans une autre maison d'arrêt de la région. Dans ce second cas, l'affectation est décidée par le directeur régional des services pénitentiaires en tenant compte notamment de la capacité offerte par chaque établissement.
 
@@ -16717,7 +16732,7 @@ Dans tous les cas, la décision est prise, sauf urgence, après consultation du 
 ###### Article D81
 
 Lorsque l'affectation incombe au directeur régional, la décision donne lieu :
-1. Soit à la délivrance d'un ordre de transfèrement du condamné à destination d'un centre de détention à vocation régionale ou d'une maison d'arrêt de sa circonscription ;
+1. Soit à la délivrance d'un ordre de transfèrement du condamné à destination d'un centre de détention à vocation régionale ou d'un centre pour peines aménagées ou d'une maison d'arrêt de sa circonscription ;
 2. Soit au maintien de l'intéressé à l'établissement où il se trouve ;
 3. Soit à sa mise à la disposition d'un autre directeur régional après l'accord préalable de ce dernier. Le ministre de la justice est compétent en cas de désaccord entre les directeurs régionaux.
 
@@ -16761,7 +16776,7 @@ La décision de changement d'affectation est prise, sauf urgence, après avis du
 ###### Article D82-2
 
 Lorsque la décision incombe au directeur régional, elle donne lieu :
-1. Soit à la délivrance d'un ordre de transfèrement du condamné à destination d'un centre de détention à vocation régionale ou d'une maison d'arrêt de sa circonscription ;
+1. Soit à la délivrance d'un ordre de transfèrement du condamné à destination d'un centre de détention à vocation régionale ou d'un centre pour peines aménagées ou d'une maison d'arrêt de sa circonscription ;
 2. Soit au maintien de l'intéressé à l'établissement où il se trouve.
 
 
@@ -16891,6 +16906,13 @@ Sans préjudice de l'application des dispositions de l'article D. 95 prévoyant 
 ###### Article D97
 
 Le régime des centres de détention mentionnés aux articles D. 71 et D. 72 comporte les particularités énoncées aux articles D. 146 concernant les permissions de sortir, D. 417 relatif aux modalités et moyens de correspondance avec l'extérieur et D. 448 sur les activités collectives et leur organisation.
+
+Les détenus dont le comportement se révèle incompatible avec l'application de ce régime font l'objet d'une procédure de changement d'affectation.
+
+
+###### Article D97-1
+
+Le régime des centres pour peines aménagées repose sur des actions d'insertion organisées à l'intérieur et à l'extérieur de ces établissements. Le maintien des liens familiaux s'effectuant selon les modalités prévues par l'article D. 146-1, les détenus ne bénéficient pas de parloir.
 
 Les détenus dont le comportement se révèle incompatible avec l'application de ce régime font l'objet d'une procédure de changement d'affectation.
 
@@ -17333,6 +17355,13 @@ Ces permissions de sortir peuvent être également accordées sans condition de 
 Les condamnés incarcérés dans les centres de détention peuvent bénéficier des permissions de sortir prévues à l'article D. 145, lorsqu'ils ont exécuté le tiers de leur peine.
 
 A leur égard, la durée de ces permissions peut être portée à cinq jours et, une fois par an, à dix jours.
+
+
+###### Article D146-1
+
+Les condamnés incarcérés dans les centres pour peines aménagées peuvent bénéficier des permissions de sortir prévues à l'article D. 145 sans condition de délai.
+
+A leur égard, la durée de ces permissions peut être portée à cinq jours.
 
 
 ###### Article D147
@@ -20148,6 +20177,8 @@ Les lettres qui ne satisfont pas aux prescriptions réglementaires peuvent être
 Les détenus peuvent écrire tous les jours et sans limitation.
 
 Les condamnés incarcérés dans les établissements pour peines peuvent être autorisés, dans des circonstances familiales ou personnelles importantes, par le chef de l'établissement, à téléphoner à leurs frais ou aux frais de leur correspondant. L'identité du correspondant et le contenu de la conversation sont contrôlés.
+
+Dans les centres pour peines aménagées, les condamnés peuvent téléphoner, à leurs frais ou aux frais de leur correspondant, aux personnes de leur choix.
 
 En outre, dans les centres de détention, les condamnés sont autorisés à téléphoner une fois par mois, selon les modalités énoncées ci-dessus, aux membres de leur famille ou aux titulaires de permis de visite.
 
