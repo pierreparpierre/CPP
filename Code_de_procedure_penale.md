@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 5 juillet 1979
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19790705)
+- Date de consolidation : 1er septembre 1979
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19790901)
 
 
 # Partie législative
@@ -10535,6 +10535,11 @@ Le pourcentage du nombre de condamnés qui peuvent bénéficier des dixièmes su
 ##### Section 1 : De la gestion des biens des détenus
 
 ###### Paragraphe 1er : Pécule.
+
+###### Article A41-1
+
+La somme prévue à l'article D. 324 du code de procédure pénale à partir de laquelle les dépôts sur livrets de caisse d'épargne doivent être effectués est fixée à 1.000 F.
+
 
 ###### Article A42-1
 
