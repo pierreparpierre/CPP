@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 17 octobre 1967
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19671017)
+- Date de consolidation : 1er janvier 1968
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19680101)
 
 
 # Partie législative
@@ -2873,6 +2873,11 @@ Dans les délibérations de la cour, les opinions sont recueillies par le prési
 Le rapporteur opine toujours le premier et le président le dernier.
 
 
+#### Article 603-1
+
+Les arrêts de la Cour de cassation rendus en matière pénale mentionnent les noms du président, du rapporteur, des autres magistrats qui les ont rendus, de l'avocat général ainsi que des avocats qui ont postulé dans l'instance et, en outre, les nom, prénoms, profession, domicile des parties et les moyens produits.
+
+
 #### Article 604
 
 La Cour de cassation, en toute affaire criminelle, correctionnelle ou de police, peut statuer sur le pourvoi, aussitôt après l'expiration d'un délai de dix jours à compter de la réception du dossier à la Cour de cassation.
@@ -3187,6 +3192,39 @@ Si au cours d'une audience d'un tribunal ou d'une cour une pièce de la procédu
 Si l'action publique est éteinte ou ne peut être exercée du chef de faux, et s'il n'apparaît pas que celui qui a produit la pièce ait fait sciemment usage d'un faux, le tribunal ou la cour saisi de l'action principale statue incidemment sur le caractère de la pièce prétendue entachée de faux.
 
 
+### Article 647
+
+La demande en inscription de faux contre une pièce produite devant la Cour de cassation est adressée au premier président. Elle est déposée au greffe. Elle est signée par le demandeur ou par un avocat au Conseil d'Etat et à la Cour de cassation ou par un fondé de pouvoir spécial. Dans ce dernier cas, le pouvoir est annexé à l'acte dressé par le greffier. Si la personne qui dépose la demande ne peut signer, le greffier en fait mention.
+
+
+### Article 647-1
+
+Le premier président statue dans le mois du dépôt de la requête au greffe, après avis du procureur général.
+
+Il rend une ordonnance de rejet ou une ordonnance portant permission de s'inscrire en faux.
+
+En cas de rejet et sauf s'il en est expressément dispensé, le demandeur est condamné au paiement d'une amende dont le taux est fixé par décret.
+
+
+### Article 647-2
+
+L'ordonnance portant permission de s'inscrire en faux est signifiée au défendeur dans le délai de quinze jours, avec sommation de déclarer s'il entend se servir de la pièce arguée de faux.
+
+A cette sommation doit être jointe une copie de la requête et de l'ordonnance portant permission de s'inscrire en faux.
+
+
+### Article 647-3
+
+Le défendeur doit répondre, dans un délai de quinze jours, s'il entend ou n'entend pas se servir de la pièce arguée de faux.
+
+Cette déclaration est signifiée au demandeur.
+
+
+### Article 647-4
+
+Dans le cas où le défendeur entend se servir de la pièce arguée de faux, le premier président doit renvoyer les parties à se pourvoir devant telle juridiction qu'il désignera pour y être procédé, suivant la loi, au jugement de l'inscription de faux incident.
+
+
 ### Titre III : De la manière de procéder en cas de disparition des pièces d'une procédure
 
 ### Article 648
@@ -3359,6 +3397,20 @@ Toute ordonnance rejetant une demande de récusation prononce la condamnation du
 ### Article 674
 
 Aucun des juges ou conseillers visés à l'article 668 ne peut se récuser d'office sans l'autorisation du premier président de la cour d'appel dont la décision, rendue après avis du procureur général, n'est susceptible d'aucune voie de recours.
+
+
+### Article 674-1
+
+La demande en récusation d'un magistrat de la Cour de cassation, saisie en matière pénale, doit être motivée ; elle est déposée au greffe. Le ministère d'un avocat n'est pas obligatoire.
+
+
+### Article 674-2
+
+La chambre compétente statue dans le mois du dépôt de la requête au greffe, après observations du magistrat récusé.
+
+
+
+Pour le surplus, les dispositions du livre II, titre XX, du code de procédure civile seront observées.
 
 
 ### Titre VIII : Du jugement des infractions commises à l'audience des cours et tribunaux
