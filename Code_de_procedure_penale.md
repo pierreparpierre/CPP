@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 7 octobre 1962
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19621007)
+- Date de consolidation : 16 janvier 1963
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19630116)
 
 
 # Partie législative
@@ -355,6 +355,19 @@ Les personnes convoquées par lui sont tenues de comparaître et de déposer. Si
 Il dresse un procès-verbal de leurs déclarations. Les personnes entendues procèdent elles-mêmes à sa lecture, peuvent y faire consigner leurs observations et y apposent leur signature. Si elles déclarent ne savoir lire, lecture leur en est faite par l'officier de police judiciaire préalablement à la signature. Au cas de refus de signer le procès-verbal, mention en est faite sur celui-ci.
 
 Les agents de police judiciaire désignés à l'article 20 peuvent également entendre dans la limite des ordres reçus toutes personnes susceptibles de fournir des renseignements sur les faits en cause. Ils dressent à cet effet, dans les formes prescrites par le présent code, des procès-verbaux qu'ils transmettent à l'officier de police judiciaire qu'ils secondent.
+
+
+#### Article 63
+
+Si, pour les nécessités de l'enquête, l'officier de police judiciaire est amené à garder à sa disposition une ou plusieurs des personnes visées aux articles 61 et 62, il ne peut les retenir plus de vingt-quatre heures.
+
+S'il existe contre une personne des indices graves et concordants de nature à motiver son inculpation, l'officier de police judiciaire doit la conduire devant le procureur de la République sans pouvoir la garder à sa disposition plus de vingt-quatre heures.
+
+Le délai prévu à l'alinéa précédent peut être prolongé d'un nouveau délai de vingt-quatre heures par autorisation écrite du procureur de la République ou du juge d'instruction.
+
+Les dispositions du dernier alinéa de l'article 64 sont applicables.
+
+L'officier de police judiciaire avise de ce droit la personne gardée à vue.
 
 
 #### Article 65
