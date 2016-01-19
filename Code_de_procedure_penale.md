@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 29 septembre 1966
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19660929)
+- Date de consolidation : 20 janvier 1967
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19670120)
 
 
 # Partie législative
@@ -4152,6 +4152,11 @@ Les jurés retenus en dehors de leur résidence par l'accomplissement de leurs o
 Pour le calcul des taux journaliers, les jurés sont assimilés aux fonctionnaires du groupe I.
 
 
+###### Article R143
+
+[Article abrogé].
+
+
 ##### Section 4 : Des frais de garde des scellés, de mise en fourrière et de l'immobilisation décidée en application de l'article 43-3-3° bis du code pénal
 
 ##### Article R148
@@ -4208,6 +4213,23 @@ Dans tous les cas où il y a envoi des pièces d'une procédure, le greffier est
 ####### Article R160
 
 Ne doivent pas être insérés dans la rédaction des arrêts et jugements les réquisitoires ou plaidoyers prononcés soit par le ministère public, soit par les défenseurs des prévenus ou accusés, mais seulement leurs conclusions.
+
+
+####### a) Droits d'expédition et de copie.
+
+####### Article R161
+
+[Article abrogé].
+
+
+####### Article R162
+
+[Article abrogé].
+
+
+####### Article R163
+
+[Article abrogé].
 
 
 ###### C : Droits forfaitaires
@@ -4509,9 +4531,25 @@ Les frais de justice criminelle, correctionnelle et de police, sont payés sur l
 
 ##### Section 5 : Des frais de copie
 
+###### B : Expéditions
+
+####### a) Droits d'expédition et de copie.
+
+####### Article R164
+
+[*Article abrogé*].
+
+
 ###### D : Droits fixes.
 
 ###### Article R175
+
+[Article abrogé].
+
+
+###### E : Indemnités.
+
+###### Article R177
 
 [Article abrogé].
 
