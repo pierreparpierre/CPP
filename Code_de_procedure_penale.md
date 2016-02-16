@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 2 mars 1959
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19590302)
+- Date de consolidation : 17 février 1960
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19600217)
 
 
 # Partie législative
@@ -4258,6 +4258,15 @@ Il porte également, le cas échéant, l'indication des autorités qui en ont as
 ##### Article D42
 
 (Article abrogé).
+
+
+#### Chapitre II : De la chambre d'accusation : juridiction d'instruction du second degré
+
+##### Section 1 : Dispositions générales
+
+##### Article D43
+
+Dans les cours d'appel comportant quatre chambres au plus, non compris les chambres détachées, et jusqu'à ce qu'il puisse en être autrement disposé, le président de la chambre d'accusation peut, en cas de nécessité, assurer à titre exceptionnel le service d'une autre chambre de la même cour, conformément aux dispositions de l'article 191, alinéa 4.
 
 
 #### Chapitre II : De la chambre de l'instruction : juridiction d'instruction du second degré
