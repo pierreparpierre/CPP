@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 24 décembre 1958
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19581224)
+- Date de consolidation : 25 février 1959
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19590225)
 
 
 # Partie législative
@@ -718,6 +718,45 @@ En cas de retards injustifiés, la personne désignée peut être remplacée et 
 ## Livre II
 
 ## Livre III
+
+## Livre V : Des procédures d'exécution
+
+### Titre II : De la détention
+
+#### Chapitre Ier : De l'exécution de la détention provisoire
+
+##### Section 3 : Du régime de la détention provisoire
+
+###### Paragraphe 3 : Visites et correspondance
+
+###### Article D64
+
+Les permis de visite sont délivrés pour les prévenus par le magistrat saisi du dossier de l'information et ils sont utilisés dans les conditions visées aux articles D403 et suivants.
+
+Sauf disposition contraire, ces permis sont valables jusqu'au moment où la condamnation éventuelle acquiert un caractère définitif. En conséquence, il n'y a pas lieu à renouvellement du permis lorsque le magistrat qui l'a accordé est dessaisi du dossier de la procédure, mais l'autorité judiciaire ultérieurement saisie est compétente pour en supprimer les effets ou pour délivrer de nouveaux permis.
+
+
+###### Article D65
+
+Les prévenus peuvent écrire tous les jours et sans limitation à toute personne de leur choix et recevoir des lettres de toute personne, sous réserve de dispositions contraires ordonnées par le magistrat saisi du dossier de l'information.
+
+Indépendamment des mesures de contrôle auxquelles elle est soumise conformément aux articles D415 et D416, leur correspondance est communiquée audit magistrat dans les conditions que celui-ci détermine.
+
+
+#### Chapitre II : De l'exécution des peines privatives de liberté
+
+##### Section 3 : Du régime auquel les condamnés sont soumis
+
+###### Paragraphe 1er : Maisons d'arrêt
+
+####### B : Etablissements en commun
+
+####### Article D88
+
+Dans les maisons d'arrêt dont les locaux, en tout ou en partie, ne permettent que l'incarcération en commun, et où les détenus sont par suite nécessairement réunis, toutes les précautions utiles doivent être prises pour éviter que leur promiscuité entraîne des conséquences fâcheuses.
+
+Au surplus, dans la mesure du possible, il convient d'assurer l'emprisonnement individuel de certains détenus et, pour les autres, de les séparer par catégories.
+
 
 # Partie Arrêtés
 
