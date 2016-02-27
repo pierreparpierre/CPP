@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 25 février 1959
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19590225)
+- Date de consolidation : 28 février 1959
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19590228)
 
 
 # Partie législative
@@ -960,5 +960,53 @@ Seuls peuvent être retenus les candidats qui totalisent 24 points au moins pour
 Ces listes font apparaître les numéros de désignation des candidats portés sur les copies et, en regard, la note définitive dans chaque épreuve et le total de points.
 
 Elles sont adressées à la direction de la gendarmerie et de la justice militaire, accompagnées des copies des candidats, et du procès-verbal de séance, où figurent l'avis de la commission sur le nombre des candidats déclarés aptes à recevoir la qualité d'officier de police judiciaire, et, éventuellement, toutes propositions et suggestions jugées utiles.
+
+
+## Livre V : Des procédures d'exécution
+
+### Titre IV : Du sursis
+
+#### Chapitre Ier
+
+#### Chapitre II : Du sursis avec mise à l'épreuve
+
+##### Section 1
+
+##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve
+
+###### Paragraphe 2
+
+###### Paragraphe 3 : Des associations placées auprès des comités
+
+###### Article A50
+
+Les statuts de l'association sont conformes à un type commun établi par le ministre de la justice.
+
+
+###### Article A51
+
+Le contrôle du fonctionnement de l'association et de sa gestion financière est assuré, soit sur pièces par le ministre de la justice, soit sur place par les autorités judiciaires ou les représentants dûment habilités à cet effet du ministre de la justice.
+
+Ce contrôle doit comporter notamment la vérification de la comptabilité de l'association et de l'utilisation de ses ressources.
+
+Les magistrats et fonctionnaires habilités par le ministre de la justice peuvent procéder à toutes vérifications de caisse et de comptabilité. Tous registres et dossiers, ainsi que tous documents relatifs au fonctionnement de l'association doivent leur être communiqués.
+
+
+##### Section 3
+
+##### Section 4
+
+##### Section 5
+
+## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion
+
+## Article A56
+
+L'enquête prévue à l'article D. 81 sur la situation du condamné avant son incarcération est demandée au service social de l'administration pénitentiaire ou à défaut aux services sociaux locaux, par le fonctionnaire visé à l'article A. 54.
+
+
+## Article A57
+
+Les attributions dévolues au directeur régional des services pénitentiaires par le présent code sont exercées, dans le département de la Réunion, par le fonctionnaire assurant les fonctions de directeur des prisons de ce département.
 
 
