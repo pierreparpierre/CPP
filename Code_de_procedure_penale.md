@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 24 février 1963
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19630224)
+- Date de consolidation : 19 mars 1964
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19640319)
 
 
 # Partie législative
@@ -6640,6 +6640,73 @@ Seuls peuvent être retenus les candidats qui totalisent 24 points au moins pour
 Ces listes font apparaître les numéros de désignation des candidats portés sur les copies et, en regard, la note définitive dans chaque épreuve et le total de points.
 
 Elles sont adressées à la direction de la gendarmerie et de la justice militaire, accompagnées des copies des candidats, et du procès-verbal de séance, où figurent l'avis de la commission sur le nombre des candidats déclarés aptes à recevoir la qualité d'officier de police judiciaire, et, éventuellement, toutes propositions et suggestions jugées utiles.
+
+
+###### Paragraphe 3 : Désignation des officiers de police de la préfecture de police
+
+###### Article A26
+
+[*Article abrogé*].
+
+
+###### Article A27
+
+[Article abrogé].
+
+
+###### Article A28
+
+[Article abrogé].
+
+
+###### Article A29
+
+[Article abrogé].
+
+
+###### Article A30
+
+[Article abrogé].
+
+
+###### Article A31
+
+[Article abrogé].
+
+
+###### Article A32
+
+[Article abrogé].
+
+
+###### Article A33
+
+[Article abrogé].
+
+
+###### Article A34
+
+[Article abrogé].
+
+
+###### Article A35
+
+[Article abrogé].
+
+
+###### Article A36
+
+[Article abrogé].
+
+
+###### Article A38
+
+[*Article abrogé*].
+
+
+###### Article A37
+
+[Article abrogé].
 
 
 ## Livre V : Des procédures d'exécution
