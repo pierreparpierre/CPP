@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 27 novembre 1960
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19601127)
+- Date de consolidation : 13 avril 1961
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19610413)
 
 
 # Partie législative
@@ -4566,6 +4566,11 @@ En cas de retards injustifiés, la personne désignée peut être remplacée et 
 ###### Article D19
 
 Dans les cas où il apparaît nécessaire de soumettre à une expertise psychiatrique un inculpé qui a fait l'objet d'une enquête ou d'un examen mentionnés à l'article D. 16, le dossier de personnalité peut être communiqué, en tout ou partie, à l'expert.
+
+
+###### Article D20
+
+(Article abrogé).
 
 
 ###### Article D21
