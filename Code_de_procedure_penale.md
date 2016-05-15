@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 19 mars 1964
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19640319)
+- Date de consolidation : 16 mai 1964
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19640516)
 
 
 # Partie législative
@@ -5253,6 +5253,49 @@ Ce registre est présenté obligatoirement aux autorités qui ont procédé à c
 ##### Article D234
 
 Un conseil supérieur de l'administration pénitentiaire siège auprès du ministre de la justice.
+
+
+##### Article D235
+
+Le conseil supérieur de l'administration pénitentiaire délibère soit en commission, soit en assemblée générale sur les questions relevant de la compétence de la direction de l'administration pénitentiaire et qui sont soumises à son examen par le ministre de la justice.
+
+Il formule des avis et établit des rapports soumis à l'agrément du ministre de la justice.
+
+
+##### Article D236
+
+Le conseil supérieur de l'administration pénitentiaire est composé :
+
+Du garde des sceaux, ministre de la justice, président ;
+
+Du directeur de l'administration pénitentiaire, rapporteur général ;
+
+De membres de droit ;
+
+De membres désignés ;
+
+D'un secrétaire choisi parmi les magistrats en fonctions à la direction de l'administration pénitentiaire.
+
+
+##### Article D238
+
+Un arrêté du ministre de la justice désigne le président et les membres du conseil supérieur de l'administration pénitentiaire, siégeant en commission, ainsi que le secrétaire.
+
+
+##### Article D239
+
+Le conseil supérieur se réunit en assemblée générale au moins une fois par an au ministère de la justice, sur convocation de son président.
+
+Il est convoqué en commission au moins une fois par semestre, par le ministère de la justice, sur la proposition soit du président de commission, soit du rapporteur général.
+
+Ses avis et rapports sont adoptés à la majorité des membres présents. En cas de partage, la voix du président est prépondérante.
+
+
+##### Article D240
+
+Le secrétariat du conseil supérieur de l'administration pénitentiaire est chargé de l'organisation des réunions du conseil supérieur siégeant en assemblée générale ou en commission.
+
+Il établit les procès-verbaux et en assure la diffusion.
 
 
 #### Chapitre V : De la discipline et de la sécurité des prisons
