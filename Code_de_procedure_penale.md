@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 17 février 1960
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19600217)
+- Date de consolidation : 8 juin 1960
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19600608)
 
 
 # Partie législative
@@ -228,6 +228,19 @@ Les officiers et agents de police judiciaire sont placés sous la surveillance d
 
 ##### Section 3 : Des attributions du procureur de la République
 
+##### Article 39
+
+Le procureur de la République représente en personne ou par ses substituts le ministère public près le tribunal de grande instance, sans préjudice des dispositions de l'article 105 du code forestier et de l'article 446 du code rural.
+
+
+
+Il représente également en personne ou par ses substituts le ministère public auprès de la cour d'assises instituée au siège du tribunal.
+
+
+
+Il représente de même, en personne ou par ses substituts, le ministère public auprès du tribunal de police dans les conditions fixées par l'article 45 du présent code.
+
+
 ##### Article 42
 
 Le procureur de la République a, dans l'exercice de ses fonctions, le droit de requérir directement la force publique.
@@ -300,6 +313,39 @@ En cas de crime flagrant, l'officier de police judiciaire qui en est avisé, inf
 Il veille à la conservation des indices susceptibles de disparaître et de tout ce qui peut servir à la manifestation de la vérité. Il saisit les armes et instruments qui ont servi à commettre le crime ou qui étaient destinés à le commettre, ainsi que tout ce qui paraît avoir été le produit de ce crime.
 
 Il représente les objets saisis, pour reconnaissance, aux personnes qui paraissent avoir participé au crime, si elles sont présentes.
+
+
+#### Article 56
+
+Si la nature du crime est telle que la preuve en puisse être acquise par la saisie des papiers, documents ou autres objets en la possession des personnes qui paraissent avoir participé au crime ou détenir des pièces ou objets relatifs aux faits incriminés, l'officier de police judiciaire se transporte sans désemparer au domicile de ces derniers pour y procéder à une perquisition dont il dresse procès-verbal.
+
+Il a seul, avec les personnes désignées à l'article 57 et celles auxquelles il a éventuellement recours en application de l'article 60, le droit de prendre connaissance des papiers ou documents avant de procéder à leur saisie.
+
+Toutefois, il a l'obligation de provoquer préalablement toutes mesures utiles pour que soit assuré le respect du secret professionnel et des droits de la défense.
+
+Tous objets et documents saisis sont immédiatement inventoriés et placés sous scellés. Cependant, si leur inventaire sur place présente des difficultés, ils font l'objet de scellés fermés provisoires jusqu'au moment de leur inventaire et de leur mise sous scellés définitifs et ce, en présence des personnes qui ont assisté à la perquisition suivant les modalités prévues à l'article 57.
+
+Avec l'accord du procureur de la République, l'officier de police judiciaire ne maintient que la saisie des objets et documents utiles à la manifestation de la vérité.
+
+
+#### Article 57
+
+Sous réserve de ce qui est dit à l'article précédent concernant le respect du secret professionnel et des droits de la défense, les opérations prescrites par ledit article sont faites en présence de la personne au domicile de laquelle la perquisition a lieu.
+
+En cas d'impossibilité, l'officier de police judiciaire aura l'obligation de l'inviter à désigner un représentant de son choix ; à défaut, l'officier de police judiciaire choisira deux témoins requis à cet effet par lui, en dehors des personnes relevant de son autorité administrative.
+
+Le procès-verbal de ces opérations, dressé ainsi qu'il est dit à l'article 66, est signé par les personnes visées au présent article ; au cas de refus, il en est fait mention au procès-verbal.
+
+
+#### Article 62
+
+L'officier de police judiciaire peut appeler et entendre toutes les personnes susceptibles de fournir des renseignements sur les faits ou sur les objets et documents saisis.
+
+Les personnes convoquées par lui sont tenues de comparaître et de déposer. Si elles ne satisfont pas à cette obligation, avis en est donné au procureur de la République, qui peut les contraindre à comparaître par la force publique.
+
+Il dresse un procès-verbal de leurs déclarations. Les personnes entendues procèdent elles-mêmes à sa lecture, peuvent y faire consigner leurs observations et y apposent leur signature. Si elles déclarent ne savoir lire, lecture leur en est faite par l'officier de police judiciaire préalablement à la signature. Au cas de refus de signer le procès-verbal, mention en est faite sur celui-ci.
+
+Les agents de police judiciaire désignés à l'article 20 peuvent également entendre dans la limite des ordres reçus toutes personnes susceptibles de fournir des renseignements sur les faits en cause. Ils dressent à cet effet, dans les formes prescrites par le présent code, des procès-verbaux qu'ils transmettent à l'officier de police judiciaire qu'ils secondent.
 
 
 #### Article 65
@@ -475,6 +521,17 @@ Les personnes ainsi désignées prêtent serment dans les conditions prévues au
 Leur rapport sera annexé intégralement au rapport mentionné à l'article 166.
 
 
+##### Article 164
+
+Les experts peuvent recevoir, à titre de renseignements et pour l'accomplissement strict de leur mission, les déclarations de personnes autres que l'inculpé.
+
+S'ils estiment qu'il y a lieu d'interroger l'inculpé et sauf délégation motivée délivrée à titre exceptionnel par le magistrat, il est procédé à cet interrogatoire en leur présence par le juge d'instruction ou le magistrat désigné par la juridiction en observant dans tous les cas les formes et conditions prévues par les articles 118 et 119.
+
+L'inculpé peut, cependant, renoncer au bénéfice de cette disposition par déclaration expresse devant le juge d'instruction ou le magistrat désigné par la juridiction et fournir aux experts, en présence de son conseil, les explications nécessaires à l'exécution de leur mission. L'inculpé peut également, par déclaration écrite remise par lui aux experts et annexée par ceux-ci à leur rapport, renoncer à l'assistance de son conseil pour une ou plusieurs auditions.
+
+Toutefois, les médecins experts chargés d'examiner l'inculpé peuvent lui poser les questions nécessaires à l'accomplissement de leur mission, hors la présence du juge et des conseils.
+
+
 ##### Article 165
 
 Au cours de l'expertise, les parties peuvent demander à la juridiction qui l'a ordonnée qu'il soit prescrit aux experts d'effectuer certaines recherches ou d'entendre toute personne nommément désignée qui serait susceptible de leur fournir des renseignements d'ordre technique.
@@ -518,6 +575,13 @@ Dans les causes dont sont saisies les juridictions correctionnelles ou de police
 ##### Article 203
 
 Les infractions sont connexes soit lorsqu'elles ont été commises en même temps par plusieurs personnes réunies, soit lorsqu'elles ont été commises par différentes personnes, même en différents temps et en divers lieux, mais par suite d'un concert formé à l'avance entre elles, soit lorsque les coupables ont commis les unes pour se procurer les moyens de commettre les autres, pour en faciliter, pour en consommer l'exécution ou pour en assurer l'impunité, soit lorsque des choses enlevées, détournées ou obtenues à l'aide d'un crime ou d'un délit ont été, en tout ou partie, recelées.
+
+
+##### Article 209
+
+Le dossier de la procédure reste déposé au greffe pendant quarante-huit heures en matière de détention provisoire, pendant cinq jours en toute autre matière.
+
+Il est alors procédé conformément aux articles 197, 198 et 199.
 
 
 ##### Article 211
@@ -572,6 +636,13 @@ Si la perquisition a lieu dans un domicile autre que celui de l'inculpé, la per
 Le juge d'instruction doit se conformer aux dispositions des articles 57 (alinéa 2) et 59.
 
 Toutefois, il a l'obligation de provoquer préalablement toutes mesures utiles pour que soit assuré le respect du secret professionnel et des droits de la défense.
+
+
+##### Section 4 : Des auditions de témoins
+
+##### Article 104
+
+Toute personne nommément visée par une plainte assortie d'une constitution de partie civile peut refuser d'être entendue comme témoin. Le juge d'instruction, l'en avertit après lui avoir donné connaissance de la plainte. Mention en est faite au procés-verbal. En cas de refus, il ne peut l'entendre que comme inculpé.
 
 
 ##### Section 5 : Des interrogatoires et confrontations
@@ -636,6 +707,13 @@ Les fonctions du ministère public auprès de la chambre d'accusation sont exerc
 ##### Article 193
 
 La chambre d'accusation se réunit au moins une fois par semaine et, sur convocation de son président ou à la demande du procureur général, toutes les fois qu'il est nécessaire.
+
+
+##### Article 194
+
+Le procureur général met l'affaire en état dans les quarante-huit heures de la réception des pièces en matière de détention provisoire et dans les dix jours en toute autre matière ; il la soumet, avec son réquisitoire, à la chambre d'accusation.
+
+Celle-ci doit, en matière de détention provisoire, se prononcer dans les plus brefs délais et au plus tard dans les trente jours de l'appel prévu par l'article 186, faute de quoi l'inculpé est mis d'office en liberté, sauf si des vérifications concernant sa demande ont été ordonnées ou si des circonstances imprévisibles et insurmontables mettent obstacle au jugement de l'affaire dans le délai prévu au présent article.
 
 
 ##### Article 196
@@ -706,6 +784,15 @@ L'arrêt de mise en accusation contient, à peine de nullité, l'exposé et la q
 
 
 Il décerne en outre ordonnance de prise de corps contre l'accusé dont il précise l'identité.
+
+
+##### Article 218
+
+Les dispositions des articles 170, 172, alinéas 1er et 3, et 173, relatives aux nullités de l'information sont applicables au présent chapitre.
+
+
+
+La régularité des arrêts des chambres d'accusation et celle de la procédure antérieure, lorsque cette chambre a statué sur le règlement d'une procédure, relève du seul contrôle de la Cour de cassation, que le pourvoi soit immédiatement recevable ou qu'il ne puisse être examiné qu'avec l'arrêt sur le fond.
 
 
 ##### Section 2 : Des pouvoirs propres du président de la chambre d'accusation
@@ -865,6 +952,17 @@ La cour d'assises comprend : la cour proprement dite et le jury.
 
 ##### Section 1 : Des actes obligatoires
 
+##### Article 268
+
+L'arrêt de renvoi est signifié à l'accusé.
+
+Il lui en est laissé copie.
+
+Cette signification doit être faite à personne si l'accusé est détenu.
+
+Dans le cas contraire, elle est faite dans les formes prévues au titre IV du présent livre.
+
+
 ##### Article 269
 
 Dès que l'arrêt de renvoi est devenu définitif, l'accusé, s'il est détenu, est transféré dans la maison d'arrêt du lieu où se tiennent les assises.
@@ -930,6 +1028,13 @@ Les citations faites à la requête des parties sont à leurs frais, ainsi que l
 
 
 ##### Section 2 : Des actes facultatifs ou exceptionnels
+
+##### Article 283
+
+Le président, si l'instruction lui semble incomplète ou si des éléments nouveaux ont été révélés depuis sa clôture, peut ordonner tous actes d'information qu'il estime utiles.
+
+Il y est procédé soit par le président, soit par un de ses assesseurs ou un juge d'instruction qu'il délègue à cette fin. Dans ce cas, les prescriptions du chapitre Ier du titre III du livre Ier doivent être observées, à l'exception de celles de l'article 167.
+
 
 ##### Article 284
 
@@ -1162,11 +1267,30 @@ Le président interroge l'accusé et reçoit ses déclarations.
 Il a le devoir de ne pas manifester son opinion sur la culpabilité.
 
 
+##### Article 329
+
+Les témoins appelés par le ministère public ou les parties sont entendus dans le débat, même s'ils n'ont pas déposé à l'instruction, ou s'ils n'ont pas été assignés, à condition que leurs noms aient été signifiés conformément aux prescriptions de l'article 281.
+
+
+##### Article 330
+
+Le ministère public et les parties peuvent s'opposer à l'audition d'un témoin dont le nom ne leur aurait pas 8té signifié ou qui leur aurait été irrégulièrement signifié.
+
+La cour statue sur cette opposition.
+
+Si elle est reconnue fondée, ces témoins peuvent être entendus, à titre de renseignements, en vertu du pouvoir discrétionnaire du président.
+
+
 ##### Article 332
 
 Après chaque déposition, le président peut poser des questions aux témoins.
 
 Le ministère public, ainsi que les conseils de l'accusé et de la partie civile, l'accusé et la partie civile ont la même faculté, dans les conditions déterminées à l'article 312.
+
+
+##### Article 333
+
+Le président fait dresser d'office ou à la requête du ministère public ou des parties, par le greffier, un procès-verbal des additions, changements ou variations qui peuvent exister entre la déposition d'un témoin et ses précédentes déclarations. Ce procès-verbal est joint au procès-verbal des débats.
 
 
 ##### Article 334
@@ -1447,6 +1571,11 @@ Le greffier dresse, à l'effet de constater l'accomplissement des formalités pr
 Le procès-verbal est dressé et signé dans le délai de trois jours au plus tard du prononcé de l'arrêt.
 
 
+##### Article 379
+
+A moins que le président n'en ordonne autrement d'office ou sur la demande du ministère public ou des parties, il n'est fait mention au procès-verbal, ni des réponses des accusés, ni du contenu des dépositions, sans préjudice, toutefois, de l'exécution de l'article 333 concernant les additions, changements ou variations dans les déclarations des témoins.
+
+
 ##### Article 380
 
 Les minutes des arrêts rendus par la cour d'assises sont réunies et déposées au greffe du tribunal de grande instance, siège de ladite cour.
@@ -1590,6 +1719,13 @@ Dans le cas où le prévenu visé au présent article sait écrire, le greffier 
 Au jour indiqué pour la comparution à l'audience, le prévenu en état de détention y est conduit par la force publique.
 
 
+###### Article 410
+
+Le prévenu régulièrement cité à personne doit comparaître, à moins qu'il ne fournisse une excuse reconnue valable par la juridiction devant laquelle il est appelé. Le prévenu a la même obligation lorsqu'il est établi que, bien que n'ayant pas été cité à personne, il a eu connaissance de la citation régulière le concernant dans les cas prévus par les articles 557, 558 et 560.
+
+Si ces conditions sont remplies, le prévenu non comparant et non excusé est jugé contradictoirement.
+
+
 ###### Article 411
 
 Le prévenu cité pour une infraction passible d'une peine d'amende ou d'une peine d'emprisonnement inférieure à deux années peut, par lettre adressée au président et qui sera jointe au dossier de la procédure, demander à être jugé en son absence.
@@ -1722,6 +1858,11 @@ La preuve par écrit ne peut résulter de la correspondance échangée entre le 
 ###### Article 433
 
 Les matières donnant lieu à des procès-verbaux faisant foi jusqu'à inscription de faux sont réglées par des lois spéciales. A défaut de disposition expresse la procédure de l'inscription de faux est réglée comme il est dit au titre II du livre IV.
+
+
+###### Article 434
+
+Si le tribunal estime qu'une expertise est nécessaire, il est procédé conformément aux articles 156 à 166, 168 et 169.
 
 
 ###### Article 435
@@ -2047,6 +2188,17 @@ Il peut toutefois limiter cette opposition aux dispositions civiles du jugement.
 Si la signification du jugement a été faite à la personne du prévenu, l'opposition doit être formée dans les délais ci-après, qui courent à compter de cette signification : dix jours si le prévenu réside en France métropolitaine, un mois s'il réside hors de ce territoire.
 
 
+###### Article 492
+
+Si la signification du jugement n'a pas été faite à la personne du prévenu, l'opposition doit être formée dans les délais ci-après, qui courent à compter de la signification du jugement faite à domicile, à mairie ou à parquet :
+
+dix jours si le prévenu réside dans la France métropolitaine, un mois s'il réside hors de ce territoire.
+
+Toutefois, s'il s'agit d'un jugement de condamnation et s'il ne résulte pas, soit de l'avis constatant remise de la lettre recommandée prévue aux articles 557, et 558 alinéa 3, soit d'un acte d'exécution quelconque, ou de l'avis donné conformément à l'article 560, que le prévenu a eu connaissance de la signification, l'opposition tant en ce qui concerne les intérêts civils que la condamnation pénale reste recevable jusqu'à l'expiration des délais de prescription de la peine.
+
+Dans les cas visés à l'alinéa précédent, le délai d'opposition court à compter du jour où le prévenu a eu cette connaissance.
+
+
 ###### Article 493
 
 La personne civilement responsable et la partie civile peuvent former opposition à tout jugement par défaut à leur encontre, dans les délais fixés à l'article 491, lesquels courent à compter de la signification du jugement, quel qu'en soit le mode.
@@ -2091,6 +2243,11 @@ La requête, ainsi que les pièces de la procédure sont envoyées par le procur
 
 
 Si le prévenu est en état d'arrestation, il est également, dans le plus bref délai, et par ordre du procureur de la République, transféré dans la maison d'arrêt du lieu où siège la cour d'appel.
+
+
+##### Article 505
+
+Le procureur général forme son appel par signification, soit au prévenu, soit à la personne civilement responsable du délit, dans le délai de deux mois à compter du jour du prononcé du jugement.
 
 
 ##### Article 507
@@ -2290,7 +2447,32 @@ L'appel est suivi et jugé dans la même forme que les appels des jugements corr
 Les articles 502 à 504, alinéas 1er et 2, sont applicables à l'appel des jugements de police.
 
 
+#### Article 548
+
+Le procureur général forme son appel par signification, soit au prévenu, soit à la partie civilement responsable de l'infraction, dans le délai de deux mois à compter du jour du prononcé du jugement.
+
+
+#### Article 549
+
+Les dispositions des articles 506 à 509, 510 à 520, sont applicables aux jugements rendus par les tribunaux de police.
+
+La cour d'appel, saisie de l'appel d'un jugement d'incompétence du tribunal de police, si elle constate que le fait poursuivi constitue un délit, prononce la peine et statue, s'il y a lieu, sur les dommages-intérêts.
+
+
 ### Titre IV : Des citations et significations
+
+### Article 550
+
+Les citations et significations, sauf disposition contraire des lois et règlements, sont faites par exploit d'huissier de justice.
+
+Les notifications sont faites par voie administrative.
+
+L'huissier ne peut instrumenter pour lui-même, pour son conjoint, pour ses parents et alliés et ceux de son conjoint, en ligne directe à l'infini, ni pour ses parents et alliés collatéraux, jusqu'au degré de cousin issu de germain inclusivement.
+
+L'exploit de citation ou de signification contient la désignation du requérant, la date, les nom, prénoms et adresse de l'huissier, ainsi que les nom, prénoms et adresse du destinataire.
+
+La personne qui reçoit copie de l'exploit signe l'original ; si elle ne veut ou ne peut signer, mention en est faite par l'huissier.
+
 
 ### Article 551
 
@@ -2320,6 +2502,33 @@ Si les délais prescrits à l'article précédent n'ont pas été observés, les
 2. Dans le cas où la partie citée se présente, la citation n'est pas nulle mais le tribunal doit, sur la demande de la partie citée, ordonner le renvoi à une audience ultérieure.
 
 Cette demande doit être présentée avant toute défense au fond, ainsi qu'il est dit à l'article 385.
+
+
+### Article 554
+
+La signification des décisions, dans les cas où elle est nécessaire, est effectuée à la requête du ministère public ou de la partie civile.
+
+
+### Article 555
+
+L'huissier doit faire toutes diligences pour parvenir à la délivrance de son exploit à la personne même de l'intéressé et lui en remettre une copie.
+
+
+### Article 556
+
+Si la personne visée par l'exploit est absente de son domicile, la copie est remise à un parent allié, serviteur ou à une personne résidant à ce domicile.
+
+L'huissier indique dans l'exploit la qualité déclarée par la personne à laquelle est faite cette remise.
+
+
+### Article 557
+
+Si la copie a été remise à une personne résidant au domicile de celui que l'exploit concerne, l'huissier informe sans délai l'intéressé de cette remise, par lettre recommandée avec avis de réception. Lorsqu'il résulte de l'avis de réception, signé par l'intéressé, que celui-ci a reçu la lettre recommandée de l'huissier, l'exploit remis à domicile produit les mêmes effets que s'il avait été délivré à personne.
+
+
+### Article 559
+
+Si la personne visée par l'exploit est sans domicile ou résidence connus, l'huissier remet une copie de l'exploit au parquet du procureur de la République du tribunal saisi.
 
 
 ### Article 561
@@ -2377,6 +2586,59 @@ Les arrêts de la chambre de l'instruction et les arrêts et jugements rendus en
 Le recours est porté devant la chambre criminelle de la Cour de cassation.
 
 
+#### Article 568
+
+Le ministère public et toutes les parties ont cinq jours francs après celui où la décision attaquée a été prononcée pour se pourvoir en cassation.
+
+Toutefois, le délai de pourvoi ne court qu'à compter de la signification de l'arrêt, quel qu'en soit le mode :
+1. Pour la partie qui, après débat contradictoire, n'était pas présente ou représentée à l'audience où l'arrêt a été prononcé, si elle n'avait pas été informée ainsi qu'il est dit à l'article 462, alinéa 2 ;
+2. Pour le prévenu qui a demandé à être jugé en son absence dans les conditions prévues à l'article 411, alinéa 1er ;
+3. Pour le prévenu qui n'a pas comparu dans les cas prévus aux articles 410 et 411, alinéa 4 ;
+4. Pour le prévenu qui a été jugé par itératif défaut.
+
+Le délai du pourvoi contre les arrêts ou les jugements par défaut ne court, à l'égard du prévenu, que du jour où ils ne sont plus susceptibles d'opposition. A l'égard du ministère public, le délai court à compter de l'expiration du délai de dix jours qui suit la signification.
+
+
+#### Article 570
+
+Lorsque le tribunal ou la cour d'appel statue par jugement ou arrêt distinct de l'arrêt sur le fond, le pourvoi en cassation est immédiatement recevable si cette décision met fin à la procédure. Si le président de la chambre criminelle constate qu'une décision a été à tort considérée par la partie intéressée comme mettant fin à la procédure, il apprécie si le pourvoi doit néanmoins être reçu dans l'intérêt de l'ordre public ou d'une bonne administration de la justice, ou si, au contraire, il ne doit pas être reçu, et rend d'office à cet effet une ordonnance d'admission ou de non-admission.
+
+Dans le cas où la décision n'a pas mis fin à la procédure et jusqu'à l'expiration des délais de pourvoi, l'arrêt n'est pas exécutoire et la cour d'appel ne peut statuer au fond.
+
+Si aucun pourvoi n'a été interjeté ou si, avant l'expiration du délai du pourvoi, la partie demanderesse au pourvoi n'a pas déposé au greffe la requête prévue par l'alinéa suivant, le jugement ou l'arrêt est exécutoire et le tribunal ou la cour d'appel statue au fond. Dans ce cas, si la procédure a été néanmoins transmise à la Cour de cassation, le président de la chambre criminelle ordonne qu'il en soit fait retour à la juridiction saisie.
+
+Le demandeur en cassation peut déposer au greffe, avant l'expiration des délais de pourvoi, une requête adressée au président de la chambre criminelle de la Cour de cassation et tendant à faire déclarer son pourvoi immédiatement recevable.
+
+
+#### Article 571
+
+Le greffier avise le président du tribunal ou le premier président de la cour d'appel du dépôt de cette requête. Le jugement ou l'arrêt n'est pas exécutoire et il ne peut être statué au fond tant qu'il n'a pas été prononcé sur ladite requête.
+
+
+
+Dès que le greffier a reçu le pourvoi et la requête, il fait parvenir celle-ci au président de la chambre criminelle ainsi qu'une expédition du jugement ou de l'arrêt et de la déclaration de pourvoi.
+
+
+
+Le président de la chambre criminelle statue sur la requête par ordonnance dans les huit jours de la réception de ce dossier.
+
+
+
+S'il rejette la requête, le jugement ou l'arrêt est exécutoire et le tribunal ou la cour d'appel se prononce au fond ; aucun recours n'est recevable contre l'ordonnance du président et le pourvoi n'est alors jugé qu'en même temps que le pourvoi formé contre le jugement ou l'arrêt sur le fond.
+
+
+
+Si, dans l'intérêt de l'ordre public ou d'une bonne administration de la justice, le président fait droit à la requête, il fixe la date à laquelle le pourvoi sera jugé.
+
+
+
+La chambre criminelle doit statuer dans les deux mois qui suivent l'ordonnance du président, sans que puisse être soulevée devant elle une exception tirée de ce que le pourvoi formé contre la décision entreprise ne serait pas suspensif. L'exécution du jugement ou de l'arrêt est suspendue jusqu'à ce qu'intervienne l'arrêt de la chambre criminelle.
+
+
+
+Les dispositions de l'article 570 et du présent article sont applicables aux pourvois formés contre les arrêts préparatoires, interlocutoires ou d'instruction rendus par les chambres d'accusation.
+
+
 #### Article 572
 
 Les arrêts d'acquittement prononcés par la cour d'assises ne peuvent faire l'objet d'un pourvoi que dans le seul intérêt de la loi, et sans préjudicier à la partie acquittée.
@@ -2408,6 +2670,11 @@ Elle est inscrite sur un registre public, à ce destiné et toute personne a le 
 #### Article 578
 
 Le demandeur en cassation doit notifier son recours au ministère public et aux autres parties par lettre recommandée avec demande d'avis de réception, dans un délai de trois jours.
+
+
+#### Article 579
+
+La partie qui n'a pas reçu la notification prévue à l'article 578 a le droit de former opposition à l'arrêt rendu par la Cour de cassation, par déclaration au greffe de la juridiction qui a rendu la décision, dans les cinq jours de la signification prévue à l'article 614.
 
 
 #### Article 583
@@ -2448,6 +2715,20 @@ Le président de cette chambre commet un conseiller pour le rapport.
 Si un ou plusieurs avocats se sont constitués, le conseiller rapporteur fixe un délai pour le dépôt des mémoires entre les mains du greffier de la chambre criminelle.
 
 
+#### Article 589
+
+La partie intéressée au pourvoi qui n'aurait pas reçu copie des mémoires produits à l'appui du pourvoi pourra former opposition à l'arrêt rendu par la Cour de cassation, par déclaration au greffe de la juridiction qui a rendu la décision, dans les cinq jours de la signification prévue à l'article 614.
+
+
+#### Article 590
+
+Les mémoires contiennent les moyens de cassation et visent les textes de loi dont la violation est invoquée.
+
+Ils sont rédigés sur timbre, sauf si le demandeur est un condamné à une peine criminelle.
+
+Ils doivent être déposés dans le délai imparti. Aucun mémoire additionnel n'y peut être joint, postérieurement au dépôt de son rapport par le conseiller commis. Le dépôt tardif d'un mémoire proposant des moyens additionnels peut entraîner son irrecevabilité.
+
+
 #### Chapitre III : Des ouvertures à cassation
 
 #### Article 591
@@ -2465,6 +2746,11 @@ Il en est de même lorsqu'il a été omis ou refusé de prononcer soit sur une o
 #### Article 594
 
 En matière criminelle, l'arrêt de renvoi de la chambre de l'instruction, devenu définitif, fixe la compétence de la cour d'assises et couvre, s'il en existe, les vices de la procédure antérieure.
+
+
+#### Article 595
+
+Lorsque la chambre de l'instruction statue sur le règlement d'une procédure dans un cas autre que celui visé à l'article précédent, tous moyens pris de nullités de l'information doivent lui être proposés, faute de quoi l'inculpé ou la partie civile ne sont plus recevables à en faire état, sauf le cas où ils n'auraient pu les connaître, et sans préjudice du droit qui appartient à la Cour de cassation de relever tous moyens d'office.
 
 
 #### Article 596
@@ -2705,6 +2991,17 @@ Aucun conseil, aucun avoué ne peut se présenter pour l'accusé contumax. Toute
 Si la cour trouve l'excuse légitime, elle ordonne qu'il soit sursis au jugement de l'accusé et, s'il y a lieu, au séquestre de ses biens pendant un temps qui est fixé eu égard à la nature de l'excuse et à la distance des lieux.
 
 
+### Article 632
+
+Hors ce cas, il est procédé à la lecture de l'arrêt de renvoi à la cour d'assises, de l'exploit de signification de l'ordonnance ayant pour objet la représentation du contumax et des procès-verbaux dressés pour en constater la publication et l'affichage.
+
+Après cette lecture, la cour, sur les réquisitions du procureur général, prononce sur la contumace.
+
+Si l'une des formalités prescrites par les articles 627 et 628 a été omise, la cour déclare nulle la procédure de contumace et ordonne qu'elle sera recommencée à partir du plus ancien acte illégal.
+
+Dans le cas contraire, la cour prononce sans l'assistance de jurés sur l'accusation, sans pouvoir, en cas de condamnation, accorder le bénéfice des circonstances atténuantes au contumax. La cour statue ensuite sur les intérêts civils.
+
+
 ### Article 633
 
 Si le contumax est condamné, ses biens, s'ils n'ont pas fait l'objet d'une confiscation, sont maintenus sous séquestre et le compte de séquestre est rendu à qui il appartiendra après que la condamnation est devenue irrévocable par l'expiration du délai donné pour purger la contumace.
@@ -2872,7 +3169,43 @@ La déposition écrite d'un représentant d'une puissance étrangère est demand
 Il est alors procédé dans les formes prévues aux articles 654, alinéa 2, et 655.
 
 
+### Titre V : Des règlements de juges
+
+### Article 659
+
+Tous autres conflits de compétence sont portés devant la chambre criminelle de la Cour de cassation, laquelle est saisie par requête du ministère public, de l'inculpé ou de la partie civile. La Cour de cassation peut aussi, à l'occasion d'un pourvoi dont elle est saisie, régler de juges d'office et même par avance. Elle peut statuer sur tous actes faits par la juridiction qu'elle dessaisit.
+
+
+### Article 660
+
+La chambre criminelle peut, avant de régler de juges, ordonner la communication de la requête aux parties. Dans ce cas, les pièces de la procédure lui sont transmises, dans le délai par elle fixé, avec les observations des intéressés, et le cours de la procédure est suspendu.
+
+
+### Article 661
+
+L'arrêt portant règlement de juges est signifié aux parties intéressées. Celles-ci peuvent, hors le cas où la communication de la requête a été ordonnée, former opposition à cet arrêt, par acte reçu au greffe du lieu où siège l'une des juridictions en conflit, dans les formes et délais du pourvoi en cassation.
+
+L'opposition emporte effet suspensif si la chambre criminelle en décide ainsi.
+
+L'opposition est jugée dans les quinze jours de l'arrivée des pièces au greffe de la Cour de cassation. Si l'opposition est rejetée, la chambre criminelle peut condamner le demandeur à une amende civile de 100 F.
+
+
 ### Titre VI : Des renvois d'un tribunal à un autre
+
+### Article 662
+
+En matière criminelle, correctionnelle ou de police, la chambre criminelle de la Cour de cassation peut dessaisir toute juridiction d'instruction ou de jugement et renvoyer la connaissance de l'affaire à une autre juridiction du même ordre, soit si la juridiction normalement compétente ne peut être légalement composée, ou si le cours de la justice se trouve autrement interrompu, soit pour cause de suspicion légitime.
+
+La requête aux fins de renvoi peut être présentée soit par le procureur général près la Cour de cassation, soit par le ministère public établi près la juridiction saisie, soit par l'inculpé, soit par la partie civile.
+
+La requête doit être signifiée à toutes les parties intéressées qui ont un délai de dix jours pour déposer un mémoire au greffe de la Cour de cassation.
+
+La présentation de la requête n'a point d'effet suspensif à moins qu'il n'en soit autrement ordonné par la Cour de cassation.
+
+Le procureur général près la Cour de cassation peut aussi et dans les mêmes formes demander à la chambre criminelle le renvoi d'une affaire d'une juridiction à une autre dans l'intérêt d'une bonne administration de la justice.
+
+En cas de rejet d'une demande de renvoi pour cause de suspicion légitime, la chambre crinimelle peut ordonner le renvoi dans le même intérêt d'une bonne administration de la justice.
+
 
 ### Article 665
 
@@ -3163,6 +3496,11 @@ Le condamné qui a subi une contrainte judiciaire n'est pas libéré du montant 
 
 
 ### Titre VI : De la contrainte par corps
+
+### Article 755
+
+Les règles sur l'exécution des mandats de justice fixées par les articles 124, 132 hormis la référence à l'article 133, et 134, alinéas 1er et 2, sont applicables à la contrainte par corps.
+
 
 ### Article 757
 
