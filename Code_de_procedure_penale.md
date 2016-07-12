@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 20 janvier 1967
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19670120)
+- Date de consolidation : 13 juillet 1967
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19670713)
 
 
 # Partie législative
@@ -996,6 +996,15 @@ Le jury est composé de citoyens désignés conformément aux dispositions des a
 #### Article 240
 
 La cour d'assises comprend : la cour proprement dite et le jury.
+
+
+#### Article 242
+
+La cour d'assises est, à l'audience, assistée d'un greffier.
+
+A Paris et dans les départements où siège une cour d'appel, les fonctions du greffe sont exercées par le greffier en chef ou un greffier de la cour d'appel.
+
+Dans les autres départements, elles le sont par le greffier en chef ou un greffier du tribunal de grande instance.
 
 
 #### Chapitre IV : De la procédure préparatoire aux sessions d'assises
