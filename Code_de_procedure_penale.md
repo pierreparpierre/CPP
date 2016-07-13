@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 9 juin 1968
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19680609)
+- Date de consolidation : 14 juillet 1968
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19680714)
 
 
 # Partie législative
@@ -4968,6 +4968,39 @@ Ce dossier est obligatoirement communiqué à la chambre de l'instruction lorsqu
 ## Livre II
 
 ## Livre III
+
+## Livre IV : De quelques procédures particulières
+
+### Titre Ier
+
+### Titre II : Du faux
+
+### Article D47-1
+
+Le demandeur en inscription de faux contre une pièce produite devant la Cour de cassation, dont le premier président rejette la demande, est condamné, sauf s'il en est expressément dispensé, au paiement d'une amende civile de 200 F au moins et de 1.000 F. au plus.
+
+
+### Titre III
+
+### Titre IV
+
+### Titre V
+
+### Titre VI
+
+### Titre VII
+
+### Titre VIII
+
+### Titre IX
+
+### Titre X
+
+### Titre XI
+
+### Titre XII
+
+### Titre XV
 
 ## Livre V : Des procédures d'exécution
 
