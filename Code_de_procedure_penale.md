@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 16 mai 1964
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19640516)
+- Date de consolidation : 23 juillet 1964
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19640723)
 
 
 # Partie législative
@@ -4913,6 +4913,11 @@ Dans les maisons d'arrêt cellulaires, ou dans les quartiers cellulaires de ces 
 Le chef de l'établissement peut cependant décider, sur l'avis motivé du médecin, de suspendre l'emprisonnement individuel d'un détenu, notamment si l'intéressé manifeste des intentions de suicide, à charge d'en rendre compte au directeur régional et, selon qu'il s'agit d'un prévenu ou d'un condamné, au magistrat saisi du dossier de l'information ou au juge de l'application des peines.
 
 
+####### Article D86
+
+Des coïnculpés ne doivent pas être réunis dans une même cellule, alors même que le magistrat saisi du dossier de l'information n'aurait pas ordonné leur séparation.
+
+
 ####### B : Etablissements en commun
 
 ####### Article D88
@@ -5134,6 +5139,13 @@ Son administration centrale est constituée par la direction de l'administration
 ##### Section 2 : Du personnel de l'administration pénitentiaire
 
 ###### Paragraphe 2 : Dispositions générales
+
+###### Article D216
+
+Le personnel des services extérieurs de l'administration pénitentiaire est tenu de parfaire ses connaissances professionnelles dans les conditions qui sont fixées par l'administration centrale.
+
+Il a obligation de participer aux cours et stages de formation ou de perfectionnement assurés à l'école de formation du personnel de l'administration pénitentiaire ou organisés par le centre national d'études et de recherches pénitentiaires ou par tout autre organisme.
+
 
 ###### Article D218
 
@@ -5732,6 +5744,11 @@ Les prix pratiqués à la cantine doivent être portés à la connaissance des d
 Ces prix sont fixés périodiquement par le chef de l'établissement, s'il s'agit d'un membre du personnel de direction ou, sinon, par le directeur régional des services pénitentiaires. Sauf en ce qui concerne le pain et le tabac, ils doivent tenir compte des frais exposés par l'administration pour la manutention et la préparation.
 
 
+##### Article D345
+
+Les vivres vendus en cantine comprennent seulement les denrées d'usage courant qui peuvent être consommées sans faire l'objet d'aucune préparation, à moins que le règlement intérieur de l'établissement ait prévu l'installation de cuisine spéciale.
+
+
 ##### Article D346
 
 Quelle que soit leur situation pénale, les détenus peuvent, à moins d'en être privés par mesure disciplinaire ou par prescription médicale, acheter chaque jour en cantine cinquante centilitres de cidre ou de bière de faible degré.
@@ -5972,6 +5989,17 @@ Il en est rendu compte aux autorités à prévenir en cas d'incident dans les co
 
 
 ###### Paragraphe 4 : Soins divers
+
+###### Article D392
+
+Dans chaque établissement un chirurgien-dentiste est habilité par le ministre de la justice, sur proposition du directeur régional et après avis du préfet, à donner ses soins aux détenus.
+
+Il est tenu de faire au moins deux visites par mois à la prison et de s'y rendre sur appel du chef de l'établissement en cas d'urgence.
+
+Il doit pratiquer l'examen dentaire systématique des détenus dans les conditions déterminées par une instruction de service.
+
+Le règlement des frais et honoraires pour les soins et prothèses dentaires qui ne seraient pas indispensables au maintien ou au rétablissement de la santé incombe aux détenus bénéficiaires dans les conditions déterminées par ladite instruction de service.
+
 
 ###### Article D393
 
