@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 24 février 1965
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19650224)
+- Date de consolidation : 7 septembre 1966
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19660907)
 
 
 # Partie législative
@@ -6803,6 +6803,23 @@ Elles sont adressées à la direction de la gendarmerie et de la justice militai
 
 
 ## Livre V : Des procédures d'exécution
+
+### Titre II : De la détention
+
+#### Chapitre IV : De l'administration des établissements pénitentiaires
+
+##### Section 1 : Du rôle et de l'organisation générale de l'administration pénitentiaire
+
+##### Article A40
+
+[Article abrogé].
+
+
+##### Section 2
+
+##### Section 3
+
+##### Section 4
 
 ### Titre IV : Du sursis
 
