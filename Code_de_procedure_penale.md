@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 13 avril 1961
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19610413)
+- Date de consolidation : 7 octobre 1962
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19621007)
 
 
 # Partie législative
@@ -5353,6 +5353,11 @@ La pièce d'identité produite par les personnes qui n'ont pas autorité dans la
 Un registre est tenu, dans chaque établissement pénitentiaire, sur lequel doivent être obligatoirement inscrits les nom et qualité de toute personne entrant ou sortant ainsi que l'heure et le motif de son entrée ou de sa sortie.
 
 Seuls n'ont pas à figurer sur ce registre les noms des fonctionnaires logés à l'établissement ou des membres de leur famille vivant avec eux.
+
+
+###### Article D279-1
+
+A titre exceptionnel, et seulement pour d'impérieuses raisons de sécurité, le ministre de la justice peut suspendre pendant une période de temps limitée toute visite à l'intérieur d'une prison.
 
 
 ###### Paragraphe 3 : Incidents
