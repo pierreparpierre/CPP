@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 13 juillet 1967
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19670713)
+- Date de consolidation : 17 octobre 1967
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19671017)
 
 
 # Partie législative
@@ -4224,29 +4224,7 @@ Dans tous les cas où il y a envoi des pièces d'une procédure, le greffier est
 Ne doivent pas être insérés dans la rédaction des arrêts et jugements les réquisitoires ou plaidoyers prononcés soit par le ministère public, soit par les défenseurs des prévenus ou accusés, mais seulement leurs conclusions.
 
 
-####### a) Droits d'expédition et de copie.
-
-####### Article R161
-
-[Article abrogé].
-
-
-####### Article R162
-
-[Article abrogé].
-
-
-####### Article R163
-
-[Article abrogé].
-
-
 ###### C : Droits forfaitaires
-
-###### Article R167
-
-[Article abrogé].
-
 
 ###### Article R168
 
@@ -4265,27 +4243,12 @@ Ne doivent pas être insérés dans la rédaction des arrêts et jugements les r
 [article abrogé].
 
 
-###### Article R171
-
-[Article abrogé].
-
-
-###### Article R172
-
-[Article abrogé].
-
-
-###### Article R173
-
-[Article abrogé].
-
-
-###### Article R174
-
-[Article abrogé].
-
-
 ###### E : Indemnités
+
+###### Article R176
+
+Au cas d'exécution d'un arrêt portant condamnation à mort, le secrétaire greffier en chef de la cour, du tribunal de grande instance ou du tribunal d'instance du lieu de l'exécution est tenu d'y assister, d'en dresser procès-verbal qu'il transcrit au bas de l'arrêt et de faire parvenir à l'officier de l'état civil les renseignements prescrits par le code civil.
+
 
 ###### Article R178
 
@@ -4540,25 +4503,9 @@ Les frais de justice criminelle, correctionnelle et de police, sont payés sur l
 
 ##### Section 5 : Des frais de copie
 
-###### B : Expéditions
-
-####### a) Droits d'expédition et de copie.
-
-####### Article R164
-
-[*Article abrogé*].
-
-
 ###### D : Droits fixes.
 
 ###### Article R175
-
-[Article abrogé].
-
-
-###### E : Indemnités.
-
-###### Article R177
 
 [Article abrogé].
 
