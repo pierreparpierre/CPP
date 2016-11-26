@@ -1,7 +1,7 @@
 Code de procédure pénale
 
-- Date de consolidation : 7 octobre 1960
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19601007)
+- Date de consolidation : 27 novembre 1960
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071154&dateTexte=19601127)
 
 
 # Partie législative
@@ -335,6 +335,15 @@ Sous réserve de ce qui est dit à l'article précédent concernant le respect d
 En cas d'impossibilité, l'officier de police judiciaire aura l'obligation de l'inviter à désigner un représentant de son choix ; à défaut, l'officier de police judiciaire choisira deux témoins requis à cet effet par lui, en dehors des personnes relevant de son autorité administrative.
 
 Le procès-verbal de ces opérations, dressé ainsi qu'il est dit à l'article 66, est signé par les personnes visées au présent article ; au cas de refus, il en est fait mention au procès-verbal.
+
+
+#### Article 59
+
+Sauf réclamations faites de l'intérieur de la maison ou exceptions prévues par la loi, les perquisitions et les visites domiciliaires ne peuvent être commencées avant 6 heures et après 21 heures.
+
+Toutefois des visites, perquisitions et saisies pourront être opérées à toute heure du jour et de la nuit en vue d'y constater toutes infractions aux articles 334, 334-1, 335 du code pénal à l'intérieur de tout hôtel, maison meublée, pension, débit de boissons, club, cercle, dancing, lieu de spectacle et leurs annexes et en tout autre lieu ouvert au public ou utilisé par le public, lorsqu'il sera constaté que des personnes se livrant à la prostitution y sont reçues habituellement.
+
+Les formalités mentionnées aux articles 56, 57 et au présent article sont prescrites à peine de nullité.
 
 
 #### Article 62
